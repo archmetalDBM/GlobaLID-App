@@ -1,0 +1,48 @@
+* good tooltips in map and plots (no "unknown" for add. information, no superfluous comma)
+
+* replace write_csv-function with readr equivalent!!!!! (otherwise R does not get the encoding right)
+
+* update Acknowledgements with important packages and services (nominatim!) for database compilation
+
+* ris-Datei mit Zitation der Datenbank etc. 
+
+* icon to reset zoom (if leaflet is updated...)
+
+# Datenschutz und rechtliches ---------------------------------------------------------
+Impressum
+* von DBM-Seite als Vorlage, an Frau Büsch wegs Vervollständigung/Abklärung. 
+
+Datenschutzerklärung
+* aus Javascript einbinden
+
+Cookies & Anforderungen an Datensammlung für Nutzungsstatistiken
+* nachfragen, was genau Leibniz will
+
+GoogleCaptcha
+* zwei Klick-Lösung möglich
+< schutz deswegen reCaptcha >
+Laden des Captcha erst nach Einwilligung, prinzipiell aber alles in einem möglich
+Alternativen außer Google? Honeypots? anderer Anbieter? 
+
+Überlassungserklärung für unpublizierte Daten
+* andere Stelle, personenbezogene Daten müssen in Datenschutzerklärung genannt werden
+
+Mail
+* am besten Funktionspostfach, Senden an localhost als Mailserver
+
+GitHub-Account (?)
+* prinzipiell kein Problem
+
+Fotos brauchen Einwilligung für Einbindung auf Webseite
+
+# ------------------------------------------------------------------------------------
+
+General: 
+(* check if packages are installed and install them - only if not via server, update script)
+
+after publication/during post-doc: 
+* bibtex download, handling of references 
+* Pick reference data from map (crosstalk package)
+* implement contribution validation (password, sending) with shinyvalidate
+* updateInput instead of renderUI
+* convert data frames to list whereever possible

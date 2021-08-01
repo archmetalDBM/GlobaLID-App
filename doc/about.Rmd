@@ -1,0 +1,129 @@
+---
+title: "About"
+author: "Thomas Rose"
+date: "28 2 2021"
+output:  md_document
+always_allow_html: true
+
+---
+
+```{r setup, include=FALSE, warning=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(kableExtra)
+library(icons)
+
+add_Link <- function(link, icon, font) {
+  paste0("<a href=\"", link, "\">", as.character(if (font == "ai") {academicons(icon)} else {fontawesome(icon)}), "</a>")
+}
+
+```
+
+## What is GlobaLID? 
+GlobaLID is a Global Lead Isotope Database and aims to facilitate the reconstruction of raw material provenances with lead isotopes, especially in archaeology. The app provides direct access to and convenient interaction with the [GlobaLID database](https://doi.org/will_be_provided). You can filter the database according to your research question, upload own data to compare it with GlobaLID, and produce and download publication ready plots. The "References" page lists all references from which data are currently included in GlobaLID. There are still data missing? Consider to become a contributor and help to let GlobaLID grow! 
+
+## Core Team
+
+```{r echo=FALSE, results='asis'}
+
+data.frame(
+  Portrait = paste0("![](../www/SKlein.png){height=96px}"), 
+  Text = paste("<b>Sabine Klein</b> (Coordinator)", 
+               "Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany <br> FIERCE, Frankfurt Isotope & Element Research Centre, Goethe Universität, Frankfurt am Main, Germany", 
+               paste(
+                 add_Link("mailto:Sabine.Klein@bergbaumuseum.de?subject=GlobaLID", "envelope", "fa"),
+                 add_Link("https://orcid.org/0000-0002-3939-4428", "orcid", "ai"),
+                 add_Link("https://www.researchgate.net/profile/Sabine-Klein-3", "researchgate", "ai"),
+                 sep = " "),
+               sep = "<br>")
+) %>%
+kable(escape = FALSE, col.names = NULL) %>% 
+  column_spec(1, width_min = "110px") %>%
+  column_spec(2, color = "black")
+cat("<br>")
+
+data.frame(
+  Portrait = paste0("![](../www/TRose.png){height=96px}"), 
+  Text = paste("<b>Thomas Rose</b> (Programming)", 
+               "Department of Archaeology, Ben-Gurion University of the Negev, Be’er Sheva, Israel <br> Department of Antiquity, Sapienza University of Rome, Rome, Italy", 
+               paste(
+                 add_Link("mailto:thomas.rose@daad-alumni.de?subject=GlobaLID", "envelope", "fa"),
+                 add_Link("https://orcid.org/0000-0002-8186-3566", "orcid", "ai"),
+                 add_Link("https://bgu.academia.edu/ThomasRose", "academia", "ai"),
+                 add_Link("https://www.researchgate.net/profile/Thomas-Rose-2", "researchgate", "ai"),
+                 add_Link("https://www.linkedin.com/in/thomas-rose-4200ba175", "linkedin", "fa"),
+                 add_Link("https://github.com/archaeothommy/", "github", "fa"),
+                 add_Link("https://gitlab.com/roset", "gitlab", "fa"),
+                 sep = " "), 
+               sep = "<br>")
+) %>%
+kable(escape = FALSE, col.names = NULL) %>% 
+  column_spec(1, width_min = "110px") %>%
+  column_spec(2, color = "black")
+cat("<br>")
+
+data.frame(
+  Portrait = paste0("![](../www/KWestner.png){height=96px}"), 
+  Text = paste("<b>Katrin J. Westner</b> (Database)", 
+               "Ecole Normale Supérieure de Lyon, CNRS, Université de Lyon, Lyon, France", 
+               paste(
+                 add_Link("mailto:katrin.westner@ens-lyon.fr?subject=GlobaLID", "envelope", "fa"),
+                 add_Link("https://orcid.org/0000-0001-5529-1165", "orcid", "ai"),
+                 add_Link("https://bibliotheque-diderot.academia.edu/KatrinWestner", "academia", "ai"),
+                 add_Link("https://www.researchgate.net/profile/Katrin-Westner", "researchgate", "ai"),
+                 sep = " "), 
+               sep = "<br>")
+) %>% 
+  kable(escape = FALSE, col.names = NULL) %>% 
+  column_spec(1, width_min = "110px") %>%
+  column_spec(2, color = "black")
+cat("<br>")
+
+data.frame(
+  Portrait = paste0("![](../www/logo.svg){height=96px}"), 
+  Text = paste("<b>Yiu-Kang Hsu</b> (East Asia)", 
+               "Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany", 
+               paste(
+                 add_Link("mailto:Yiu-Kang.Hsu@bergbaumuseum.de?subject=GlobaLID", "envelope", "fa"),
+                 sep = " "), 
+               sep = "<br>")
+) %>%
+kable(escape = FALSE, col.names = NULL) %>% 
+  column_spec(1, width_min = "110px") %>%
+  column_spec(2, color = "black")
+cat("<br>")
+
+```
+
+## Contributors
+
+You want to contribute to GlobaLID? Please get in touch with a member of the Core Team, we are looking forward to your message! 
+
+* N. N.
+
+## Acknowledgements
+
+The initial GlobaLID database was compiled during years of own research and profited from the generous sharing of published lead isotope datasets by many colleagues. The creative and collective work of compiling the database and application was initiated when all members of the Core Team and E. Salzmann were members of the Archaeometallurgy group at the German Mining Museum (DBM). Hannah Zietsch (DBM) compiled the initial literature references. Annette Hornschuch (DBM) and Helge Wiethoff (DMT-LB) provided support during the preparation and deployment of the app. 
+
+The Core Team feels deeply grateful for the support of the contributors. Without their efforts, GlobaLID would grow much slower and less accurate. 
+
+We are indebted to the R Core Team for providing and maintaining [R](https://cran.r-project.org/) and all the authors of the fantastic packages we used, especially Hadley Wickham and the RStudio team. Please check out their work : 
+
+* [bs4Dash](https://rinterface.github.io/bs4Dash/)
+* [dplyr](https://dplyr.tidyverse.org/)
+* [DT](https://rstudio.github.io/DT/)
+* [ggplot2](https://ggplot2.tidyverse.org/)
+* [kableExtra](https://haozhu233.github.io/kableExtra/)
+* [knitr](https://yihui.org/knitr/)
+* [ks](https://cran.r-project.org/web/packages/ks/)
+* [leaflet](https://rstudio.github.io/leaflet/)
+* [lemon](https://github.com/stefanedwards/lemon)
+* [plotly](https://plotly-r.com/)
+* [rmarkdown](https://rmarkdown.rstudio.com/)
+* [shiny](https://shiny.rstudio.com/)
+* [shinyvalidate](https://rstudio.github.io/shinyvalidate/)
+* [stringr](https://stringr.tidyverse.org/)
+* [tidyr](https://tidyr.tidyverse.org/)
+* [waiter](https://shiny.john-coene.com/waiter/)
+
+Last but definitely not least, the knowledge provided by the community on [Stackoverflow](https://stackoverflow.com/) and many other pages was a constant source of inspiration and an enormous help during the development of the app. 

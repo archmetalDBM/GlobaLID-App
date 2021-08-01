@@ -1,0 +1,66 @@
+---
+title: "GlobaLID"
+author: "Filter settings and References"
+date: "Database status: `r format(update_database,'%Y-%m-%d')`"
+output: 
+  word_document:
+    reference_docx: template_references.docx
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+```
+
+# Filter settings
+
+## Country:
+```{r echo=FALSE, warning = FALSE, results="asis"}
+cat(filter_setting$Country, sep = "  \n")
+```
+
+## Political province/region:
+```{r echo=FALSE, warning = FALSE, results="asis"}
+cat(filter_setting$Province, sep = "  \n")
+```
+
+## Mining area:
+```{r echo=FALSE, warning = FALSE, results="asis"}
+cat(filter_setting$Area, sep = "  \n")
+```
+
+## Mining site:
+```{r echo=FALSE, warning = FALSE, results="asis"}
+cat(filter_setting$Site, sep = "  \n")
+```
+
+## Geological Age:
+```{r echo=FALSE, warning = FALSE, results="asis"}
+cat(filter_setting$GeolAge, sep = "  \n")
+```
+
+## Minerals:
+```{r echo=FALSE, warning = FALSE, results="asis"}
+cat(filter_setting$Minerals, sep = "  \n")
+```
+
+## Metal/Commodity:
+```{r echo=FALSE, warning = FALSE, results="asis"}
+cat(filter_setting$Commodity, sep = "  \n")
+```
+
+## Instrument:
+```{r echo=FALSE, warning = FALSE, results="asis"}
+cat(filter_setting$Instrument, sep = "  \n")
+```
+
+## Publication year (range):
+```{r echo=FALSE, warning = FALSE, results="asis"}
+cat(filter_setting$Year, sep = "  \n")
+```
+
+# References
+```{r echo=FALSE, warning = FALSE, results="asis"}
+references <- paste("*", references, sep = " ")
+cat(references, sep = "\n")
+```

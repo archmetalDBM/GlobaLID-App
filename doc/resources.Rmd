@@ -1,0 +1,38 @@
+---
+title: "Resources"
+author: "Thomas Rose"
+date: "28 2 2021"
+output:  md_document
+always_allow_html: true
+
+---
+
+```{r setup, include=FALSE, warning=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(kableExtra)
+```
+## Resources
+
+These functions were specifically developed for GlobaLID. To use them in your own work, load them via `source()`
+
+```{r echo=FALSE, results='asis'}
+table <- data.frame(
+  name = c(paste0("<a href=\"", "../www/scripts/calculate_ratios.R", "\">", "`LI_ratios_all()`", "</a>"), 
+           paste0("<a href=\"", "../www/scripts/calculate_model_ages.R", "\">", "`LI_model_age()`", "</a>"),
+           paste0("<a href=\"", "../www/scripts/geom_kde2d.R", "\">", "`geom_kde2d()`", "</a>")
+           ), 
+  description = c("Calculates missing lead isotope ratios from existing ones.", 
+                  "Calculates parameters for different lead isotope age models. The function provides convenient access to the different age model function, that are also part of this script. Currently supported age models: Stacey & Kramers (1975), Cumming & Richards (1975), Albarède & Juteau (1984), and Albarède et al. (2012).", 
+                  "This geom provides an alternative to the `geom_density_2d()` of the package ggplot2 for plotting 2D kernel density estimates based on quantiles."), 
+  packages = c("dplyr", "rootSolve", "ggplot2, ks"), 
+  date = c("2021-06-20", "2021-07-24", "2021-06-04")
+)
+
+kable(table, escape = FALSE, col.names = c("Function", "Description", "Required packages", "Date"), table.attr='cellpadding="5"') %>%
+  row_spec(0,  extra_css = 'vertical-align: bottom !important;') %>%
+  row_spec(1:3, extra_css = 'vertical-align: top !important;') %>%
+  column_spec(4, width = "15%")
+
+```
+
