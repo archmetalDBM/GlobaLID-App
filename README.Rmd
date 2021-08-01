@@ -14,7 +14,7 @@ knitr::opts_chunk$set(
 
 ```
 
-# GlobaLID App
+# GlobaLID App <img src="www/logo.svg" align="right" width="120" />
 
 Here you can find the source code of the GlobaLID web app.
 

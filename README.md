@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# GlobaLID App
+# GlobaLID App <img src="www/logo.svg" align="right" width="120" />
 
 Here you can find the source code of the GlobaLID web app.
 
