@@ -167,6 +167,7 @@ check out their work :
 -   [lemon](https://github.com/stefanedwards/lemon)
 -   [plotly](https://plotly-r.com/)
 -   [rmarkdown](https://rmarkdown.rstudio.com/)
+-   [rootSolve](https://cran.r-project.org/web/packages/rootSolve/index.html)
 -   [shiny](https://shiny.rstudio.com/)
 -   [shinyvalidate](https://rstudio.github.io/shinyvalidate/)
 -   [stringr](https://stringr.tidyverse.org/)
