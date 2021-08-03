@@ -153,8 +153,17 @@ accurate.
 
 We are indebted to the R Core Team for providing and maintaining
 [R](https://cran.r-project.org/) and all the authors of the fantastic
-packages we used, especially Hadley Wickham and the RStudio team. Please
-check out their work :
+packages we used, especially Hadley Wickham and the RStudio team. We are
+immensely grateful to the [OpenStreetMap
+contributors](https://www.openstreetmap.org) from whose Nominatim
+database we obtain most of the the geographical meta-information. Last
+but definitely not least, the knowledge provided by the community on
+[Stackoverflow](https://stackoverflow.com/) and many other pages was a
+constant source of inspiration and an enormous help during the
+development of the app.
+
+The following packages are used in the app and/or for work on the
+database:
 
 -   [bs4Dash](https://rinterface.github.io/bs4Dash/)
 -   [dplyr](https://dplyr.tidyverse.org/)
@@ -166,15 +175,12 @@ check out their work :
 -   [leaflet](https://rstudio.github.io/leaflet/)
 -   [lemon](https://github.com/stefanedwards/lemon)
 -   [plotly](https://plotly-r.com/)
+-   [readr](https://readr.tidyverse.org/)
 -   [rmarkdown](https://rmarkdown.rstudio.com/)
 -   [rootSolve](https://cran.r-project.org/web/packages/rootSolve/index.html)
 -   [shiny](https://shiny.rstudio.com/)
 -   [shinyvalidate](https://rstudio.github.io/shinyvalidate/)
 -   [stringr](https://stringr.tidyverse.org/)
+-   [tidygeocoder](https://github.com/jessecambon/tidygeocoder)
 -   [tidyr](https://tidyr.tidyverse.org/)
 -   [waiter](https://shiny.john-coene.com/waiter/)
-
-Last but definitely not least, the knowledge provided by the community
-on [Stackoverflow](https://stackoverflow.com/) and many other pages was
-a constant source of inspiration and an enormous help during the
-development of the app.

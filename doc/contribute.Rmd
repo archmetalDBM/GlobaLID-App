@@ -29,7 +29,7 @@ To facilitate the extension of GlobaLID, please make sure to use [this template]
 4. Fill in all other fields. They will depend on the type of the contribution: 
     + "New data": 
       - Published material: Please provide a pdf of the original publication, its DOI (if available, otherwise "n/a") and its full citation. 
-      - Unpublished material: Please download [this declaration](), fill it out and upload it. Fill in "n/a" in the field of the doi and for the full citation. Without a correctly filled declaration your submission will be deleted without further consideration! 
+      - Unpublished material: We ask for compliance with the guidelines for good scientific practice. Do not upload unpublished material of others. For uploading own unpublished data, please download [this declaration](), fill it out and upload it. Fill in "n/a" in the field of the doi and for the full citation. Without a correctly filled declaration your submission will be deleted without further consideration! 
     + "Update data": 
       - No further information is necessary. 
 5. Please provide a short comment about the data, i. e. indicate what you updated, from which region the new data are etc. Please indicate here also any potential problems and ambiguities in the data. This will allow us to better organise the integration of your contribution into GlobaLID. 

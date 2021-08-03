@@ -30,9 +30,12 @@ comma-separated) and to follow these notations:
         -   Published material: Please provide a pdf of the original
             publication, its DOI (if available, otherwise “n/a”) and its
             full citation.
-        -   Unpublished material: Please download [this declaration](),
-            fill it out and upload it. Fill in “n/a” in the field of the
-            doi and for the full citation. Without a correctly filled
+        -   Unpublished material: We ask for compliance with the
+            guidelines for good scientific practice. Do not upload
+            unpublished material of others. For uploading own
+            unpublished data, please download [this declaration](), fill
+            it out and upload it. Fill in “n/a” in the field of the doi
+            and for the full citation. Without a correctly filled
             declaration your submission will be deleted without further
             consideration!
     -   “Update data”:
