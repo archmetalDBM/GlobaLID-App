@@ -1457,14 +1457,26 @@ server <- function(input, output, session) {
         quote = input$contribute_quote,
         dec = input$contribute_dec
         )
-    
+
     validate(need(ncol(contribute_upload) >= 2, "A problem occurred while parsing your file. Please chose the appropriate parameters for reading your data."))
+    validate(need(length(setdiff(names(contribute_upload), c("Country", "Mining area",	"Mining site", "Add. information on mine", "Latitude", "Longitude", "Location precision", "Tectonic/geolog. super unit", "Tectonic/geolog. unit", "Tectonic/geolog. subunit", "Deposit type", "Metal (what can be produced by smelting)", "Sample description (minerals)", "Sample number", "Geol. period", "206Pb/204Pb", "207Pb/204Pb", "208Pb/204Pb", "206Pb/207Pb", "208Pb/207Pb", "204Pb/206Pb", "207Pb/206Pb", "208Pb/206Pb", "Instrument used", "year", "doi", "Reference", "Note"))) == 0, 
+                  "One or more columns of the uploaded data are not supported by GlobaLID or filled in automatically. Please remove or rename them."))
+    validate(need(all(c("Country", "Mining area",	"Mining site", "Add. information on mine", "Latitude", "Longitude", "Location precision", "Tectonic/geolog. super unit", "Tectonic/geolog. unit", "Tectonic/geolog. subunit", "Deposit type", "Metal (what can be produced by smelting)", "Sample description (minerals)", "Sample number", "Geol. period", "Instrument used", "year", "doi", "Reference", "Note") %in% names(contribute_upload)), 
+                  "One or more columns with essential meta-information are missing. Please use the provided template and leave them empty if the information is not available."))
+    
+    validate(need(all(is.numeric(contribute_upload$Latitude), is.numeric(contribute_upload$Longitude)), "Columns for coordinates must contain only numeric values."))
+    validate(need({min(contribute_upload$Latitude, na.rm = TRUE) >= -90 & max(contribute_upload$Latitude, na.rm = TRUE) <= 90}, "One or more of the latitude coordinates is out of bounds."))
+    validate(need({min(contribute_upload$Longitude, na.rm = TRUE) >= -180 & max(contribute_upload$Longitude, na.rm = TRUE) <= 180}, "One or more of the longitude coordinates is out of bounds."))
+    validate(need(all(contribute_upload[,grepl("20", colnames(contribute_upload))]), "Columns for isotope ratios must contain only numeric values."))
+    validate(need(is.numeric(contribute_upload$year), "'year' must contain only numeric values."))
+    
+    contribute_upload
     
   })
   
   output$contribute_data_preview <- DT::renderDataTable({
     
-    req(contribute_iv$is_valid())
+   req(contribute_iv$is_valid())
     
     DT::datatable(contribute_data(), rownames = FALSE, class = "compact", options = list(scrollX = TRUE))
     
