@@ -23,15 +23,9 @@ source("update.R")
 credentials <- readRDS("data/credentials.rds")
 
 # load datasets
-data_complete <- readRDS("data/database_complete.rds") %>%
-  unite(tooltip, `Sample number`, Country, `Political province/region`, `Mining area`, `Mining site`, sep = "<br>", remove = FALSE, na.rm = TRUE) %>%
-  mutate(tooltip = paste0("Sample ID: ", tooltip)) %>%
-  mutate(across(.cols = c(where(is.character) & !c("doi", "Location precision")), replace_na, "unknown"))
+data_complete <- readRDS("data/database_complete.rds") 
 
-data_clean <- readRDS("data/database_clean.rds") %>%
-  unite(tooltip, `Sample number`, Country, `Political province/region`, `Mining area`, `Mining site`, sep = "<br>", remove = FALSE, na.rm = TRUE) %>%
-  mutate(tooltip = paste0("Sample ID: ", tooltip)) %>%
-  mutate(across(.cols = c(where(is.character) & !c("doi", "Location precision")), replace_na, "unknown"))
+data_clean <- readRDS("data/database_clean.rds") 
 
 commodities <- data_complete %>%
   select(`Metal (what can be produced by smelting)`) %>%
@@ -1062,10 +1056,7 @@ server <- function(input, output, session) {
       leafletProxy("map_box") %>%
         addCircleMarkers(data = database(), color = ~pal(eval(as.symbol(input$group))), stroke = FALSE, fillOpacity = 0.5,
                          clusterOptions = markerClusterOptions(), group = "Database",
-                         label = ~paste(sep = ", ",
-                                        database()$`Mining area`,
-                                        database()$`Mining site`,
-                                        database()$`Add. information on mine`)) 
+                         label = ~tidyr::unite(database(), label, `Mining area`, `Mining site`, `Add. information on mine`, sep = ", ", remove = FALSE, na.rm = TRUE)$label) 
     }
     
     if (!is.null(custom_data())) {
