@@ -204,7 +204,7 @@ ui <- dashboardPage(
         icon = icon("file-upload")
       ),
       menuItem(
-        "Imprint & Privacy",
+        "Legal Notice & Privacy",
         tabName = "imprint",
         icon = icon("balance-scale")
       )
