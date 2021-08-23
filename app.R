@@ -28,10 +28,10 @@ data_complete <- readRDS("data/database_complete.rds")
 data_clean <- readRDS("data/database_clean.rds") 
 
 commodities <- data_complete %>%
-  select(`Metal (what can be produced by smelting)`) %>%
+  select(`Metals`) %>%
   drop_na() %>%
-  mutate(sep_num = str_count(`Metal (what can be produced by smelting)`, ";")) %>%
-  separate(`Metal (what can be produced by smelting)`, into = paste0("Metal", seq(1:1+max(.$sep_num))), sep = "; ", fill = "right") %>%
+  mutate(sep_num = str_count(`Metals`, ";")) %>%
+  separate(`Metals`, into = paste0("Metal", seq(1:1+max(.$sep_num))), sep = "; ", fill = "right") %>%
   pivot_longer(contains("Metal")) %>%
   select(value) %>%
   drop_na() %>%
@@ -39,10 +39,10 @@ commodities <- data_complete %>%
   pull()
 
 minerals <- data_complete %>%
-  select(`Sample description (minerals)`) %>%
+  select(`Minerals`) %>%
   drop_na() %>%
-  mutate(sep_num = str_count(`Sample description (minerals)`, ";")) %>%
-  separate(`Sample description (minerals)`, into = paste0("Mineral", seq(1:1+max(.$sep_num))), sep = "; ", fill = "right") %>%
+  mutate(sep_num = str_count(`Minerals`, ";")) %>%
+  separate(`Minerals`, into = paste0("Mineral", seq(1:1+max(.$sep_num))), sep = "; ", fill = "right") %>%
   pivot_longer(contains("Mineral")) %>%
   select(value) %>%
   drop_na() %>%
@@ -720,8 +720,8 @@ server <- function(input, output, session) {
         }
       }) %>%
       filter(if(!is.null(input$filter_site)) `Mining site` %in% input$filter_site else TRUE) %>%
-      filter(if(!is.null(input$filter_commodity)) str_detect(`Metal (what can be produced by smelting)`, str_c(input$filter_commodity, collapse = "|")) else TRUE) %>%
-      filter(if(!is.null(input$filter_mineral)) str_detect(`Sample description (minerals)`, str_c(input$filter_mineral, collapse = "|"))  else TRUE) %>%
+      filter(if(!is.null(input$filter_commodity)) str_detect(`Metals`, str_c(input$filter_commodity, collapse = "|")) else TRUE) %>%
+      filter(if(!is.null(input$filter_mineral)) str_detect(`Minerals`, str_c(input$filter_mineral, collapse = "|"))  else TRUE) %>%
       filter(if(!is.null(input$filter_geolAge)) `Geol. period` %in% input$filter_geolAge else TRUE) %>%
       filter(if(!is.null(input$filter_instrument)) `Instrument used` %in% input$filter_instrument else TRUE) %>%
       filter(if(!is.null(input$filter_year)) between(year, input$filter_year[1], input$filter_year[2]) else TRUE) %>%
@@ -920,10 +920,10 @@ server <- function(input, output, session) {
                                             }
                                           }) %>%
                                           filter(if(!is.null(input$filter_site)) `Mining site` %in% input$filter_site else TRUE) %>%
-                                          select(`Metal (what can be produced by smelting)`) %>%
+                                          select(`Metals`) %>%
                                           drop_na() %>%
-                                          mutate(sep_num = str_count(`Metal (what can be produced by smelting)`, ";")) %>%
-                                          separate(`Metal (what can be produced by smelting)`, into = paste0("Metal", seq(1:1+max(.$sep_num))), sep = "; ", fill = "right") %>%
+                                          mutate(sep_num = str_count(`Metals`, ";")) %>%
+                                          separate(`Metals`, into = paste0("Metal", seq(1:1+max(.$sep_num))), sep = "; ", fill = "right") %>%
                                           pivot_longer(contains("Metal")) %>%
                                           select(value) %>%
                                           drop_na() %>%
@@ -950,10 +950,10 @@ server <- function(input, output, session) {
                                         }
                                       }) %>%
                                       filter(if(!is.null(input$filter_site)) `Mining site` %in% input$filter_site else TRUE) %>%
-                                      select(`Sample description (minerals)`) %>%
+                                      select(`Minerals`) %>%
                                       drop_na() %>%
-                                      mutate(sep_num = str_count(`Sample description (minerals)`, ";")) %>%
-                                      separate(`Sample description (minerals)`, into = paste0("Mineral", seq(1:1+max(.$sep_num))), sep = "; ", fill = "right") %>%
+                                      mutate(sep_num = str_count(`Minerals`, ";")) %>%
+                                      separate(`Minerals`, into = paste0("Mineral", seq(1:1+max(.$sep_num))), sep = "; ", fill = "right") %>%
                                       pivot_longer(contains("Mineral")) %>%
                                       select(value) %>%
                                       drop_na() %>%
@@ -1450,9 +1450,9 @@ server <- function(input, output, session) {
         )
 
     validate(need(ncol(contribute_upload) >= 2, "A problem occurred while parsing your file. Please chose the appropriate parameters for reading your data."))
-    validate(need(length(setdiff(names(contribute_upload), c("Country", "Mining area",	"Mining site", "Add. information on mine", "Latitude", "Longitude", "Location precision", "Tectonic/geolog. super unit", "Tectonic/geolog. unit", "Tectonic/geolog. subunit", "Deposit type", "Metal (what can be produced by smelting)", "Sample description (minerals)", "Sample number", "Geol. period", "206Pb/204Pb", "207Pb/204Pb", "208Pb/204Pb", "206Pb/207Pb", "208Pb/207Pb", "204Pb/206Pb", "207Pb/206Pb", "208Pb/206Pb", "Instrument used", "year", "doi", "Reference", "Note"))) == 0, 
+    validate(need(length(setdiff(names(contribute_upload), c("Country", "Mining area",	"Mining site", "Add. information on mine", "Latitude", "Longitude", "Location precision", "Tectonic/geolog. super unit", "Tectonic/geolog. unit", "Tectonic/geolog. subunit", "Deposit type", "Metals", "Minerals", "Sample number", "Geol. period", "206Pb/204Pb", "207Pb/204Pb", "208Pb/204Pb", "206Pb/207Pb", "208Pb/207Pb", "204Pb/206Pb", "207Pb/206Pb", "208Pb/206Pb", "Instrument used", "year", "doi", "Reference", "Note"))) == 0, 
                   "One or more columns of the uploaded data are not supported by GlobaLID or filled in automatically. Please remove or rename them."))
-    validate(need(all(c("Country", "Mining area",	"Mining site", "Add. information on mine", "Latitude", "Longitude", "Location precision", "Tectonic/geolog. super unit", "Tectonic/geolog. unit", "Tectonic/geolog. subunit", "Deposit type", "Metal (what can be produced by smelting)", "Sample description (minerals)", "Sample number", "Geol. period", "Instrument used", "year", "doi", "Reference", "Note") %in% names(contribute_upload)), 
+    validate(need(all(c("Country", "Mining area",	"Mining site", "Add. information on mine", "Latitude", "Longitude", "Location precision", "Tectonic/geolog. super unit", "Tectonic/geolog. unit", "Tectonic/geolog. subunit", "Deposit type", "Metals", "Minerals", "Sample number", "Geol. period", "Instrument used", "year", "doi", "Reference", "Note") %in% names(contribute_upload)), 
                   "One or more columns with essential meta-information are missing. Please use the provided template and leave them empty if the information is not available."))
     
     validate(need(all(is.numeric(contribute_upload$Latitude), is.numeric(contribute_upload$Longitude)), "Columns for coordinates must contain only numeric values."))

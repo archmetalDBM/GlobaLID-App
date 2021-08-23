@@ -19,13 +19,13 @@ library(magrittr)
 References <- readRDS("../data/database_complete.rds") %>%
   select(Reference, doi) %>%
   mutate(doi = if_else(str_detect(doi, "https"), doi, paste0("https://doi.org/", doi))) %>%
-  mutate(sep_num = str_count(Reference, ";")) #%>%
+  mutate(sep_num = str_count(Reference, ";")) %>%
   separate(Reference, into = paste0("Citation", seq(1:1+max(.$sep_num))), sep = "; ", fill = "right") %>%
   unite("Citation1", Citation1, doi, sep = " ", na.rm = TRUE) %>%
   pivot_longer(contains("Citation"), values_drop_na = TRUE) %>%
   select(value) %>%
   distinct() %>%
-  mutate(value = paste("*", value, sep = " ")) %>%
+  mutate(value = paste("*", value, "\n", sep = " ")) %>%
   arrange(value) %>%
   pull()
 
