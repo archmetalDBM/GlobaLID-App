@@ -1208,7 +1208,7 @@ server <- function(input, output, session) {
     
     filename = "GlobaLID_download.zip",
     
-    content = function(fname) {
+    content = function(file) {
       
       req(download_iv$is_valid(), database_iv$is_valid())
       
@@ -1379,7 +1379,7 @@ server <- function(input, output, session) {
       
       fs <- c(filename_references, filename_plot1, filename_plot2, filename_combineh, filename_combinev, filename_database, filename_upload)
       
-      zip(zipfile=fname, files=fs, root = tmpdir)
+      zip(zipfile=file, files=fs)
     },
     
     contentType = "application/zip"

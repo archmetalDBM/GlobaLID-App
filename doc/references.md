@@ -140,6 +140,11 @@
     and isotopic (S, Pb) study, Journal of Asian Earth Sciences, 37(2),
     186–94. <https://doi.org/10.1016/j.jseaes.2009.08.007>
 
+-   Gale, N. H., & Stos-Gale, Z. A. (1985). Cyprus and the Bronze Age
+    Metals Trade. In T. Papadopoullos & S. A. Chatzestylles (Eds.),
+    Proceedings of the Second International Congress of Cypriot Studies,
+    Nicosia 1982 (pp. 51–66). Society of Cypriot Studies.
+
 -   Gale, N. H., 1978, Lead Isotopes and Aegean Metallurgy, In Thera and
     the Aegean world I. Papers presented at the Second International
     Scientific Congress, Santorini, Greece, August, 1978 (ed. C.
@@ -314,6 +319,10 @@
     Andrews, and M. Balmuth), Vol. 3, 317–45, Monographs in
     Mediterranean archaeology, Sheffield Academic Press, Sheffield.
 
+-   Stos-Gale, Z. A., Gale, N. H., & Zwicker, U. (1986). The copper
+    trade in the south east Mediterranean region: Preliminary scientific
+    evidence. Report of the Department of Antiquities, Cyprus, 122–144.
+
 -   Stos-Gale, Z. A., Gale, N. H., and Annetts, N., 1996, Lead Isotope
     Data from the Isotrace Laboratory, Oxford: Archaeometry Data Base 3,
     Ores from the Aegean, Part 1, Archaeometry, 38(2), 381–90.
@@ -345,28 +354,16 @@
     Montagnac.
 
 -   Vavelidis, M., Bassiakos, I., Begemann, F., Patriarcheas, K.,
-    Pernicka, E., Schmitt-Strecker, S., & Wagner, G. A. (1985). Geologie
-    und Erzvorkommen. In G. A. Wagner, G. Weisgerber, & W. Kroker
-    (Eds.), Silber, Blei und Gold auf Sifnos. Prähistorische und antike
-    Metallproduktion (Vol. 3, pp. 59–80). Deutsches Bergbau-Museum
-    Bochum
-
--   Vavelidis, M., Bassiakos, I., Begemann, F., Patriarcheas, K.,
     Pernicka, E., Schmitt-Strecker, S., and Wagner, G. A., 1985,
     Geologie und Erzvorkommen, In Silber, Blei und Gold auf Sifnos.
     Prähistorische und antike Metallproduktion (eds. G. A. Wagner, G.
     Weisgerber, and W. Kroker), Vol. 3, 59–80, Der Anschnitt, Beiheft,
     Deutsches Bergbau-Museum Bochum, Bochum.
 
--   Wagner, G. A., Pernicka, E., Seeliger, T. C., Oztunali, O., Baranyi,
-    I., Begemann, F., & Schmitt-Strecker, S. (1985). Geologische
-    Untersuchungen zur frühen Metallurgie in NW-Anatolien. Bulletin of
-    the Mineral Research and Exploration, 101/102, 45–81.
-
--   Wagner, G. A., Pernicka, E., Seeliger, T. C., Oztunali, O., Baranyi,
+-   Wagner, G. A., Pernicka, E., Seeliger, T. C., Ötzunali, Ö., Baranyi,
     I., Begemann, F., and Schmitt-Strecker, S., 1985, Geologische
-    Untersuchungen zur frühen Metallurgie in NW-Anatolien, Bulletin of
-    the Mineral Research and Exploration, 101/102, 45–81.
+    Untersuchungen zur frühen Metallurgie in NW- Anatolien., Bull. of
+    the Mineral Res. and Exploration Inst. of Turkey, 101/102, 45–81.
 
 -   Wagner, G. A., Pernicka, E., Vavelidis, M., Baranyi, I., and
     Bassiakos, I., 1986, Archäometallurgische Untersuchungen auf
