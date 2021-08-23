@@ -135,6 +135,24 @@ the Core Team, we are looking forward to your message!
 
 -   N. N.
 
+## Partners and Supporting Institutions
+
+<table>
+<tbody>
+<tr>
+<td style="text-align:left;min-width: 110px; ">
+<a href="https://www.bergbaumuseum.de/en/"><img alt="DBM Logo" src="/Logo_DBM.png" width="96"></a>
+</td>
+<td style="text-align:left;color: black !important;">
+Web Hosting: <br><b><a href="https://www.bergbaumuseum.de/en/">Deutsches
+Bergbau-Museum Bochum</a></b><br>Text
+</td>
+</tr>
+</tbody>
+</table>
+
+<br>
+
 ## Acknowledgements
 
 The initial GlobaLID database was compiled during years of own research

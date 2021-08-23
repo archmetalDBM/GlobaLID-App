@@ -101,6 +101,24 @@ You want to contribute to GlobaLID? Please get in touch with a member of the Cor
 
 * N. N.
 
+## Partners and Supporting Institutions
+```{r echo=FALSE, results='asis'}
+
+data.frame(
+  Logo = paste0('<a href="https://www.bergbaumuseum.de/en/"><img alt="DBM Logo" src="/Logo_DBM.png"
+         width="96"></a>'), 
+  Text = paste("Web Hosting: ", 
+               '<b><a href="https://www.bergbaumuseum.de/en/">Deutsches Bergbau-Museum Bochum</a></b>', 
+               "Text", 
+               sep = "<br>")
+) %>%
+kable(escape = FALSE, col.names = NULL) %>% 
+  column_spec(1, width_min = "110px") %>%
+  column_spec(2, color = "black")
+cat("<br>")
+```
+
+
 ## Acknowledgements
 
 The initial GlobaLID database was compiled during years of own research and profited from the generous sharing of published lead isotope datasets by many colleagues. The creative and collective work of compiling the database and application was initiated when all members of the Core Team and E. Salzmann were members of the Archaeometallurgy group at the German Mining Museum (DBM). Hannah Zietsch (DBM) compiled the initial literature references. Annette Hornschuch (DBM) and Helge Wiethoff (DMT-LB) provided support during the preparation and deployment of the app. 
