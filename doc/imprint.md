@@ -2,14 +2,14 @@
 
 This webpage is run by
 
-Prof. Dr. Sabine Klein
+Apl. Prof. Dr. Sabine Klein
 
 Deutsches Bergbau-Museum Bochum  
 Leibniz-Forschungsmuseum für Georessourcen
 
 Am Bergbaumuseum 28  
 44791 Bochum  
-<Sabine.Klein@ruhr-uni-bochum.de>
+[Sabine.Klein@bergbaumuseum.de](mailto:%20Sabine.Klein@bergbaumuseum.de)
 
 The Deutsche Bergbau-Museum Bochum is a legally dependent unit of the
 DMT-Gesellschaft für Lehre und Bildung mbH, represented by its executive
@@ -18,8 +18,9 @@ Prof. Dr. Jürgen Kretschmann (chairperson)
 Adolf Siethoff
 
 Registration Court: Amtsgericht Bochum  
-Registration number: HRB 4052 VAT identification number according to
-Section 27 of the German Sales Tax Act: DE124091698
+Registration number: HRB 4052  
+VAT identification number according to Section 27 of the German Sales
+Tax Act: DE124091698
 
 Competent supervisory authority: Ministerium für Kultur und Wissenschaft
 des Landes Nordrhein Westfalen
@@ -33,7 +34,7 @@ contained on the website for any purpose. Any reliance you place on such
 information is therefore strictly at your own risk. If you are in doubt
 of the data, please refer to the respective original publications. If
 you spot an error, please get in contact with the GlobaLID Core Team
-(<Sabine.Klein@ruhr-uni-bochum.de>).  
+([Sabine.Klein@bergbaumuseum.de](mailto:%20Sabine.Klein@bergbaumuseum.de)).  
 In no event will we be liable for any loss or damage including without
 limitation, indirect or consequential loss or damage, or any loss or
 damage whatsoever arising from loss of data or profits arising out of,
@@ -69,7 +70,7 @@ immediately.
 © The GlobaLID Core Team 2020 (unless indicated otherwise)
 
 The copyright material published on this website is subject to the
-Germany Copyright law, and is owned by the GlobaLID Core Team or, where
+German Copyright law, and is owned by the GlobaLID Core Team or, where
 indicated, by a party other than the GlobaLID Core Team.
 
 The GlobaLID Core Team supports and encourages use of its material for
@@ -78,8 +79,8 @@ all legitimate purposes.
 [![CC-BY 4.0
 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)  
 Copyright material available on this website is licensed under a
-[Creative Commons Attribution 4.0 International (CC-BY
-4.0)](https://creativecommons.org/licenses/by/4.0/) licence unless
+\[Creative Commons Attribution 4.0 International (CC-BY
+4.0))\[<https://creativecommons.org/licenses/by/4.0/>) licence unless
 indicated otherwise.
 
 This licence allows you to:
@@ -101,7 +102,5 @@ In Publications please attribute to GlobaLID by citing :
 
 For direct import into your reference manager, please download the [ris
 file](Link) or [bibtex file](Link).
-
-Copyright/Lizenz für Datenbank (falls abweichend)
 
 ## Privacy
