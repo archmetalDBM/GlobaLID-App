@@ -5,31 +5,13 @@
     Sinai Peninsula and the Eastern Desert of Egypt (2006, 2008),
     Metalla, 19(1/2), 3–59.
 
--   Amov, B., Kolkovski, B., and Dimitrov, R., 1993,
-    &lt;U+0413&gt;&lt;U+0435&gt;&lt;U+043D&gt;&lt;U+0435&gt;&lt;U+0437&gt;&lt;U+0438&gt;&lt;U+0441&gt;
-    &lt;U+0438&gt;
-    &lt;U+0432&gt;&lt;U+044A&gt;&lt;U+0437&gt;&lt;U+0440&gt;&lt;U+0430&gt;&lt;U+0441&gt;&lt;U+0442&gt;
-    &lt;U+043D&gt;&lt;U+0430&gt;
-    &lt;U+0445&gt;&lt;U+0438&gt;&lt;U+0434&gt;&lt;U+0440&gt;&lt;U+043E&gt;&lt;U+0442&gt;&lt;U+0435&gt;&lt;U+0440&gt;&lt;U+043C&gt;&lt;U+0430&gt;&lt;U+043B&gt;&lt;U+043D&gt;&lt;U+0438&gt;
-    &lt;U+0440&gt;&lt;U+0443&gt;&lt;U+0434&gt;&lt;U+043D&gt;&lt;U+0438&gt;
-    &lt;U+043C&gt;&lt;U+0438&gt;&lt;U+043D&gt;&lt;U+0435&gt;&lt;U+0440&gt;&lt;U+0430&gt;&lt;U+043B&gt;&lt;U+0438&gt;&lt;U+0437&gt;&lt;U+0430&gt;&lt;U+0446&gt;&lt;U+0438&gt;&lt;U+0438&gt;
-    &lt;U+0432&gt;
-    &lt;U+0440&gt;&lt;U+043E&gt;&lt;U+0434&gt;&lt;U+043E&gt;&lt;U+043F&gt;&lt;U+0441&gt;&lt;U+043A&gt;&lt;U+0430&gt;&lt;U+0442&gt;&lt;U+0430&gt;
-    &lt;U+043C&gt;&lt;U+0435&gt;&lt;U+0442&gt;&lt;U+0430&gt;&lt;U+043B&gt;&lt;U+043E&gt;&lt;U+0433&gt;&lt;U+0435&gt;&lt;U+043D&gt;&lt;U+043D&gt;&lt;U+0430&gt;
-    &lt;U+0437&gt;&lt;U+043E&gt;&lt;U+043D&gt;&lt;U+0430&gt;
-    &lt;U+0432&gt;&lt;U+044A&gt;&lt;U+0437&gt;
-    &lt;U+043E&gt;&lt;U+0441&gt;&lt;U+043D&gt;&lt;U+043E&gt;&lt;U+0432&gt;&lt;U+0430&gt;
-    &lt;U+043D&gt;&lt;U+0430&gt;
-    &lt;U+0438&gt;&lt;U+0437&gt;&lt;U+043E&gt;&lt;U+0442&gt;&lt;U+043E&gt;&lt;U+043F&gt;&lt;U+043D&gt;&lt;U+0438&gt;&lt;U+044F&gt;
-    &lt;U+0441&gt;&lt;U+044A&gt;&lt;U+0441&gt;&lt;U+0442&gt;&lt;U+0430&gt;&lt;U+0432&gt;
-    &lt;U+043D&gt;&lt;U+0430&gt;
-    &lt;U+043E&gt;&lt;U+043B&gt;&lt;U+043E&gt;&lt;U+0432&gt;&lt;U+043E&gt;&lt;U+0442&gt;&lt;U+043E&gt;
-    &lt;U+0432&gt;
-    &lt;U+0433&gt;&lt;U+0430&gt;&lt;U+043B&gt;&lt;U+0435&gt;&lt;U+043D&gt;&lt;U+0438&gt;&lt;U+0442&gt; 
-    \[Genesis and age of hydrothermal ore mineralization in the Rhodope
-    metallogenic zone on the basis of the isotopic composition of lead
-    in galena\], Annuaire de l’Université de Sofia “St. Kliment
-    Ohridski” Faculté de Géologie et Géographie, 85, 73–98.
+-   Amov, B., Kolkovski, B., and Dimitrov, R., 1993, Генезис и възраст
+    на хидротермални рудни минерализации в родопската металогенна зона
+    въз основа на изотопния състав на оловото в галенит  \[Genesis and
+    age of hydrothermal ore mineralization in the Rhodope metallogenic
+    zone on the basis of the isotopic composition of lead in galena\],
+    Annuaire de l’Université de Sofia “St. Kliment Ohridski” Faculté de
+    Géologie et Géographie, 85, 73–98.
 
 -   Andráš, P., Chovan, M., Dirner, V., and Krá, J., 2010, Pb-Isotope
     Study in Sb-Mineralisation from Western Carpathian (Slovakia),
@@ -45,8 +27,8 @@
     Chemistry (ed. C. W. Beck), 1–10, Advances in Chemistry Series 138,
     Washington D.C. <https://doi.org/10.1021/ba-1974-0138.ch001>
 
--   Baron, S., Tamas, C. G., Cauuet, B., and Munoz, M., 2011, Lead
-    isotope analyses of gold–silver ores from Rosia Montana (Romania): a
+-   Baron, S., Tămaş, C. G., Cauuet, B., and Munoz, M., 2011, Lead
+    isotope analyses of gold–silver ores from Roşia Montană (Romania): a
     first step of a metal provenance study of Roman mining activity in
     Alburnus Maior (Roman Dacia), Journal of Archaeological Science,
     38(5), 1090–100. <https://doi.org/10.1016/j.jas.2010.12.004>
@@ -129,11 +111,11 @@
     samples and analyses cited, Open-File Report.
     <https://doi.org/10.3133/ofr79661>
 
--   Durali-Müller, S., 2006, Roman lead and copper mining in
-    Germany&lt;U+202F&gt;: their origin and development through time,
-    deduced from lead and copper isotope provenance studies,
-    Geowissenschaften, Universitätsbibliothek Johann Christian
-    Senckenberg Frankfurt am Main, Frankfurt a.M., Germany.
+-   Durali-Müller, S., 2006, Roman lead and copper mining in Germany :
+    their origin and development through time, deduced from lead and
+    copper isotope provenance studies, Geowissenschaften,
+    Universitätsbibliothek Johann Christian Senckenberg Frankfurt am
+    Main, Frankfurt a.M., Germany.
 
 -   Ehya, F., Lotfi, M., and Rasa, I., 2010, Emarat carbonate-hosted
     Zn–Pb deposit, Markazi Province, Iran: A geological, mineralogical
@@ -141,7 +123,7 @@
     186–94. <https://doi.org/10.1016/j.jseaes.2009.08.007>
 
 -   Gale, N. H., & Stos-Gale, Z. A. (1985). Cyprus and the Bronze Age
-    Metals Trade. In T. Papadopoullos & S. A. Chatzestylles (Eds.),
+    Metals Trade. In T. Papadopoullos & S. A. Chatzēstyllēs (Eds.),
     Proceedings of the Second International Congress of Cypriot Studies,
     Nicosia 1982 (pp. 51–66). Society of Cypriot Studies.
 

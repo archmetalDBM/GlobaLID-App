@@ -3,6 +3,8 @@ library(shinyvalidate)
 library(bs4Dash)
 library(waiter)
 library(leaflet)
+library(RColorBrewer)
+library(viridisLite)
 library(ggplot2)
 library(plotly)
 library(DT)
@@ -14,6 +16,7 @@ library(rmarkdown)
 library(knitr)
 library(kableExtra)
 library(ks)
+library(zip)
 
 source("www/scripts/calculate_ratios.R")
 source("www/scripts/calculate_model_ages.R")
@@ -1379,7 +1382,7 @@ server <- function(input, output, session) {
       
       fs <- c(filename_references, filename_plot1, filename_plot2, filename_combineh, filename_combinev, filename_database, filename_upload)
       
-      zip(zipfile=file, files=fs)
+      zip(zipfile = file, files = fs, root = tmpdir)
     },
     
     contentType = "application/zip"
