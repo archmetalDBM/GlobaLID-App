@@ -17,6 +17,7 @@ library(knitr)
 library(kableExtra)
 library(ks)
 library(zip)
+library(leaflet.providers)
 
 source("www/scripts/calculate_ratios.R")
 source("www/scripts/calculate_model_ages.R")
@@ -24,6 +25,9 @@ source("www/scripts/geom_kde2d.R")
 source("plot_module.R")
 source("update.R")
 credentials <- readRDS("data/credentials.rds")
+providers <- readRDS("data/providers.rds")
+
+use_providers(providers)
 
 # load datasets
 data_complete <- readRDS("data/database_complete.rds") 
@@ -210,6 +214,12 @@ ui <- dashboardPage(
         "Legal Notice & Privacy",
         tabName = "imprint",
         icon = icon("balance-scale")
+      ), 
+      menuItem(
+        "Privacy",
+        href = "https://dse.cortina-consult.com/privacy/6140aab59b531",
+        newTab = TRUE,
+        icon = icon("balance-scale")
       )
     )
   ),
@@ -236,7 +246,7 @@ ui <- dashboardPage(
   ),
   footer = dashboardFooter(
     left = a(
-      href = "mailto:thomas.rose@daad-alumni.de",
+      href = "mailto:globalid@bergbaumuseum.de?subject=GlobaLID Web App",
       target = "_blank", "Contact the GlobaLID Core team"  
     ),
     right = paste("Database status:", format(update_database,"%d %B %Y"))
@@ -505,7 +515,10 @@ ui <- dashboardPage(
       ),
       tabItem(
         tabName = "imprint", 
-        includeMarkdown("doc/imprint.md")
+        includeMarkdown("doc/imprint.md") 
+        #includeScript(path = "https://dse.cortina-consult.com/privacy/6140aab59b531?format=js")
+        #includeHTML(path = "https://dse.cortina-consult.com/privacy/6140aab59b531")
+        #HTML('<script src="https://dse.cortina-consult.com/privacy/6140aab59b531?format=js" type="text/javascript"></script><noscript><iframe src="https://dse.cortina-consult.com/privacy/6140aab59b531?format=html" style="width:100%;height:100%;min-height: 600px;"></iframe></noscript>')
       ),
       tabItem(
         tabName = "contribute", 
@@ -686,6 +699,24 @@ server <- function(input, output, session) {
   
   iv$enable()
   
+  # Modal popup on start ----------------------------------------------------
+  
+  showModal(
+    modalDialog(
+      title = "Welcome to GlobaLID!",
+      h6("Welcome to the prototype of the GlobaLID web application."),
+      div("Please help us to extent it and to design it closer to your expectations by participating in", 
+          a(href = "https://forms.gle/6YCdj7ywh8bRPDW47", "our survey"), 
+          "and", 
+          a(href = "mailto:globalid@bergbaumuseum.de?subject=Feedback to GlobaLID Web App", "providing feedback"),
+          "."), 
+      div(tags$b("Thank you!")),
+      footer = modalButton("Close"), 
+      easyClose = TRUE, 
+      fade = FALSE
+      )
+    )
+  
   # Status handler ----------------------------------------------------------
   status <- reactiveValues(reset = TRUE)
   
@@ -729,7 +760,7 @@ server <- function(input, output, session) {
       filter(if(!is.null(input$filter_instrument)) `Instrument used` %in% input$filter_instrument else TRUE) %>%
       filter(if(!is.null(input$filter_year)) between(year, input$filter_year[1], input$filter_year[2]) else TRUE) %>%
       filter(if(all(!is.null(input$data_unknown), input$data_unknown)) !.data[[input$group]] == "unknown" else TRUE) %>%
-      filter(if(all(!is.null(input$location_accuracy), input$location_accuracy)) {str_detect(database$`Location precision`, "exact|Exact")} else TRUE)
+      filter(if(all(!is.null(input$location_accuracy), input$location_accuracy)) {str_detect(`Location precision`, "exact|Exact")} else TRUE)
     
     if (dim(data)[1] == 0) {data <- NULL}
     
@@ -827,6 +858,8 @@ server <- function(input, output, session) {
   
   observeEvent(input$autopick, {  
     autopick_data <- reactive({
+      
+      req(custom_data())
       
       if (input$data_clean) {data <- data_clean} else {data <- data_complete}
       
@@ -1031,7 +1064,7 @@ server <- function(input, output, session) {
       addProviderTiles("Stamen.TonerLite", group = "Greyscale") %>%
       addProviderTiles("Esri.WorldImagery", group = "Satellite") %>%
       addProviderTiles("Jawg.Terrain", group = "Terrain", 
-                       options = providerTileOptions(accessToken = "3uEzD8dtzA3IWndPaCQLaxyvwJ7GiltndZozyeuEDLn0Q8uOkT26FahxEvKgDQvb")) %>%
+                       options = providerTileOptions(accessToken = credentials$Jawg_token)) %>%
       addScaleBar(position = "bottomleft") %>%
       addEasyButton(easyButton(
         icon = "globe", title = "Zoom to data", ### button not rendering
@@ -1076,9 +1109,6 @@ server <- function(input, output, session) {
     
     if (!is.null(database()) && !is.null(custom_data())) {
       
-      custom_data()$latitude <- NA
-      custom_data()$longitude <- NA
-      
       leafletProxy("map_box") %>%
         addLayersControl(
           baseGroups = c("OSM", "Topo", "Terrain", "Satellite", "Greyscale"),
@@ -1089,6 +1119,7 @@ server <- function(input, output, session) {
                   lng2 = max(database()$Longitude, custom_data()$longitude, na.rm = TRUE), lat2 = max(database()$Latitude, custom_data()$latitude, na.rm = TRUE))
       
     } else {
+      
       leafletProxy("map_box") %>%
         addLayersControl(
           baseGroups = c("OSM", "Topo", "Terrain", "Satellite", "Greyscale"),
@@ -1245,7 +1276,8 @@ server <- function(input, output, session) {
           filename_plot2 <- paste("Plot2", input$download_plot_filetype, sep = ".")
           
           plot_explore2 +
-            labs(subtitle = paste("Made with GlobaLID 1.0, database status: ", format(update_database,"%Y-%m-%d"), sep = " ")) +
+            labs(subtitle = paste("Made with GlobaLID 1.0, database status: ", format(update_database,"%Y-%m-%d"), sep = " "))
+          
             ggsave(filename_plot2, path = tmpdir, device = input$download_plot_filetype,
                    width = input$download_plot2_width, height = input$download_plot2_height, unit = input$download_unit,
                    dpi = input$download_dpi)
@@ -1289,7 +1321,7 @@ server <- function(input, output, session) {
         filename_database <- paste("Database", str_extract(input$download_data_filetype, "[:alpha:]*"), sep = ".")
         
         database_down <- database() %>%
-          select(-Status, -Note, -year, -tooltip)
+          select(-Note, -year, -tooltip)
         
         switch(input$download_data_filetype, 
                "txt" = write.table(database_down, file.path(tmpdir, filename_database), sep = "\t", row.names = FALSE), 
@@ -1388,7 +1420,7 @@ server <- function(input, output, session) {
     contentType = "application/zip"
   )
   
-  # tab "Contribute" output -------------------------------------------------
+  # tab "Contribute" ----------------------------------------------------------
   
     # Check contributor's password --------------------------------------------
   
@@ -1436,7 +1468,7 @@ server <- function(input, output, session) {
     removeModal()
   })
   
-    # Output ------------------------------------------------------------------
+    # "Contribute" Output -----------------------------------------------------
   
   contribute_data <- reactive({
     

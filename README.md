@@ -77,6 +77,7 @@ app uses the following packages:
 -   [knitr](https://yihui.org/knitr/)
 -   [ks](https://cran.r-project.org/web/packages/ks/)
 -   [leaflet](https://rstudio.github.io/leaflet/)
+-   [leaflet.providers](https://github.com/rstudio/leaflet.providers)
 -   [lemon](https://github.com/stefanedwards/lemon)
 -   [plotly](https://plotly-r.com/)
 -   [RColorBrewer](https://cran.r-project.org/web/packages/RColorBrewer/)

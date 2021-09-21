@@ -23,7 +23,7 @@ Date
 <tbody>
 <tr>
 <td style="text-align:left;vertical-align: top !important;">
-<a href="../www/scripts/calculate_ratios.R">`LI_ratios_all()`</a>
+<a href="../scripts/calculate_ratios.R">`LI_ratios_all()`</a>
 </td>
 <td style="text-align:left;vertical-align: top !important;">
 Calculates missing lead isotope ratios from existing ones.
@@ -37,7 +37,7 @@ dplyr
 </tr>
 <tr>
 <td style="text-align:left;vertical-align: top !important;">
-<a href="../www/scripts/calculate_model_ages.R">`LI_model_age()`</a>
+<a href="../scripts/calculate_model_ages.R">`LI_model_age()`</a>
 </td>
 <td style="text-align:left;vertical-align: top !important;">
 Calculates parameters for different lead isotope age models. The
@@ -55,7 +55,7 @@ rootSolve
 </tr>
 <tr>
 <td style="text-align:left;vertical-align: top !important;">
-<a href="../www/scripts/geom_kde2d.R">`geom_kde2d()`</a>
+<a href="../scripts/geom_kde2d.R">`geom_kde2d()`</a>
 </td>
 <td style="text-align:left;vertical-align: top !important;">
 This geom provides an alternative to the `geom_density_2d()` of the
@@ -71,3 +71,6 @@ ggplot2, ks
 </tr>
 </tbody>
 </table>
+
+The source code of the GlobaLID web application is available on
+[GitHub](https://github.com/archmetalDBM/GlobaLID-App).

@@ -267,7 +267,8 @@ models. Currently, the following lead isotope age models are supported:
 [Stacey & Kramers
 1975](https://dx.doi.org/10.1016/0012-821X%2875%2990088-6), [Cumming &
 Richards 1975](https://dx.doi.org/10.1016/0012-821X%2875%2990223-X),
-[Albarède et
+[Albarède & Juteau
+1984](https://doi.org/10.1016/0016-7037%2884%2990364-8), [Albarède et
 al. 2012](https://dx.doi.org/10.1111/j.1475-4754.2011.00653.x).
 
 By hitting the “Match database” button (4), all data from GlobaLID with

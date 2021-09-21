@@ -15,11 +15,11 @@ database_clean <- database %>%
 saveRDS(database_clean, "data/database_clean.rds")
 
 # update providers of maps
-library(V8)
 library(jsonlite)
 library(leaflet.providers)
-providers <- leaflet.providers::get_providers()
 
+providers <- leaflet.providers::get_providers()
+saveRDS(providers, "data/providers.rds")
 
 # update static documents
 library(rmarkdown)

@@ -102,5 +102,3 @@ In Publications please attribute to GlobaLID by citing :
 
 For direct import into your reference manager, please download the [ris
 file](Link) or [bibtex file](Link).
-
-## Privacy

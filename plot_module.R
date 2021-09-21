@@ -505,15 +505,14 @@ plotExploreServer <- function(id, data_reference, data_custom, group_ref, input_
       output$plot_data <- DT::renderDataTable({
         
         plot_coords <- event_data("plotly_brushed", source = ns("Plot"))
-        print(ns("Plot"))
-        print(plot_coords)
+        
         if (is.null(plot_coords)) return(NULL)
         
         data_view <- data_reference() %>% 
           filter(between(!!as.symbol(x()[[1]]), plot_coords[["x"]][1], plot_coords[["x"]][2])) %>%
           filter(between(!!as.symbol(y()[[1]]), plot_coords[["y"]][1], plot_coords[["y"]][2]))
         
-        DT::datatable(data_view %>% select(-contains("20"), -Reference, -doi, -Note, -Latitude, -Longitude, -year, -Status, -contains("_"), -tooltip), 
+        DT::datatable(data_view %>% select(-contains("20"), -Reference, -doi, -Note, -Latitude, -Longitude, -year, -contains("_"), -tooltip), 
                       rownames = FALSE, options = list(scrollX = TRUE))
         
       })

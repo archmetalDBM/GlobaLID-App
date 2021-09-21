@@ -4,6 +4,7 @@ plot_module.R
 data/database_clean.rds
 data/database_complete.rds
 data/credentials.rds
+data/providers.rds
 doc/about.md
 doc/contribute.md
 doc/instructions.md
@@ -13,6 +14,7 @@ doc/references.md
 doc/References_export_word.Rmd
 doc/template_references.docx
 www/logo.svg
+www/Logo_DBM.png
 www/KWestner.png
 www/TRose.png
 www/SKlein.png

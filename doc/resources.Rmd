@@ -18,9 +18,9 @@ These functions were specifically developed for GlobaLID. To use them in your ow
 
 ```{r echo=FALSE, results='asis'}
 table <- data.frame(
-  name = c(paste0("<a href=\"", "../www/scripts/calculate_ratios.R", "\">", "`LI_ratios_all()`", "</a>"), 
-           paste0("<a href=\"", "../www/scripts/calculate_model_ages.R", "\">", "`LI_model_age()`", "</a>"),
-           paste0("<a href=\"", "../www/scripts/geom_kde2d.R", "\">", "`geom_kde2d()`", "</a>")
+  name = c(paste0("<a href=\"", "../scripts/calculate_ratios.R", "\">", "`LI_ratios_all()`", "</a>"), 
+           paste0("<a href=\"", "../scripts/calculate_model_ages.R", "\">", "`LI_model_age()`", "</a>"),
+           paste0("<a href=\"", "../scripts/geom_kde2d.R", "\">", "`geom_kde2d()`", "</a>")
            ), 
   description = c("Calculates missing lead isotope ratios from existing ones.", 
                   "Calculates parameters for different lead isotope age models. The function provides convenient access to the different age model function, that are also part of this script. Currently supported age models: Stacey & Kramers (1975), Cumming & Richards (1975), Albarède & Juteau (1984), and Albarède et al. (2012).", 
@@ -35,4 +35,6 @@ kable(table, escape = FALSE, col.names = c("Function", "Description", "Required 
   column_spec(4, width = "15%")
 
 ```
+
+The source code of the GlobaLID web application is available on [GitHub](https://github.com/archmetalDBM/GlobaLID-App). 
 
