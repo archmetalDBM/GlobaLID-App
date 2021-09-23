@@ -24,6 +24,7 @@ source("www/scripts/calculate_model_ages.R")
 source("www/scripts/geom_kde2d.R")
 source("plot_module.R")
 source("update.R")
+source("www/scripts/hCaptcha_module.R")
 credentials <- readRDS("data/credentials.rds")
 providers <- readRDS("data/providers.rds")
 
@@ -214,13 +215,13 @@ ui <- dashboardPage(
         "Legal Notice & Privacy",
         tabName = "imprint",
         icon = icon("balance-scale")
-      ), 
-      menuItem(
-        "Privacy",
-        href = "https://dse.cortina-consult.com/privacy/6140aab59b531",
-        newTab = TRUE,
-        icon = icon("balance-scale")
-      )
+      )#,
+      #menuItem( # activate when bug is solved, update heading of Legal notice item, update imprint.rmd
+      #  "Privacy",
+      #  href = "https://dse.cortina-consult.com/privacy/6140aab59b531",
+      #  newTab = TRUE,
+      #  icon = icon("user-shield")
+      #)
     )
   ),
   controlbar = dashboardControlbar(
@@ -516,9 +517,6 @@ ui <- dashboardPage(
       tabItem(
         tabName = "imprint", 
         includeMarkdown("doc/imprint.md") 
-        #includeScript(path = "https://dse.cortina-consult.com/privacy/6140aab59b531?format=js")
-        #includeHTML(path = "https://dse.cortina-consult.com/privacy/6140aab59b531")
-        #HTML('<script src="https://dse.cortina-consult.com/privacy/6140aab59b531?format=js" type="text/javascript"></script><noscript><iframe src="https://dse.cortina-consult.com/privacy/6140aab59b531?format=html" style="width:100%;height:100%;min-height: 600px;"></iframe></noscript>')
       ),
       tabItem(
         tabName = "contribute", 
@@ -1067,7 +1065,7 @@ server <- function(input, output, session) {
                        options = providerTileOptions(accessToken = credentials$Jawg_token)) %>%
       addScaleBar(position = "bottomleft") %>%
       addEasyButton(easyButton(
-        icon = "globe", title = "Zoom to data", ### button not rendering
+        icon = "globe", title = "Zoom to data", ### button icon not rendering
         onClick = JS("function(btn, map) {
        var groupLayer = map.layerManager.getLayerGroup('Database');
        map.fitBounds(groupLayer.getBounds());
@@ -1217,7 +1215,36 @@ server <- function(input, output, session) {
   plot_explore1 <- plotExploreServer("plot1", database, custom_data, {req(general_iv$is_valid()); reactive(input$group)}, {req(plot_iv$is_valid()); reactive(input$palette)})
   plot_explore2 <- plotExploreServer("plot2", database, custom_data, reactive(input$group), reactive(input$palette))
   
-  # tab "Upload" output -----------------------------------------------------
+  # tab "Upload" ------------------------------------------------------------
+  
+    # Captcha ---------------------------------------------------------------
+  
+  observeEvent(input$sidebar, {
+    
+    req(general_iv$is_valid(), input$sidebar == "upload", !captcha_result()$success)
+    
+    showModal(
+      modalDialog(
+        h5("Please confirm you are a human."),
+        br(),
+        hcaptchaUI("captcha", sitekey = credentials$hCaptcha_sitekey),
+        footer = NULL,
+        easyClose = FALSE,
+        fade = FALSE
+      )
+    )
+  })
+ 
+  captcha_result <- hcaptcha("captcha", secret = credentials$hCaptcha_secret)
+  
+  observe({ 
+    
+    req(general_iv$is_valid(), captcha_result()$success)
+    
+    removeModal()
+  })
+  
+    # "upload" output -------------------------------------------------------
   
   output$file_upload <- renderUI({
     input$upload_reset 

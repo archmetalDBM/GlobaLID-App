@@ -46,7 +46,7 @@ However, permanent checking of the linked pages in terms of content is not reaso
 
 ## Copyright and Terms of Use
 
-© The GlobaLID Core Team 2020 (unless indicated otherwise)
+© The GlobaLID Core Team 2021 (unless indicated otherwise)
 
 The copyright material published on this website is subject to the German Copyright law, and is owned by the GlobaLID Core Team or, where indicated, by a party other than the GlobaLID Core Team.
 
@@ -71,3 +71,5 @@ In Publications please attribute to GlobaLID by citing :
 * For using the application: Reference App (wie oben)
 
 For direct import into your reference manager, please download the [ris file](Link) or [bibtex file](Link).
+
+## [Privacy statement (link opens in new tab)](https://dse.cortina-consult.com/privacy/6140aab59b531)

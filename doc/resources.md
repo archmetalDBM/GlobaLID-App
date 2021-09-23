@@ -69,6 +69,20 @@ ggplot2, ks
 2021-06-04
 </td>
 </tr>
+<tr>
+<td style="text-align:left;">
+<a href="../scripts/hCaptcha_module.R">`hCaptcha module for Shiny`</a>
+</td>
+<td style="text-align:left;">
+A module to include hCaptcha in Shiny apps.
+</td>
+<td style="text-align:left;">
+httr, jsonlite, shiny
+</td>
+<td style="text-align:left;width: 15%; ">
+2021-09-23
+</td>
+</tr>
 </tbody>
 </table>
 

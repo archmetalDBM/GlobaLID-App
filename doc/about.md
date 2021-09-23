@@ -4,9 +4,9 @@ GlobaLID is a Global Lead Isotope Database and aims to facilitate the
 reconstruction of raw material provenances with lead isotopes,
 especially in archaeology. The app provides direct access to and
 convenient interaction with the [GlobaLID
-database](https://doi.org/will_be_provided). You can filter the database
-according to your research question, upload own data to compare it with
-GlobaLID, and produce and download publication ready plots. The
+database](https://doi.org/10.5880/fidgeo.2021.031). You can filter the
+database according to your research question, upload own data to compare
+it with GlobaLID, and produce and download publication ready plots. The
 “References” page lists all references from which data are currently
 included in GlobaLID. There are still data missing? Consider to become a
 contributor and help to let GlobaLID grow!
@@ -206,3 +206,6 @@ database:
 -   [viridisLite](https://sjmgarnier.github.io/viridisLite/)
 -   [waiter](https://shiny.john-coene.com/waiter/)
 -   [zip](https://cran.r-project.org/web/packages/zip)
+
+The implementation of the hCaptcha is a modified version of
+[shinyCAPTCHA](https://github.com/carlganz/shinyCAPTCHA).

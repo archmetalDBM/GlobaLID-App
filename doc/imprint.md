@@ -102,3 +102,5 @@ In Publications please attribute to GlobaLID by citing :
 
 For direct import into your reference manager, please download the [ris
 file](Link) or [bibtex file](Link).
+
+## [Privacy statement (link opens in new tab)](https://dse.cortina-consult.com/privacy/6140aab59b531)
