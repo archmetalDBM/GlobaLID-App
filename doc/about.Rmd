@@ -29,7 +29,7 @@ GlobaLID is a Global Lead Isotope Database and aims to facilitate the reconstruc
 data.frame(
   Portrait = paste0("![](../www/SKlein.png){height=96px}"), 
   Text = paste("<b>Sabine Klein</b> (Coordinator)", 
-               "Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany <br> FIERCE, Frankfurt Isotope & Element Research Centre, Goethe Universität, Frankfurt am Main, Germany", 
+               "Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany <br> Institut für Archäologische Wissenschaften, Ruhr-Universität Bochum, Bochum, Germany <br> FIERCE, Frankfurt Isotope & Element Research Centre, Goethe Universität, Frankfurt am Main, Germany", 
                paste(
                  add_Link("mailto:Sabine.Klein@bergbaumuseum.de?subject=GlobaLID", "envelope", "fa"),
                  add_Link("https://orcid.org/0000-0002-3939-4428", "orcid", "ai"),
