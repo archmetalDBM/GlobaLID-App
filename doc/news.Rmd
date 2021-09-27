@@ -1,0 +1,20 @@
+---
+title: "News"
+author: "Thomas Rose"
+date: "28 2 2021"
+output:  md_document
+always_allow_html: true
+
+---
+
+```{r setup, include=FALSE, warning=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(kableExtra)
+
+```
+
+## News
+
+Publication of GlobaLID
+

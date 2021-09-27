@@ -207,6 +207,11 @@ ui <- dashboardPage(
         icon = icon("info-circle")
       ),
       menuItem(
+        "News",
+        tabName = "news",
+        icon = icon("newspaper")
+      ),
+      menuItem(
         "Contribute", 
         tabName = "contribute", 
         icon = icon("file-upload")
@@ -513,6 +518,10 @@ ui <- dashboardPage(
       tabItem(
         tabName = "about", 
         includeMarkdown("doc/about.md")
+      ),
+      tabItem(
+        tabName = "news", 
+        includeMarkdown("doc/news.md")
       ),
       tabItem(
         tabName = "imprint", 
