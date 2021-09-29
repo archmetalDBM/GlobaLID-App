@@ -34,8 +34,10 @@ Interested? Write us!
 
 -   Coordinator: Sabine Klein (Forschungsbereich Archäometallurgie,
     Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum
-    Bochum, Bochum, Germany & FIERCE, Frankfurt Isotope & Element
-    Research Centre, Goethe Universität, Frankfurt am Main, Germany)
+    Bochum, Bochum, Germany; Institut für Archäologische Wissenschaften,
+    Ruhr-Universität Bochum, Bochum, Germany; FIERCE, Frankfurt Isotope
+    & Element Research Centre, Goethe Universität, Frankfurt am Main,
+    Germany)
 -   Database: Katrin J. Westner (Ecole Normale Supérieure de Lyon, CNRS,
     Université de Lyon, Lyon, France)
 -   Programming: Thomas Rose (Department of Archaeology, Ben-Gurion
@@ -47,7 +49,9 @@ Interested? Write us!
 
 # Contributors
 
-N. N.
+-   Nima Nezafati (Forschungsbereich Archäometallurgie,
+    Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum
+    Bochum, Bochum, Germany)
 
 # Acknowledgements
 

@@ -135,7 +135,22 @@ Germany<br><a href="mailto:Yiu-Kang.Hsu@bergbaumuseum.de?subject=GlobaLID"><svg 
 You want to contribute to GlobaLID? Please get in touch with a member of
 the Core Team, we are looking forward to your message!
 
--   N. N.
+<table>
+<tbody>
+<tr>
+<td style="text-align:left;min-width: 110px; ">
+<img src="../www/logo.svg" height="96" />
+</td>
+<td style="text-align:left;color: black !important;">
+<b>Nima Nezafati</b><br>Forschungsbereich Archäometallurgie,
+Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum
+Bochum, Bochum, Germany
+</td>
+</tr>
+</tbody>
+</table>
+
+<br>
 
 ## Partners and Supporting Institutions
 
@@ -148,6 +163,27 @@ the Core Team, we are looking forward to your message!
 <td style="text-align:left;color: black !important;">
 Web Hosting: <br><b><a href="https://www.bergbaumuseum.de/en/">Deutsches
 Bergbau-Museum Bochum</a></b><br>Text
+</td>
+</tr>
+</tbody>
+</table>
+<br>
+<table>
+<tbody>
+<tr>
+<td style="text-align:left;min-width: 110px; ">
+<a href="https://www.dmt-lb.de/"><img alt="DMT Logo" src="/Logo_DMT.svg" width="96"></a>
+</td>
+<td style="text-align:left;color: black !important;">
+Web Hosting: <br><b><a href="https://www.dmt-lb.de/">DMT-Gesellschaft
+für Lehre und Bildung mbH</a></b><br>DMT-Gesellschaft für Lehre und
+Bildung mbH (DMT-LB), based in Bochum, is a collective association of
+the German coal mining industry and acts as the funding organisation of
+Deutsches Bergbau-Museum Bochum (German Mining Museum) and Technische
+Hochschule Georg Agricola. It was established as the Westfälische
+Berggewerkschaftskasse (WBK) in 1864 and merged with the
+Steinkohlen-Bergbau-Verein (Stbv) and Bergbau Forschung GmbH under the
+auspices of DeutscheMontanTechnologie e.V. (DMT) in 1990.
 </td>
 </tr>
 </tbody>

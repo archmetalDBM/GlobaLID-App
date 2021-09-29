@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 502.67715 502.67715"
+   enable-background="new 0 0 611 600"
+   xml:space="preserve"
+   id="svg8"
+   sodipodi:docname="Logo_DMT.svg"
+   width="502.67715"
+   height="502.67715"
+   inkscape:export-filename="/home/wiethoff/Bilder/Logo_DMT.png"
+   inkscape:export-xdpi="33.545029"
+   inkscape:export-ydpi="33.545029"
+   inkscape:version="1.1 (ce6663b3b7, 2021-05-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><metadata
+   id="metadata14"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs12" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1848"
+   inkscape:window-height="1016"
+   id="namedview10"
+   showgrid="false"
+   inkscape:zoom="1.225"
+   inkscape:cx="172.65306"
+   inkscape:cy="311.42857"
+   inkscape:window-x="72"
+   inkscape:window-y="27"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg8"
+   inkscape:pagecheckerboard="0"
+   showguides="true"
+   inkscape:guide-bbox="true" />
+
+<circle
+   style="fill:#ffffff"
+   id="path1886"
+   cx="251.33858"
+   cy="251.33858"
+   r="251.33858" /><g
+   id="Logo"
+   transform="translate(-180.66142,67.33858)">
+	<path
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   fill="#df0029"
+   d="m 341.5,205 h 111 l 23,42 h -210 l 133,-230 h 57 z m 119,-185 c 45.995,76.659 138,230 138,230 l -26,48 -114,-193 -58,94 h -49 c 0,0 33.307,-55.649 109,-179 z m -3,97 110,186 h -277 l -25,-50 h 222 l -55,-95 z"
+   id="path5" />
+</g>
+</svg>

@@ -99,7 +99,22 @@ cat("<br>")
 
 You want to contribute to GlobaLID? Please get in touch with a member of the Core Team, we are looking forward to your message! 
 
-* N. N.
+```{r echo=FALSE, results='asis'}
+data.frame(
+  Portrait = paste0("![](../www/logo.svg){height=96px}"), 
+  Text = paste("<b>Nima Nezafati</b>", 
+               "Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany", 
+               # paste(
+               #   add_Link("mailto:Yiu-Kang.Hsu@bergbaumuseum.de?subject=GlobaLID", "envelope", "fa"),
+               #   sep = " "), 
+               sep = "<br>")
+) %>%
+kable(escape = FALSE, col.names = NULL) %>% 
+  column_spec(1, width_min = "110px") %>%
+  column_spec(2, color = "black")
+cat("<br>")
+```
+
 
 ## Partners and Supporting Institutions
 ```{r echo=FALSE, results='asis'}
@@ -110,6 +125,19 @@ data.frame(
   Text = paste("Web Hosting: ", 
                '<b><a href="https://www.bergbaumuseum.de/en/">Deutsches Bergbau-Museum Bochum</a></b>', 
                "Text", 
+               sep = "<br>")
+) %>%
+kable(escape = FALSE, col.names = NULL) %>% 
+  column_spec(1, width_min = "110px") %>%
+  column_spec(2, color = "black")
+cat("<br>")
+
+data.frame(
+  Logo = paste0('<a href="https://www.dmt-lb.de/"><img alt="DMT Logo" src="/Logo_DMT.svg"
+         width="96"></a>'), 
+  Text = paste("Web Hosting: ", 
+               '<b><a href="https://www.dmt-lb.de/">DMT-Gesellschaft für Lehre und Bildung mbH</a></b>', 
+               "DMT-Gesellschaft für Lehre und Bildung mbH (DMT-LB), based in Bochum, is a collective association of the German coal mining industry and acts as the funding organisation of Deutsches Bergbau-Museum Bochum (German Mining Museum) and Technische Hochschule Georg Agricola. It was established as the Westfälische Berggewerkschaftskasse (WBK) in 1864 and merged with the Steinkohlen-Bergbau-Verein (Stbv) and Bergbau Forschung GmbH under the auspices of DeutscheMontanTechnologie e.V. (DMT) in 1990.", 
                sep = "<br>")
 ) %>%
 kable(escape = FALSE, col.names = NULL) %>% 
