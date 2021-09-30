@@ -3,8 +3,8 @@ Many thanks for your efforts in extending GlobaLID!
 # To prepare your submission
 
 To facilitate the extension of GlobaLID, please make sure to use [this
-template](../www/template_contribute.csv) (UTF-8 encoded,
-comma-separated) and to follow these notations:
+template](../template_contribute.csv) (UTF-8 encoded, comma-separated)
+and to follow these notations:
 
 -   Names and titles in local script are provided in square brackets
     after the transliterated names wherever possible, e.g. `Egypt [مصر]`
@@ -30,14 +30,7 @@ comma-separated) and to follow these notations:
         -   Published material: Please provide a pdf of the original
             publication, its DOI (if available, otherwise “n/a”) and its
             full citation.
-        -   Unpublished material: We ask for compliance with the
-            guidelines for good scientific practice. Do not upload
-            unpublished material of others. For uploading own
-            unpublished data, please download [this declaration](), fill
-            it out and upload it. Fill in “n/a” in the field of the doi
-            and for the full citation. Without a correctly filled
-            declaration your submission will be deleted without further
-            consideration!
+        -   Unpublished material: This feature will be available soon.
     -   “Update data”:
         -   No further information is necessary.
 4.  Please provide a short comment about the data, i. e. indicate what

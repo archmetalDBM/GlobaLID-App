@@ -18,6 +18,7 @@ library(kableExtra)
 library(ks)
 library(zip)
 library(leaflet.providers)
+library(sendmailR)
 
 source("www/scripts/calculate_ratios.R")
 source("www/scripts/calculate_model_ages.R")
@@ -56,6 +57,9 @@ minerals <- data_complete %>%
   drop_na() %>%
   distinct() %>%
   pull()
+
+tmpdir <- tempdir()
+options(shiny.maxRequestSize=25*1024^2)
 
 # UI side -----------------------------------------------------------------
 ui <- dashboardPage(
@@ -1282,8 +1286,6 @@ server <- function(input, output, session) {
       
       req(download_iv$is_valid(), database_iv$is_valid())
       
-      tmpdir <- tempdir()
-      
       filename_plot1 <- NULL
       filename_plot2 <- NULL
       filename_combineh <- NULL
@@ -1521,11 +1523,10 @@ server <- function(input, output, session) {
         )
 
     validate(need(ncol(contribute_upload) >= 2, "A problem occurred while parsing your file. Please chose the appropriate parameters for reading your data."))
-    validate(need(length(setdiff(names(contribute_upload), c("Country", "Mining area",	"Mining site", "Add. information on mine", "Latitude", "Longitude", "Location precision", "Tectonic/geolog. super unit", "Tectonic/geolog. unit", "Tectonic/geolog. subunit", "Deposit type", "Metals", "Minerals", "Sample number", "Geol. period", "206Pb/204Pb", "207Pb/204Pb", "208Pb/204Pb", "206Pb/207Pb", "208Pb/207Pb", "204Pb/206Pb", "207Pb/206Pb", "208Pb/206Pb", "Instrument used", "year", "doi", "Reference", "Note"))) == 0, 
+    validate(need(length(setdiff(names(contribute_upload), c("Mining.area",	"Mining.site", "Add..information.on.mine", "Latitude", "Longitude", "Location.precision", "Tectonic.geolog..super.unit", "Tectonic.geolog..unit", "Tectonic.geolog..subunit", "Deposit.type", "Metals", "Minerals", "Sample.number", "Geol..period", "X206Pb.204Pb", "X207Pb.204Pb", "X208Pb.204Pb", "X206Pb.207Pb", "X208Pb.207Pb", "X204Pb.206Pb", "X207Pb.206Pb", "X208Pb.206Pb", "Instrument.used", "year", "doi", "Reference", "Note"))) == 0, 
                   "One or more columns of the uploaded data are not supported by GlobaLID or filled in automatically. Please remove or rename them."))
-    validate(need(all(c("Country", "Mining area",	"Mining site", "Add. information on mine", "Latitude", "Longitude", "Location precision", "Tectonic/geolog. super unit", "Tectonic/geolog. unit", "Tectonic/geolog. subunit", "Deposit type", "Metals", "Minerals", "Sample number", "Geol. period", "Instrument used", "year", "doi", "Reference", "Note") %in% names(contribute_upload)), 
+    validate(need(all(c("Mining.area",	"Mining.site", "Add..information.on.mine", "Latitude", "Longitude", "Location.precision", "Tectonic.geolog..super.unit", "Tectonic.geolog..unit", "Tectonic.geolog..subunit", "Deposit.type", "Metals", "Minerals", "Sample.number", "Geol..period", "Instrument.used", "year", "doi", "Reference", "Note") %in% names(contribute_upload)), 
                   "One or more columns with essential meta-information are missing. Please use the provided template and leave them empty if the information is not available."))
-    
     validate(need(all(is.numeric(contribute_upload$Latitude), is.numeric(contribute_upload$Longitude)), "Columns for coordinates must contain only numeric values."))
     validate(need({min(contribute_upload$Latitude, na.rm = TRUE) >= -90 & max(contribute_upload$Latitude, na.rm = TRUE) <= 90}, "One or more of the latitude coordinates is out of bounds."))
     validate(need({min(contribute_upload$Longitude, na.rm = TRUE) >= -180 & max(contribute_upload$Longitude, na.rm = TRUE) <= 180}, "One or more of the longitude coordinates is out of bounds."))
@@ -1560,20 +1561,47 @@ server <- function(input, output, session) {
       
       if (all(status_data, status_pdf, status_doi, status_citation, status_type, status_user, status_comment)) {
         
-        tmpdir <- tempdir()
+        body <- paste(
+          "Dear GlobaLID Core Team, ", 
+          paste0(input$contribute_user, " made a submission:"), 
+          paste0("Type: ", input$contribute_type), 
+          paste0("Publication: ", if (!input$contribute_type == "update") input$contribute_citation else "see attachment"), 
+          paste0("DOI: ", if (!input$contribute_type == "update") input$contribute_doi else "see attachment"), 
+          paste0("Comments: ", input$contribute_comments), 
+          paste(
+            "The uploaded data file has the following parameters: ",
+            paste0("  Separator: ", input$contribute_sep), 
+            paste0("  Quote: ", input$contribute_quote),
+            paste0("  Decimal sign: ", input$contribute_dec),
+            sep = "\n"
+          ),
+          "Please find the uploaded files attached.", 
+          "Enjoy! \n Your GlobaLID App", 
+          sep = "\n\n"
+          )
         
-        # save files 
-        # wrap all together and store/send, add timestamp
+        attachment_data <- mime_part(input$contribute_data$datapath, input$contribute_data$name)
+        if (!is.null(input$contribute_publication)) {attachment_pdf <- mime_part(input$contribute_publication$datapath, input$contribute_publication$name)} else {attachment_pdf <- NULL}
         
-        #showModal(
-        #  modalDialog(
-        #    title = div("Contribution successful", style = "color: green;"),  
-        #    "Thank you for you supporting GlobaLID!", 
-        #    footer = modalButton("Close"), 
-        #    easyClose = TRUE, 
-        #    fade = FALSE
-        #  )
-        #)
+        bodyWithAttachment <- list(body,attachment_data, attachment_pdf)
+        
+        sendmail(
+          from = "no-reply@globalid-app.de",
+          to = "thomas.rose@daad-alumni.de",
+          subject = "GlobaLID: New submission",
+          msg = bodyWithAttachment,
+          control = list(smtpServer="localhost", verbose = TRUE)
+          )
+
+        showModal(
+         modalDialog(
+           title = div("Contribution successful", style = "color: green;"),
+           "Thank you for you supporting GlobaLID!",
+           footer = modalButton("Close"),
+           easyClose = TRUE,
+           fade = FALSE
+         )
+        )
         
       } else {
         showModal(
@@ -1598,7 +1626,7 @@ server <- function(input, output, session) {
       
       showModal(
         modalDialog(
-          title = div("Contribution submission failed", style = "color: red;"), 
+          title = div("Submission failed", style = "color: red;"), 
           "Please confirm that your contribution is in accordance with ALL items on the checklist.",
           footer = modalButton("Close"), 
           easyClose = TRUE, 

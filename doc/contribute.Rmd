@@ -15,7 +15,7 @@ Many thanks for your efforts in extending GlobaLID!
 
 # To prepare your submission
 
-To facilitate the extension of GlobaLID, please make sure to use [this template](../www/template_contribute.csv) (UTF-8 encoded, comma-separated) and to follow these notations:
+To facilitate the extension of GlobaLID, please make sure to use [this template](../template_contribute.csv) (UTF-8 encoded, comma-separated) and to follow these notations:
 
 * Names and titles in local script are provided in square brackets after the transliterated names wherever possible, e.g. `Egypt [مصر]` or `Zamthang County [壤塘县]`. This also holds true for names with letters close to the English alphabet, like `Hunsruck [Hunsrück]` or `Cevennes [Cévennes]`.
 * Multiple items within a field are separated by a `;` (semicolon), e.g. `Cu; Fe; Pb`. 
@@ -29,7 +29,12 @@ To facilitate the extension of GlobaLID, please make sure to use [this template]
 4. Fill in all other fields. They will depend on the type of the contribution: 
     + "New data": 
       - Published material: Please provide a pdf of the original publication, its DOI (if available, otherwise "n/a") and its full citation. 
-      - Unpublished material: We ask for compliance with the guidelines for good scientific practice. Do not upload unpublished material of others. For uploading own unpublished data, please download [this declaration](), fill it out and upload it. Fill in "n/a" in the field of the doi and for the full citation. Without a correctly filled declaration your submission will be deleted without further consideration! 
+      - Unpublished material: This feature will be available soon. 
+
+```{r eval=FALSE, include=FALSE}
+#We ask for compliance with the guidelines for good scientific practice. Do not upload unpublished material of others. For uploading own unpublished data, please download [this declaration](), fill it out and upload it. Fill in "n/a" in the field of the doi and for the full citation. Without a correctly filled declaration your submission will be deleted without further consideration! 
+```
+
     + "Update data": 
       - No further information is necessary. 
 5. Please provide a short comment about the data, i. e. indicate what you updated, from which region the new data are etc. Please indicate here also any potential problems and ambiguities in the data. This will allow us to better organise the integration of your contribution into GlobaLID. 
