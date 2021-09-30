@@ -32,6 +32,7 @@ data.frame(
                "Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany <br> Institut für Archäologische Wissenschaften, Ruhr-Universität Bochum, Bochum, Germany <br> FIERCE, Frankfurt Isotope & Element Research Centre, Goethe Universität, Frankfurt am Main, Germany", 
                paste(
                  add_Link("mailto:Sabine.Klein@bergbaumuseum.de?subject=GlobaLID", "envelope", "fa"),
+                 add_Link("https://www.bergbaumuseum.de/en/museum/mitarbeitende/kontakt-detailseite/prof-dr-sabine-klein", "globe", "fa"), 
                  add_Link("https://orcid.org/0000-0002-3939-4428", "orcid", "ai"),
                  add_Link("https://www.researchgate.net/profile/Sabine-Klein-3", "researchgate", "ai"),
                  sep = " "),
@@ -48,6 +49,7 @@ data.frame(
                "Department of Archaeology, Ben-Gurion University of the Negev, Be’er Sheva, Israel <br> Department of Antiquity, Sapienza University of Rome, Rome, Italy", 
                paste(
                  add_Link("mailto:thomas.rose@daad-alumni.de?subject=GlobaLID", "envelope", "fa"),
+                 add_Link("https://copper-smelting.com/", "globe", "fa"), 
                  add_Link("https://orcid.org/0000-0002-8186-3566", "orcid", "ai"),
                  add_Link("https://bgu.academia.edu/ThomasRose", "academia", "ai"),
                  add_Link("https://www.researchgate.net/profile/Thomas-Rose-2", "researchgate", "ai"),
@@ -68,6 +70,7 @@ data.frame(
                "Ecole Normale Supérieure de Lyon, CNRS, Université de Lyon, Lyon, France", 
                paste(
                  add_Link("mailto:katrin.westner@ens-lyon.fr?subject=GlobaLID", "envelope", "fa"),
+                 add_Link("http://lgltpe.ens-lyon.fr/annuaire/westner-katrin", "globe", "fa"),
                  add_Link("https://orcid.org/0000-0001-5529-1165", "orcid", "ai"),
                  add_Link("https://bibliotheque-diderot.academia.edu/KatrinWestner", "academia", "ai"),
                  add_Link("https://www.researchgate.net/profile/Katrin-Westner", "researchgate", "ai"),
@@ -85,6 +88,7 @@ data.frame(
                "Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany", 
                paste(
                  add_Link("mailto:Yiu-Kang.Hsu@bergbaumuseum.de?subject=GlobaLID", "envelope", "fa"),
+                 add_Link("https://www.bergbaumuseum.de/en/museum/mitarbeitende/kontakt-detailseite/yiu-kang-hsu", "globe", "fa"), 
                  sep = " "), 
                sep = "<br>")
 ) %>%
@@ -101,12 +105,17 @@ You want to contribute to GlobaLID? Please get in touch with a member of the Cor
 
 ```{r echo=FALSE, results='asis'}
 data.frame(
-  Portrait = paste0("![](../www/logo.svg){height=96px}"), 
+  Portrait = paste0("![](../www/NNezafati.png){height=96px}"), 
   Text = paste("<b>Nima Nezafati</b>", 
-               "Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany", 
-               # paste(
-               #   add_Link("mailto:Yiu-Kang.Hsu@bergbaumuseum.de?subject=GlobaLID", "envelope", "fa"),
-               #   sep = " "), 
+               "Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany",  
+               paste(
+                 add_Link("mailto:nima.nezafati@bergbaumuseum.de?subject=GlobaLID", "envelope", "fa"),
+                 add_Link("https://www.bergbaumuseum.de/en/museum/mitarbeitende/kontakt-detailseite/dr-nima-nezafati", "globe", "fa"),
+                 add_Link("https://orcid.org/0000-0002-5806-343X", "orcid", "ai"),
+                 add_Link("https://bergbaumuseum.academia.edu/NimaNezafati", "academia", "ai"),
+                 add_Link("http://www.researchgate.net/profile/Nima_Nezafati", "researchgate", "ai"),
+                 add_Link("https://ir.linkedin.com/in/nima-nezafati-5a4b5542", "linkedin", "fa"),
+                 sep = " "), 
                sep = "<br>")
 ) %>%
 kable(escape = FALSE, col.names = NULL) %>% 
