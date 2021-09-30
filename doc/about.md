@@ -269,6 +269,7 @@ database:
 -   [readr](https://readr.tidyverse.org/)
 -   [rmarkdown](https://rmarkdown.rstudio.com/)
 -   [rootSolve](https://cran.r-project.org/web/packages/rootSolve)
+-   [sendmailR](https://cran.r-project.org/web/packages/sendmailR/)
 -   [shiny](https://shiny.rstudio.com/)
 -   [shinyvalidate](https://rstudio.github.io/shinyvalidate/)
 -   [stringr](https://stringr.tidyverse.org/)

@@ -87,6 +87,7 @@ app uses the following packages:
 -   [RColorBrewer](https://cran.r-project.org/web/packages/RColorBrewer/)
 -   [rmarkdown](https://rmarkdown.rstudio.com/)
 -   [rootSolve](https://cran.r-project.org/web/packages/rootSolve)
+-   [sendmailR](https://cran.r-project.org/web/packages/sendmailR/)
 -   [shiny](https://shiny.rstudio.com/)
 -   [shinyvalidate](https://rstudio.github.io/shinyvalidate/)
 -   [stringr](https://stringr.tidyverse.org/)
