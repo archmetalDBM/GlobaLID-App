@@ -262,14 +262,16 @@ named as following:
 -   A “sample” column for individual sample labels.
 
 All missing isotope ratios will be automatically calculated after your
-file was succesfully parsed. So are the parameters for the different age
-models. Currently, the following lead isotope age models are supported:
-[Stacey & Kramers
+file was successfully parsed. So are the parameters for the different
+age models. Currently, the following lead isotope age models are
+supported: [Stacey & Kramers
 1975](https://dx.doi.org/10.1016/0012-821X%2875%2990088-6), [Cumming &
 Richards 1975](https://dx.doi.org/10.1016/0012-821X%2875%2990223-X),
 [Albarède & Juteau
 1984](https://doi.org/10.1016/0016-7037%2884%2990364-8), [Albarède et
-al. 2012](https://dx.doi.org/10.1111/j.1475-4754.2011.00653.x).
+al. 2012](https://dx.doi.org/10.1111/j.1475-4754.2011.00653.x). The
+U238/U235 ratio is taken from [Goldmann et
+al. 2015](https://dx.doi.org/10.1016/j.gca.2014.09.008).
 
 By hitting the “Match database” button (4), all data from GlobaLID with
 overlapping lead isotope ratios will be selected. With “Reset” (5) you
