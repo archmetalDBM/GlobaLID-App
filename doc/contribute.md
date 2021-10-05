@@ -29,7 +29,9 @@ and to follow these notations:
     -   “New data”:
         -   Published material: Please provide a pdf of the original
             publication, its DOI (if available, otherwise “n/a”) and its
-            full citation.
+            full citation. Files larger than 25 MB cannot be submitted
+            via the app, please send them to us by
+            [mail](mailto:globalid@bergbaumuseum.de?subject=GlobaLID:%20pdf%20file%20submission)
         -   Unpublished material: This feature will be available soon.
     -   “Update data”:
         -   No further information is necessary.
