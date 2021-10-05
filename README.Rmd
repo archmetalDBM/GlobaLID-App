@@ -12,6 +12,7 @@ knitr::opts_chunk$set(
   out.width = "100%"
 )
 
+source("update.R")
 ```
 
 # GlobaLID App <img src="www/logo.svg" align="right" width="120" />
@@ -19,11 +20,20 @@ knitr::opts_chunk$set(
 Here you can find the source code of the GlobaLID web app.
 
 # What is GlobaLID? 
-GlobaLID is a Global Lead Isotope Database and aims to facilitate the reconstruction of raw material provenances with lead isotopes, especially in archaeology. The app provides direct access to and convenient interaction with the [GlobaLID database](https://doi.org/will_be_provided). You can filter the database according to your research question, upload own data to compare it with GlobaLID, and produce and download publication ready plots. 
+GlobaLID is a Global Lead Isotope Database and aims to facilitate the reconstruction of raw material provenances with lead isotopes, especially in archaeology. The app provides direct access to and convenient interaction with the [GlobaLID database](https://doi.org/10.5880/fidgeo.2021.031). You can filter the database according to your research question, upload own data to compare it with GlobaLID, and produce and download publication ready plots. 
 
 # How to cite
-If you use the GlobaLID app, please cite it as: 
-< citation of data publication with bibtex or ris copy/paste template > 
+If you use the GlobaLID app, please cite it as:  
+GlobaLID Core Team. (2021). GlobaLID web application V. `r app_version`, database status: `r format.Date(update_database, "%F")`. [https://globalid.dmt-lb.de/](https://globalid.dmt-lb.de/)
+
+```
+@misc{GlobaLIDCoreTeam.2021,
+ author = {{GlobaLID Core Team}},
+ year = {2021},
+ title = {{GlobaLID web application V. `r app_version`, database status: `r format.Date(update_database, "%F")`}},
+ url = {https://globalid.dmt-lb.de/}
+}
+```
 
 # Become a contributor! 
 GlobaLID needs your help to grow and to provide high quality datasets! The core team is permanently reviewing and adding new and old data from the literature to keep GlobaLID growing. However, we are neither proficient enough with the geology and geography of all parts of the world nor do we know all publications with lead isotope data from ores and minerals. Hence we are happy about any support from our community. Interested? Write us! 

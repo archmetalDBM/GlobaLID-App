@@ -11,14 +11,22 @@ GlobaLID is a Global Lead Isotope Database and aims to facilitate the
 reconstruction of raw material provenances with lead isotopes,
 especially in archaeology. The app provides direct access to and
 convenient interaction with the [GlobaLID
-database](https://doi.org/will_be_provided). You can filter the database
-according to your research question, upload own data to compare it with
-GlobaLID, and produce and download publication ready plots.
+database](https://doi.org/10.5880/fidgeo.2021.031). You can filter the
+database according to your research question, upload own data to compare
+it with GlobaLID, and produce and download publication ready plots.
 
 # How to cite
 
-If you use the GlobaLID app, please cite it as: &lt; citation of data
-publication with bibtex or ris copy/paste template &gt;
+If you use the GlobaLID app, please cite it as:  
+GlobaLID Core Team. (2021). GlobaLID web application V. 1.0, database
+status: 2021-10-03. <https://globalid.dmt-lb.de/>
+
+    @misc{GlobaLIDCoreTeam.2021,
+     author = {{GlobaLID Core Team}},
+     year = {2021},
+     title = {{GlobaLID web application V. 1.0, database status: 2021-10-03}},
+     url = {https://globalid.dmt-lb.de/}
+    }
 
 # Become a contributor!
 

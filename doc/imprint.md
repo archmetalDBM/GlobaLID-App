@@ -76,17 +76,71 @@ This licence allows you to:
 
 provided you attribute the GlobaLID Core Team as the source of the
 copyright material. The GlobaLID Core Team requests attribution as:  
-“Zitation der App”.
+"GlobaLID Core Team. (2021). GlobaLID web application V. 1.0, database
+status: 03 Oktober 2021. <https://globalid.dmt-lb.de/>.
 
 Please attribute to GlobaLID in publications by citing :
 
--   For the project: Article
--   For the database: Westner, Katrin J.; Rose, Thomas; Klein, Sabine;
-    Hsu, Yiu-Kang (2021): GlobaLID – Global Lead Isotope Database. V.
-    1.0. GFZ Data Services. <https://doi.org/10.5880/fidgeo.2021.031>
--   For using the application: Reference App (wie oben)
+-   For the project: tba
+-   For the database:  
+    Westner, Katrin J.; Rose, Thomas; Klein, Sabine; Hsu, Yiu-Kang
+    (2021): GlobaLID – Global Lead Isotope Database. V. 1.0. GFZ Data
+    Services. <https://doi.org/10.5880/fidgeo.2021.031>
+-   For the application:  
+    GlobaLID Core Team (2021): GlobaLID web application V. 1.0, database
+    status: 2021-10-03. <https://globalid.dmt-lb.de/>
 
-For direct import into your reference manager, please download the [ris
-file](Link) or [bibtex file](Link).
+Copy-Paste templates for direct import into your reference manager:
+<details>
+<summary>
+bibtex
+</summary>
+
+    @misc{Westner.2021,
+     author = {Westner, Katrin J. and Rose, Thomas and Klein, Sabine and Hsu, Yiu-Kang},
+     year = {2021},
+     title = {{GlobaLID -- Global Lead Isotope Database V. 1.0}},
+     publisher = {{GFZ Data Services}},
+     doi = {10.5880/fidgeo.2021.031}, 
+     url = {https://doi.org/10.5880/fidgeo.2021.031}
+    }
+
+    @misc{GlobaLIDCoreTeam.2021,
+     author = {{GlobaLID Core Team}},
+     year = {2021},
+     title = {{GlobaLID web application V. 1.0, database status: 2021-10-03}},
+     url = {https://globalid.dmt-lb.de/}
+    }
+
+</details>
+<details>
+<summary>
+ris
+</summary>
+
+    TY  - DATA
+    AU  - Westner, Katrin J
+    AU  - Rose, Thomas
+    AU  - Klein, Sabine
+    AU  - Hsu, Yiu-Kang
+    TI  - GlobaLID -- Global Lead Isotope Database
+    ET  - V. 1.0
+    PY  - 2021
+    DA  - 2021
+    PB  - GFZ Data Services
+    DO  - 10.5880/fidgeo.2021.031
+    UR  - https://doi.org/10.5880/fidgeo.2021.031
+    ER  - 
+
+    TY  - COMP
+    AU  - GlobaLID Core Team
+    TI  - GlobaLID web application
+    ET  - V. 1.0, database status: 03 October 2021
+    PY  - 2021
+    DA  - 2021
+    UR  - https://globalid.dmt-lb.de/
+    ER  - 
+
+</details>
 
 ## [Privacy statement (link opens in new tab)](https://dse.cortina-consult.com/privacy/6140aab59b531)
