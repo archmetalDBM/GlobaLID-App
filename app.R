@@ -31,6 +31,9 @@ providers <- readRDS("data/providers.rds")
 
 use_providers(providers)
 
+tmpdir <- tempdir()
+options(shiny.maxRequestSize=25*1024^2)
+
 # load datasets
 data_complete <- readRDS("data/database_complete.rds") 
 
@@ -57,9 +60,6 @@ minerals <- data_complete %>%
   drop_na() %>%
   distinct() %>%
   pull()
-
-tmpdir <- tempdir()
-options(shiny.maxRequestSize=25*1024^2)
 
 # UI side -----------------------------------------------------------------
 ui <- dashboardPage(
@@ -1561,36 +1561,36 @@ server <- function(input, output, session) {
       
       if (all(status_data, status_pdf, status_doi, status_citation, status_type, status_user, status_comment)) {
         
-        body <- paste(
+        mail_text <- paste(
           "Dear GlobaLID Core Team, ", 
-          paste0(input$contribute_user, " made a submission:"), 
+          paste0("there is a new submission by ", input$contribute_user), 
           paste0("Type: ", input$contribute_type), 
-          paste0("Publication: ", if (!input$contribute_type == "update") input$contribute_citation else "see attachment"), 
-          paste0("DOI: ", if (!input$contribute_type == "update") input$contribute_doi else "see attachment"), 
+          paste0("Publication: ", if (!input$contribute_type == "update") input$contribute_citation else "in data file"), 
+          paste0("DOI: ", if (!input$contribute_type == "update") input$contribute_doi else "in data file"), 
           paste0("Comments: ", input$contribute_comments), 
           paste(
-            "The uploaded data file has the following parameters: ",
+            "The uploaded data file has the following parameters: \n",
             paste0("  Separator: ", input$contribute_sep), 
             paste0("  Quote: ", input$contribute_quote),
             paste0("  Decimal sign: ", input$contribute_dec),
             sep = "\n"
           ),
           "Please find the uploaded files attached.", 
-          "Enjoy! \n Your GlobaLID App", 
+          paste("Enjoy!", "Your GlobaLID App", sep = "\n"),
           sep = "\n\n"
           )
         
         attachment_data <- mime_part(input$contribute_data$datapath, input$contribute_data$name)
         if (!is.null(input$contribute_publication)) {attachment_pdf <- mime_part(input$contribute_publication$datapath, input$contribute_publication$name)} else {attachment_pdf <- NULL}
         
-        bodyWithAttachment <- list(body,attachment_data, attachment_pdf)
+        msg <- list(mail_text, attachment_data, attachment_pdf)
         
         sendmail(
-          from = "no-reply@globalid-app.de",
-          to = "thomas.rose@daad-alumni.de",
+          from = "no-reply@globalid.dmt-lb.de",
+          to = "globalid@bergbaumuseum.de",
           subject = "GlobaLID: New submission",
-          msg = bodyWithAttachment,
-          control = list(smtpServer="localhost", verbose = TRUE)
+          msg = msg,
+          control = list(smtpServer="localhost")
           )
 
         showModal(
