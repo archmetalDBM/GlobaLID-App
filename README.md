@@ -41,7 +41,7 @@ Interested? Write us!
 -   Database: Katrin J. Westner (Ecole Normale Supérieure de Lyon, CNRS,
     Université de Lyon, Lyon, France)
 -   Programming: Thomas Rose (Department of Archaeology, Ben-Gurion
-    University of the Negev, Be’er Sheva, Israel & Department of
+    University of the Negev, Be’er Sheva, Israel; Department of
     Antiquity, Sapienza University of Rome, Rome, Italy)
 -   East Asia: Yiu-Kang Hsu (Forschungsbereich Archäometallurgie,
     Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum
@@ -60,8 +60,8 @@ and profited from the generous sharing of published lead isotope
 datasets by many colleagues. The creative and collective work of
 compiling the database and application was initiated when all members of
 the Core Team and E. Salzmann were members of the Archaeometallurgy
-group at the German Mining Museum (DBM). H. Zietsch (DBM) compiled the
-initial literature references.
+group at the Deutsches Bergbau-Museum Bochum (DBM). H. Zietsch (DBM)
+compiled the initial literature references.
 
 The Core Team feels deeply grateful for the support of the contributors.
 Without their efforts, GlobaLID would grow much slower and less

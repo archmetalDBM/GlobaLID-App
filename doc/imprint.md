@@ -78,10 +78,12 @@ provided you attribute the GlobaLID Core Team as the source of the
 copyright material. The GlobaLID Core Team requests attribution as:  
 “Zitation der App”.
 
-In Publications please attribute to GlobaLID by citing :
+Please attribute to GlobaLID in publications by citing :
 
 -   For the project: Article
--   For the database: Reference Datenpublikation
+-   For the database: Westner, Katrin J.; Rose, Thomas; Klein, Sabine;
+    Hsu, Yiu-Kang (2021): GlobaLID – Global Lead Isotope Database. V.
+    1.0. GFZ Data Services. <https://doi.org/10.5880/fidgeo.2021.031>
 -   For using the application: Reference App (wie oben)
 
 For direct import into your reference manager, please download the [ris

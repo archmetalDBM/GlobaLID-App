@@ -133,7 +133,7 @@ data.frame(
          width="96"></a>'), 
   Text = paste("Web Hosting: ", 
                '<b><a href="https://www.bergbaumuseum.de/en/">Deutsches Bergbau-Museum Bochum</a></b>', 
-               "Text", 
+               "The Deutsches Bergbau-Museum Bochum – founded in 1930 – is one of eight research museums belonging to the Leibniz Association. It researches, teaches and preserves the history of the mining, processing and use of geo-resources across all of the relevant time periods. Its research areas include: archaeometallurgy, mining history, materials science, and mining archaeology, together with the research laboratory, and the Montanhistorische Dokumentationszentrum.", 
                sep = "<br>")
 ) %>%
 kable(escape = FALSE, col.names = NULL) %>% 
@@ -158,7 +158,7 @@ cat("<br>")
 
 ## Acknowledgements
 
-The initial GlobaLID database was compiled during years of own research and profited from the generous sharing of published lead isotope datasets by many colleagues. The creative and collective work of compiling the database and application was initiated when all members of the Core Team and E. Salzmann were members of the Archaeometallurgy group at the German Mining Museum (DBM). Hannah Zietsch (DBM) compiled the initial literature references. Annette Hornschuch (DBM) and Helge Wiethoff (DMT-LB) provided support during the preparation and deployment of the app. 
+The initial GlobaLID database was compiled during years of own research and profited from the generous sharing of published lead isotope datasets by many colleagues. The creative and collective work of compiling the database and application was initiated when all members of the Core Team and E. Salzmann were members of the Archaeometallurgy group at the Deutsches Berbau-Museum Bochum (DBM). Hannah Zietsch (DBM) compiled the initial literature references. Annette Hornschuch (DBM) and Helge Wiethoff (DMT-LB) provided support during the preparation and deployment of the app. 
 
 The Core Team feels deeply grateful for the support of the contributors. Without their efforts, GlobaLID would grow much slower and less accurate. 
 
