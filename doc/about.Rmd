@@ -17,10 +17,90 @@ add_Link <- function(link, icon, font) {
   paste0("<a href=\"", link, "\">", as.character(if (font == "ai") {academicons(icon)} else {fontawesome(icon)}), "</a>")
 }
 
+source("../update.R")
+
 ```
 
 ## What is GlobaLID? 
 GlobaLID is a Global Lead Isotope Database and aims to facilitate the reconstruction of raw material provenances with lead isotopes, especially in archaeology. The app provides direct access to and convenient interaction with the [GlobaLID database](https://doi.org/10.5880/fidgeo.2021.031). You can filter the database according to your research question, upload own data to compare it with GlobaLID, and produce and download publication ready plots. The "References" page lists all references from which data are currently included in GlobaLID. There are still data missing? Consider to become a contributor and help to let GlobaLID grow! 
+
+## Copyright
+
+© The GlobaLID Core Team `r format.Date(Sys.Date(), "%Y")` (unless indicated otherwise)
+
+The copyright material published on this website is subject to the German Copyright law, and is owned by the GlobaLID Core Team or, where indicated, by a party other than the GlobaLID Core Team. The GlobaLID Core Team supports and encourages use of its material for all legitimate purposes.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/) Copyright material available on this website is licensed under a [Creative Commons Attribution 4.0 International (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/) licence unless indicated otherwise. 
+
+<details>
+  <summary> Show details </summary>
+
+This licence allows you to:
+
+* **Share** — copy and redistribute the material in any medium or format
+* **Adapt** — remix, transform, and build upon the material
+* for any purpose, even commercially
+
+provided you attribute the GlobaLID Core Team as the source of the copyright material. The GlobaLID Core Team requests attribution as:  
+"GlobaLID Core Team (2021): GlobaLID web application V. `r app_version`, database status: `r format.Date(update_database, "%d %B %Y")`. [https://globalid.dmt-lb.de/](https://globalid.dmt-lb.de/). 
+
+</details>
+
+## How to cite 
+
+Please attribute to GlobaLID by citing: 
+
+* Westner, Katrin J.; Rose, Thomas; Klein, Sabine; Hsu, Yiu-Kang (2021): GlobaLID – Global Lead Isotope Database. V. 1.0. GFZ Data Services. [https://doi.org/10.5880/fidgeo.2021.031](https://doi.org/10.5880/fidgeo.2021.031) 
+* GlobaLID Core Team (2021): GlobaLID web application V. `r app_version`, database status: `r format.Date(update_database, "%F")`. [https://globalid.dmt-lb.de/](https://globalid.dmt-lb.de/)
+
+For direct import into your reference manager copy the citations as 
+<details>
+  <summary>bibtex</summary>
+```
+@misc{Westner.2021,
+ author = {Westner, Katrin J. and Rose, Thomas and Klein, Sabine and Hsu, Yiu-Kang},
+ year = {2021},
+ title = {{GlobaLID -- Global Lead Isotope Database V. 1.0}},
+ publisher = {{GFZ Data Services}},
+ doi = {10.5880/fidgeo.2021.031}, 
+ url = {https://doi.org/10.5880/fidgeo.2021.031}
+}
+
+@misc{GlobaLIDCoreTeam.2021,
+ author = {{GlobaLID Core Team}},
+ year = {2021},
+ title = {{GlobaLID web application V. `r app_version`, database status: `r format.Date(update_database, "%F")`}},
+ url = {https://globalid.dmt-lb.de/}
+}
+```
+</details>
+<details>
+  <summary>ris</summary>
+```
+TY  - DATA
+AU  - Westner, Katrin J
+AU  - Rose, Thomas
+AU  - Klein, Sabine
+AU  - Hsu, Yiu-Kang
+TI  - GlobaLID -- Global Lead Isotope Database
+ET  - V. 1.0
+PY  - 2021
+DA  - 2021
+PB  - GFZ Data Services
+DO  - 10.5880/fidgeo.2021.031
+UR  - https://doi.org/10.5880/fidgeo.2021.031
+ER  - 
+
+TY  - COMP
+AU  - GlobaLID Core Team
+TI  - GlobaLID web application
+ET  - V. 1.0, database status: 03 October 2021
+PY  - 2021
+DA  - 2021
+UR  - https://globalid.dmt-lb.de/
+ER  - 
+```
+</details>
 
 ## Core Team
 
@@ -101,7 +181,7 @@ cat("<br>")
 
 ## Contributors
 
-You want to contribute to GlobaLID? Please get in touch with a member of the Core Team, we are looking forward to your message! 
+You want to contribute to GlobaLID? Please get in touch with us, we are looking forward to your message! 
 
 ```{r echo=FALSE, results='asis'}
 data.frame(
@@ -123,7 +203,6 @@ kable(escape = FALSE, col.names = NULL) %>%
   column_spec(2, color = "black")
 cat("<br>")
 ```
-
 
 ## Partners and Supporting Institutions
 ```{r echo=FALSE, results='asis'}
@@ -162,7 +241,7 @@ The initial GlobaLID database was compiled during years of own research and prof
 
 The Core Team feels deeply grateful for the support of the contributors. Without their efforts, GlobaLID would grow much slower and less accurate. 
 
-We are indebted to the R Core Team for providing and maintaining [R](https://cran.r-project.org/) and all the authors of the fantastic packages we used, especially Hadley Wickham and the RStudio team. We are immensely grateful to the [OpenStreetMap contributors](https://www.openstreetmap.org) from whose Nominatim database we obtain most of the the geographical meta-information. Last but definitely not least, the knowledge provided by the community on [Stackoverflow](https://stackoverflow.com/) and many other pages was a constant source of inspiration and an enormous help during the development of the app. 
+We are indebted to the R Core Team for providing and maintaining [R](https://cran.r-project.org/) and all the authors of the fantastic packages we use, especially Hadley Wickham and the RStudio team. We are immensely grateful to the [OpenStreetMap contributors](https://www.openstreetmap.org) from whose Nominatim database we obtain most of the the geographical meta-information. Last but definitely not least, the knowledge provided by the community on [Stackoverflow](https://stackoverflow.com/) and many other pages was a constant source of inspiration and an enormous help during the development of the app. 
 
 The following packages are used in the app and/or for work on the database: 
 
