@@ -1167,7 +1167,7 @@ server <- function(input, output, session) {
   
   output$preview <- renderPlot({
     
-    req(map_iv$is_valid(), general_iv$is_valid())
+    req(map_iv$is_valid(), general_iv$is_valid(), input$sidebar == "map")
     
     if (!is.null(database())) {
       
