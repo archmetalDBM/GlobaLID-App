@@ -103,3 +103,6 @@ app uses the following packages:
 -   [viridisLite](https://sjmgarnier.github.io/viridisLite/)
 -   [waiter](https://shiny.john-coene.com/waiter/)
 -   [zip](https://cran.r-project.org/web/packages/zip)
+
+The implementation of the hCaptcha is a modified version of
+[shinyCAPTCHA](https://github.com/carlganz/shinyCAPTCHA).
