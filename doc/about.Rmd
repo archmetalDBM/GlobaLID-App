@@ -169,6 +169,7 @@ data.frame(
                paste(
                  add_Link("mailto:Yiu-Kang.Hsu@bergbaumuseum.de?subject=GlobaLID", "envelope", "fa"),
                  add_Link("https://www.bergbaumuseum.de/en/museum/mitarbeitende/kontakt-detailseite/yiu-kang-hsu", "globe", "fa"), 
+                 add_Link("https://orcid.org/0000-0002-2439-4863", "orcid", "ai"),
                  sep = " "), 
                sep = "<br>")
 ) %>%
