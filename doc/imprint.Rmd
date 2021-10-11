@@ -10,32 +10,43 @@ always_allow_html: true
 ```{r setup, include=FALSE, warning=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 
-source("../update.R")
-
 ```
 
 ## Legal Notice 
 
-The Deutsche Bergbau-Museum Bochum (German Mining Museum Bochum) is an operational unit of the responsible DMT-Gesellschaft für Lehre und Bildung mbH (DMT-LB). 
+The Deutsche Bergbau-Museum Bochum is a dependent facility of the DMT-Gesellschaft für Lehre und Bildung mbH.
 
-Provider of this website within the meaning of § 5 German Telemedia Act (TMG) is thus:  
+Provider according to § 5 TMG is therefore:  
 DMT-Gesellschaft für Lehre und Bildung mbH  
-mit dem Deutschen Bergbau-Museum Bochum  
+Am Bergbaumuseum 28  
+44791 Bochum  
+Phone +49 234 5877-0  
+E-Mail: [info@bergbaumuseum.de](info@bergbaumuseum.de)
+
+Managing Director: Prof. Dr. Jürgen Kretschmann (chairman), Adolf Siethoff  
+
+commercial register: Amtsgericht Bochum, HRB 4052  
+VAT identification number according to § 27 UStG: DE124091698  
+
+Regulatory body: Ministerium für Kultur und Wissenschaft des Landes Nordrhein Westfalen  
+
+### Impressum
+
+Das Deutsche Bergbau-Museum Bochum ist eine unselbstständige Betriebseinheit der DMT-Gesellschaft für Lehre und Bildung mbH. 
+
+Anbieter nach § 5 TMG ist daher:  
+DMT-Gesellschaft für Lehre und Bildung mbH  
 Am Bergbaumuseum 28  
 44791 Bochum  
 Tel. +49 234 5877-0  
-E-Mail: [info@bergbaumuseum.de](mailto:info@bergbaumuseum.de)  
+E-Mail: [info@bergbaumuseum.de](info@bergbaumuseum.de)  
 
-Directors of the DMT-LB: Prof. Dr. Jürgen Kretschmann (Chairman), Adolf Siethoff  
+Geschäftsführer: Prof. Dr. Jürgen Kretschmann (Vorsitzender), Adolf Siethoff  
 
-Registration Court: Amtsgericht Bochum  
-Registration number: HRB 4052  
-VAT identification number according to § 27 of the German Sales Tax Act: DE124091698
+Handelsregister Amtsgericht Bochum, HRB 4052  
+Umsatzsteueridentifikationsnummer nach § 27 UStG: DE124091698  
 
-While we endeavour to keep the information provided in the GlobaLID database and application up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the website or the information, services, or related graphics contained on the website for any purpose. Any reliance you place on such information is therefore strictly at your own risk. If you are in doubt of the data, please refer to the respective original publications. If you spot an error, please get in contact with the GlobaLID Core Team ([globalid@bergbaumuseum.de](mailto:globalid@bergbaumuseum.de)).  
-In no event will we be liable for any loss or damage including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from loss of data or profits arising out of, or in connection with, the use of this website.  
+Zuständige Aufsichtsbehörde: Ministerium für Kultur und Wissenschaft des Landes Nordrhein Westfalen  
 
-As a service provider we are responsible under general law and in accordance with § 7 (1) German Telemedia Act (TMG) for our own contents on this website. Pursuant to §§ 8 through 10 TMG we are not responsible as a service provider to monitor transferred or stored information of third parties or to research circumstances that suggest an illegal activity.  
-Obligations for the removal or blocking of the use of information in accordance with the general laws remain unaffected. However, any liability in this respect is only incurred from the moment that knowledge of the specific infringement is obtained. Once a specific infringement has been identified, we will immediately remove the infringing contents.
 
 ## [Privacy statement (link opens in new tab)](https://dse.cortina-consult.com/privacy/6140aab59b531)
