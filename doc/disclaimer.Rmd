@@ -1,0 +1,21 @@
+---
+title: "Disclaimer"
+author: "Thomas Rose"
+date: "28 2 2021"
+output:  md_document
+always_allow_html: true
+
+---
+
+```{r setup, include=FALSE, warning=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+```
+
+## Disclaimer 
+
+The data and information used in the tool come from many different sources, including third parties. The data was taken as stated in the original publication. The accuracy of their collection has not been verified.
+
+## Haftungsausschluss
+
+Die Daten und Informationen, die in dem Tool verwendet werden, stammen u.a. aus vielen unterschiedlichen Quellen und auch von Dritten. Die Daten wurden wie in der Originalpublikation angegeben übernommen. Die Richtigkeit ihrer Erhebung wurde nicht überprüft.

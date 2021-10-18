@@ -224,6 +224,11 @@ ui <- dashboardPage(
         "Legal Notice & Privacy",
         tabName = "imprint",
         icon = icon("balance-scale")
+      ),
+      menuItem(
+        "Disclaimer",
+        tabName = "disclaimer",
+        icon = icon("exclamation-triangle")
       )#,
       #menuItem( # activate when bug is solved, update heading of Legal notice item, update imprint.rmd
       #  "Privacy",
@@ -530,6 +535,10 @@ ui <- dashboardPage(
       tabItem(
         tabName = "imprint", 
         includeMarkdown("doc/imprint.md") 
+      ),
+      tabItem(
+        tabName = "disclaimer", 
+        includeMarkdown("doc/disclaimer.md") 
       ),
       tabItem(
         tabName = "contribute", 
