@@ -38,5 +38,5 @@ kable(table, escape = FALSE, col.names = c("Function", "Description", "Required 
 
 ```
 
-The source code of the GlobaLID web application is available on [GitHub](https://github.com/archmetalDBM/GlobaLID-App). 
+The source code of the GlobaLID web application is available on [GitHub](https://github.com/archmetalDBM/GlobaLID-App){target="_blank"}. 
 

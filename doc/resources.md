@@ -87,4 +87,4 @@ httr, jsonlite, shiny
 </table>
 
 The source code of the GlobaLID web application is available on
-[GitHub](https://github.com/archmetalDBM/GlobaLID-App).
+<a href="https://github.com/archmetalDBM/GlobaLID-App" target="_blank">GitHub</a>.

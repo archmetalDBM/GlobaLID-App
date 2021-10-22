@@ -40,4 +40,4 @@ Umsatzsteueridentifikationsnummer nach § 27 UStG: DE124091698
 Zuständige Aufsichtsbehörde: Ministerium für Kultur und Wissenschaft des
 Landes Nordrhein Westfalen
 
-## [Privacy statement (link opens in new tab)](https://dse.cortina-consult.com/privacy/6140aab59b531)
+## <a href="https://dse.cortina-consult.com/privacy/6140aab59b531" target="_blank">Privacy statement (link opens in new tab)</a>
