@@ -163,7 +163,7 @@ data.frame(
 cat("<br>")
 
 data.frame(
-  Portrait = paste0("![](../www/logo.svg){height=96px}"), 
+  Portrait = paste0("![](../www/Y-KHsu.png){height=96px}"), 
   Text = paste("<b>Yiu-Kang Hsu</b> (East Asia)", 
                "Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany", 
                paste(

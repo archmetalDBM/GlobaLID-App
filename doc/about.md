@@ -222,7 +222,7 @@ France<br><a href="mailto:katrin.westner@ens-lyon.fr?subject=GlobaLID"><svg view
 <tbody>
 <tr>
 <td style="text-align:left;min-width: 110px; ">
-<img src="../www/logo.svg" height="96" />
+<img src="../www/Y-KHsu.png" height="96" />
 </td>
 <td style="text-align:left;color: black !important;">
 <b>Yiu-Kang Hsu</b> (East Asia)<br>Forschungsbereich Archäometallurgie,
