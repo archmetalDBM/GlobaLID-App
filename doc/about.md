@@ -43,7 +43,7 @@ This licence allows you to:
 provided you attribute the GlobaLID Core Team as the source of the
 copyright material. The GlobaLID Core Team requests attribution as:  
 "GlobaLID Core Team (2021): GlobaLID web application V. 1.0, database
-status: 03 Oktober 2021. <https://globalid.dmt-lb.de/>.
+status: 01 November 2021. <https://globalid.dmt-lb.de/>.
 
 </details>
 
@@ -55,7 +55,7 @@ Please attribute to GlobaLID by citing:
     (2021): GlobaLID – Global Lead Isotope Database. V. 1.0. GFZ Data
     Services. <https://doi.org/10.5880/fidgeo.2021.031>
 -   GlobaLID Core Team (2021): GlobaLID web application V. 1.0, database
-    status: 2021-10-03. <https://globalid.dmt-lb.de/>
+    status: 2021-11-01. <https://globalid.dmt-lb.de/>
 
 For direct import into your reference manager copy the citations as
 <details>
@@ -75,7 +75,7 @@ bibtex
     @misc{GlobaLIDCoreTeam.2021,
      author = {{GlobaLID Core Team}},
      year = {2021},
-     title = {{GlobaLID web application V. 1.0, database status: 2021-10-03}},
+     title = {{GlobaLID web application V. 1.0, database status: 2021-11-01}},
      url = {https://globalid.dmt-lb.de/}
     }
 
