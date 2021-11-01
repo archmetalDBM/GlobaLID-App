@@ -14,7 +14,7 @@ database_clean <- database %>%
 
 saveRDS(database_clean, "data/database_clean.rds")
 
-# update providers of maps
+# update map providers
 library(jsonlite)
 library(leaflet.providers)
 
@@ -28,12 +28,3 @@ render("doc/resources.rmd")
 render("doc/references.rmd")
 render("doc/about.rmd")
 render("doc/instructions.rmd")
-
-# deploy
-library(rsconnect)
-
-deployApp(
-  appFileManifest = "files_to_deploy.txt", 
-  appName = "ProLeadTest"
-)
-
