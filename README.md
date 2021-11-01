@@ -1,5 +1,9 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
+<!-- badges: start -->
+
+[![Release](https://img.shields.io/github/v/release/archmetalDBM/GlobaLID-database.svg)](https://github.com/archmetalDBM/GlobaLID-App)
+<!-- badges: end -->
 
 # GlobaLID App <img src="www/logo.svg" align="right" width="120" />
 
@@ -19,12 +23,12 @@ it with GlobaLID, and produce and download publication ready plots.
 
 If you use the GlobaLID app, please cite it as:  
 GlobaLID Core Team. (2021). GlobaLID web application V. 1.0, database
-status: 2021-10-03. <https://globalid.dmt-lb.de/>
+status: 2021-11-01. <https://globalid.dmt-lb.de/>
 
     @misc{GlobaLIDCoreTeam.2021,
      author = {{GlobaLID Core Team}},
      year = {2021},
-     title = {{GlobaLID web application V. 1.0, database status: 2021-10-03}},
+     title = {{GlobaLID web application V. 1.0, database status: 2021-11-01}},
      url = {https://globalid.dmt-lb.de/}
     }
 
