@@ -1,5 +1,12 @@
 ## News
 
+2021-11-01 – Additional data from Greece included (contributor: K. J.
+Westner). The database now includes 2141 entries.
+
+# Release of GlobaLID web application V. 1.0
+
+2021-11-01 – Version 1.0 of the GlobaLID web application is now online!
+
 # Release of GlobaLID database V. 1.0
 
 2021-10-06 – Version 1.0 of the GlobaLID database is now available at
