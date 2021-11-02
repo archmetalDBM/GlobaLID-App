@@ -1103,7 +1103,7 @@ server <- function(input, output, session) {
     req(input$sidebar == "map")
     
     leafletProxy("map_box") %>%
-      clearGroup("Database") 
+      clearMarkerClusters()
     
     if (!is.null(database())) {
       
@@ -1156,6 +1156,7 @@ server <- function(input, output, session) {
     req(input$sidebar == "map")
     
     leafletProxy("map_box") %>%
+      clearMarkerClusters()
       clearGroup("My data") %>%
       addLayersControl(
         baseGroups = c("OSM", "Topo", "Topo light", "Satellite", "Greyscale"),
@@ -1371,9 +1372,9 @@ server <- function(input, output, session) {
           select(-Note, -year, -tooltip)
         
         switch(input$download_data_filetype, 
-               "txt" = write.table(database_down, file.path(tmpdir, filename_database), sep = "\t", row.names = FALSE), 
-               "csv1" = write.csv(database_down, file.path(tmpdir, filename_database)),
-               "csv2" = write.csv2(database_down, file.path(tmpdir, filename_database))
+               "txt" = write.table(database_down, file.path(tmpdir, filename_database), sep = "\t", row.names = FALSE, na = ""), 
+               "csv1" = write.csv(database_down, file.path(tmpdir, filename_database), row.names = FALSE, na = ""),
+               "csv2" = write.csv2(database_down, file.path(tmpdir, filename_database), row.names = FALSE, na = "")
         )
       } 
       
@@ -1384,9 +1385,9 @@ server <- function(input, output, session) {
           select(-tooltip)
         
         switch(input$download_data_filetype, 
-               "txt" = write.table(upload_down, file.path(tmpdir, filename_upload), sep = "\t", row.names = FALSE), 
-               "csv1" = write.csv(upload_down, file.path(tmpdir, filename_upload)),
-               "csv2" = write.csv2(upload_down, file.path(tmpdir, filename_upload))
+               "txt" = write.table(upload_down, file.path(tmpdir, filename_upload), sep = "\t", row.names = FALSE, na = ""), 
+               "csv1" = write.csv(upload_down, file.path(tmpdir, filename_upload), row.names = FALSE, na = ""),
+               "csv2" = write.csv2(upload_down, file.path(tmpdir, filename_upload), row.names = FALSE, na = "")
         )
       } 
       
@@ -1426,28 +1427,28 @@ server <- function(input, output, session) {
                cat(rep("#", 3), rep(" ", 15), "Filter settings and References of export", rep(" ", 15), rep("#", 3), sep = "", fill = 76, file = file.path(tmpdir, filename_references), append = TRUE)
                cat(rep("#", 3), rep(" ", 70), rep("#", 3), sep = "", fill = 76, file = file.path(tmpdir, filename_references), append = TRUE)
                cat(rep("#", 76), sep = "", fill = 76, file = file.path(tmpdir, filename_references), append = TRUE)
-               cat("\nFilter Settings ", sep = "\n", fill = 76, file = file.path(tmpdir, filename_references), append = TRUE)
-               cat("\n Country: ", sep = "", file = file.path(tmpdir, filename_references), append = TRUE)
-               cat(" ", filter_setting$Country, sep = "\n  ", file = file.path(tmpdir, filename_references), append = TRUE)
-               cat("\n Province: ", sep = "", file = file.path(tmpdir, filename_references), append = TRUE)
-               cat(" ", filter_setting$Province, sep = "\n  ", file = file.path(tmpdir, filename_references), append = TRUE)
-               cat("\n Mining Area: ", sep = "", file = file.path(tmpdir, filename_references), append = TRUE)
-               cat(" ", filter_setting$Area, sep = "\n  ", file = file.path(tmpdir, filename_references), append = TRUE)
-               cat("\n Mining site: ", sep = "", file = file.path(tmpdir, filename_references), append = TRUE)
-               cat(" ", filter_setting$Site, sep = "\n  ", file = file.path(tmpdir, filename_references), append = TRUE)
-               cat("\n Geological Age: ", sep = "", file = file.path(tmpdir, filename_references), append = TRUE)
-               cat(" ", filter_setting$GeolAge, sep = "\n  ", file = file.path(tmpdir, filename_references), append = TRUE)
-               cat("\n Minerals: ", sep = "", file = file.path(tmpdir, filename_references), append = TRUE)
-               cat(" ", filter_setting$Minerals, sep = "\n  ", file = file.path(tmpdir, filename_references), append = TRUE)
-               cat("\n Commodity: ", sep = "", file = file.path(tmpdir, filename_references), append = TRUE)
-               cat(" ", filter_setting$Commodity, sep = "\n  ", file = file.path(tmpdir, filename_references), append = TRUE)
-               cat("\n Instrument: ", sep = "", file = file.path(tmpdir, filename_references), append = TRUE)
-               cat(" ", filter_setting$Instrument, sep = "\n  ", file = file.path(tmpdir, filename_references), append = TRUE)
-               cat("\n Publication year (range): ", sep = "", file = file.path(tmpdir, filename_references), append = TRUE)
-               cat(" ", filter_setting$Year, sep = "\n  ", file = file.path(tmpdir, filename_references), append = TRUE)
-               cat("\n", rep("=", 76), sep = "", fill = 77, file = file.path(tmpdir, filename_references), append = TRUE)
-               cat("\nReferences ", sep = "", fill = 76, file = file.path(tmpdir, filename_references), append = TRUE)
-               cat(" ", references, sep = "\n ", file = file.path(tmpdir, filename_references), append = TRUE)
+               cat("\r\nFilter Settings ", sep = "\r\n", fill = 76, file = file.path(tmpdir, filename_references), append = TRUE)
+               cat("\r\n Country: ", sep = "", file = file.path(tmpdir, filename_references), append = TRUE)
+               cat(" ", filter_setting$Country, sep = "\r\n  ", file = file.path(tmpdir, filename_references), append = TRUE)
+               cat("\r\n Province: ", sep = "", file = file.path(tmpdir, filename_references), append = TRUE)
+               cat(" ", filter_setting$Province, sep = "\r\n  ", file = file.path(tmpdir, filename_references), append = TRUE)
+               cat("\r\n Mining Area: ", sep = "", file = file.path(tmpdir, filename_references), append = TRUE)
+               cat(" ", filter_setting$Area, sep = "\r\n  ", file = file.path(tmpdir, filename_references), append = TRUE)
+               cat("\r\n Mining site: ", sep = "", file = file.path(tmpdir, filename_references), append = TRUE)
+               cat(" ", filter_setting$Site, sep = "\r\n  ", file = file.path(tmpdir, filename_references), append = TRUE)
+               cat("\r\n Geological Age: ", sep = "", file = file.path(tmpdir, filename_references), append = TRUE)
+               cat(" ", filter_setting$GeolAge, sep = "\r\n  ", file = file.path(tmpdir, filename_references), append = TRUE)
+               cat("\r\n Minerals: ", sep = "", file = file.path(tmpdir, filename_references), append = TRUE)
+               cat(" ", filter_setting$Minerals, sep = "\r\n  ", file = file.path(tmpdir, filename_references), append = TRUE)
+               cat("\r\n Commodity: ", sep = "", file = file.path(tmpdir, filename_references), append = TRUE)
+               cat(" ", filter_setting$Commodity, sep = "\r\n  ", file = file.path(tmpdir, filename_references), append = TRUE)
+               cat("\r\n Instrument: ", sep = "", file = file.path(tmpdir, filename_references), append = TRUE)
+               cat(" ", filter_setting$Instrument, sep = "\r\n  ", file = file.path(tmpdir, filename_references), append = TRUE)
+               cat("\r\n Publication year (range): ", sep = "", file = file.path(tmpdir, filename_references), append = TRUE)
+               cat(" ", filter_setting$Year, sep = "\r\n  ", file = file.path(tmpdir, filename_references), append = TRUE)
+               cat("\r\n", rep("=", 76), sep = "", fill = 78, file = file.path(tmpdir, filename_references), append = TRUE)
+               cat("\r\nReferences ", sep = "", fill = 76, file = file.path(tmpdir, filename_references), append = TRUE)
+               cat(" ", references, sep = "\r\n ", file = file.path(tmpdir, filename_references), append = TRUE)
              }, 
              "docx" = {
                rmarkdown::render("doc/References_export_word.Rmd", output_file = file.path(tmpdir, filename_references), envir = new.env(),
