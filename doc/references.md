@@ -5,6 +5,17 @@
     Sinai Peninsula and the Eastern Desert of Egypt (2006, 2008),
     Metalla, 19(1/2), 3–59.
 
+-   Amov, B., Bogdanov, B., and Baldjieva, T., 1974, Lead isotope
+    composition and some features concerning the genesis and the age of
+    the ore deposits in south Bulgaria, 4th IAGOD Symposium, Varna,
+    Bulgaria.
+
+-   Amov, B., Breskovska, B., Baldzhieva, C. T., Evstatieva, S. S., and
+    Mankov, S., 1983, O результатах масс-спектрального анализа свинца
+    свинцо-во-цинковъх месторождений Звездельского рудного поля \[On the
+    results of mass spectral analysis of the lead-zinc deposits of the
+    Zvezdel ore field\], Godine na BMGI, C, 29(2), 79–90.
+
 -   Amov, B., Kolkovski, B., and Dimitrov, R., 1993, Генезис и възраст
     на хидротермални рудни минерализации в родопската металогенна зона
     въз основа на изотопния състав на оловото в галенит  \[Genesis and
@@ -225,10 +236,21 @@
     bleiisotopengeochemischer Untersuchungen, Archiv für
     Lagerstättenforschung der Geologischen Bundesanstalt, 6, 215–22.
 
+-   Kouzmanov, K., Moritz, R., Von Quadt, A., Chiaradia, M., Peytcheva,
+    I., Fontignie, D., Ramboz, C., and Bogdanov, K., 2009, Late
+    Cretaceous porphyry Cu and epithermal Cu-Au association in the
+    Southern Panagyurishte district, Bulgaria: the paired Vlaykov Vruh
+    and Elshitsa deposits, Mineralium Deposita, 44, 611–46.
+    <https://doi.org/10.1007/s00126-009-0239-1>
+
 -   Ludwig, K. R., Vollmer, R., Turi, B., Simmons, K. R., and Perna, G.,
     1989, Isotopic constraints on the genesis of base-metal ores in
     southern and central Sardinia, European Journal of Mineralogy, 1,
     657–66. <https://doi.org/10.1127/ejm/1/5/0657>
+
+-   Marchev, P., and Moritz, R., 2006, Isotopic composition of Sr and Pb
+    in the Central Rhodopean ore fields: Inferences for the genesis of
+    the base-metal deposits, Geologica Balcanica, 35(3–4), 49–61.
 
 -   Marcoux, E., Grancea, L., Lupulescu, M., and Milesi, J., 2002, Lead
     isotope signatures of epithermal and porphyry-type ore deposits from

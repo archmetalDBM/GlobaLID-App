@@ -1,5 +1,8 @@
 ## News
 
+2021-11-15 – Additional data from Bulgaria included (contributor: K. J.
+Westner). The database now includes 2237 entries.
+
 2021-11-01 – Additional data from Greece included (contributor: K. J.
 Westner). The database now includes 2141 entries.
 
