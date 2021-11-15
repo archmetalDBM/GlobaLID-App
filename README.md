@@ -23,12 +23,12 @@ it with GlobaLID, and produce and download publication ready plots.
 
 If you use the GlobaLID app, please cite it as:  
 GlobaLID Core Team. (2021). GlobaLID web application V. 1.0, database
-status: 2021-11-01. <https://globalid.dmt-lb.de/>
+status: 2021-11-15. <https://globalid.dmt-lb.de/>
 
     @misc{GlobaLIDCoreTeam.2021,
      author = {{GlobaLID Core Team}},
      year = {2021},
-     title = {{GlobaLID web application V. 1.0, database status: 2021-11-01}},
+     title = {{GlobaLID web application V. 1.0, database status: 2021-11-15}},
      url = {https://globalid.dmt-lb.de/}
     }
 
