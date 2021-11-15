@@ -2,8 +2,8 @@
 
 The web application is written in [R](https://cran.r-project.org/). The
 following functions were specifically developed for GlobaLID. To use
-them in your own work, download them and lod them into R with
-`source()`.
+them in your own work, download them by clicking on the function name
+and load them into R with `source()`.
 
 <table cellpadding="5">
 <thead>
