@@ -216,8 +216,8 @@
 
 -   Hauptmann, A., Begemann, F., Heitkemper, E., Pernicka, E., and
     Schmitt-Strecker, S., 1992, Early Copper Produced at Feinan, Wadi
-    Arabah, Jordan: The Composition of Ores and Copper,
-    Archaeomaterials, 6, 1–33.
+    Arabah, Jordan: The Composition of Ores and Copper, Archeomaterials,
+    6, 1–33.
 
 -   Janković, S., 1978, Изотопни састав олова у појединим терцијарним
     олово-цинковим српско-македонске металогенетске провинције \[The
