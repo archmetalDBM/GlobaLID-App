@@ -1418,15 +1418,15 @@ server <- function(input, output, session) {
       
       switch(input$download_references_filetype, 
              "txt" = {
-               cat(rep("#", 76), sep = "", fill = 76, file = file.path(tmpdir, filename_references), append = FALSE)
+               cat(rep("#", 76), "\r", sep = "", fill = 78, file = file.path(tmpdir, filename_references), append = FALSE)
                cat(rep("#", 3), rep(" ", 70), rep("#", 3), sep = "", fill = 76, file = file.path(tmpdir, filename_references), append = TRUE)
-               cat(rep("#", 3), rep(" ", 31), "GlobaLID", rep(" ", 31), rep("#", 3), sep = "", fill = 76, file = file.path(tmpdir, filename_references), append = TRUE)
+               cat(rep("#", 3), rep(" ", 31), "GlobaLID", rep(" ", 31), rep("#", 3), "\r", sep = "", fill = 77, file = file.path(tmpdir, filename_references), append = TRUE)
+               cat(rep("#", 3), rep(" ", 70), rep("#", 3), "\r", sep = "", fill = 77, file = file.path(tmpdir, filename_references), append = TRUE)
+               cat(rep("#", 3), rep(" ", 20), "(database status:  ", format(update_database,"%Y-%m-%d"), ")", rep(" ", 20), rep("#", 3), "\r", sep = "", fill = 77, file = file.path(tmpdir, filename_references), append = TRUE)
                cat(rep("#", 3), rep(" ", 70), rep("#", 3), sep = "", fill = 76, file = file.path(tmpdir, filename_references), append = TRUE)
-               cat(rep("#", 3), rep(" ", 20), "(database status:  ", format(update_database,"%Y-%m-%d"), ")", rep(" ", 20), rep("#", 3), sep = "", fill = 76, file = file.path(tmpdir, filename_references), append = TRUE)
-               cat(rep("#", 3), rep(" ", 70), rep("#", 3), sep = "", fill = 76, file = file.path(tmpdir, filename_references), append = TRUE)
-               cat(rep("#", 3), rep(" ", 15), "Filter settings and References of export", rep(" ", 15), rep("#", 3), sep = "", fill = 76, file = file.path(tmpdir, filename_references), append = TRUE)
-               cat(rep("#", 3), rep(" ", 70), rep("#", 3), sep = "", fill = 76, file = file.path(tmpdir, filename_references), append = TRUE)
-               cat(rep("#", 76), sep = "", fill = 76, file = file.path(tmpdir, filename_references), append = TRUE)
+               cat(rep("#", 3), rep(" ", 15), "Filter settings and References of export", rep(" ", 15), rep("#", 3), "\r", sep = "", fill = 77, file = file.path(tmpdir, filename_references), append = TRUE)
+               cat(rep("#", 3), rep(" ", 70), rep("#", 3), "\r", sep = "", fill = 77, file = file.path(tmpdir, filename_references), append = TRUE)
+               cat(rep("#", 76), "\r", sep = "", fill = 77, file = file.path(tmpdir, filename_references), append = TRUE)
                cat("\r\nFilter Settings ", sep = "\r\n", fill = 76, file = file.path(tmpdir, filename_references), append = TRUE)
                cat("\r\n Country: ", sep = "", file = file.path(tmpdir, filename_references), append = TRUE)
                cat(" ", filter_setting$Country, sep = "\r\n  ", file = file.path(tmpdir, filename_references), append = TRUE)
