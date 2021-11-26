@@ -13,6 +13,9 @@ knitr::opts_chunk$set(
 )
 
 library(icons)
+library(ggplot2)
+
+if (!"tmap" %in% installed.packages()) {install.packages("tmap")}
 
 source("update.R")
 ```
@@ -27,6 +30,23 @@ Here you can find the source code of the GlobaLID web app.
 
 # What is GlobaLID? 
 GlobaLID is a Global Lead Isotope Database and aims to facilitate the reconstruction of raw material provenances with lead isotopes, especially in archaeology. The app provides direct access to and convenient interaction with the [GlobaLID database](https://doi.org/10.5880/fidgeo.2021.031). You can filter the database according to your research question, upload own data to compare it with GlobaLID, and produce and download publication ready plots. 
+
+The current version of the GlobaLID database includes data from these locations: 
+```{r map, echo=FALSE, fig.width=10}
+
+data("World", package = "tmap") # load worldmap from package tmap
+
+GlobaLID <- subset(readRDS("data/database_complete.rds"), select = c("Longitude","Latitude"))
+
+ggplot() + 
+  geom_sf(data = World, fill = "white", size = .25) +
+  geom_point(data = GlobaLID, aes(x = Longitude, y = Latitude), size = 0.25, color = "red", shape = 16, alpha = 0.75) +
+  scale_x_continuous(expand = c(0,0)) + 
+  scale_y_continuous(expand = c(0,0)) +
+  theme_void() + 
+  theme(panel.background = element_rect(fill = alpha("darkblue", 0.1), color = NA), 
+        legend.box.background = element_rect(fill = "white", color = NA))
+```
 
 # How to cite
 If you use the GlobaLID app, please cite it as:  

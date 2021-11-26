@@ -19,6 +19,9 @@ database](https://doi.org/10.5880/fidgeo.2021.031). You can filter the
 database according to your research question, upload own data to compare
 it with GlobaLID, and produce and download publication ready plots.
 
+The current version of the GlobaLID database includes data from these
+locations: <img src="man/figures/README-map-1.png" width="100%" />
+
 # How to cite
 
 If you use the GlobaLID app, please cite it as:  
