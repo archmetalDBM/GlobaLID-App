@@ -29,7 +29,7 @@ include_graphics("../www/Instructions_start.png")
 A wide range of options are provided to filter the database. The elements in the header (1 to 4) can be used to adjust some general settings and the elements in the filter area (5 to 13) allow to select data according to specific criteria. 
 
 1. The database to be used. Currently, only "Ores & minerals" are supported but it is planned to provide additional datasets in the future
-2. Whether the whole dataset or only reliable data should be used. The reliability of the data is based solely on the analytical method and excludes all analyses pre-1974 (no mass bias correction) and analyses not measured with a [TIMS](https://en.wikipedia.org/wiki/Isotope-ratio_mass_spectrometry#Thermal_ionization_mass_spectrometry) or [MC-ICP-MS](https://en.wikipedia.org/wiki/Isotope-ratio_mass_spectrometry#Multiple_collector_inductively_coupled_plasma_mass_spectrometry) (too imprecise). By default, this option is active. 
+2. Whether the whole dataset or only reliable data should be used. The reliability of the data is based solely on the analytical method and excludes all analyses pre-1974 (no mass bias correction) and analyses not measured with a [TIMS](https://en.wikipedia.org/wiki/Isotope-ratio_mass_spectrometry#Thermal_ionization_mass_spectrometry){target="_blank"} or [MC-ICP-MS](https://en.wikipedia.org/wiki/Isotope-ratio_mass_spectrometry#Multiple_collector_inductively_coupled_plasma_mass_spectrometry){target="_blank"} (too imprecise). By default, this option is active. 
 3. If only data with exact locations should be used or not. Sometimes, the location or site where the sample was taken cannot be reconstructed. In these cases, coordinates of the next smallest reliably determinable geographical or administrative entity are recorded. 
 4. Whether "unknowns" should be excluded or not. Similar to the location, e.g. the mining site is not always reported. This option is only working on the current subsetting variable. Consequently, switching this variable (e.g. to the country) can change the number of displayed data points. Activating this option will also prevent the appearance of a legend item "unknown" in the plots. 
 5. Select only data located in the specified modern country. 
@@ -84,7 +84,7 @@ Depending on the number of the selected variables (2), certain kinds of plots ("
 
 Plots are provided in an interactive view (6a) and as a preview of the print version, i.e. the one you can download (6b). There are two exceptions: 3D scatter plots can only be viewed interactively and not downloaded. If really necessary, a snapshot can be made with the small camera icon from the toolbar in the upper right corner of the plot. 2D density plots are not available in the interactive plots.  
 
-In the interactive scatter plots (styles "Point" and "2D scatter"), specific data can be selected via the "Box select" or the "Lasso" tool in the upper right corner of the respective plot (7). A table with the selected data will be displayed in the "data table tab" (8) for closer inspection. An explanation for most of the icons in this toolbar can be found [here](https://plotly.com/chart-studio-help/getting-to-know-the-plotly-modebar/) and we encourage you do play around with them. 
+In the interactive scatter plots (styles "Point" and "2D scatter"), specific data can be selected via the "Box select" or the "Lasso" tool in the upper right corner of the respective plot (7). A table with the selected data will be displayed in the "data table tab" (8) for closer inspection. An explanation for most of the icons in this toolbar can be found [here](https://plotly.com/chart-studio-help/getting-to-know-the-plotly-modebar/){target="_blank"} and we encourage you do play around with them. 
 
 ```{r echo=FALSE, out.width = "100%"}
 include_graphics("../www/Instructions_explore.png")
@@ -101,7 +101,7 @@ include_graphics("../www/Instructions_explore.png")
     - Option "Arrangement of groups": separate - all groups are overlapping each other; stacked - all groups on top of each other; stacked & normalised - all groups on top of each other and scaled to 1.
     - Option "Binwidth": The width of the intervals that the data are counted in, provided as the number of intervals the x-axis should be separated into. This value must always be adjusted to the respective selection of the data for an optimal display of the data'S distribution. 
   + Boxplot: 
-    - Please read [here](https://towardsdatascience.com/understanding-boxplots-5e2df7bcbd51) for how to interprete a boxplot. 
+    - Please read [here](https://towardsdatascience.com/understanding-boxplots-5e2df7bcbd51){target="_blank"} for how to interprete a boxplot. 
 * X & Y- axis (Z-axis is net to "none"): 
   + Point
     - A scatter plot. 
@@ -125,7 +125,7 @@ The legend in the interactive plot is scrollable to maximise the graph. Clicking
 
 #### Colour palettes
 
-A wide range of colour palettes is available and all are optimised for colour-blind persons. However, except for the ones in the section "Viridis or similar", most do not support a large amount of groups. If more groups are supplied to a palette than the palette contains colours, the groups will be displayed as white colour, i. e. are invisible in the plot and appear "without a signature" in the legend. You can see the palettes of the Viridis-section [here](https://matplotlib.org/stable/_images/sphx_glr_colormaps_001.png) and the ones of the Colorbrewer-sections [here](https://www.r-graph-gallery.com/38-rcolorbrewers-palettes_files/figure-html/thecode-1.png). 
+A wide range of colour palettes is available and all are optimised for colour-blind persons. However, except for the ones in the section "Viridis or similar", most do not support a large amount of groups. If more groups are supplied to a palette than the palette contains colours, the groups will be displayed as white colour, i. e. are invisible in the plot and appear "without a signature" in the legend. You can see the palettes of the Viridis-section [here](https://matplotlib.org/stable/_images/sphx_glr_colormaps_001.png){target="_blank"} and the ones of the Colorbrewer-sections [here](https://www.r-graph-gallery.com/38-rcolorbrewers-palettes_files/figure-html/thecode-1.png){target="_blank"}. 
 
 ### Upload and display of your data
 
@@ -136,7 +136,7 @@ In the Upload page you can upload your own dataset (1). These data will be delet
 * Any of the isotope ratios with the last number of the respective atomic masses in the right order (e.g. "4/6" and "204Pb/206Pb" would both be recognised as the 204Pb/206Pb ratio). The following lead isotope ratios are supported: ^204^Pb-normalised ratios, ^206^Pb-normalised ratios, ^206^Pb/^207^Pb, and ^208^Pb/^207^Pb.
 * A "sample" column for individual sample labels. 
 
-All missing isotope ratios will be automatically calculated after your file was successfully parsed. So are the parameters for the different age models. Currently, the following lead isotope age models are supported: [Stacey & Kramers 1975](https://dx.doi.org/10.1016/0012-821X%2875%2990088-6), [Cumming & Richards 1975](https://dx.doi.org/10.1016/0012-821X%2875%2990223-X), [Albarède & Juteau 1984](https://doi.org/10.1016/0016-7037%2884%2990364-8), [Albarède et al. 2012](https://dx.doi.org/10.1111/j.1475-4754.2011.00653.x). The U238/U235 ratio is taken from [Goldmann et al. 2015](https://dx.doi.org/10.1016/j.gca.2014.09.008). 
+All missing isotope ratios will be automatically calculated after your file was successfully parsed. So are the parameters for the different age models. Currently, the following lead isotope age models are supported: [Stacey & Kramers 1975](https://dx.doi.org/10.1016/0012-821X%2875%2990088-6){target="_blank"}, [Cumming & Richards 1975](https://dx.doi.org/10.1016/0012-821X%2875%2990223-X){target="_blank"}, [Albarède & Juteau 1984](https://doi.org/10.1016/0016-7037%2884%2990364-8){target="_blank"}, [Albarède et al. 2012](https://dx.doi.org/10.1111/j.1475-4754.2011.00653.x){target="_blank"}. The U238/U235 ratio is taken from [Goldmann et al. 2015](https://dx.doi.org/10.1016/j.gca.2014.09.008){target="_blank"}. 
 
 By hitting the "Match database" button (4), all data from GlobaLID with overlapping lead isotope ratios will be selected. With "Reset" (5) you can delete your data. 
 

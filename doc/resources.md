@@ -1,6 +1,7 @@
 ## Resources
 
-The web application is written in [R](https://cran.r-project.org/). The
+The web application is written in
+<a href="https://cran.r-project.org/" target="_blank">R</a>. The
 following functions were specifically developed for GlobaLID. To use
 them in your own work, download them by clicking on the function name
 and load them into R with `source()`.

@@ -1,5 +1,9 @@
 # Version 1.1 (in progress)
 
+## Enhancements
+
+* Links open now in a new tabs/windows (#4). 
+
 ## Bugfixes
 
 * slider for point and line size now allow also values between 0 and 1. 

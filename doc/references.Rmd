@@ -18,9 +18,10 @@ library(magrittr)
 
 References <- readRDS("../data/database_complete.rds") %>%
   select(Reference, doi) %>%
-  mutate(doi = if_else(str_detect(doi, "https"), doi, paste0("https://doi.org/", doi))) %>%
+  mutate(doi = if_else(str_detect(doi, "https"), doi, paste0('DOI:<a href="https://doi.org/', doi, '" target="_blank">', doi, '</a>'))) %>%
   mutate(sep_num = str_count(Reference, ";")) %>%
   separate(Reference, into = paste0("Citation", seq(1:1+max(.$sep_num))), sep = "; ", fill = "right") %>%
+#  mutate(across(contains("Citation"), ~ str_replace_all(.x, pattern = "https://.+[^)]", paste0('<a href="', str_extract(.x, "https://.+[^)]"), '" target="_blank">', str_extract(.x, "https://.+[^)]"), '</a>')))) %>% # overruled by automated link detection of shiny or browser
   unite("Citation1", Citation1, doi, sep = " ", na.rm = TRUE) %>%
   pivot_longer(contains("Citation"), values_drop_na = TRUE) %>%
   select(value) %>%

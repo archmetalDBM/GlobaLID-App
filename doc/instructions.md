@@ -27,9 +27,9 @@ data according to specific criteria.
     reliability of the data is based solely on the analytical method and
     excludes all analyses pre-1974 (no mass bias correction) and
     analyses not measured with a
-    [TIMS](https://en.wikipedia.org/wiki/Isotope-ratio_mass_spectrometry#Thermal_ionization_mass_spectrometry)
+    <a href="https://en.wikipedia.org/wiki/Isotope-ratio_mass_spectrometry#Thermal_ionization_mass_spectrometry" target="_blank">TIMS</a>
     or
-    [MC-ICP-MS](https://en.wikipedia.org/wiki/Isotope-ratio_mass_spectrometry#Multiple_collector_inductively_coupled_plasma_mass_spectrometry)
+    <a href="https://en.wikipedia.org/wiki/Isotope-ratio_mass_spectrometry#Multiple_collector_inductively_coupled_plasma_mass_spectrometry" target="_blank">MC-ICP-MS</a>
     (too imprecise). By default, this option is active.
 3.  If only data with exact locations should be used or not. Sometimes,
     the location or site where the sample was taken cannot be
@@ -152,7 +152,7 @@ in the upper right corner of the respective plot (7). A table with the
 selected data will be displayed in the “data table tab” (8) for closer
 inspection. An explanation for most of the icons in this toolbar can be
 found
-[here](https://plotly.com/chart-studio-help/getting-to-know-the-plotly-modebar/)
+<a href="https://plotly.com/chart-studio-help/getting-to-know-the-plotly-modebar/" target="_blank">here</a>
 and we encourage you do play around with them.
 
 <img src="../www/Instructions_explore.png" width="100%" />
@@ -180,7 +180,7 @@ and we encourage you do play around with them.
             optimal display of the data’S distribution.
     -   Boxplot:
         -   Please read
-            [here](https://towardsdatascience.com/understanding-boxplots-5e2df7bcbd51)
+            <a href="https://towardsdatascience.com/understanding-boxplots-5e2df7bcbd51" target="_blank">here</a>
             for how to interprete a boxplot.
 -   X & Y- axis (Z-axis is net to “none”):
     -   Point
@@ -232,9 +232,9 @@ more groups are supplied to a palette than the palette contains colours,
 the groups will be displayed as white colour, i. e. are invisible in the
 plot and appear “without a signature” in the legend. You can see the
 palettes of the Viridis-section
-[here](https://matplotlib.org/stable/_images/sphx_glr_colormaps_001.png)
+<a href="https://matplotlib.org/stable/_images/sphx_glr_colormaps_001.png" target="_blank">here</a>
 and the ones of the Colorbrewer-sections
-[here](https://www.r-graph-gallery.com/38-rcolorbrewers-palettes_files/figure-html/thecode-1.png).
+<a href="https://www.r-graph-gallery.com/38-rcolorbrewers-palettes_files/figure-html/thecode-1.png" target="_blank">here</a>.
 
 ### Upload and display of your data
 
@@ -264,14 +264,13 @@ named as following:
 All missing isotope ratios will be automatically calculated after your
 file was successfully parsed. So are the parameters for the different
 age models. Currently, the following lead isotope age models are
-supported: [Stacey & Kramers
-1975](https://dx.doi.org/10.1016/0012-821X%2875%2990088-6), [Cumming &
-Richards 1975](https://dx.doi.org/10.1016/0012-821X%2875%2990223-X),
-[Albarède & Juteau
-1984](https://doi.org/10.1016/0016-7037%2884%2990364-8), [Albarède et
-al. 2012](https://dx.doi.org/10.1111/j.1475-4754.2011.00653.x). The
-U238/U235 ratio is taken from [Goldmann et
-al. 2015](https://dx.doi.org/10.1016/j.gca.2014.09.008).
+supported:
+<a href="https://dx.doi.org/10.1016/0012-821X%2875%2990088-6" target="_blank">Stacey &amp; Kramers 1975</a>,
+<a href="https://dx.doi.org/10.1016/0012-821X%2875%2990223-X" target="_blank">Cumming &amp; Richards 1975</a>,
+<a href="https://doi.org/10.1016/0016-7037%2884%2990364-8" target="_blank">Albarède &amp; Juteau 1984</a>,
+<a href="https://dx.doi.org/10.1111/j.1475-4754.2011.00653.x" target="_blank">Albarède et al. 2012</a>.
+The U238/U235 ratio is taken from
+<a href="https://dx.doi.org/10.1016/j.gca.2014.09.008" target="_blank">Goldmann et al. 2015</a>.
 
 By hitting the “Match database” button (4), all data from GlobaLID with
 overlapping lead isotope ratios will be selected. With “Reset” (5) you

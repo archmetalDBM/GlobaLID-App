@@ -14,7 +14,7 @@ library(kableExtra)
 library(icons)
 
 add_Link <- function(link, icon, font) {
-  paste0("<a href=\"", link, "\">", as.character(if (font == "ai") {academicons(icon)} else {fontawesome(icon)}), "</a>")
+  paste0("<a href=\"", link, "\" target=\"_blank\">", as.character(if (font == "ai") {academicons(icon)} else {fontawesome(icon)}), "</a>")
 }
 
 source("../update.R")
@@ -22,7 +22,7 @@ source("../update.R")
 ```
 
 ## What is GlobaLID? 
-GlobaLID is a Global Lead Isotope Database and aims to facilitate the reconstruction of raw material provenances with lead isotopes, especially in archaeology. The app provides direct access to and convenient interaction with the [GlobaLID database](https://doi.org/10.5880/fidgeo.2021.031). You can filter the database according to your research question, upload own data to compare it with GlobaLID, and produce and download publication ready plots. The "References" page lists all references from which data are currently included in GlobaLID. There are still data missing? Consider to become a contributor and help to let GlobaLID grow! 
+GlobaLID is a Global Lead Isotope Database and aims to facilitate the reconstruction of raw material provenances with lead isotopes, especially in archaeology. The app provides direct access to and convenient interaction with the [GlobaLID database](https://doi.org/10.5880/fidgeo.2021.031){target="_blank"}. You can filter the database according to your research question, upload own data to compare it with GlobaLID, and produce and download publication ready plots. The "References" page lists all references from which data are currently included in GlobaLID. There are still data missing? Consider to become a contributor and help to let GlobaLID grow! 
 
 ## Copyright
 
@@ -30,7 +30,7 @@ GlobaLID is a Global Lead Isotope Database and aims to facilitate the reconstruc
 
 The copyright material published on this website is subject to the German Copyright law, and is owned by the GlobaLID Core Team or, where indicated, by a party other than the GlobaLID Core Team. The GlobaLID Core Team supports and encourages use of its material for all legitimate purposes.
 
-[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/) Copyright material available on this website is licensed under a [Creative Commons Attribution 4.0 International (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/) licence unless indicated otherwise. 
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/){target="_blank"} Copyright material available on this website is licensed under a [Creative Commons Attribution 4.0 International (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/){target="_blank"} licence unless indicated otherwise. 
 
 <details>
   <summary> Show details </summary>
@@ -42,7 +42,7 @@ This licence allows you to:
 * for any purpose, even commercially
 
 provided you attribute the GlobaLID Core Team as the source of the copyright material. The GlobaLID Core Team requests attribution as:  
-"GlobaLID Core Team (2021): GlobaLID web application V. `r app_version`, database status: `r format.Date(update_database, "%d %B %Y")`. [https://globalid.dmt-lb.de/](https://globalid.dmt-lb.de/). 
+"GlobaLID Core Team (2021): GlobaLID web application V. `r app_version`, database status: `r format.Date(update_database, "%d %B %Y")`. <a href="https://globalid.dmt-lb.de/" target="_blank">https://globalid.dmt-lb.de/</a>. 
 
 </details>
 
@@ -50,8 +50,8 @@ provided you attribute the GlobaLID Core Team as the source of the copyright mat
 
 Please attribute to GlobaLID by citing: 
 
-* Westner, Katrin J.; Rose, Thomas; Klein, Sabine; Hsu, Yiu-Kang (2021): GlobaLID – Global Lead Isotope Database. V. 1.0. GFZ Data Services. [https://doi.org/10.5880/fidgeo.2021.031](https://doi.org/10.5880/fidgeo.2021.031) 
-* GlobaLID Core Team (2021): GlobaLID web application V. `r app_version`, database status: `r format.Date(update_database, "%F")`. [https://globalid.dmt-lb.de/](https://globalid.dmt-lb.de/)
+* Westner, Katrin J.; Rose, Thomas; Klein, Sabine; Hsu, Yiu-Kang (2021): GlobaLID – Global Lead Isotope Database. V. 1.0. GFZ Data Services. <a href="https://doi.org/10.5880/fidgeo.2021.031" target="_blank">https://doi.org/10.5880/fidgeo.2021.031</a>
+* GlobaLID Core Team (2021): GlobaLID web application V. `r app_version`, database status: `r format.Date(update_database, "%F")`. <a href="https://globalid.dmt-lb.de/" target="_blank">https://globalid.dmt-lb.de/</a>
 
 For direct import into your reference manager copy the citations as 
 <details>
@@ -107,7 +107,7 @@ ER  -
 ```{r echo=FALSE, results='asis'}
 
 data.frame(
-  Portrait = paste0("![](../www/SKlein.png){height=96px}"), 
+  Portrait = paste0('![](../www/SKlein.png){height=96px}'), 
   Text = paste("<b>Sabine Klein</b> (Coordinator)", 
                "Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany <br> Institut für Archäologische Wissenschaften, Ruhr-Universität Bochum, Bochum, Germany <br> FIERCE, Frankfurt Isotope & Element Research Centre, Goethe Universität, Frankfurt am Main, Germany", 
                paste(
@@ -124,7 +124,7 @@ kable(escape = FALSE, col.names = NULL) %>%
 cat("<br>")
 
 data.frame(
-  Portrait = paste0("![](../www/TRose.png){height=96px}"), 
+  Portrait = paste0('![](../www/TRose.png){height=96px}'), 
   Text = paste("<b>Thomas Rose</b> (Programming)", 
                "Department of Archaeology, Ben-Gurion University of the Negev, Be’er Sheva, Israel <br> Department of Antiquity, Sapienza University of Rome, Rome, Italy", 
                paste(
@@ -145,7 +145,7 @@ kable(escape = FALSE, col.names = NULL) %>%
 cat("<br>")
 
 data.frame(
-  Portrait = paste0("![](../www/KWestner.png){height=96px}"), 
+  Portrait = paste0('![](../www/KWestner.png){height=96px}'), 
   Text = paste("<b>Katrin J. Westner</b> (Database)", 
                "Ecole Normale Supérieure de Lyon, CNRS, Université de Lyon, Lyon, France", 
                paste(
@@ -163,7 +163,7 @@ data.frame(
 cat("<br>")
 
 data.frame(
-  Portrait = paste0("![](../www/Y-KHsu.png){height=96px}"), 
+  Portrait = paste0('![](../www/Y-KHsu.png){height=96px}'), 
   Text = paste("<b>Yiu-Kang Hsu</b> (East Asia)", 
                "Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany", 
                paste(
@@ -186,7 +186,7 @@ You want to contribute to GlobaLID? Please get in touch with us, we are looking 
 
 ```{r echo=FALSE, results='asis'}
 data.frame(
-  Portrait = paste0("![](../www/NNezafati.png){height=96px}"), 
+  Portrait = paste0('![](../www/NNezafati.png){height=96px}'), 
   Text = paste("<b>Nima Nezafati</b>", 
                "Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany",  
                paste(
@@ -209,10 +209,10 @@ cat("<br>")
 ```{r echo=FALSE, results='asis'}
 
 data.frame(
-  Logo = paste0('<a href="https://www.bergbaumuseum.de/en/"><img alt="DBM Logo" src="/Logo_DBM.png"
+  Logo = paste0('<a href="https://www.bergbaumuseum.de/en/" target="_blank"><img alt="DBM Logo" src="/Logo_DBM.png"
          width="96"></a>'), 
   Text = paste("Web Hosting: ", 
-               '<b><a href="https://www.bergbaumuseum.de/en/">Deutsches Bergbau-Museum Bochum</a></b>', 
+               '<b><a href="https://www.bergbaumuseum.de/en/" target="_blank">Deutsches Bergbau-Museum Bochum</a></b>', 
                "The Deutsches Bergbau-Museum Bochum – founded in 1930 – is one of eight research museums belonging to the Leibniz Association. It researches, teaches and preserves the history of the mining, processing and use of geo-resources across all of the relevant time periods. Its research areas include: archaeometallurgy, mining history, materials science, and mining archaeology, together with the research laboratory, and the Montanhistorische Dokumentationszentrum.", 
                sep = "<br>")
 ) %>%
@@ -222,10 +222,10 @@ kable(escape = FALSE, col.names = NULL) %>%
 cat("<br>")
 
 data.frame(
-  Logo = paste0('<a href="https://www.dmt-lb.de/"><img alt="DMT Logo" src="/Logo_DMT.svg"
+  Logo = paste0('<a href="https://www.dmt-lb.de/" target="_blank"><img alt="DMT Logo" src="/Logo_DMT.svg"
          width="96"></a>'), 
   Text = paste("Web Hosting: ", 
-               '<b><a href="https://www.dmt-lb.de/">DMT-Gesellschaft für Lehre und Bildung mbH</a></b>', 
+               '<b><a href="https://www.dmt-lb.de/" target="_blank">DMT-Gesellschaft für Lehre und Bildung mbH</a></b>', 
                "DMT-Gesellschaft für Lehre und Bildung mbH (DMT-LB), based in Bochum, is a collective association of the German coal mining industry and acts as the funding organisation of Deutsches Bergbau-Museum Bochum (German Mining Museum) and Technische Hochschule Georg Agricola. It was established as the Westfälische Berggewerkschaftskasse (WBK) in 1864 and merged with the Steinkohlen-Bergbau-Verein (Stbv) and Bergbau Forschung GmbH under the auspices of DeutscheMontanTechnologie e.V. (DMT) in 1990.", 
                sep = "<br>")
 ) %>%
@@ -242,33 +242,33 @@ The initial GlobaLID database was compiled during years of own research and prof
 
 The Core Team feels deeply grateful for the support of the contributors. Without their efforts, GlobaLID would grow much slower and less accurate. 
 
-We are indebted to the R Core Team for providing and maintaining [R](https://cran.r-project.org/) and all the authors of the fantastic packages we use, especially Hadley Wickham and the RStudio team. We are immensely grateful to the [OpenStreetMap contributors](https://www.openstreetmap.org) from whose Nominatim database we obtain most of the the geographical meta-information. Last but definitely not least, the knowledge provided by the community on [Stackoverflow](https://stackoverflow.com/) and many other pages was a constant source of inspiration and an enormous help during the development of the app. 
+We are indebted to the R Core Team for providing and maintaining [R](https://cran.r-project.org/){target="_blank"} and all the authors of the fantastic packages we use, especially Hadley Wickham and the RStudio team. We are immensely grateful to the [OpenStreetMap contributors](https://www.openstreetmap.org){target="_blank"} from whose Nominatim database we obtain most of the the geographical meta-information. Last but definitely not least, the knowledge provided by the community on [Stackoverflow](https://stackoverflow.com/){target="_blank"} and many other pages was a constant source of inspiration and an enormous help during the development of the app. 
 
 The following packages are used in the app and/or for work on the database: 
 
-* [bs4Dash](https://rinterface.github.io/bs4Dash/)
-* [dplyr](https://dplyr.tidyverse.org/)
-* [DT](https://rstudio.github.io/DT/)
-* [ggplot2](https://ggplot2.tidyverse.org/)
-* [kableExtra](https://haozhu233.github.io/kableExtra/)
-* [knitr](https://yihui.org/knitr/)
-* [ks](https://cran.r-project.org/web/packages/ks/)
-* [leaflet](https://rstudio.github.io/leaflet/)
-* [leaflet.providers](https://github.com/rstudio/leaflet.providers)
-* [lemon](https://github.com/stefanedwards/lemon)
-* [plotly](https://plotly-r.com/)
-* [RColorBrewer](https://cran.r-project.org/web/packages/RColorBrewer/)
-* [readr](https://readr.tidyverse.org/)
-* [rmarkdown](https://rmarkdown.rstudio.com/)
-* [rootSolve](https://cran.r-project.org/web/packages/rootSolve)
-* [sendmailR](https://cran.r-project.org/web/packages/sendmailR/)
-* [shiny](https://shiny.rstudio.com/)
-* [shinyvalidate](https://rstudio.github.io/shinyvalidate/)
-* [stringr](https://stringr.tidyverse.org/)
-* [tidygeocoder](https://github.com/jessecambon/tidygeocoder)
-* [tidyr](https://tidyr.tidyverse.org/)
-* [viridisLite](https://sjmgarnier.github.io/viridisLite/)
-* [waiter](https://shiny.john-coene.com/waiter/)
-* [zip](https://cran.r-project.org/web/packages/zip)
+* [bs4Dash](https://rinterface.github.io/bs4Dash/){target="_blank"}
+* [dplyr](https://dplyr.tidyverse.org/){target="_blank"}
+* [DT](https://rstudio.github.io/DT/){target="_blank"}
+* [ggplot2](https://ggplot2.tidyverse.org/){target="_blank"}
+* [kableExtra](https://haozhu233.github.io/kableExtra/){target="_blank"}
+* [knitr](https://yihui.org/knitr/){target="_blank"}
+* [ks](https://cran.r-project.org/web/packages/ks/){target="_blank"}
+* [leaflet](https://rstudio.github.io/leaflet/){target="_blank"}
+* [leaflet.providers](https://github.com/rstudio/leaflet.providers){target="_blank"}
+* [lemon](https://github.com/stefanedwards/lemon){target="_blank"}
+* [plotly](https://plotly-r.com/){target="_blank"}
+* [RColorBrewer](https://cran.r-project.org/web/packages/RColorBrewer/){target="_blank"}
+* [readr](https://readr.tidyverse.org/){target="_blank"}
+* [rmarkdown](https://rmarkdown.rstudio.com/){target="_blank"}
+* [rootSolve](https://cran.r-project.org/web/packages/rootSolve){target="_blank"}
+* [sendmailR](https://cran.r-project.org/web/packages/sendmailR/){target="_blank"}
+* [shiny](https://shiny.rstudio.com/){target="_blank"}
+* [shinyvalidate](https://rstudio.github.io/shinyvalidate/){target="_blank"}
+* [stringr](https://stringr.tidyverse.org/){target="_blank"}
+* [tidygeocoder](https://github.com/jessecambon/tidygeocoder){target="_blank"}
+* [tidyr](https://tidyr.tidyverse.org/){target="_blank"}
+* [viridisLite](https://sjmgarnier.github.io/viridisLite/){target="_blank"}
+* [waiter](https://shiny.john-coene.com/waiter/){target="_blank"}
+* [zip](https://cran.r-project.org/web/packages/zip){target="_blank"}
 
-The implementation of the hCaptcha is a modified version of [shinyCAPTCHA](https://github.com/carlganz/shinyCAPTCHA). 
+The implementation of the hCaptcha is a modified version of [shinyCAPTCHA](https://github.com/carlganz/shinyCAPTCHA){target="_blank"}. 
