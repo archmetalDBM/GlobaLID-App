@@ -2,7 +2,7 @@
 
 ## Enhancements
 
-* Links open now in a new tabs/windows (#4). 
+* Links open now in a new tabs/windows. Exception: Links that are displayed as their URL. In these cases automatic link detection overwrites it to the default behaviour (open in same tab).  (#4)
 
 ## Bugfixes
 

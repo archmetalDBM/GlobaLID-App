@@ -1,5 +1,10 @@
 ## News
 
+2021-11-27 – Links open now in new tabs and do close the app anymore.
+Exception: Links that are displayed as their URL. In these cases
+automatic link detection overwrites it to the default behaviour (open in
+same tab).
+
 2021-11-15 – Additional data from Bulgaria included (contributor: K. J.
 Westner). The database now includes 2237 entries.
 
