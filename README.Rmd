@@ -74,6 +74,7 @@ GlobaLID needs your help to grow and to provide high quality datasets! The core 
 # Contributors
 
 * [Nima Nezafati](https://www.bergbaumuseum.de/en/museum/mitarbeitende/kontakt-detailseite/dr-nima-nezafati) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-5806-343X) (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)
+* Markos Vaxevanopoulos [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-3027-5622) (École Normale Supérieure de Lyon, Laboratoire de Géologie de Lyon: Terre, Planète, Environnement, Lyon, France)
 
 # Acknowledgements
 
