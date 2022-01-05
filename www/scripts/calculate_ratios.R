@@ -1,19 +1,20 @@
 #' Convert lead isotope ratios
-#' 
+#'
 #' @author Thomas Rose, \email{thomas.rose@daad-alumni.de}
 #'
 #' The function takes any of the lead isotope ratios listed in \emph{Details}
 #' and calculates the other listed isotope ratios, if possible.
 #'
 #' The function recognises the columns with the respective supported lead
-#' isotope ratios based on the order of the atomic masses per ratio. The
-#' function only checks whether columns are empty and not if values within a
-#' column are missing. Consequently, the input columns must be uniform in the
-#' presence/absence of ratios.
+#' isotope ratios based on the order of the atomic masses per ratio and
+#' renames them in the pattern "20xPb/20yPb" with x and y being the last
+#' digits of the respective isotopes. The function only checks whether columns
+#' are empty and not if values within a column are missing. Consequently, the
+#' input columns must be uniform in the presence/absence of ratios.
 #'
 #' Supported lead isotope ratios: \itemize{\item 206Pb/204Pb \item 207Pb/204Pb
-#' \item 208Pb/204Pb \item 206Pb/206Pb \item 207Pb/206Pb \item 208Pb/206Pb \item
-#' 208Pb/207Pb}
+#' \item 208Pb/204Pb \item 206Pb/206Pb \item 207Pb/206Pb \item 208Pb/206Pb
+#' \item 208Pb/207Pb}
 #'
 #' @param data A tibble.
 #'
@@ -24,14 +25,14 @@ LI_ratios_all <- function (data)
 {
   #if (!"dplyr" %in% utils::installed.packages()) {install.packages("dplyr")}
   
-  colnames(data) <- sub(".*6.*4.*", "206Pb/204Pb", colnames(data)) 
-  colnames(data) <- sub(".*7.*4.*", "207Pb/204Pb", colnames(data)) 
-  colnames(data) <- sub(".*8.*4.*", "208Pb/204Pb", colnames(data)) 
-  colnames(data) <- sub(".*4.*6.*", "204Pb/206Pb", colnames(data))
-  colnames(data) <- sub(".*7.*6.*", "207Pb/206Pb", colnames(data)) 
-  colnames(data) <- sub(".*8.*6.*", "208Pb/206Pb", colnames(data))
-  colnames(data) <- sub(".*6.*7.*", "206Pb/207Pb", colnames(data))
-  colnames(data) <- sub(".*8.*7.*", "208Pb/207Pb", colnames(data))
+  colnames(data) <- sub(".*6.+4.*", "206Pb/204Pb", colnames(data)) 
+  colnames(data) <- sub(".*7.+4.*", "207Pb/204Pb", colnames(data)) 
+  colnames(data) <- sub(".*8.+4.*", "208Pb/204Pb", colnames(data)) 
+  colnames(data) <- sub(".*4.+6.*", "204Pb/206Pb", colnames(data))
+  colnames(data) <- sub(".*7.+6.*", "207Pb/206Pb", colnames(data)) 
+  colnames(data) <- sub(".*8.+6.*", "208Pb/206Pb", colnames(data))
+  colnames(data) <- sub(".*6.+7.*", "206Pb/207Pb", colnames(data))
+  colnames(data) <- sub(".*8.+7.*", "208Pb/207Pb", colnames(data))
   
   ratios_data <- grep(".*20.*20.*", names(data), value = TRUE)
   
