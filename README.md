@@ -55,11 +55,12 @@ Interested? Write us!
     Institut für Archäologische Wissenschaften, Ruhr-Universität Bochum,
     Bochum, Germany; FIERCE, Frankfurt Isotope & Element Research
     Centre, Goethe Universität, Frankfurt am Main, Germany)
--   Programming: Thomas Rose
+-   Programming: [Thomas Rose](https://copper-smelting.com/)
     [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-8186-3566)
     (Department of Archaeology, Ben-Gurion University of the Negev,
     Be’er Sheva, Israel; Department of Antiquity, Sapienza University of
-    Rome, Rome, Italy)
+    Rome, Rome, Italy; Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für
+    Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)
 -   Database: [Katrin J.
     Westner](http://lgltpe.ens-lyon.fr/annuaire/westner-katrin)
     [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-5529-1165)
