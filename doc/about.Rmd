@@ -126,9 +126,9 @@ cat("<br>")
 data.frame(
   Portrait = paste0('![](../www/TRose.png){height=96px}'), 
   Text = paste("<b>Thomas Rose</b> (Programming)", 
-               "Department of Archaeology, Ben-Gurion University of the Negev, Be’er Sheva, Israel <br> Department of Antiquity, Sapienza University of Rome, Rome, Italy", 
+               "Department of Archaeology, Ben-Gurion University of the Negev, Be’er Sheva, Israel <br> Department of Antiquity, Sapienza University of Rome, Rome, Italy <br> Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany", 
                paste(
-                 add_Link("mailto:thomas.rose@daad-alumni.de?subject=GlobaLID", "envelope", "fa"),
+                 add_Link("mailto:Thomas.Rose@bergbaumuseum.de?subject=GlobaLID", "envelope", "fa"),
                  add_Link("https://copper-smelting.com/", "globe", "fa"), 
                  add_Link("https://orcid.org/0000-0002-8186-3566", "orcid", "ai"),
                  add_Link("https://bgu.academia.edu/ThomasRose", "academia", "ai"),

@@ -13,7 +13,7 @@ missing? Consider to become a contributor and help to let GlobaLID grow!
 
 ## Copyright
 
-© The GlobaLID Core Team 2021 (unless indicated otherwise)
+© The GlobaLID Core Team 2022 (unless indicated otherwise)
 
 The copyright material published on this website is subject to the
 German Copyright law, and is owned by the GlobaLID Core Team or, where
@@ -40,7 +40,7 @@ This licence allows you to:
 
 provided you attribute the GlobaLID Core Team as the source of the
 copyright material. The GlobaLID Core Team requests attribution as:  
-“GlobaLID Core Team (2021): GlobaLID web application V. 1.0, database
+"GlobaLID Core Team (2021): GlobaLID web application V. 1.0, database
 status: 15 November 2021.
 <a href="https://globalid.dmt-lb.de/" target="_blank">https://globalid.dmt-lb.de/</a>.
 
@@ -154,8 +154,10 @@ Germany<br><a href="mailto:Sabine.Klein@bergbaumuseum.de?subject=GlobaLID" targe
 <td style="text-align:left;color: black !important;">
 <b>Thomas Rose</b> (Programming)<br>Department of Archaeology,
 Ben-Gurion University of the Negev, Be’er Sheva, Israel <br> Department
-of Antiquity, Sapienza University of Rome, Rome,
-Italy<br><a href="mailto:thomas.rose@daad-alumni.de?subject=GlobaLID" target="_blank"><svg viewbox="0 0 512 512" style="height:1em;position:relative;display:inline-block;top:.1em;" xmlns="http://www.w3.org/2000/svg">
+of Antiquity, Sapienza University of Rome, Rome, Italy <br>
+Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für
+Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum,
+Germany<br><a href="mailto:Thomas.Rose@bergbaumuseum.de?subject=GlobaLID" target="_blank"><svg viewbox="0 0 512 512" style="height:1em;position:relative;display:inline-block;top:.1em;" xmlns="http://www.w3.org/2000/svg">
 <path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"></path>
 </svg></a>
 <a href="https://copper-smelting.com/" target="_blank"><svg viewbox="0 0 496 512" style="height:1em;position:relative;display:inline-block;top:.1em;" xmlns="http://www.w3.org/2000/svg">
