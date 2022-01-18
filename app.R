@@ -1494,6 +1494,7 @@ server <- function(input, output, session) {
       if (failed) {
         div(tags$b("Wrong password", style = "color: red;"))
       },
+      HTML("Interested in becoming a contributor? <br> Please contact the core team to learn more."),
       footer = tagList(
         actionButton("confirm_cancel", "Cancel"),
         actionButton("confirm_pwd", "OK")
