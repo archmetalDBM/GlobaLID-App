@@ -26,12 +26,12 @@ locations: <img src="man/figures/README-map-1.png" width="100%" />
 
 If you use the GlobaLID app, please cite it as:  
 GlobaLID Core Team. (2021). GlobaLID web application V. 1.0, database
-status: 2021-11-15. <https://globalid.dmt-lb.de/>
+status: 2022-01-18. <https://globalid.dmt-lb.de/>
 
     @misc{GlobaLIDCoreTeam.2021,
      author = {{GlobaLID Core Team}},
      year = {2021},
-     title = {{GlobaLID web application V. 1.0, database status: 2021-11-15}},
+     title = {{GlobaLID web application V. 1.0, database status: 2022-01-18}},
      url = {https://globalid.dmt-lb.de/}
     }
 

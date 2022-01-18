@@ -5,6 +5,14 @@
     Sinai Peninsula and the Eastern Desert of Egypt (2006, 2008),
     Metalla, 19(1/2), 3–59.
 
+-   Aleksandrov, M., 1992, Metalogenetske karakteristike polimetaličnog
+    rudnog polja Sase, Istočna Makedonija, PhD thesis, Goce Delčev
+    University, Štip.
+
+-   Amov, B. G., 1999, Lead isotope data for ore deposits from Bulgaria
+    and the possibility for their use in archaeometry, Berliner Beiträge
+    zur Archäometrie, 16, 5–19.
+
 -   Amov, B., Bogdanov, B., and Baldjieva, T., 1974, Lead isotope
     composition and some features concerning the genesis and the age of
     the ore deposits in south Bulgaria, 4th IAGOD Symposium, Varna,
@@ -134,6 +142,10 @@
 -   De Launay, M. L., 1894, Les Minerais d’Argent de Milo, Annales des
     Mines, 9ième Série(VI), 345–53.
 
+-   Deleon, G., 1968, Primena metoda nuklearne geologije u odredivanju
+    apsolutne starosti stena na teritoriji SR Makedonije, PhD thesis,
+    University of Belgrade, Belgrade.
+
 -   Doe, B. R., and Rohrbough, R., 1977, Lead isotope data bank: 3,459
     samples and analyses cited, Open-File Report.
     DOI:<a href="https://doi.org/10.3133/ofr79661" target="_blank">10.3133/ofr79661</a>
@@ -149,6 +161,19 @@
     and isotopic (S, Pb) study, Journal of Asian Earth Sciences, 37(2),
     186–94.
     DOI:<a href="https://doi.org/10.1016/j.jseaes.2009.08.007" target="_blank">10.1016/j.jseaes.2009.08.007</a>
+
+-   evidence from combined Pb-Sr and stable isotope data, Economic
+    Geology, 90(4), 746–62.
+
+-   Frei, R., 1992, Isotope (Pb, Rb-Sr, S, O, C, U-Pb) geochemical
+    investigations on Tertiary intrusives and related mineralizations in
+    the Serbomacedonian Pb-Zn, Sb+Cu-Mo metallogenetic province in
+    Northern Greece, PhD thesis, ETH Zürich, Zürich.
+    DOI:<a href="https://doi.org/10.3929/ethz-a-000692261" target="_blank">10.3929/ethz-a-000692261</a>
+
+-   Frei, R., 1995, Evolution of mineralizing fluid in the porphyry
+    copper system of the Skouries Deposit, Northeast Chalkidiki (Greece)
+    DOI:<a href="https://doi.org/10.2113/gsecongeo.90.4.746" target="_blank">10.2113/gsecongeo.90.4.746</a>
 
 -   Gale, N. H., 1978, Lead Isotopes and Aegean Metallurgy, In Thera and
     the Aegean world I. Papers presented at the Second International
@@ -210,6 +235,8 @@
     (eds. P. T. Craddock, and M. J. Hughes), Vol. 48, 81–102, British
     Museum Occasional Paper, British Museum, London.
 
+-   Grafenauer (1965)
+
 -   Harlavan, Y., Bar-Matthews, M., Matthews, A., Asael, D., and Segal,
     I., 2017, Tracing the sources of sedimentary Cu and Mn ores in the
     Cambrian Timna Formation, Israel using Pb and Sr isotopes, Journal
@@ -226,11 +253,21 @@
     Arabah, Jordan: The Composition of Ores and Copper, Archeomaterials,
     6, 1–33.
 
+-   IGME Xanthi cit. in: Frei, R., 1992, Isotope (Pb, Rb-Sr, S, O, C,
+    U-Pb) geochemical investigations on Tertiary intrusives and related
+    mineralizations in the Serbomacedonian Pb-Zn, Sb+Cu-Mo
+    metallogenetic province in Northern Greece, PhD thesis, ETH Zürich,
+    Zürich.
+
 -   Janković, S., 1978, Изотопни састав олова у појединим терцијарним
     олово-цинковим српско-македонске металогенетске провинције \[The
     isotopic composition of lead in some tertiary lead-zinc deposits
     within the Serbo-Macedonian metallogenic province (Yugoslavia)\],
     Geoloski Anali Balkanskog Poluostrva, 42, 507–25.
+
+-   Jović, B., 1983, Godišnji izveštaji o izvršenim geološkim
+    istraživanjima Pb-Zn u rudnom polju Blagodat, FSD Republičkog
+    društvenog fond za geol. istr., Belgrade.
 
 -   Kalogeropoulos, S. I., Kilias, S. P., Bitzios, D. C., Nicolaou, M.,
     and Both, R. A., 1989, Genesis of the Olympias carbonate-hosted
@@ -249,6 +286,13 @@
     Southern Panagyurishte district, Bulgaria: the paired Vlaykov Vruh
     and Elshitsa deposits, Mineralium Deposita, 44, 611–46.
     DOI:<a href="https://doi.org/10.1007/s00126-009-0239-1" target="_blank">10.1007/s00126-009-0239-1</a>
+
+-   Kubat et al. (1980)
+
+-   Kubat, I., Ramović, E., Tomčević, D., Pezdić, J., and Dolenac, T.,
+    1979, The results of the investigation of S, O, C and Pb isotopic
+    composition in some ore deposits and occurrences in Bosnia and
+    Herzegovina, Geološki Glasnik, 24/25, 61–84.
 
 -   Ludwig, K. R., Vollmer, R., Turi, B., Simmons, K. R., and Perna, G.,
     1989, Isotopic constraints on the genesis of base-metal ores in
@@ -294,6 +338,11 @@
     carbon isotopes in the Zletovo ore field (Eastern Macedonia),
     Geologica Balcanica, 24(3), 39–48.
 
+-   Nebel, M. L., Hutchinson, R., and Zartman, R. E., 1991, Metamorphism
+    and polygenesis of the Madem Lakkos polymetallic sulfide deposit,
+    Chalkidiki, Greece, Economic Geology, 86(1), 81–105.
+    DOI:<a href="https://doi.org/10.2113/gsecongeo.86.1.81" target="_blank">10.2113/gsecongeo.86.1.81</a>
+
 -   Nezafati, N., Pernicka, E., and Momenzadeh, M., 2009, Introduction
     of the Deh Hosein ancient tin-copper mine, Western Iran: Evidence
     from Geology, Archaeology, Geochemistry and Lead Isotope Data,
@@ -308,6 +357,13 @@
 
 -   OXALID: Oxford Archaeological Lead Isotope Database from the
     Isotrace Laboratory (<https://oxalid.arch.ox.ac.uk/default.html>)
+
+-   Pajović, M., Ćepić, M., Manojlović, M., Dubak, M., and Svrkota, R.,
+    1982, Opšte geološke i metalogenetske karakteristike Pb-Zn
+    mineralizacije u Crnoj Gori, In Zbornik radova: X. jubilarnog
+    kongresa geologa Jugoslavije (eds. S. Cicmil, and Jubilarni kongres
+    geologa Jugoslavije), 247–69, Organizacioni odbor X jubilarnog
+    kongresa geologa Jugoslavije, Budva.
 
 -   Palinkaš, L. A., 1985, Lead isotope patterns in galenas from some
     selected ore deposits in Croatia and NW Bosnia, Geološki Vjesnik,
