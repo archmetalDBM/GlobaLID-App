@@ -41,7 +41,7 @@ This licence allows you to:
 provided you attribute the GlobaLID Core Team as the source of the
 copyright material. The GlobaLID Core Team requests attribution as:  
 "GlobaLID Core Team (2021): GlobaLID web application V. 1.0, database
-status: 15 November 2021.
+status: 18 Januar 2022.
 <a href="https://globalid.dmt-lb.de/" target="_blank">https://globalid.dmt-lb.de/</a>.
 
 </details>
@@ -55,7 +55,7 @@ Please attribute to GlobaLID by citing:
     Services.
     <a href="https://doi.org/10.5880/fidgeo.2021.031" target="_blank">https://doi.org/10.5880/fidgeo.2021.031</a>
 -   GlobaLID Core Team (2021): GlobaLID web application V. 1.0, database
-    status: 2021-11-15.
+    status: 2022-01-18.
     <a href="https://globalid.dmt-lb.de/" target="_blank">https://globalid.dmt-lb.de/</a>
 
 For direct import into your reference manager copy the citations as
@@ -76,7 +76,7 @@ bibtex
     @misc{GlobaLIDCoreTeam.2021,
      author = {{GlobaLID Core Team}},
      year = {2021},
-     title = {{GlobaLID web application V. 1.0, database status: 2021-11-15}},
+     title = {{GlobaLID web application V. 1.0, database status: 2022-01-18}},
      url = {https://globalid.dmt-lb.de/}
     }
 

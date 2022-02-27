@@ -249,7 +249,7 @@ plotExploreServer <- function(id, data_reference, data_custom, group_ref, input_
       plot <- reactive({
         w$show()
         
-        req(plotModule_iv$is_valid())
+        req(plotModule_iv$is_valid(), data_reference())
         
         plot_build <- ggplot(data_reference()) + 
           palette() + 
