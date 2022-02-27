@@ -6,8 +6,8 @@
 
 ## Bugfixes
 
-* slider for point and line size now allow also values between 0 and 1. 
-* Download of enhanced uploaded data and dataset now consistently do not include row numbers and empty cells remain empty (instead of being filed with "NA")
+* Slider for point and line size now allow also values between 0 and 1. 
+* Downloads of enhanced uploaded data and dataset now consistently do not include row numbers and leave empty cells empty instead of filling them with "NA".
 * txt format output of the references now has line breaks working on Windows. 
 * Uploaded data are not displayed on the map anymore after resetting them
 * The detection pattern of the function `LI_ratios_all()` was improved. 
