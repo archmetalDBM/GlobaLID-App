@@ -57,6 +57,10 @@ Please attribute to GlobaLID by citing:
 -   GlobaLID Core Team (2021): GlobaLID web application V. 1.0, database
     status: 2022-01-18.
     <a href="https://globalid.dmt-lb.de/" target="_blank">https://globalid.dmt-lb.de/</a>
+-   Klein, S., Rose, T., Westner, K. J., & Hsu, Y.-K. (2022). From
+    OXALID to GlobaLID: Introducing a modern and FAIR lead isotope
+    database with an interactive application. Archaeometry, 1– 16.
+    <a href="https://doi.org/10.1111/arcm.12762" target="_blank">https://doi.org/10.1111/arcm.12762</a>
 
 For direct import into your reference manager copy the citations as
 <details>
@@ -78,6 +82,16 @@ bibtex
      year = {2021},
      title = {{GlobaLID web application V. 1.0, database status: 2022-01-18}},
      url = {https://globalid.dmt-lb.de/}
+    }
+
+    @article{Klein.2022,
+    author = {Klein, Sabine and Rose, Thomas and Westner, Katrin J. and Hsu, Yiu-Kang},
+    title = {From OXALID to GlobaLID: Introducing a modern and FAIR lead isotope database with an interactive application},
+    journal = {Archaeometry},
+    volume = {n/a},
+    number = {n/a},
+    pages = {},
+    doi = {https://doi.org/10.1111/arcm.12762},
     }
 
 </details>
@@ -107,6 +121,24 @@ ris
     PY  - 2021
     DA  - 2021
     UR  - https://globalid.dmt-lb.de/
+    ER  - 
+
+    TY  - JOUR
+    T1  - From OXALID to GlobaLID: Introducing a modern and FAIR lead isotope database with an interactive application
+    AU  - Klein, Sabine
+    AU  - Rose, Thomas
+    AU  - Westner, Katrin J.
+    AU  - Hsu, Yiu-Kang
+    PY  - 2022
+    DA  - 2022/02/09
+    DO  - https://doi.org/10.1111/arcm.12762
+    JF  - Archaeometry
+    JO  - Archaeometry
+    JA  - Archaeometry
+    VL  - n/a
+    IS  - n/a
+    SN  - 0003-813X
+    UR  - https://doi.org/10.1111/arcm.12762
     ER  - 
 
 </details>

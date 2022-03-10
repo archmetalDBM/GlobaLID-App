@@ -52,6 +52,7 @@ Please attribute to GlobaLID by citing:
 
 * Westner, Katrin J.; Rose, Thomas; Klein, Sabine; Hsu, Yiu-Kang (2021): GlobaLID – Global Lead Isotope Database. V. 1.0. GFZ Data Services. <a href="https://doi.org/10.5880/fidgeo.2021.031" target="_blank">https://doi.org/10.5880/fidgeo.2021.031</a>
 * GlobaLID Core Team (2021): GlobaLID web application V. `r app_version`, database status: `r format.Date(update_database, "%F")`. <a href="https://globalid.dmt-lb.de/" target="_blank">https://globalid.dmt-lb.de/</a>
+* Klein, S., Rose, T., Westner, K. J., & Hsu, Y.-K. (2022). From OXALID to GlobaLID: Introducing a modern and FAIR lead isotope database with an interactive application. Archaeometry, 1– 16. <a href="https://doi.org/10.1111/arcm.12762" target="_blank">https://doi.org/10.1111/arcm.12762</a>
 
 For direct import into your reference manager copy the citations as 
 <details>
@@ -72,6 +73,17 @@ For direct import into your reference manager copy the citations as
  title = {{GlobaLID web application V. `r app_version`, database status: `r format.Date(update_database, "%F")`}},
  url = {https://globalid.dmt-lb.de/}
 }
+
+@article{Klein.2022,
+author = {Klein, Sabine and Rose, Thomas and Westner, Katrin J. and Hsu, Yiu-Kang},
+title = {From OXALID to GlobaLID: Introducing a modern and FAIR lead isotope database with an interactive application},
+journal = {Archaeometry},
+volume = {n/a},
+number = {n/a},
+pages = {},
+doi = {https://doi.org/10.1111/arcm.12762},
+}
+
 ```
 </details>
 <details>
@@ -99,6 +111,25 @@ PY  - 2021
 DA  - 2021
 UR  - https://globalid.dmt-lb.de/
 ER  - 
+
+TY  - JOUR
+T1  - From OXALID to GlobaLID: Introducing a modern and FAIR lead isotope database with an interactive application
+AU  - Klein, Sabine
+AU  - Rose, Thomas
+AU  - Westner, Katrin J.
+AU  - Hsu, Yiu-Kang
+PY  - 2022
+DA  - 2022/02/09
+DO  - https://doi.org/10.1111/arcm.12762
+JF  - Archaeometry
+JO  - Archaeometry
+JA  - Archaeometry
+VL  - n/a
+IS  - n/a
+SN  - 0003-813X
+UR  - https://doi.org/10.1111/arcm.12762
+ER  - 
+
 ```
 </details>
 

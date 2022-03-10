@@ -1,5 +1,11 @@
 ## News
 
+2022-03-01 – New publication about GlobaLID: Klein, S., Rose, T.,
+Westner, K. J., & Hsu, Y.-K. (2022). From OXALID to GlobaLID:
+Introducing a modern and FAIR lead isotope database with an interactive
+application. Archaeometry, 1– 16.
+<a href="https://doi.org/10.1111/arcm.12762" target="_blank">https://doi.org/10.1111/arcm.12762</a>
+
 2022-01-18 – Additional data from Bosnia and Herzegovina, Bulgaria,
 Greece, and the Kosovo included (contributor: K. J. Westner). The
 database now includes 2468 entries.

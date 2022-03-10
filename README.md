@@ -24,15 +24,32 @@ locations: <img src="man/figures/README-map-1.png" width="100%" />
 
 # How to cite
 
-If you use the GlobaLID app, please cite it as:  
-GlobaLID Core Team. (2021). GlobaLID web application V. 1.0, database
-status: 2022-01-18. <https://globalid.dmt-lb.de/>
+If you use the GlobaLID app, please cite it as:
+
+-   GlobaLID Core Team. (2021). GlobaLID web application V. 1.0,
+    database status: 2022-01-18. <https://globalid.dmt-lb.de/>
+-   Klein, S., Rose, T., Westner, K. J., & Hsu, Y.-K. (2022). From
+    OXALID to GlobaLID: Introducing a modern and FAIR lead isotope
+    database with an interactive application. Archaeometry, 1– 16.
+    <https://doi.org/10.1111/arcm.12762>
+
+<!-- -->
 
     @misc{GlobaLIDCoreTeam.2021,
      author = {{GlobaLID Core Team}},
      year = {2021},
      title = {{GlobaLID web application V. 1.0, database status: 2022-01-18}},
      url = {https://globalid.dmt-lb.de/}
+    }
+
+    @article{Klein.2022,
+    author = {Klein, Sabine and Rose, Thomas and Westner, Katrin J. and Hsu, Yiu-Kang},
+    title = {From OXALID to GlobaLID: Introducing a modern and FAIR lead isotope database with an interactive application},
+    journal = {Archaeometry},
+    volume = {n/a},
+    number = {n/a},
+    pages = {},
+    doi = {https://doi.org/10.1111/arcm.12762},
     }
 
 # Become a contributor!
