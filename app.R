@@ -814,12 +814,15 @@ server <- function(input, output, session) {
       
       validate(need(tools::file_ext(input$upload_file$datapath) %in% c("csv", "txt"), "Please upload a csv or txt file."))
       
-      upload_data <- read.delim(
-        input$upload_file$datapath,
-        header = TRUE,
-        sep = input$sep,
-        quote = input$quote,
-        dec = input$dec
+      tryCatch(
+        upload_data <- read.delim(
+          input$upload_file$datapath,
+          header = TRUE,
+          sep = input$sep,
+          quote = input$quote,
+          dec = input$dec
+        ), 
+        error = function(e) "A problem occurred while parsing your file. Please chose the appropriate parameters for reading your data."
       )
       
       validate(need(ncol(upload_data) >= 2, "A problem occurred while parsing your file. Please chose the appropriate parameters for reading your data."))
@@ -1260,9 +1263,9 @@ server <- function(input, output, session) {
     # Captcha ---------------------------------------------------------------
   
   observeEvent(input$sidebar, {
-    
+
     req(general_iv$is_valid(), input$sidebar == "upload", !captcha_result()$success)
-    
+
     showModal(
       modalDialog(
         h5("Please confirm you are a human."),
@@ -1274,13 +1277,13 @@ server <- function(input, output, session) {
       )
     )
   })
- 
+
   captcha_result <- hcaptcha("captcha", secret = credentials$hCaptcha_secret)
-  
-  observe({ 
-    
+
+  observe({
+
     req(general_iv$is_valid(), captcha_result()$success)
-    
+
     removeModal()
   })
   
