@@ -22,7 +22,7 @@ source("../update.R")
 ```
 
 ## What is GlobaLID? 
-GlobaLID is a Global Lead Isotope Database and aims to facilitate the reconstruction of raw material provenances with lead isotopes, especially in archaeology. The app provides direct access to and convenient interaction with the [GlobaLID database](https://doi.org/10.5880/fidgeo.2021.031){target="_blank"}. You can filter the database according to your research question, upload own data to compare it with GlobaLID, and produce and download publication ready plots. The "References" page lists all references from which data are currently included in GlobaLID. There are still data missing? Consider to become a contributor and help to let GlobaLID grow! 
+GlobaLID is a Global Lead Isotope Database and aims to facilitate the reconstruction of raw material provenances with lead isotopes, especially in archaeology. The app provides direct access to and convenient interaction with the [GlobaLID database](https://doi.org/10.5880/fidgeo.2021.031){target="_blank"}. You can filter the database according to your research question, upload own data to compare it with GlobaLID, and produce and download publication ready plots. Please watch our [video tutorial](https://www.youtube.com/watch?v=qwKStMc-068){target="_blank"} for a "life" demonstration. The "References" page lists all references from which data are currently included in GlobaLID. There are still data missing? Consider to become a contributor and help to let GlobaLID grow! 
 
 ## Copyright
 

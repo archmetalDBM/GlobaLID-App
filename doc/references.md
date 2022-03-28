@@ -139,6 +139,11 @@
     from lead isotopes, In Mineral deposits (ed. H. Papunen), 813–6,
     Balkema, Rotterdam.
 
+-   Dayton, J. E., and Dayton, A. M., 1986, Uses and limitations of lead
+    isotopes in archaeology, In Proceedings of the 24th International
+    Archaeometry Symposium (eds. J. S. Olin, and M. J. Blackman), 13–41,
+    Smithsonian Institution Press, Washington D.C.
+
 -   De Launay, M. L., 1894, Les Minerais d’Argent de Milo, Annales des
     Mines, 9ième Série(VI), 345–53.
 
@@ -197,6 +202,10 @@
     Metallurgy, The Annual of the British School at Athens, 76, 169–224.
     DOI:<a href="https://doi.org/10.1017/S0068245400019523" target="_blank">10.1017/S0068245400019523</a>
 
+-   Gale, N. H., and Stos-Gale, Z. A., 1981, Cycladic Lead and Silver
+    Metallurgy, The Annual of the British School at Athens, 76, 169–224.
+    DOI:<a href="https://doi.org/http://www.jstor.org/stable/30103034" target="_blank">http://www.jstor.org/stable/30103034</a>
+
 -   Gale, N. H., and Stos-Gale, Z. A., 1985, Cyprus and the Bronze Age
     Metals Trade, In Proceedings of the Second International Congress of
     Cypriot Studies, Nicosia 1982 (eds. T. Papadopoullos, and S. A.
@@ -212,6 +221,13 @@
     scientific evidence, In Nuragic Sardinia and the Mycenaean world,
     Studies in Sardinian archaeology 3 (ed. M. Balmuth), Vol. 387,
     135–78, BAR International Series, Bar, Oxford.
+
+-   Gale, N. H., and Stos-Gale, Z. A., 1988, Recent evidence for a
+    possible Bronze Age metal trade between Sardinia and the Aegean, In
+    Problems in Greek Prehistory, Proceedings of the Centenary
+    Conference of the British School of Archaeology at Athens,
+    Manchester 1986 (eds. E. B. French, and K. A. Wardle), 355–85,
+    Bristol Classical Press, Bristol.
 
 -   Gale, N. H., Gentner, W., and Wagner, G. A., 1980, Mineralogical and
     Geographical Silver Sources of Archaic Greek Coinage, In Metallurgy
@@ -234,8 +250,6 @@
     Symposium on Early Furnace Technology, British Museum, London 1982
     (eds. P. T. Craddock, and M. J. Hughes), Vol. 48, 81–102, British
     Museum Occasional Paper, British Museum, London.
-
--   Grafenauer (1965)
 
 -   Harlavan, Y., Bar-Matthews, M., Matthews, A., Asael, D., and Segal,
     I., 2017, Tracing the sources of sedimentary Cu and Mn ores in the
@@ -286,8 +300,6 @@
     Southern Panagyurishte district, Bulgaria: the paired Vlaykov Vruh
     and Elshitsa deposits, Mineralium Deposita, 44, 611–46.
     DOI:<a href="https://doi.org/10.1007/s00126-009-0239-1" target="_blank">10.1007/s00126-009-0239-1</a>
-
--   Kubat et al. (1980)
 
 -   Kubat, I., Ramović, E., Tomčević, D., Pezdić, J., and Dolenac, T.,
     1979, The results of the investigation of S, O, C and Pb isotopic
@@ -376,8 +388,8 @@
     DOI:<a href="https://doi.org/10.1515/prhz.1993.68.1.1" target="_blank">10.1515/prhz.1993.68.1.1</a>
 
 -   Pernicka, E., Begemann, F., Schmitt-Strecker, S., Todorova, H., and
-    Kuleff, I., 1997, Prehistoric copper in Bulgaria, Eurasia Antiqua,
-    3, 41–180.
+    Kuleff, I., 1997, Prehistoric copper in Bulgaria: its composition
+    and provenance, Eurasia Antiqua(3), 41–180.
 
 -   Pernicka, E., Momenzadeh, M., Vatandoust, A., Adam, K., Böhme, M.,
     Hezarkhani, Z., Nezafati, N., Schreiner, M., and Winterholler, B.,
@@ -407,6 +419,12 @@
 -   Siron, C. R., 2018, Magmatic, Structural, and Metallogenic Framework
     of the Kassandra Mining District, Chalkidiki Peninsula, Northern
     Greece, PhD thesis, Cornell University, Ithaca.
+
+-   Stos-Gale, Z. A., 1989, Cycladic Copper Metallurgy, In Old world
+    archaeometallurgy: proceedings of the International symposium Old
+    world archaeometallurgy. Heidelberg 1987 (eds. A. Hauptmann, E.
+    Pernicka, and G. A. Wagner), Vol. 7, 279–93, Der Anschnitt, Beiheft,
+    Deutsches Bergbau-Museum, Bochum.
 
 -   Stos-Gale, Z. A., 2001, The impact of the natural sciences on
     studies of hacksilber and early silver coinage, In Hacksilber to

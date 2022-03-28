@@ -18,6 +18,8 @@ convenient interaction with the [GlobaLID
 database](https://doi.org/10.5880/fidgeo.2021.031). You can filter the
 database according to your research question, upload own data to compare
 it with GlobaLID, and produce and download publication ready plots.
+Watch our [video tutorial](https://www.youtube.com/watch?v=qwKStMc-068)
+to learn more!
 
 The current version of the GlobaLID database includes data from these
 locations: <img src="man/figures/README-map-1.png" width="100%" />
@@ -27,7 +29,7 @@ locations: <img src="man/figures/README-map-1.png" width="100%" />
 If you use the GlobaLID app, please cite it as:
 
 -   GlobaLID Core Team. (2021). GlobaLID web application V. 1.0,
-    database status: 2022-01-18. <https://globalid.dmt-lb.de/>
+    database status: 2022-03-28. <https://globalid.dmt-lb.de/>
 -   Klein, S., Rose, T., Westner, K. J., & Hsu, Y.-K. (2022). From
     OXALID to GlobaLID: Introducing a modern and FAIR lead isotope
     database with an interactive application. Archaeometry, 1– 16.
@@ -38,7 +40,7 @@ If you use the GlobaLID app, please cite it as:
     @misc{GlobaLIDCoreTeam.2021,
      author = {{GlobaLID Core Team}},
      year = {2021},
-     title = {{GlobaLID web application V. 1.0, database status: 2022-01-18}},
+     title = {{GlobaLID web application V. 1.0, database status: 2022-03-28}},
      url = {https://globalid.dmt-lb.de/}
     }
 

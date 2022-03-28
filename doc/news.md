@@ -1,5 +1,13 @@
 ## News
 
+2022-28-03 – The original publications for some data published in OXALID
+was added
+
+2022-03-23 – Video tutorial for the GlobaLID web application is now
+available
+<a href="https://www.youtube.com/watch?v=qwKStMc-068" target="_blank">on
+YouTube</a>.
+
 2022-03-01 – New publication about GlobaLID: Klein, S., Rose, T.,
 Westner, K. J., & Hsu, Y.-K. (2022). From OXALID to GlobaLID:
 Introducing a modern and FAIR lead isotope database with an interactive

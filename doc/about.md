@@ -7,8 +7,10 @@ convenient interaction with the
 <a href="https://doi.org/10.5880/fidgeo.2021.031" target="_blank">GlobaLID database</a>.
 You can filter the database according to your research question, upload
 own data to compare it with GlobaLID, and produce and download
-publication ready plots. The “References” page lists all references from
-which data are currently included in GlobaLID. There are still data
+publication ready plots. Please watch our
+<a href="https://www.youtube.com/watch?v=qwKStMc-068" target="_blank">video tutorial</a>
+for a “life” demonstration. The “References” page lists all references
+from which data are currently included in GlobaLID. There are still data
 missing? Consider to become a contributor and help to let GlobaLID grow!
 
 ## Copyright
@@ -41,7 +43,7 @@ This licence allows you to:
 provided you attribute the GlobaLID Core Team as the source of the
 copyright material. The GlobaLID Core Team requests attribution as:  
 "GlobaLID Core Team (2021): GlobaLID web application V. 1.0, database
-status: 18 Januar 2022.
+status: 28 März 2022.
 <a href="https://globalid.dmt-lb.de/" target="_blank">https://globalid.dmt-lb.de/</a>.
 
 </details>
@@ -55,7 +57,7 @@ Please attribute to GlobaLID by citing:
     Services.
     <a href="https://doi.org/10.5880/fidgeo.2021.031" target="_blank">https://doi.org/10.5880/fidgeo.2021.031</a>
 -   GlobaLID Core Team (2021): GlobaLID web application V. 1.0, database
-    status: 2022-01-18.
+    status: 2022-03-28.
     <a href="https://globalid.dmt-lb.de/" target="_blank">https://globalid.dmt-lb.de/</a>
 -   Klein, S., Rose, T., Westner, K. J., & Hsu, Y.-K. (2022). From
     OXALID to GlobaLID: Introducing a modern and FAIR lead isotope
@@ -80,7 +82,7 @@ bibtex
     @misc{GlobaLIDCoreTeam.2021,
      author = {{GlobaLID Core Team}},
      year = {2021},
-     title = {{GlobaLID web application V. 1.0, database status: 2022-01-18}},
+     title = {{GlobaLID web application V. 1.0, database status: 2022-03-28}},
      url = {https://globalid.dmt-lb.de/}
     }
 
