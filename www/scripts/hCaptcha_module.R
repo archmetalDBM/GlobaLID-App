@@ -1,5 +1,5 @@
 # Shiny module for hCaptcha
-# modified from the package shinyCAPTCHA by Carl Ganz (https://github.com/carlganz/shinyCAPTCHA)
+# modified from the package shinyCAPTCHA (https://github.com/carlganz/shinyCAPTCHA), Copyright (c) 2017 CannaData Solutions 
 
 #' Client-side module component
 #' @export
