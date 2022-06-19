@@ -54,7 +54,8 @@ references:
         orcid: https://orcid.org/0000-0002-2439-4863
     title: "GlobaLID – Global Lead Isotope Database"
     type: dataset
-    repository: GFZ Data Services
+    database-provider: 
+      name: "GFZ Data Services"
     doi: "10.5880/fidgeo.2021.031"
     scope: "Cite this dataset for the GlobaLID database."
     year: 2021
