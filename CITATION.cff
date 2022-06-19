@@ -1,0 +1,61 @@
+
+cff-version: 1.2.0
+title: GlobaLID web application
+message: 'To cite the GlobaLID web application in publications use:'
+type: software
+authors:
+  - name: GlobaLID Core Team
+    email: globalid@bergbaumuseum.de
+version: "1.0"
+license: GPL-3.0-only
+year: '2022'
+url: https://globalid.dmt-lb.de/
+repository-code: https://github.com/archmetalDBM/GlobaLID-App
+date-released: '2022-03-28'
+contact:
+- name: GlobaLID Core Team
+  email: globalid@bergbaumuseum.de
+references:
+  - authors:
+      - family-names: Rose
+        given-names: Thomas
+        email: thomas.rose@daad-alumni.de
+        orcid: https://orcid.org/0000-0002-8186-3566
+      - family-names: Klein
+        given-names: Sabine
+        email: sabine.klein@bergbaumuseum.de
+        orcid: https://orcid.org/0000-0002-3939-4428
+      - family-names: Westner
+        given-names: 'Katrin J.'
+        orcid: https://orcid.org/0000-0001-5529-1165
+      - family-names: Hsu
+        given-names: Yiu-Kang
+        orcid: https://orcid.org/0000-0002-2439-4863
+    title: "From OXALID to GlobaLID: Introducing a modern and FAIR lead isotope database with an interactive application"
+    type: article
+    doi: "10.1111/arcm.12762"
+    journal: Archaeometry
+    scope: "Cite this paper if you want to reference the general concepts of GlobaLID."
+    year: 2022
+  - authors:
+      - family-names: Westner
+        given-names: Katrin J.
+        orcid: https://orcid.org/0000-0001-5529-1165
+      - family-names: Rose
+        given-names: Thomas
+        email: thomas.rose@daad-alumni.de
+        orcid: https://orcid.org/0000-0002-8186-3566
+      - family-names: Klein
+        given-names: Sabine
+        email: sabine.klein@bergbaumuseum.de
+        orcid: https://orcid.org/0000-0002-3939-4428
+      - family-names: Hsu
+        given-names: Yiu-Kang
+        orcid: https://orcid.org/0000-0002-2439-4863
+    title: "GlobaLID – Global Lead Isotope Database"
+    type: dataset
+    repository: GFZ Data Services
+    doi: "10.5880/fidgeo.2021.031"
+    scope: "Cite this dataset for the GlobaLID database."
+    year: 2021
+    version: "1.0"
