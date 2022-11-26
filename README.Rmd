@@ -22,6 +22,7 @@ source("update.R")
 
 <!-- badges: start -->
 [![Release](https://img.shields.io/github/v/release/archmetalDBM/GlobaLID-database.svg)](https://github.com/archmetalDBM/GlobaLID-App)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 <!-- badges: end -->
 
 # GlobaLID App <img src="www/logo.svg" align="right" width="120" />

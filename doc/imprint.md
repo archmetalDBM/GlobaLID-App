@@ -10,8 +10,8 @@ Am Bergbaumuseum 28
 Phone +49 234 5877-0  
 E-Mail: [info@bergbaumuseum.de](info@bergbaumuseum.de)
 
-Managing Director: Prof. Dr. Jürgen Kretschmann (chairman), Adolf
-Siethoff
+Managing Director: Prof. Susanne Lengyel (chairman), Prof. Dr. Sunhild
+Kleingärtner, Ulrich Wessel
 
 commercial register: Amtsgericht Bochum, HRB 4052  
 VAT identification number according to § 27 UStG: DE124091698
@@ -40,4 +40,5 @@ Umsatzsteueridentifikationsnummer nach § 27 UStG: DE124091698
 Zuständige Aufsichtsbehörde: Ministerium für Kultur und Wissenschaft des
 Landes Nordrhein Westfalen
 
-## <a href="https://dse.cortina-consult.com/privacy/6140aab59b531" target="_blank">Privacy statement (link opens in new tab)</a>
+## <a href="https://dse.cortina-consult.com/privacy/6140aab59b531"
+target="_blank">Privacy statement (link opens in new tab)</a>
