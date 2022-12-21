@@ -1,6 +1,9 @@
 ## News
 
-2022-28-03 – The original publications for some data published in OXALID
+2022-12-20 – Additional data from Germany included (contributors: S.
+Fischer-Lechner, T. Rose). The database now includes 2699 entries.
+
+2022-03-28 – The original publications for some data published in OXALID
 was added
 
 2022-03-23 – Video tutorial for the GlobaLID web application is now
@@ -11,7 +14,7 @@ YouTube</a>.
 2022-03-01 – New publication about GlobaLID: Klein, S., Rose, T.,
 Westner, K. J., & Hsu, Y.-K. (2022). From OXALID to GlobaLID:
 Introducing a modern and FAIR lead isotope database with an interactive
-application. Archaeometry, 1– 16.
+application. Archaeometry 64(4), 935–950.
 <a href="https://doi.org/10.1111/arcm.12762" target="_blank">https://doi.org/10.1111/arcm.12762</a>
 
 2022-01-18 – Additional data from Bosnia and Herzegovina, Bulgaria,
@@ -36,7 +39,8 @@ Westner). The database now includes 2141 entries.
 ### Release of GlobaLID database V. 1.0
 
 2021-10-06 – Version 1.0 of the GlobaLID database is now available at
-<https://doi.org/10.5880/fidgeo.2021.031>!  
+<a href="https://doi.org/10.5880/fidgeo.2021.031"
+target="_blank">https://doi.org/10.5880/fidgeo.2021.031</a>!  
 The database currently includes 1892 entries, many of them are the
 result of hard work by Katrin J. Westner (Sardinia, Southeastern Europe,
 Greece) and Nima Nezafati (Iran).

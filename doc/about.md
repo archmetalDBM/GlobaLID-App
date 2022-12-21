@@ -4,14 +4,15 @@ GlobaLID is a Global Lead Isotope Database and aims to facilitate the
 reconstruction of raw material provenances with lead isotopes,
 especially in archaeology. The app provides direct access to and
 convenient interaction with the
-<a href="https://doi.org/10.5880/fidgeo.2021.031" target="_blank">GlobaLID database</a>.
-You can filter the database according to your research question, upload
-own data to compare it with GlobaLID, and produce and download
-publication ready plots. Please watch our
-<a href="https://www.youtube.com/watch?v=qwKStMc-068" target="_blank">video tutorial</a>
-for a “life” demonstration. The “References” page lists all references
-from which data are currently included in GlobaLID. There are still data
-missing? Consider to become a contributor and help to let GlobaLID grow!
+<a href="https://doi.org/10.5880/fidgeo.2021.031"
+target="_blank">GlobaLID database</a>. You can filter the database
+according to your research question, upload own data to compare it with
+GlobaLID, and produce and download publication ready plots. Please watch
+our <a href="https://www.youtube.com/watch?v=qwKStMc-068"
+target="_blank">video tutorial</a> for a “life” demonstration. The
+“References” page lists all references from which data are currently
+included in GlobaLID. There are still data missing? Consider to become a
+contributor and help to let GlobaLID grow!
 
 ## Copyright
 
@@ -23,10 +24,14 @@ indicated, by a party other than the GlobaLID Core Team. The GlobaLID
 Core Team supports and encourages use of its material for all legitimate
 purposes.
 
-<a href="http://creativecommons.org/licenses/by/4.0/" target="_blank"><img src="https://i.creativecommons.org/l/by/4.0/88x31.png" alt="CC-BY 4.0 icon" /></a>
-Copyright material available on this website is licensed under a
-<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">Creative Commons Attribution 4.0 International (CC-BY 4.0)</a>
-licence unless indicated otherwise.
+<a href="http://creativecommons.org/licenses/by/4.0/"
+target="_blank"><img
+src="https://i.creativecommons.org/l/by/4.0/88x31.png"
+alt="CC-BY 4.0 icon" /></a> Copyright material available on this website
+is licensed under a
+<a href="https://creativecommons.org/licenses/by/4.0/"
+target="_blank">Creative Commons Attribution 4.0 International (CC-BY
+4.0)</a> licence unless indicated otherwise.
 
 <details>
 <summary>
@@ -42,8 +47,8 @@ This licence allows you to:
 
 provided you attribute the GlobaLID Core Team as the source of the
 copyright material. The GlobaLID Core Team requests attribution as:  
-"GlobaLID Core Team (2021): GlobaLID web application V. 1.0, database
-status: 28 März 2022.
+“GlobaLID Core Team (2021): GlobaLID web application V. 1.0, database
+status: 20 Dezember 2022.
 <a href="https://globalid.dmt-lb.de/" target="_blank">https://globalid.dmt-lb.de/</a>.
 
 </details>
@@ -57,11 +62,12 @@ Please attribute to GlobaLID by citing:
     Services.
     <a href="https://doi.org/10.5880/fidgeo.2021.031" target="_blank">https://doi.org/10.5880/fidgeo.2021.031</a>
 -   GlobaLID Core Team (2021): GlobaLID web application V. 1.0, database
-    status: 2022-03-28.
+    status: 2022-12-20.
     <a href="https://globalid.dmt-lb.de/" target="_blank">https://globalid.dmt-lb.de/</a>
 -   Klein, S., Rose, T., Westner, K. J., & Hsu, Y.-K. (2022). From
     OXALID to GlobaLID: Introducing a modern and FAIR lead isotope
-    database with an interactive application. Archaeometry, 1– 16.
+    database with an interactive application. Archaeometry 64(4),
+    935–950.
     <a href="https://doi.org/10.1111/arcm.12762" target="_blank">https://doi.org/10.1111/arcm.12762</a>
 
 For direct import into your reference manager copy the citations as
@@ -79,10 +85,10 @@ bibtex
      url = {https://doi.org/10.5880/fidgeo.2021.031}
     }
 
-    @misc{GlobaLIDCoreTeam.2021,
+    @misc{GlobaLIDCoreTeam.2022,
      author = {{GlobaLID Core Team}},
-     year = {2021},
-     title = {{GlobaLID web application V. 1.0, database status: 2022-03-28}},
+     year = {2022},
+     title = {{GlobaLID web application V. 1.0, database status: 2022-12-20}},
      url = {https://globalid.dmt-lb.de/}
     }
 
@@ -90,9 +96,9 @@ bibtex
     author = {Klein, Sabine and Rose, Thomas and Westner, Katrin J. and Hsu, Yiu-Kang},
     title = {From OXALID to GlobaLID: Introducing a modern and FAIR lead isotope database with an interactive application},
     journal = {Archaeometry},
-    volume = {n/a},
-    number = {n/a},
-    pages = {},
+    volume = {64},
+    number = {4},
+    pages = {935-950},
     doi = {https://doi.org/10.1111/arcm.12762},
     }
 
@@ -119,9 +125,9 @@ ris
     TY  - COMP
     AU  - GlobaLID Core Team
     TI  - GlobaLID web application
-    ET  - V. 1.0, database status: 03 October 2021
-    PY  - 2021
-    DA  - 2021
+    ET  - V. 1.0, database status: 2022-12-20
+    PY  - 2022
+    DA  - 2022
     UR  - https://globalid.dmt-lb.de/
     ER  - 
 
@@ -137,8 +143,10 @@ ris
     JF  - Archaeometry
     JO  - Archaeometry
     JA  - Archaeometry
-    VL  - n/a
-    IS  - n/a
+    VL  - 64
+    IS  - 4
+    SP  - 935
+    EP  - 950
     SN  - 0003-813X
     UR  - https://doi.org/10.1111/arcm.12762
     ER  - 
@@ -186,10 +194,11 @@ Germany<br><a href="mailto:Sabine.Klein@bergbaumuseum.de?subject=GlobaLID" targe
 <img src="../www/TRose.png" height="96" />
 </td>
 <td style="text-align:left;color: black !important;">
-<b>Thomas Rose</b> (Programming)<br>Department of Archaeology,
-Ben-Gurion University of the Negev, Be’er Sheva, Israel <br> Department
-of Antiquity, Sapienza University of Rome, Rome, Italy <br>
-Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für
+<b>Thomas Rose</b> (Programming)<br>Goethe-Universität Frankfurt,
+Institut für Geowissenschaften, Frankfurt, Germany <br> Department of
+Archaeology, Ben-Gurion University of the Negev, Be’er Sheva, Israel
+<br> Department of Antiquity, Sapienza University of Rome, Rome, Italy
+<br> Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für
 Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum,
 Germany<br><a href="mailto:Thomas.Rose@bergbaumuseum.de?subject=GlobaLID" target="_blank"><svg viewbox="0 0 512 512" style="height:1em;position:relative;display:inline-block;top:.1em;" xmlns="http://www.w3.org/2000/svg">
 <path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"></path>
@@ -230,9 +239,10 @@ Germany<br><a href="mailto:Thomas.Rose@bergbaumuseum.de?subject=GlobaLID" target
 <img src="../www/KWestner.png" height="96" />
 </td>
 <td style="text-align:left;color: black !important;">
-<b>Katrin J. Westner</b> (Database)<br>Ecole Normale Supérieure de Lyon,
-CNRS, Université de Lyon, Lyon,
-France<br><a href="mailto:katrin.westner@ens-lyon.fr?subject=GlobaLID" target="_blank"><svg viewbox="0 0 512 512" style="height:1em;position:relative;display:inline-block;top:.1em;" xmlns="http://www.w3.org/2000/svg">
+<b>Katrin J. Westner</b> (Database)<br>EForschungsbereich
+Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches
+Bergbau-Museum Bochum, Bochum,
+Germany<br><a href="mailto:katrin.westner@bergbaumuseum.de?subject=GlobaLID" target="_blank"><svg viewbox="0 0 512 512" style="height:1em;position:relative;display:inline-block;top:.1em;" xmlns="http://www.w3.org/2000/svg">
 <path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"></path>
 </svg></a>
 <a href="http://lgltpe.ens-lyon.fr/annuaire/westner-katrin" target="_blank"><svg viewbox="0 0 496 512" style="height:1em;position:relative;display:inline-block;top:.1em;" xmlns="http://www.w3.org/2000/svg">
@@ -348,6 +358,21 @@ France<br><a href="https://orcid.org/0000-0003-3027-5622" target="_blank"><svg v
 </tr>
 </tbody>
 </table>
+<br>
+<table>
+<tbody>
+<tr>
+<td style="text-align:left;min-width: 110px; ">
+<img src="../www/logo.svg" height="96" />
+</td>
+<td style="text-align:left;color: black !important;">
+<b>Sabine Fischer-Lechner</b><br>Forschungsbereich Archäometallurgie,
+Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum
+Bochum, Bochum, Germany
+</td>
+</tr>
+</tbody>
+</table>
 
 <br>
 
@@ -419,10 +444,10 @@ We are indebted to the R Core Team for providing and maintaining
 <a href="https://cran.r-project.org/" target="_blank">R</a> and all the
 authors of the fantastic packages we use, especially Hadley Wickham and
 the RStudio team. We are immensely grateful to the
-<a href="https://www.openstreetmap.org" target="_blank">OpenStreetMap contributors</a>
-from whose Nominatim database we obtain most of the the geographical
-meta-information. Last but definitely not least, the knowledge provided
-by the community on
+<a href="https://www.openstreetmap.org" target="_blank">OpenStreetMap
+contributors</a> from whose Nominatim database we obtain most of the the
+geographical meta-information. Last but definitely not least, the
+knowledge provided by the community on
 <a href="https://stackoverflow.com/" target="_blank">Stackoverflow</a>
 and many other pages was a constant source of inspiration and an
 enormous help during the development of the app.
@@ -430,30 +455,44 @@ enormous help during the development of the app.
 The following packages are used in the app and/or for work on the
 database:
 
--   <a href="https://rinterface.github.io/bs4Dash/" target="_blank">bs4Dash</a>
+-   <a href="https://rinterface.github.io/bs4Dash/"
+    target="_blank">bs4Dash</a>
 -   <a href="https://dplyr.tidyverse.org/" target="_blank">dplyr</a>
 -   <a href="https://rstudio.github.io/DT/" target="_blank">DT</a>
 -   <a href="https://ggplot2.tidyverse.org/" target="_blank">ggplot2</a>
--   <a href="https://haozhu233.github.io/kableExtra/" target="_blank">kableExtra</a>
+-   <a href="https://haozhu233.github.io/kableExtra/"
+    target="_blank">kableExtra</a>
 -   <a href="https://yihui.org/knitr/" target="_blank">knitr</a>
--   <a href="https://cran.r-project.org/web/packages/ks/" target="_blank">ks</a>
+-   <a href="https://cran.r-project.org/web/packages/ks/"
+    target="_blank">ks</a>
 -   <a href="https://rstudio.github.io/leaflet/" target="_blank">leaflet</a>
--   <a href="https://github.com/rstudio/leaflet.providers" target="_blank">leaflet.providers</a>
--   <a href="https://github.com/stefanedwards/lemon" target="_blank">lemon</a>
+-   <a href="https://github.com/rstudio/leaflet.providers"
+    target="_blank">leaflet.providers</a>
+-   <a href="https://github.com/stefanedwards/lemon"
+    target="_blank">lemon</a>
 -   <a href="https://plotly-r.com/" target="_blank">plotly</a>
--   <a href="https://cran.r-project.org/web/packages/RColorBrewer/" target="_blank">RColorBrewer</a>
+-   <a href="https://cran.r-project.org/web/packages/RColorBrewer/"
+    target="_blank">RColorBrewer</a>
 -   <a href="https://readr.tidyverse.org/" target="_blank">readr</a>
 -   <a href="https://rmarkdown.rstudio.com/" target="_blank">rmarkdown</a>
--   <a href="https://cran.r-project.org/web/packages/rootSolve" target="_blank">rootSolve</a>
--   <a href="https://cran.r-project.org/web/packages/sendmailR/" target="_blank">sendmailR</a>
+-   <a href="https://cran.r-project.org/web/packages/rootSolve"
+    target="_blank">rootSolve</a>
+-   <a href="https://cran.r-project.org/web/packages/sendmailR/"
+    target="_blank">sendmailR</a>
 -   <a href="https://shiny.rstudio.com/" target="_blank">shiny</a>
--   <a href="https://rstudio.github.io/shinyvalidate/" target="_blank">shinyvalidate</a>
+-   <a href="https://rstudio.github.io/shinyvalidate/"
+    target="_blank">shinyvalidate</a>
 -   <a href="https://stringr.tidyverse.org/" target="_blank">stringr</a>
--   <a href="https://github.com/jessecambon/tidygeocoder" target="_blank">tidygeocoder</a>
+-   <a href="https://github.com/jessecambon/tidygeocoder"
+    target="_blank">tidygeocoder</a>
 -   <a href="https://tidyr.tidyverse.org/" target="_blank">tidyr</a>
--   <a href="https://sjmgarnier.github.io/viridisLite/" target="_blank">viridisLite</a>
--   <a href="https://shiny.john-coene.com/waiter/" target="_blank">waiter</a>
--   <a href="https://cran.r-project.org/web/packages/zip" target="_blank">zip</a>
+-   <a href="https://sjmgarnier.github.io/viridisLite/"
+    target="_blank">viridisLite</a>
+-   <a href="https://shiny.john-coene.com/waiter/"
+    target="_blank">waiter</a>
+-   <a href="https://cran.r-project.org/web/packages/zip"
+    target="_blank">zip</a>
 
 The implementation of the hCaptcha is a modified version of
-<a href="https://github.com/carlganz/shinyCAPTCHA" target="_blank">shinyCAPTCHA</a>.
+<a href="https://github.com/carlganz/shinyCAPTCHA"
+target="_blank">shinyCAPTCHA</a>.

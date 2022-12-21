@@ -3,7 +3,8 @@
 <!-- badges: start -->
 
 [![Release](https://img.shields.io/github/v/release/archmetalDBM/GlobaLID-database.svg)](https://github.com/archmetalDBM/GlobaLID-App)
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: GPL
+v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 <!-- badges: end -->
 
 # GlobaLID App <img src="www/logo.svg" align="right" width="120" />
@@ -29,19 +30,19 @@ locations: <img src="man/figures/README-map-1.png" width="100%" />
 
 If you use the GlobaLID app, please cite it as:
 
--   GlobaLID Core Team. (2021). GlobaLID web application V. 1.0,
-    database status: 2022-03-28. <https://globalid.dmt-lb.de/>
--   Klein, S., Rose, T., Westner, K. J., & Hsu, Y.-K. (2022). From
-    OXALID to GlobaLID: Introducing a modern and FAIR lead isotope
-    database with an interactive application. Archaeometry, 1– 16.
-    <https://doi.org/10.1111/arcm.12762>
+- GlobaLID Core Team. (2021). GlobaLID web application V. 1.0, database
+  status: 2022-12-20. <https://globalid.dmt-lb.de/>
+- Klein, S., Rose, T., Westner, K. J., & Hsu, Y.-K. (2022). From OXALID
+  to GlobaLID: Introducing a modern and FAIR lead isotope database with
+  an interactive application. Archaeometry, 1– 16.
+  <https://doi.org/10.1111/arcm.12762>
 
 <!-- -->
 
-    @misc{GlobaLIDCoreTeam.2021,
+    @misc{GlobaLIDCoreTeam.2022,
      author = {{GlobaLID Core Team}},
-     year = {2021},
-     title = {{GlobaLID web application V. 1.0, database status: 2022-03-28}},
+     year = {2022},
+     title = {{GlobaLID web application V. 1.0, database status: 2022-12-20}},
      url = {https://globalid.dmt-lb.de/}
     }
 
@@ -67,43 +68,47 @@ Interested? Write us!
 
 # GlobaLID core team
 
--   Coordinator: [Sabine
-    Klein](https://www.bergbaumuseum.de/en/museum/mitarbeitende/kontakt-detailseite/prof-dr-sabine-klein)
-    [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-3939-4428)
-    (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für
-    Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany;
-    Institut für Archäologische Wissenschaften, Ruhr-Universität Bochum,
-    Bochum, Germany; FIERCE, Frankfurt Isotope & Element Research
-    Centre, Goethe Universität, Frankfurt am Main, Germany)
--   Programming: [Thomas Rose](https://copper-smelting.com/)
-    [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-8186-3566)
-    (Department of Archaeology, Ben-Gurion University of the Negev,
-    Be’er Sheva, Israel; Department of Antiquity, Sapienza University of
-    Rome, Rome, Italy; Forschungsbereich Archäometallurgie,
-    Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum
-    Bochum, Bochum, Germany)
--   Database: [Katrin J.
-    Westner](http://lgltpe.ens-lyon.fr/annuaire/westner-katrin)
-    [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-5529-1165)
-    (Ecole Normale Supérieure de Lyon, CNRS, Université de Lyon, Lyon,
-    France)
--   East Asia: [Yiu-Kang
-    Hsu](https://www.bergbaumuseum.de/en/museum/mitarbeitende/kontakt-detailseite/yiu-kang-hsu)
-    [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-2439-4863)
-    (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für
-    Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)
+- Coordinator: [Sabine
+  Klein](https://www.bergbaumuseum.de/en/museum/mitarbeitende/kontakt-detailseite/prof-dr-sabine-klein)
+  [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-3939-4428)
+  (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für
+  Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany;
+  Institut für Archäologische Wissenschaften, Ruhr-Universität Bochum,
+  Bochum, Germany; FIERCE, Frankfurt Isotope & Element Research Centre,
+  Goethe Universität, Frankfurt am Main, Germany)
+- Programming: [Thomas Rose](https://copper-smelting.com/)
+  [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-8186-3566)
+  (Goethe-Universität Frankfurt, Institut für Geowissenschaften,
+  Frankfurt, Germany; Department of Archaeology, Ben-Gurion University
+  of the Negev, Be’er Sheva, Israel; Department of Antiquity, Sapienza
+  University of Rome, Rome, Italy; Forschungsbereich Archäometallurgie,
+  Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum
+  Bochum, Bochum, Germany)
+- Database: [Katrin J.
+  Westner](http://lgltpe.ens-lyon.fr/annuaire/westner-katrin)
+  [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-5529-1165)
+  (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für
+  Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)
+- East Asia: [Yiu-Kang
+  Hsu](https://www.bergbaumuseum.de/en/museum/mitarbeitende/kontakt-detailseite/yiu-kang-hsu)
+  [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-2439-4863)
+  (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für
+  Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)
 
 # Contributors
 
--   [Nima
-    Nezafati](https://www.bergbaumuseum.de/en/museum/mitarbeitende/kontakt-detailseite/dr-nima-nezafati)
-    [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-5806-343X)
-    (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für
-    Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)
--   Markos Vaxevanopoulos
-    [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-3027-5622)
-    (École Normale Supérieure de Lyon, Laboratoire de Géologie de Lyon:
-    Terre, Planète, Environnement, Lyon, France)
+- [Nima
+  Nezafati](https://www.bergbaumuseum.de/en/museum/mitarbeitende/kontakt-detailseite/dr-nima-nezafati)
+  [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-5806-343X)
+  (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für
+  Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)
+- Markos Vaxevanopoulos
+  [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-3027-5622)
+  (École Normale Supérieure de Lyon, Laboratoire de Géologie de Lyon:
+  Terre, Planète, Environnement, Lyon, France)
+- Sabine Fischer-Lechner (Forschungsbereich Archäometallurgie,
+  Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum
+  Bochum, Bochum, Germany)
 
 # Acknowledgements
 
@@ -125,28 +130,28 @@ we use, and the R community on
 [stackoverflow](https://stackoverflow.com/) and many other webpages. The
 app uses the following packages:
 
--   [bs4Dash](https://rinterface.github.io/bs4Dash/)
--   [dplyr](https://dplyr.tidyverse.org/)
--   [DT](https://rstudio.github.io/DT/)
--   [ggplot2](https://ggplot2.tidyverse.org/)
--   [kableExtra](https://haozhu233.github.io/kableExtra/)
--   [knitr](https://yihui.org/knitr/)
--   [ks](https://cran.r-project.org/web/packages/ks/)
--   [leaflet](https://rstudio.github.io/leaflet/)
--   [leaflet.providers](https://github.com/rstudio/leaflet.providers)
--   [lemon](https://github.com/stefanedwards/lemon)
--   [plotly](https://plotly-r.com/)
--   [RColorBrewer](https://cran.r-project.org/web/packages/RColorBrewer/)
--   [rmarkdown](https://rmarkdown.rstudio.com/)
--   [rootSolve](https://cran.r-project.org/web/packages/rootSolve)
--   [sendmailR](https://cran.r-project.org/web/packages/sendmailR/)
--   [shiny](https://shiny.rstudio.com/)
--   [shinyvalidate](https://rstudio.github.io/shinyvalidate/)
--   [stringr](https://stringr.tidyverse.org/)
--   [tidyr](https://tidyr.tidyverse.org/)
--   [viridisLite](https://sjmgarnier.github.io/viridisLite/)
--   [waiter](https://shiny.john-coene.com/waiter/)
--   [zip](https://cran.r-project.org/web/packages/zip)
+- [bs4Dash](https://rinterface.github.io/bs4Dash/)
+- [dplyr](https://dplyr.tidyverse.org/)
+- [DT](https://rstudio.github.io/DT/)
+- [ggplot2](https://ggplot2.tidyverse.org/)
+- [kableExtra](https://haozhu233.github.io/kableExtra/)
+- [knitr](https://yihui.org/knitr/)
+- [ks](https://cran.r-project.org/web/packages/ks/)
+- [leaflet](https://rstudio.github.io/leaflet/)
+- [leaflet.providers](https://github.com/rstudio/leaflet.providers)
+- [lemon](https://github.com/stefanedwards/lemon)
+- [plotly](https://plotly-r.com/)
+- [RColorBrewer](https://cran.r-project.org/web/packages/RColorBrewer/)
+- [rmarkdown](https://rmarkdown.rstudio.com/)
+- [rootSolve](https://cran.r-project.org/web/packages/rootSolve)
+- [sendmailR](https://cran.r-project.org/web/packages/sendmailR/)
+- [shiny](https://shiny.rstudio.com/)
+- [shinyvalidate](https://rstudio.github.io/shinyvalidate/)
+- [stringr](https://stringr.tidyverse.org/)
+- [tidyr](https://tidyr.tidyverse.org/)
+- [viridisLite](https://sjmgarnier.github.io/viridisLite/)
+- [waiter](https://shiny.john-coene.com/waiter/)
+- [zip](https://cran.r-project.org/web/packages/zip)
 
 The implementation of the hCaptcha is a modified version of
 [shinyCAPTCHA](https://github.com/carlganz/shinyCAPTCHA).
