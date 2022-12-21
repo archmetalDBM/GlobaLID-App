@@ -77,6 +77,10 @@
     1070–84.
     DOI:<a href="https://doi.org/10.1016/j.apgeochem.2010.04.012" target="_blank">10.1016/j.apgeochem.2010.04.012</a>
 
+-   Bode, M., 2008, Archäometallurgische Untersuchungen zur
+    Blei-/Silbergewinnung im Germanien der frühen Römischen Kaiserzeit,
+    PhD thesis, Westfälische Wilhelms-Universität Münster, Münster.
+
 -   Boni, M., and Koeppel, V., 1985, Ore-lead isotope pattern from the
     Iglesiente-Sulcis Area (SW Sardinia) and the problem of
     remobilization of metals, Mineralium Deposita, 20(3), 185–93.
@@ -160,6 +164,11 @@
     copper isotope provenance studies, Geowissenschaften,
     Universitätsbibliothek Johann Christian Senckenberg Frankfurt am
     Main, Frankfurt a.M., Germany.
+
+-   Durali-Müller, S., 2006, Roman lead and copper mining in Germany:
+    their origin and development through time, deduced from lead and
+    copper isotope provenance studies, PhD Thesis, Goethe-Universität
+    Frankfurt am Main, Frankfurt a.M., Germany.
 
 -   Ehya, F., Lotfi, M., and Rasa, I., 2010, Emarat carbonate-hosted
     Zn–Pb deposit, Markazi Province, Iran: A geological, mineralogical
@@ -533,8 +542,9 @@
     antique city of ULPIANA (Kosovo), PhD thesis, Johann Wolfgang
     Goethe-Universität, Frankfurt.
 
--   Wind, S. C., Schneider, D. A., Hannington, M. D., and McFarlane, C.
-    R. M., 2020, Regional similarities in lead isotopes and trace
-    elements in galena of the Cyclades Mineral District, Greece with
-    implications for the underlying basement, Lithos, 366–367, 105559.
+-   Wind, S. C., Schneider, D. A., Hannington, M. D., and
+    McFarlane, C. R. M., 2020, Regional similarities in lead isotopes
+    and trace elements in galena of the Cyclades Mineral District,
+    Greece with implications for the underlying basement, Lithos,
+    366–367, 105559.
     DOI:<a href="https://doi.org/10.1016/j.lithos.2020.105559" target="_blank">10.1016/j.lithos.2020.105559</a>
