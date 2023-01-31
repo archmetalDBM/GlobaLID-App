@@ -159,12 +159,6 @@
     samples and analyses cited, Open-File Report.
     DOI:<a href="https://doi.org/10.3133/ofr79661" target="_blank">10.3133/ofr79661</a>
 
--   Durali-Müller, S., 2006, Roman lead and copper mining in Germany :
-    their origin and development through time, deduced from lead and
-    copper isotope provenance studies, Geowissenschaften,
-    Universitätsbibliothek Johann Christian Senckenberg Frankfurt am
-    Main, Frankfurt a.M., Germany.
-
 -   Durali-Müller, S., 2006, Roman lead and copper mining in Germany:
     their origin and development through time, deduced from lead and
     copper isotope provenance studies, PhD Thesis, Goethe-Universität
