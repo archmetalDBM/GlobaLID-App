@@ -1,5 +1,8 @@
 ## News
 
+2023-01-31 – Additional data from Germany included (contributor: S.
+Fischer-Lechner). The database now includes 2763 entries.
+
 2022-12-20 – Additional data from Germany included (contributors: S.
 Fischer-Lechner, T. Rose). The database now includes 2699 entries.
 
