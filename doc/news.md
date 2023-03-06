@@ -1,5 +1,8 @@
 ## News
 
+2023-03-06 – Precise coordinates for Sklavopoulou added (thanks T. O.
+Pryce for providing them)
+
 2023-01-31 – Additional data from Germany included (contributor: S.
 Fischer-Lechner). The database now includes 2763 entries.
 
