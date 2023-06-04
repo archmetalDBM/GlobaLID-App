@@ -1,5 +1,14 @@
 ## News
 
+2023-06-04 – Additional data from
+
+-   Germany, Czechia (contributor: S. Fischer-Lechner)
+-   Greece (contributor: K. J. Westner, M. Vaxevanopoulos)
+-   Bosnia and Herzegovina, Bulgaria, Kosovo, Montenegro, North
+    Macedonia, Serbia (contributor: K. J. Wesnter).
+
+The database now includes 3245 entries.
+
 2023-01-31 – Additional data from Germany included (contributor: S.
 Fischer-Lechner). The database now includes 2763 entries.
 
