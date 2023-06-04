@@ -55,10 +55,6 @@
     38(5), 1090–100.
     DOI:<a href="https://doi.org/10.1016/j.jas.2010.12.004" target="_blank">10.1016/j.jas.2010.12.004</a>
 
--   Begemann, F., and Schmitt-Strecker, S., 2009, Über das frühe Kupfer
-    Mesopotamiens, Iranica Antiqua, 44, 1–45.
-    DOI:<a href="https://doi.org/10.2143/IA.44.0.2034374" target="_blank">10.2143/IA.44.0.2034374</a>
-
 -   Begemann, F., Hauptmann, A., Schmitt-Strecker, S., and Weisgerber,
     G., 2010, Lead isotope and chemical signature of copper from Oman
     and its occurrence in Mesopotamia and sites on the Arabian Gulf
@@ -69,6 +65,10 @@
     F., 2001, Chemical composition and lead isotopy of copper and bronze
     from Nuragic Sardinia, European Journal of Archaeology, 4, 43–85.
     DOI:<a href="https://doi.org/10.1179/eja.2001.4.1.43" target="_blank">10.1179/eja.2001.4.1.43</a>
+
+-   Begemann, F., and Schmitt-Strecker, S., 2009, Über das frühe Kupfer
+    Mesopotamiens, Iranica Antiqua, 44, 1–45.
+    DOI:<a href="https://doi.org/10.2143/IA.44.0.2034374" target="_blank">10.2143/IA.44.0.2034374</a>
 
 -   Bird, G., Brewer, P. A., Macklin, M. G., Nikolova, M., Kotsev, T.,
     Mollov, M., and Swain, C., 2010, Pb isotope evidence for
@@ -109,16 +109,16 @@
     Mineralogy, 9(5), 1005–16.
     DOI:<a href="https://doi.org/10.1127/ejm/9/5/1005" target="_blank">10.1127/ejm/9/5/1005</a>
 
--   Chalkias, S., and Vavelidis, M., 1989, Interpretation of
-    lead-isotope data from Greek Pb-Zn deposits, based on an empirical
-    two-stage model, Bulletin of the Geological Society of Greece,
-    23(2), 177–93.
-
 -   Chalkias, S., Vavelidis, M., Schmitt-Strecker, S., and Begemann, F.,
     1988, Geologische Interpretation der Blei-Isotopenverhältnisse von
     Erzen der Insel Thasos, der Ägäis und Nordgriechenlands, In Antike
     Edel- und Buntmetallgewinnung auf Thasos, 59–74, Der Anschnitt
     Beiheft 6, Bochum.
+
+-   Chalkias, S., and Vavelidis, M., 1989, Interpretation of
+    lead-isotope data from Greek Pb-Zn deposits, based on an empirical
+    two-stage model, Bulletin of the Geological Society of Greece,
+    23(2), 177–93.
 
 -   Chamberlain, V. E., and Gale, N. H., 1980, The Isotopic Composition
     of lead in Greek coins and in Galena from Greece and Turkey, In
@@ -159,12 +159,6 @@
     samples and analyses cited, Open-File Report.
     DOI:<a href="https://doi.org/10.3133/ofr79661" target="_blank">10.3133/ofr79661</a>
 
--   Durali-Müller, S., 2006, Roman lead and copper mining in Germany :
-    their origin and development through time, deduced from lead and
-    copper isotope provenance studies, Geowissenschaften,
-    Universitätsbibliothek Johann Christian Senckenberg Frankfurt am
-    Main, Frankfurt a.M., Germany.
-
 -   Durali-Müller, S., 2006, Roman lead and copper mining in Germany:
     their origin and development through time, deduced from lead and
     copper isotope provenance studies, PhD Thesis, Goethe-Universität
@@ -176,9 +170,6 @@
     186–94.
     DOI:<a href="https://doi.org/10.1016/j.jseaes.2009.08.007" target="_blank">10.1016/j.jseaes.2009.08.007</a>
 
--   evidence from combined Pb-Sr and stable isotope data, Economic
-    Geology, 90(4), 746–62.
-
 -   Frei, R., 1992, Isotope (Pb, Rb-Sr, S, O, C, U-Pb) geochemical
     investigations on Tertiary intrusives and related mineralizations in
     the Serbomacedonian Pb-Zn, Sb+Cu-Mo metallogenetic province in
@@ -186,7 +177,9 @@
     DOI:<a href="https://doi.org/10.3929/ethz-a-000692261" target="_blank">10.3929/ethz-a-000692261</a>
 
 -   Frei, R., 1995, Evolution of mineralizing fluid in the porphyry
-    copper system of the Skouries Deposit, Northeast Chalkidiki (Greece)
+    copper system of the Skouries Deposit, Northeast Chalkidiki
+    (Greece): evidence from combined Pb-Sr and stable isotope data,
+    Economic Geology, 90(4), 746–62.
     DOI:<a href="https://doi.org/10.2113/gsecongeo.90.4.746" target="_blank">10.2113/gsecongeo.90.4.746</a>
 
 -   Gale, N. H., 1978, Lead Isotopes and Aegean Metallurgy, In Thera and
@@ -206,6 +199,28 @@
     the LBA, In Kea-Kythnos: History and Archaeology. Proceedings of an
     International Symposium, Kea-Kythnos, 22-25 June 1994 (eds. L. G.
     Mendoni, and A. J. Mazarakis), Vol. 27, 737–58, Meletemata, Athen.
+
+-   Gale, N. H., Gentner, W., and Wagner, G. A., 1980, Mineralogical and
+    Geographical Silver Sources of Archaic Greek Coinage, In Metallurgy
+    in Numismatics (eds. D. M. Metcalf, and W. A. Oddy), Vol. 1, 3–49,
+    Special publication Royal Numismatic Society, London.
+
+-   Gale, N. H., Picard, O., and Barrandon, J. N., 1988, The Archaic
+    Thasian silver coinage, In Antike Edel- und Buntmetallgewinnung auf
+    Thasos (eds. G. A. Wagner, and G. Weisgerber), Vol. 6, 212–23, Der
+    Anschnitt Beiheft, Deutsches Bergbau-Museum Bochum, Bochum.
+
+-   Gale, N. H., Stos-Gale, Z. A., Lilov, P., Dimitrov, M., and Todorov,
+    T., 1991, Recent Studies of Eneolithic Copper Ores and Artefacts in
+    Bulgaria, In Decouverte du Metal (eds. J. Mohen, and C. Eluere),
+    Vol. 2, 49–75, Millénaires, Picard, Paris.
+
+-   Gale, N. H., Stos-Gale, Z. A., Papastamataki, A., and Leonis, K.,
+    1985, Copper Sources and Copper Metallurgy in the Aegean Bronze Age,
+    In Furnaces and smelting technology in antiquity. Proceedings of the
+    Symposium on Early Furnace Technology, British Museum, London 1982
+    (eds. P. T. Craddock, and M. J. Hughes), Vol. 48, 81–102, British
+    Museum Occasional Paper, British Museum, London.
 
 -   Gale, N. H., and Stos-Gale, Z. A., 1981, Cycladic Lead and Silver
     Metallurgy, The Annual of the British School at Athens, 76, 169–224.
@@ -238,43 +253,21 @@
     Manchester 1986 (eds. E. B. French, and K. A. Wardle), 355–85,
     Bristol Classical Press, Bristol.
 
--   Gale, N. H., Gentner, W., and Wagner, G. A., 1980, Mineralogical and
-    Geographical Silver Sources of Archaic Greek Coinage, In Metallurgy
-    in Numismatics (eds. D. M. Metcalf, and W. A. Oddy), Vol. 1, 3–49,
-    Special publication Royal Numismatic Society, London.
-
--   Gale, N. H., Picard, O., and Barrandon, J. N., 1988, The Archaic
-    Thasian silver coinage, In Antike Edel- und Buntmetallgewinnung auf
-    Thasos (eds. G. A. Wagner, and G. Weisgerber), Vol. 6, 212–23, Der
-    Anschnitt Beiheft, Deutsches Bergbau-Museum Bochum, Bochum.
-
--   Gale, N. H., Stos-Gale, Z. A., Lilov, P., Dimitrov, M., and Todorov,
-    T., 1991, Recent Studies of Eneolithic Copper Ores and Artefacts in
-    Bulgaria, In Decouverte du Metal (eds. J. Mohen, and C. Eluere),
-    Vol. 2, 49–75, Millénaires, Picard, Paris.
-
--   Gale, N. H., Stos-Gale, Z. A., Papastamataki, A., and Leonis, K.,
-    1985, Copper Sources and Copper Metallurgy in the Aegean Bronze Age,
-    In Furnaces and smelting technology in antiquity. Proceedings of the
-    Symposium on Early Furnace Technology, British Museum, London 1982
-    (eds. P. T. Craddock, and M. J. Hughes), Vol. 48, 81–102, British
-    Museum Occasional Paper, British Museum, London.
-
 -   Harlavan, Y., Bar-Matthews, M., Matthews, A., Asael, D., and Segal,
     I., 2017, Tracing the sources of sedimentary Cu and Mn ores in the
     Cambrian Timna Formation, Israel using Pb and Sr isotopes, Journal
     of Geochemical Exploration, 178, 67–82.
     DOI:<a href="https://doi.org/10.1016/j.gexplo.2017.03.016" target="_blank">10.1016/j.gexplo.2017.03.016</a>
 
--   Hauptmann, A., Begemann, F., and Schmitt-Strecker, S., 1999, Copper
-    Objects from Arad: Their Composition and Provenance, Bulletin of the
-    American Schools of Oriental Research, 314, 1–17.
-    DOI:<a href="https://doi.org/10.2307/1357449" target="_blank">10.2307/1357449</a>
-
 -   Hauptmann, A., Begemann, F., Heitkemper, E., Pernicka, E., and
     Schmitt-Strecker, S., 1992, Early Copper Produced at Feinan, Wadi
     Arabah, Jordan: The Composition of Ores and Copper, Archeomaterials,
     6, 1–33.
+
+-   Hauptmann, A., Begemann, F., and Schmitt-Strecker, S., 1999, Copper
+    Objects from Arad: Their Composition and Provenance, Bulletin of the
+    American Schools of Oriental Research, 314, 1–17.
+    DOI:<a href="https://doi.org/10.2307/1357449" target="_blank">10.2307/1357449</a>
 
 -   IGME Xanthi cit. in: Frei, R., 1992, Isotope (Pb, Rb-Sr, S, O, C,
     U-Pb) geochemical investigations on Tertiary intrusives and related
@@ -298,10 +291,11 @@
     northern Greece, Economic Geology, 84(5), 1210–34.
     DOI:<a href="https://doi.org/10.2113/gsecongeo.84.5.1210" target="_blank">10.2113/gsecongeo.84.5.1210</a>
 
--   Köppel, V., and Schroll, E., 1985, Herkunft des Pb der triassischen
-    Pb-Zn-Vererzungen in den Ost-und Südalpen: Resultate
-    bleiisotopengeochemischer Untersuchungen, Archiv für
-    Lagerstättenforschung der Geologischen Bundesanstalt, 6, 215–22.
+-   Kirnbauer, T., Wagner, T., Taubald, H., and Bode, M., 2012,
+    Post-Variscan hydrothermal vein mineralization, Taunus, Rhenish
+    Massif (Germany): Constraints from stable and radiogenic isotope
+    data, Ore Geology Reviews, 48, 239–57.
+    DOI:<a href="https://doi.org/10.1016/j.oregeorev.2012.03.010" target="_blank">10.1016/j.oregeorev.2012.03.010</a>
 
 -   Kouzmanov, K., Moritz, R., Von Quadt, A., Chiaradia, M., Peytcheva,
     I., Fontignie, D., Ramboz, C., and Bogdanov, K., 2009, Late
@@ -310,10 +304,26 @@
     and Elshitsa deposits, Mineralium Deposita, 44, 611–46.
     DOI:<a href="https://doi.org/10.1007/s00126-009-0239-1" target="_blank">10.1007/s00126-009-0239-1</a>
 
+-   Krahn, L., and Baumann, A., 1996, Lead isotope systemactic of
+    epigenetic lead-zinc mineralization in the western part of the
+    Rheinisches Schiefergebirge, Germany., Mineralium Deposita, 31(3),
+    225–37.
+    DOI:<a href="https://doi.org/10.1007/BF00204029" target="_blank">10.1007/BF00204029</a>
+
 -   Kubat, I., Ramović, E., Tomčević, D., Pezdić, J., and Dolenac, T.,
     1979, The results of the investigation of S, O, C and Pb isotopic
     composition in some ore deposits and occurrences in Bosnia and
     Herzegovina, Geološki Glasnik, 24/25, 61–84.
+
+-   Köppel, V., and Schroll, E., 1985, Herkunft des Pb der triassischen
+    Pb-Zn-Vererzungen in den Ost-und Südalpen: Resultate
+    bleiisotopengeochemischer Untersuchungen, Archiv für
+    Lagerstättenforschung der Geologischen Bundesanstalt, 6, 215–22.
+
+-   Large, D., Schaeffer, R., and Höhndorf, A., 1983, Lead Isotope Data
+    from Selected Galena Occurrences in the North Eifel and North
+    Sauerland, Germany, Mineralium Deposita, 18, 235–43.
+    DOI:<a href="https://doi.org/10.1007/BF00206211" target="_blank">10.1007/BF00206211</a>
 
 -   Ludwig, K. R., Vollmer, R., Turi, B., Simmons, K. R., and Perna, G.,
     1989, Isotopic constraints on the genesis of base-metal ores in
@@ -376,6 +386,13 @@
     Age Tin, In Anatolian Metal V (ed. Ü. Yalçin), Vol. 24, 211–30, Der
     Anschnitt, Beiheft, Bochum.
 
+-   Niederschlag, E., Pernicka, E., Seifert, T., and Bartelheim, M.,
+    2003, The determination of lead isotope ratios by multiple collector
+    ICP-MS: A case study of Early Bronze Age artefacts and their
+    possible relation with ore deposits of the Erzgebirge, Archaeometry,
+    45(1), 61–100.
+    DOI:<a href="https://doi.org/10.1111/1475-4754.00097" target="_blank">10.1111/1475-4754.00097</a>
+
 -   OXALID: Oxford Archaeological Lead Isotope Database from the
     Isotrace Laboratory (<https://oxalid.arch.ox.ac.uk/default.html>)
 
@@ -390,15 +407,15 @@
     selected ore deposits in Croatia and NW Bosnia, Geološki Vjesnik,
     38, 175–89.
 
+-   Pernicka, E., Begemann, F., Schmitt-Strecker, S., Todorova, H., and
+    Kuleff, I., 1997, Prehistoric copper in Bulgaria: its composition
+    and provenance, Eurasia Antiqua(3), 41–180.
+
 -   Pernicka, E., Begemann, F., Schmitt-Strecker, S., and Wagner, G.,
     1993, Eneolithic and Early Bronze Age copper artefacts from the
     Balkans and their relation to Serbian copper ores, Praehistorische
     Zeitschrift, 68, 1–54.
     DOI:<a href="https://doi.org/10.1515/prhz.1993.68.1.1" target="_blank">10.1515/prhz.1993.68.1.1</a>
-
--   Pernicka, E., Begemann, F., Schmitt-Strecker, S., Todorova, H., and
-    Kuleff, I., 1997, Prehistoric copper in Bulgaria: its composition
-    and provenance, Eurasia Antiqua(3), 41–180.
 
 -   Pernicka, E., Momenzadeh, M., Vatandoust, A., Adam, K., Böhme, M.,
     Hezarkhani, Z., Nezafati, N., Schreiner, M., and Winterholler, B.,
@@ -444,6 +461,31 @@
     Numismatic Society), 53–76, Numismatic studies 24, American
     Numismatic Society, New York.
 
+-   Stos-Gale, Z. A., Gale, N. H., Houghton, J., and Speakman, R., 1995,
+    Lead isotope data from the Isotrace Laboratory, Oxford: Archaeometry
+    data base 1, Ores from the Western Mediterranean, Archaeometry,
+    37(2), 407–15.
+    DOI:<a href="https://doi.org/10.1111/j.1475-4754.1995.tb00753.x" target="_blank">10.1111/j.1475-4754.1995.tb00753.x</a>
+
+-   Stos-Gale, Z. A., Gale, N. H., and Annetts, N., 1996, Lead Isotope
+    Data from the Isotrace Laboratory, Oxford: Archaeometry Data Base 3,
+    Ores from the Aegean, Part 1, Archaeometry, 38(2), 381–90.
+    DOI:<a href="https://doi.org/10.1111/j.1475-4754.1996.tb00784.x" target="_blank">10.1111/j.1475-4754.1996.tb00784.x</a>
+
+-   Stos-Gale, Z. A., Gale, N. H., and Zwicker, U., 1986, The copper
+    trade in the south east Mediterranean region: preliminary scientific
+    evidence, Report of the Department of Antiquities, Cyprus, 122–44.
+
+-   Stos-Gale, Z. A., Kayafa, M., and Gale, N. H., 1999, The origin of
+    metals from the bronze age site of Nichoria, Opuscula Atheniensia,
+    24, 99–120.
+
+-   Stos-Gale, Z. A., Maliotis, G., Gale, N. H., and Annetts, N., 1997,
+    Lead isotope characteristics of the Cyprus copper ore deposits
+    applied to provenance studies of copper oxhide ingots, Archaeometry,
+    39(1), 83–123.
+    DOI:<a href="https://doi.org/10.1111/j.1475-4754.1997.tb00792.x" target="_blank">10.1111/j.1475-4754.1997.tb00792.x</a>
+
 -   Stos-Gale, Z. A., and Gale, N. H., 1981, Sources of galena, lead and
     silver in predynastic Egypt, Revue d’Archéometrie, Supplement (Actes
     du XXe symposium international d’archéométrie Paris 26-29 mars 1980
@@ -460,31 +502,6 @@
     Mediterranean: A footprint in the sea (eds. R. H. Tykot, T. K.
     Andrews, and M. Balmuth), Vol. 3, 317–45, Monographs in
     Mediterranean archaeology, Sheffield Academic Press, Sheffield.
-
--   Stos-Gale, Z. A., Gale, N. H., and Annetts, N., 1996, Lead Isotope
-    Data from the Isotrace Laboratory, Oxford: Archaeometry Data Base 3,
-    Ores from the Aegean, Part 1, Archaeometry, 38(2), 381–90.
-    DOI:<a href="https://doi.org/10.1111/j.1475-4754.1996.tb00784.x" target="_blank">10.1111/j.1475-4754.1996.tb00784.x</a>
-
--   Stos-Gale, Z. A., Gale, N. H., and Zwicker, U., 1986, The copper
-    trade in the south east Mediterranean region: preliminary scientific
-    evidence, Report of the Department of Antiquities, Cyprus, 122–44.
-
--   Stos-Gale, Z. A., Gale, N. H., Houghton, J., and Speakman, R., 1995,
-    Lead isotope data from the Isotrace Laboratory, Oxford: Archaeometry
-    data base 1, Ores from the Western Mediterranean, Archaeometry,
-    37(2), 407–15.
-    DOI:<a href="https://doi.org/10.1111/j.1475-4754.1995.tb00753.x" target="_blank">10.1111/j.1475-4754.1995.tb00753.x</a>
-
--   Stos-Gale, Z. A., Kayafa, M., and Gale, N. H., 1999, The origin of
-    metals from the bronze age site of Nichoria, Opuscula Atheniensia,
-    24, 99–120.
-
--   Stos-Gale, Z. A., Maliotis, G., Gale, N. H., and Annetts, N., 1997,
-    Lead isotope characteristics of the Cyprus copper ore deposits
-    applied to provenance studies of copper oxhide ingots, Archaeometry,
-    39(1), 83–123.
-    DOI:<a href="https://doi.org/10.1111/j.1475-4754.1997.tb00792.x" target="_blank">10.1111/j.1475-4754.1997.tb00792.x</a>
 
 -   Swainbank, I. G., Shepherd, T. J., Caboi, R., and Massoli-Novelli,
     R., 1982, Lead isotopic composition of some galena ores from
@@ -518,6 +535,11 @@
     Weisgerber, and W. Kroker), Vol. 3, 59–80, Der Anschnitt, Beiheft,
     Deutsches Bergbau-Museum Bochum, Bochum.
 
+-   Vaxevanopoulos, M., Blichert-Toft, J., Davis, G., and Albarède, F.,
+    2022, New findings of ancient Greek silver sources, Journal of
+    Archaeological Science, 137, 105474.
+    DOI:<a href="https://doi.org/10.1016/j.jas.2021.105474" target="_blank">10.1016/j.jas.2021.105474</a>
+
 -   Velojic, M., Prelevic, D., and Jelenkovic, R., 2018, The origin of
     lead and sulphur in Tulare ore field, Lece magmatic complex, Se
     Serbia, Geoloski anali Balkanskoga poluostrva, 79(2), 19-28.
@@ -541,6 +563,12 @@
 -   Westner, K. J., 2017, Roman mining and metal production near the
     antique city of ULPIANA (Kosovo), PhD thesis, Johann Wolfgang
     Goethe-Universität, Frankfurt.
+
+-   Westner, K. J., Vaxevanopoulos, M., Blichert-Toft, J., Davis, G.,
+    and Albarède, F., 2023, Isotope and trace element compositions of
+    silver-bearing ores in the Balkans as possible metal sources in
+    antiquity, Journal of Archaeological Science, 155, 105791.
+    DOI:<a href="https://doi.org/10.1016/j.jas.2023.105791" target="_blank">10.1016/j.jas.2023.105791</a>
 
 -   Wind, S. C., Schneider, D. A., Hannington, M. D., and
     McFarlane, C. R. M., 2020, Regional similarities in lead isotopes
