@@ -22,7 +22,7 @@ source("../update.R")
 ```
 
 ## What is GlobaLID? 
-GlobaLID is a Global Lead Isotope Database and aims to facilitate the reconstruction of raw material provenances with lead isotopes, especially in archaeology. The app provides direct access to and convenient interaction with the [GlobaLID database](https://doi.org/10.5880/fidgeo.2021.031){target="_blank"}. You can filter the database according to your research question, upload own data to compare it with GlobaLID, and produce and download publication ready plots. Please watch our [video tutorial](https://www.youtube.com/watch?v=qwKStMc-068){target="_blank"} for a "life" demonstration. The "References" page lists all references from which data are currently included in GlobaLID. There are still data missing? Consider to become a contributor and help to let GlobaLID grow! 
+GlobaLID is a Global Lead Isotope Database and aims to facilitate the reconstruction of raw material provenances with lead isotopes, especially in archaeology. The app provides direct access to and convenient interaction with the [GlobaLID database](https://doi.org/10.5880/fidgeo.2021.031){target="_blank"}. You can filter the database according to your research question, upload own data to compare it with GlobaLID, and produce and download publication ready plots. Please watch our [video tutorial](https://www.youtube.com/watch?v=qwKStMc-068){target="_blank"} for a "life" demonstration. The "References" page lists all references from which data are currently included in GlobaLID. There are still data missing? Consider to become a contributor and help to let GlobaLID grow! Visit [our webpage](https://archmetaldbm.github.io/Globalid/) to learn more about the GlobaLID project and to get the latest news. 
 
 ## Copyright
 
@@ -135,13 +135,17 @@ ER  -
 ```
 </details>
 
-## Core Team
+## Team 
+
+You want to contribute to GlobaLID? Please get in touch with us, we are looking forward to your message! 
+
+### Core Team
 
 ```{r echo=FALSE, results='asis'}
 
 data.frame(
   Portrait = paste0('![](../www/SKlein.png){height=96px}'), 
-  Text = paste("<b>Sabine Klein</b> (Coordinator)", 
+  Text = paste("<b>Sabine Klein</b> (Coordination)", 
                "Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany <br> Institut für Archäologische Wissenschaften, Ruhr-Universität Bochum, Bochum, Germany <br> FIERCE, Frankfurt Isotope & Element Research Centre, Goethe Universität, Frankfurt am Main, Germany", 
                paste(
                  add_Link("mailto:Sabine.Klein@bergbaumuseum.de?subject=GlobaLID", "envelope", "fa"),
@@ -180,7 +184,7 @@ cat("<br>")
 data.frame(
   Portrait = paste0('![](../www/KWestner.png){height=96px}'), 
   Text = paste("<b>Katrin J. Westner</b> (Database)", 
-               "EForschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany", 
+               "Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany", 
                paste(
                  add_Link("mailto:katrin.westner@bergbaumuseum.de?subject=GlobaLID", "envelope", "fa"),
                  add_Link("http://lgltpe.ens-lyon.fr/annuaire/westner-katrin", "globe", "fa"),
@@ -197,7 +201,7 @@ cat("<br>")
 
 data.frame(
   Portrait = paste0('![](../www/Y-KHsu.png){height=96px}'), 
-  Text = paste("<b>Yiu-Kang Hsu</b> (East Asia)", 
+  Text = paste("<b>Yiu-Kang Hsu</b> (Metadata)", 
                "Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany", 
                paste(
                  add_Link("mailto:Yiu-Kang.Hsu@bergbaumuseum.de?subject=GlobaLID", "envelope", "fa"),
@@ -213,11 +217,42 @@ cat("<br>")
 
 ```
 
-## Contributors
-
-You want to contribute to GlobaLID? Please get in touch with us, we are looking forward to your message! 
+### Regional editors
 
 ```{r echo=FALSE, results='asis'}
+
+data.frame(
+  Portrait = paste0('![](../www/logo.svg){height=96px}'), 
+  Text = paste("<b>María Florencia Becerra</b> (South America)", 
+               "Facultad de Filosofía y Letras, Universidad de Buenos Aires, Instituto de Arqueología, CONICET, Buenos Aires, Argentina <br> Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany", 
+               paste(
+                 add_Link("https://www.conicet.gov.ar/new_scp/mail.php?id=29835&detalle=yes&esprimera=1", "envelope", "fa"),
+                 add_Link("https://www.conicet.gov.ar/new_scp/detalle.php?id=29835", "globe", "fa"),
+                 add_Link("https://orcid.org/0000-0001-6302-7452", "orcid", "ai"),
+                 sep = " "), 
+               sep = "<br>")
+) %>% 
+  kable(escape = FALSE, col.names = NULL) %>% 
+  column_spec(1, width_min = "110px") %>%
+  column_spec(2, color = "black")
+cat("<br>")
+
+data.frame(
+  Portrait = paste0('![](../www/logo.svg){height=96px}'), 
+  Text = paste("<b>David Killick</b> (Africa, North America)", 
+               "School of Anthropology, University of Arizona, Tucson, AZ, USA", 
+               paste(
+                 add_Link("mailto:killick@arizona.edu?subject=GlobaLID", "envelope", "fa"),
+                 add_Link("https://anthropology.arizona.edu/people/dave-killick", "globe", "fa"),
+                 add_Link("https://orcid.org/0000-0002-8964-750X", "orcid", "ai"),
+                 sep = " "), 
+               sep = "<br>")
+) %>% 
+  kable(escape = FALSE, col.names = NULL) %>% 
+  column_spec(1, width_min = "110px") %>%
+  column_spec(2, color = "black")
+cat("<br>")
+
 data.frame(
   Portrait = paste0('![](../www/NNezafati.png){height=96px}'), 
   Text = paste("<b>Nima Nezafati</b>", 
@@ -230,6 +265,96 @@ data.frame(
                  add_Link("http://www.researchgate.net/profile/Nima_Nezafati", "researchgate", "ai"),
                  add_Link("https://ir.linkedin.com/in/nima-nezafati-5a4b5542", "linkedin", "fa"),
                  sep = " "), 
+               sep = "<br>")
+) %>%
+kable(escape = FALSE, col.names = NULL) %>% 
+  column_spec(1, width_min = "110px") %>%
+  column_spec(2, color = "black")
+cat("<br>")
+
+
+data.frame(
+  Portrait = paste0('![](../www/TOPryce.png){height=96px}'), 
+  Text = paste("<b>T. O. Pryce</b> (Southeast Asia)", 
+               "Centre National de la Recherche Scientifique, UMR 7065 Institut de Recherche sur les ArchéoMATériaux, Université Paris-Saclay & CEA/CNRS UMR 3685 NIMBE, 91191 Gif-sur-Yvette, France", 
+               paste(
+                 add_Link("mailto:oliver.pryce@cnrs.fr?subject=GlobaLID", "envelope", "fa"),
+                 add_Link("https://iramat.cnrs.fr/user/oliver.pryce/", "globe", "fa"), 
+                 add_Link("https://orcid.org/0000-0002-7290-141X", "orcid", "ai"),
+                 add_Link("https://www.researchgate.net/profile/Oliver-Pryce-2", "researchgate", "ai"),
+                 sep = " "),
+               sep = "<br>")
+) %>%
+kable(escape = FALSE, col.names = NULL) %>% 
+  column_spec(1, width_min = "110px") %>%
+  column_spec(2, color = "black")
+cat("<br>")
+
+data.frame(
+  Portrait = paste0('![](../www/logo.svg){height=96px}'), 
+  Text = paste("<b>Virginie Renson</b> (North America)", 
+               "Archaeometry Laboratory, Research Reactor Center, University of Missouri, Columbia, MO, USA", 
+               paste(
+                 add_Link("mailto:RensonV@missouri.edu?subject=GlobaLID", "envelope", "fa"),
+                 add_Link("https://archaeometry.missouri.edu/profile(Virginie).html", "globe", "fa"),
+                 sep = " "), 
+               sep = "<br>")
+) %>% 
+  kable(escape = FALSE, col.names = NULL) %>% 
+  column_spec(1, width_min = "110px") %>%
+  column_spec(2, color = "black")
+cat("<br>")
+
+data.frame(
+  Portrait = paste0('![](../www/logo.svg){height=96px}'), 
+  Text = paste("<b>Jay Stephens</b> (Africa)", 
+               "School of Anthropology, University of Arizona, Tucson, AZ, USA <br> Archaeometry Laboratory, Research Reactor Center, University of Missouri, Columbia, MO, USA", 
+               paste(
+                 add_Link("mailto:jasvxq@missouri.edu?subject=GlobaLID", "envelope", "fa"),
+                 add_Link("https://archaeometry.missouri.edu/staff.html", "globe", "fa"), 
+                 add_Link("https://orcid.org/0000-0003-1299-3946", "orcid", "ai"),
+                 sep = " "), 
+               sep = "<br>")
+) %>%
+kable(escape = FALSE, col.names = NULL) %>% 
+  column_spec(1, width_min = "110px") %>%
+  column_spec(2, color = "black")
+cat("<br>")
+
+```
+
+
+### Contributors (Programming)
+
+```{r echo=FALSE, results='asis'}
+
+data.frame(
+  Portrait = paste0('![](../www/DFinn.png){height=96px}'), 
+  Text = paste("<b>Danny M. Finn</b>", 
+               "The Hebrew University of Jerusalem, Israel", 
+               paste(
+                 add_Link("mailto:Danny.m.finn@gmail.com?subject=GlobaLID", "envelope", "fa"),
+                 add_Link("https://orcid.org/0009-0000-0953-0006", "orcid", "ai"),
+                 add_Link("https://independent.academia.edu/DanielFinn16", "academia", "ai"),
+                 add_Link("https://www.linkedin.com/in/daniel-m-finn/", "linkedin", "fa"),
+                 sep = " "),
+               sep = "<br>")
+) %>%
+kable(escape = FALSE, col.names = NULL) %>% 
+  column_spec(1, width_min = "110px") %>%
+  column_spec(2, color = "black")
+cat("<br>")
+
+```
+
+### Contributors (Data)
+
+```{r echo=FALSE, results='asis'}
+
+data.frame(
+  Portrait = paste0('![](../www/logo.svg){height=96px}'), 
+  Text = paste("<b>Sabine Fischer-Lechner</b>", 
+               "Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany", 
                sep = "<br>")
 ) %>%
 kable(escape = FALSE, col.names = NULL) %>% 
@@ -253,16 +378,6 @@ kable(escape = FALSE, col.names = NULL) %>%
   column_spec(2, color = "black")
 cat("<br>")
 
-data.frame(
-  Portrait = paste0('![](../www/logo.svg){height=96px}'), 
-  Text = paste("<b>Sabine Fischer-Lechner</b>", 
-               "Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany", 
-               sep = "<br>")
-) %>%
-kable(escape = FALSE, col.names = NULL) %>% 
-  column_spec(1, width_min = "110px") %>%
-  column_spec(2, color = "black")
-cat("<br>")
 ```
 
 ## Partners and Supporting Institutions
