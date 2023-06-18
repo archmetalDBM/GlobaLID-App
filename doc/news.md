@@ -1,16 +1,23 @@
 ## News
 
+2023-06-18 – Additional data from
+
+-   Germany (contributor: S. Fischer-Lechner, T. Rose)
+-   Sub-Sahara Africa (contributor: J. Stephens)
+
+The database now includes 4046 entries.
+
 2023-06-04 – Additional data from
 
--   Germany, Czechia (contributor: S. Fischer-Lechner)
+-   Germany, Czechia (contributor: S. Fischer-Lechner, T. Rose)
 -   Greece (contributor: K. J. Westner, M. Vaxevanopoulos)
 -   Bosnia and Herzegovina, Bulgaria, Kosovo, Montenegro, North
-    Macedonia, Serbia (contributor: K. J. Wesnter).
+    Macedonia, Serbia (contributor: K. J. Westner).
 
 The database now includes 3245 entries.
 
 2023-01-31 – Additional data from Germany included (contributor: S.
-Fischer-Lechner). The database now includes 2763 entries.
+Fischer-Lechner. T. Rose). The database now includes 2763 entries.
 
 2022-12-20 – Additional data from Germany included (contributors: S.
 Fischer-Lechner, T. Rose). The database now includes 2699 entries.

@@ -55,6 +55,12 @@
     38(5), 1090–100.
     DOI:<a href="https://doi.org/10.1016/j.jas.2010.12.004" target="_blank">10.1016/j.jas.2010.12.004</a>
 
+-   Barton, J. M., Blaine, J. L., Doig, R., and Byron, C. L., 1994, The
+    geological setting and style of copper mineralization at the Bushman
+    group of deposits, northeastern Botswana, Journal of African Earth
+    Sciences, 18(2), 87–97.
+    DOI:<a href="https://doi.org/10.1016/0899-5362(94)90022-1" target="_blank">10.1016/0899-5362(94)90022-1</a>
+
 -   Begemann, F., Hauptmann, A., Schmitt-Strecker, S., and Weisgerber,
     G., 2010, Lead isotope and chemical signature of copper from Oman
     and its occurrence in Mesopotamia and sites on the Arabian Gulf
@@ -81,6 +87,13 @@
     Blei-/Silbergewinnung im Germanien der frühen Römischen Kaiserzeit,
     PhD thesis, Westfälische Wilhelms-Universität Münster, Münster.
 
+-   Bolhar, R., Whitehouse, M. J., Milani, L., Magalhães, N.,
+    Golding, S. D., Bybee, G., LeBras, L., and Bekker, A., 2020,
+    Atmospheric S and lithospheric Pb in sulphides from the 2.06 Ga
+    Phalaborwa phoscorite-carbonatite Complex, South Africa, Earth and
+    Planetary Science Letters, 530, 115939.
+    DOI:<a href="https://doi.org/10.1016/j.epsl.2019.115939" target="_blank">10.1016/j.epsl.2019.115939</a>
+
 -   Boni, M., and Koeppel, V., 1985, Ore-lead isotope pattern from the
     Iglesiente-Sulcis Area (SW Sardinia) and the problem of
     remobilization of metals, Mineralium Deposita, 20(3), 185–93.
@@ -95,6 +108,12 @@
     Some Ancient Egyptian Objects, In Recent Advances in Science and
     Technology of Materials (ed. A. Bishay), Vol. 3, 9–27, Plenum, New
     York.
+
+-   Burnard, P. G., Sweeney, M. A., Vaughan, D. J., Spiro, B., and
+    Thirlwall, M. F., 1993, Sulfur and lead isotope constraints on the
+    genesis of a southern Zambian massive sulfide deposit, Economic
+    Geology, 88(2), 418–36.
+    DOI:<a href="https://doi.org/10.2113/gsecongeo.88.2.418" target="_blank">10.2113/gsecongeo.88.2.418</a>
 
 -   Calvez, J. Y., and Lescuyer, J. L., 1991, Lead Isotope Geochemistry
     of Various Sulphide Deposits from the Oman Mountains, In Ophiolite
@@ -143,6 +162,12 @@
     from lead isotopes, In Mineral deposits (ed. H. Papunen), 813–6,
     Balkema, Rotterdam.
 
+-   Coomer, P. G., Coward, M. P., and Lintern, B. C., 1977,
+    Stratigraphy, structure and geochronology of ore leads in the
+    Matsitama Schist belt of Northern Botswana, Precambrian Research,
+    5(1), 23–41.
+    DOI:<a href="https://doi.org/10.1016/0301-9268(77)90021-3" target="_blank">10.1016/0301-9268(77)90021-3</a>
+
 -   Dayton, J. E., and Dayton, A. M., 1986, Uses and limitations of lead
     isotopes in archaeology, In Proceedings of the 24th International
     Archaeometry Symposium (eds. J. S. Olin, and M. J. Blackman), 13–41,
@@ -158,6 +183,12 @@
 -   Doe, B. R., and Rohrbough, R., 1977, Lead isotope data bank: 3,459
     samples and analyses cited, Open-File Report.
     DOI:<a href="https://doi.org/10.3133/ofr79661" target="_blank">10.3133/ofr79661</a>
+
+-   Duane, M. J., Kruger, F. J., Roberts, P. J., and Smith, C. B., 1991,
+    Pb and Sr isotope and origin of Proterozoic base metal (fluorite)
+    and gold deposits, Transvaal Sequence, South Africa, Economic
+    Geology, 86(7), 1491–505.
+    DOI:<a href="https://doi.org/10.2113/gsecongeo.86.7.1491" target="_blank">10.2113/gsecongeo.86.7.1491</a>
 
 -   Durali-Müller, S., 2006, Roman lead and copper mining in Germany:
     their origin and development through time, deduced from lead and
@@ -181,6 +212,12 @@
     (Greece): evidence from combined Pb-Sr and stable isotope data,
     Economic Geology, 90(4), 746–62.
     DOI:<a href="https://doi.org/10.2113/gsecongeo.90.4.746" target="_blank">10.2113/gsecongeo.90.4.746</a>
+
+-   Fölling, P. G., Zartman, R. E., and Frimmel, H. E., 2000, A novel
+    approach to double-spike Pb–Pb dating of carbonate rocks: examples
+    from Neoproterozoic sequences in southern Africa, Chemical Geology,
+    171(1–2), 97–122.
+    DOI:<a href="https://doi.org/10.1016/S0009-2541(00)00204-7" target="_blank">10.1016/S0009-2541(00)00204-7</a>
 
 -   Gale, N. H., 1978, Lead Isotopes and Aegean Metallurgy, In Thera and
     the Aegean world I. Papers presented at the Second International
@@ -253,11 +290,23 @@
     Manchester 1986 (eds. E. B. French, and K. A. Wardle), 355–85,
     Bristol Classical Press, Bristol.
 
+-   Haest, M., Schneider, J., Cloquet, C., Latruwe, K., Vanhaecke, F.,
+    and Muchez, P., 2010, Pb isotopic constraints on the formation of
+    the Dikulushi Cu–Pb–Zn–Ag mineralisation, Kundelungu Plateau
+    (Democratic Republic of Congo), Mineralium Deposita, 45(4), 393–410.
+    DOI:<a href="https://doi.org/10.1007/s00126-010-0279-6" target="_blank">10.1007/s00126-010-0279-6</a>
+
 -   Harlavan, Y., Bar-Matthews, M., Matthews, A., Asael, D., and Segal,
     I., 2017, Tracing the sources of sedimentary Cu and Mn ores in the
     Cambrian Timna Formation, Israel using Pb and Sr isotopes, Journal
     of Geochemical Exploration, 178, 67–82.
     DOI:<a href="https://doi.org/10.1016/j.gexplo.2017.03.016" target="_blank">10.1016/j.gexplo.2017.03.016</a>
+
+-   Harms, U., Heckmann, H., Weyer, S., and Mali, H., 2012, Geochemistry
+    of galena and lead isotope chemistry of postvariscan ore veins
+    within Niederberg Area, Germany, Zeitschrift der Deutschen
+    Gesellschaft für Geowissenschaften, 163(1), 69–89.
+    DOI:<a href="https://doi.org/10.1127/1860-1804/2012/0163-0069" target="_blank">10.1127/1860-1804/2012/0163-0069</a>
 
 -   Hauptmann, A., Begemann, F., Heitkemper, E., Pernicka, E., and
     Schmitt-Strecker, S., 1992, Early Copper Produced at Feinan, Wadi
@@ -269,11 +318,21 @@
     American Schools of Oriental Research, 314, 1–17.
     DOI:<a href="https://doi.org/10.2307/1357449" target="_blank">10.2307/1357449</a>
 
+-   Höhndorf, A., and Vetter, U., 1999, The Sanyati Ore deposits in
+    Zimbabwe: Pb-isotopic investigation of sulfide and oxide ores,
+    Zeitschrift für Angewande Geologie, 45(1), 11–3.
+
 -   IGME Xanthi cit. in: Frei, R., 1992, Isotope (Pb, Rb-Sr, S, O, C,
     U-Pb) geochemical investigations on Tertiary intrusives and related
     mineralizations in the Serbomacedonian Pb-Zn, Sb+Cu-Mo
     metallogenetic province in Northern Greece, PhD thesis, ETH Zürich,
     Zürich.
+
+-   Jaguin, J., Poujol, M., Boulvais, P., Robb, L. J., and Paquette, J.
+    L., 2012, Metallogeny of precious and base metal mineralization in
+    the Murchison Greenstone Belt, South Africa: indications from U–Pb
+    and Pb–Pb geochronology, Mineralium Deposita, 47(7), 739–47.
+    DOI:<a href="https://doi.org/10.1007/s00126-012-0422-7" target="_blank">10.1007/s00126-012-0422-7</a>
 
 -   Janković, S., 1978, Изотопни састав олова у појединим терцијарним
     олово-цинковим српско-македонске металогенетске провинције \[The
@@ -291,11 +350,24 @@
     northern Greece, Economic Geology, 84(5), 1210–34.
     DOI:<a href="https://doi.org/10.2113/gsecongeo.84.5.1210" target="_blank">10.2113/gsecongeo.84.5.1210</a>
 
+-   Kamona, A. F., Lévêque, J., Friedrich, G., and Haack, U., 1999, Lead
+    isotopes of the carbonate-hosted Kabwe, Tsumeb, and Kipushi Pb-Zn-Cu
+    sulphide deposits in relation to Pan African orogenesis in the
+    Damaran-Lufilian Fold Belt of Central Africa, Mineralium Deposita,
+    34(3), 273–83.
+    DOI:<a href="https://doi.org/10.1007/s001260050203" target="_blank">10.1007/s001260050203</a>
+
 -   Kirnbauer, T., Wagner, T., Taubald, H., and Bode, M., 2012,
     Post-Variscan hydrothermal vein mineralization, Taunus, Rhenish
     Massif (Germany): Constraints from stable and radiogenic isotope
     data, Ore Geology Reviews, 48, 239–57.
     DOI:<a href="https://doi.org/10.1016/j.oregeorev.2012.03.010" target="_blank">10.1016/j.oregeorev.2012.03.010</a>
+
+-   Koppel, V. H., and Saager, R., 1974, Lead Isotope Evidence on the
+    Detrital Origin of Witwatersrand Pyrites and its Bearing on the
+    Provenance of the Witwatersrand Gold, Economic Geology, 69(3),
+    318–31.
+    DOI:<a href="https://doi.org/10.2113/gsecongeo.69.3.318" target="_blank">10.2113/gsecongeo.69.3.318</a>
 
 -   Kouzmanov, K., Moritz, R., Von Quadt, A., Chiaradia, M., Peytcheva,
     I., Fontignie, D., Ramboz, C., and Bogdanov, K., 2009, Late
@@ -314,6 +386,12 @@
     1979, The results of the investigation of S, O, C and Pb isotopic
     composition in some ore deposits and occurrences in Bosnia and
     Herzegovina, Geološki Glasnik, 24/25, 61–84.
+
+-   Köppel, V., 1980, Lead-isotope studies of stratiform ore deposits of
+    the Namaqualand, NW Cape Province, South Africa, and their
+    implications on the age of the Bushmanland Sequence, In Proceedings
+    of the fifth quadrennial IAGOD symposium, 195–207, Schweizerbart,
+    Stuttgart.
 
 -   Köppel, V., and Schroll, E., 1985, Herkunft des Pb der triassischen
     Pb-Zn-Vererzungen in den Ost-und Südalpen: Resultate
@@ -348,6 +426,12 @@
     335–47.
     DOI:<a href="https://doi.org/10.1111/j.1751-3928.2010.00139.x" target="_blank">10.1111/j.1751-3928.2010.00139.x</a>
 
+-   Mathez, E. A., and Waight, T. E., 2003, Lead isotopic disequilibrium
+    between sulfide and plagioclase in the bushveld complex and the
+    chemical evolution of large layered intrusions, Geochimica et
+    Cosmochimica Acta, 67(10), 1875–88.
+    DOI:<a href="https://doi.org/10.1016/S0016-7037(02)01294-2" target="_blank">10.1016/S0016-7037(02)01294-2</a>
+
 -   Mirnejad, H., Simonetti, A., and Molasalehi, F., 2011, Pb isotopic
     compositions of some Zn–Pb deposits and occurrences from
     Urumieh–Dokhtar and Sanandaj–Sirjan zones in Iran, Ore Geology
@@ -364,6 +448,13 @@
     composition of Kuhe Surmeh deposit with some of the Pb-Zn deposits
     from Central Iran and evaluating the role of Neo-Tethys in Pb
     remobilization in Central Iran, Journal of Science, 36(1), 11–7.
+
+-   Molofsky, L. J., Killick, D., Ducea, M. N., Macovei, M., Chesley, J.
+    T., Ruiz, J., Thibodeau, A., and Popescu, G. C., 2014, A novel
+    approach to lead isotope provenance studies of tin and bronze:
+    applications to South African, Botswanan and Romanian artifacts,
+    Journal of Archaeological Science, 50, 440–50.
+    DOI:<a href="https://doi.org/10.1016/j.jas.2014.08.006" target="_blank">10.1016/j.jas.2014.08.006</a>
 
 -   Mudrinic, C., and Serafimovski, T., 1992, Lead, sulphur, oxygen and
     carbon isotopes in the Zletovo ore field (Eastern Macedonia),
@@ -431,6 +522,36 @@
     ForschungsCluster 2, Innovation: technisch, sozial 11, Leidorf,
     Rahden, Westf.
 
+-   Richards, J. P., Cumming, G. L., Krstic, D., Wagner, P. A., and
+    Spooner, E. T. C., 1988, Pb isotope constraints on the age of
+    sulfide ore deposition and U-Pb age of late uraninite veining at the
+    Musoshi stratiform copper deposit, Central Africa copper belt,
+    Zaire, Economic Geology, 83(4), 724–41.
+    DOI:<a href="https://doi.org/10.2113/gsecongeo.83.4.724" target="_blank">10.2113/gsecongeo.83.4.724</a>
+
+-   Robertson, D. K., 1973, A model discussing the early history of the
+    Earth based on a study of lead isotope ratios from veins in some
+    Archean cratons of Africa, Geochimica et Cosmochimica Acta, 37(9),
+    2099–124.
+    DOI:<a href="https://doi.org/10.1016/0016-7037(73)90010-0" target="_blank">10.1016/0016-7037(73)90010-0</a>
+
+-   Saager, R., and Koppel, V., 1976, Lead isotopes and trace elements
+    from sulfides of Archean greenstone belts in South Africa: a
+    contribution to the knowledge of the oldest known mineralizations,
+    Economic Geology, 71(1), 44–57.
+    DOI:<a href="https://doi.org/10.2113/gsecongeo.71.1.44" target="_blank">10.2113/gsecongeo.71.1.44</a>
+
+-   Schneider, J., Melcher, F., and Brauns, M., 2007, Concordant ages
+    for the giant Kipushi base metal deposit (DR Congo) from direct
+    Rb–Sr and Re–Os dating of sulfides, Mineralium Deposita, 42(7),
+    791–7.
+    DOI:<a href="https://doi.org/10.1007/s00126-007-0158-y" target="_blank">10.1007/s00126-007-0158-y</a>
+
+-   Schwarz-Schampera, U., Terblanche, H., and Oberthür, T., 2010,
+    Volcanic-hosted massive sulfide deposits in the Murchison greenstone
+    belt, South Africa, Mineralium Deposita, 45(2), 113–45.
+    DOI:<a href="https://doi.org/10.1007/s00126-009-0266-y" target="_blank">10.1007/s00126-009-0266-y</a>
+
 -   Shafiei, B., 2010, Lead isotope signatures of the igneous rocks and
     porphyry copper deposits from the Kerman Cenozoic magmatic arc (SE
     Iran), and their magmatic-metallogenetic implications, Ore Geology
@@ -445,6 +566,16 @@
 -   Siron, C. R., 2018, Magmatic, Structural, and Metallogenic Framework
     of the Kassandra Mining District, Chalkidiki Peninsula, Northern
     Greece, PhD thesis, Cornell University, Ithaca.
+
+-   Stephens, J., 2016, Assessing the suitability of southern Africa for
+    archaeological provenance studies with lead isotopes, MA
+    dissertation, University of Arizona, Tuscon.
+
+-   Stephens, J., Killick, D., and Chirikure, S., 2023, Reconstructing
+    the geological provenance and long-distance movement of rectangular,
+    fishtail, and croisette copper ingots in Iron Age Zambia and
+    Zimbabwe, PLOS ONE, 18(3), e0282660.
+    DOI:<a href="https://doi.org/10.1371/journal.pone.0282660" target="_blank">10.1371/journal.pone.0282660</a>
 
 -   Stos-Gale, Z. A., 1989, Cycladic Copper Metallurgy, In Old world
     archaeometallurgy: proceedings of the International symposium Old
@@ -521,6 +652,11 @@
     Geology Reviews, 138, 104403.
     DOI:<a href="https://doi.org/10.1016/j.oregeorev.2021.104403" target="_blank">10.1016/j.oregeorev.2021.104403</a>
 
+-   Ulrych, T. J., Burger, A., and Nicolaysen, L. O., 1967, Least
+    radiogenic terrestrial leads, Earth and Planetary Science Letters,
+    2(3), 179–84.
+    DOI:<a href="https://doi.org/10.1016/0012-821X(67)90125-2" target="_blank">10.1016/0012-821X(67)90125-2</a>
+
 -   Valera, R. G., Valera, P. G., and Rivoldini, A., 2005, Sardinian ore
     deposits and metals in the Bronze Age, In Archaeometallurgy in
     Sardinia: From the origins to the beginning of the Early Iron Age
@@ -551,6 +687,12 @@
     deposit, PhD thesis, Kingston University, London.
     <https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.542473>
 
+-   Vinyu, M. L., Jelsma, H. A., and Frei, R., 1996, Timing between
+    granitoid emplacement and associated gold mineralization: examples
+    from the ca. 2.7 Ga Harare–Shamva greenstone belt, northern
+    Zimbabwe, Canadian Journal of Earth Sciences, 33(7), 981–92.
+    DOI:<a href="https://doi.org/10.1139/e96-074" target="_blank">10.1139/e96-074</a>
+
 -   Wagner, G. A., Pernicka, E., Seeliger, T. C., Ötzunali, Ö., Baranyi,
     I., Begemann, F., and Schmitt-Strecker, S., 1985, Geologische
     Untersuchungen zur frühen Metallurgie in NW- Anatolien., Bull. of
@@ -559,6 +701,17 @@
 -   Wagner, G. A., Pernicka, E., Vavelidis, M., Baranyi, I., and
     Bassiakos, I., 1986, Archäometallurgische Untersuchungen auf
     Chalkidiki, Der Anschnitt, 38(5–6), 166–86.
+
+-   Wagner, T., and Schneider, J., 2002, Lead isotope systematics of
+    vein-type antimony mineralization, Rheinisches Schiefergebirge,
+    Germany: a case history of complex reaction and remobilization
+    processes, Mineralium Deposita, 37(2), 185–97.
+    DOI:<a href="https://doi.org/10.1007/s00126-001-0211-1" target="_blank">10.1007/s00126-001-0211-1</a>
+
+-   Walraven, F., and Chabu, M., 1994, Pb-isotope constraints on
+    base-metal mineralisation at Kipushi (Southeastern Zaïre), Journal
+    of African Earth Sciences, 18(1), 73–82.
+    DOI:<a href="https://doi.org/10.1016/0899-5362(94)90055-8" target="_blank">10.1016/0899-5362(94)90055-8</a>
 
 -   Westner, K. J., 2017, Roman mining and metal production near the
     antique city of ULPIANA (Kosovo), PhD thesis, Johann Wolfgang
@@ -576,3 +729,13 @@
     Greece with implications for the underlying basement, Lithos,
     366–367, 105559.
     DOI:<a href="https://doi.org/10.1016/j.lithos.2020.105559" target="_blank">10.1016/j.lithos.2020.105559</a>
+
+-   Zwicker, U., Gale, N. H., and Gale, Z. A., 1991, Metallographische,
+    analytische und technologische Untersuchungen sowie Messungen der
+    Bleiisotope an Otto-Adelheid-Pfennigen und Vergleichsmünzen meist
+    aus dem 9.-11. Jahrhundert. Ein Beitrag zur Münzprägung der
+    sächsischen Kaiser, In Otto-Adelheid-Pfennige: Untersuchungen zu den
+    Münzen des 10./11. Jahrhunderts (eds. G. Hatz, V. Hatz, U.
+    Zwicker, N. Gale, and Z. Gale), Vol. 7, 59–146, Commentationes de
+    Nummis Saeculorum IX-XI in Suecia Repertis Nova Series, The Royal
+    Swedish Academy of Letters, History and Antiquities, Stockholm.

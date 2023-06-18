@@ -132,7 +132,7 @@ Interested? Write us!
   - [David
     Killick](https://anthropology.arizona.edu/people/dave-killick)
     [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-8964-750X)
-    ( School of Anthropology, University of Arizona, Tucson, AZ, USA)
+    (School of Anthropology, University of Arizona, Tucson, AZ, USA)
 - South America: [María Florencia
   Becerra](https://www.conicet.gov.ar/new_scp/detalle.php?id=29835)
   [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-6302-7452)
