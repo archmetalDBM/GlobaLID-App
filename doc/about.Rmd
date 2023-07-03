@@ -173,6 +173,7 @@ data.frame(
                  add_Link("https://www.linkedin.com/in/thomas-rose-4200ba175", "linkedin", "fa"),
                  add_Link("https://github.com/archaeothommy/", "github", "fa"),
                  add_Link("https://gitlab.com/archaeothommy", "gitlab", "fa"),
+                 add_Link("https://scholar.google.de/citations?user=mmsAHBgAAAAJ", "google-scholar", "ai"),
                  sep = " "), 
                sep = "<br>")
 ) %>%
@@ -306,13 +307,15 @@ data.frame(
 cat("<br>")
 
 data.frame(
-  Portrait = paste0('![](../www/logo.svg){height=96px}'), 
+  Portrait = paste0('![](../www/JStephens.png){height=96px}'), 
   Text = paste("<b>Jay Stephens</b> (Africa)", 
                "School of Anthropology, University of Arizona, Tucson, AZ, USA <br> Archaeometry Laboratory, Research Reactor Center, University of Missouri, Columbia, MO, USA", 
                paste(
                  add_Link("mailto:jasvxq@missouri.edu?subject=GlobaLID", "envelope", "fa"),
                  add_Link("https://archaeometry.missouri.edu/staff.html", "globe", "fa"), 
                  add_Link("https://orcid.org/0000-0003-1299-3946", "orcid", "ai"),
+                 add_Link("https://www.researchgate.net/profile/Jay-Stephens-2", "researchgate", "ai"),
+                 add_Link("https://scholar.google.com/citations?user=vT2uGPUAAAAJ", "google-scholar", "ai"),
                  sep = " "), 
                sep = "<br>")
 ) %>%

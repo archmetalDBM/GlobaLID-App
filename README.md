@@ -33,7 +33,7 @@ locations: <img src="man/figures/README-map-1.png" width="100%" />
 If you use the GlobaLID app, please cite it as:
 
 - GlobaLID Core Team. (2021). GlobaLID web application V. 1.0, database
-  status: 2023-06-04. <https://globalid.dmt-lb.de/>
+  status: 2023-06-18. <https://globalid.dmt-lb.de/>
 - Klein, S., Rose, T., Westner, K. J., & Hsu, Y.-K. (2022). From OXALID
   to GlobaLID: Introducing a modern and FAIR lead isotope database with
   an interactive application. Archaeometry, 1– 16.
@@ -44,7 +44,7 @@ If you use the GlobaLID app, please cite it as:
     @misc{GlobaLIDCoreTeam.2022,
      author = {{GlobaLID Core Team}},
      year = {2022},
-     title = {{GlobaLID web application V. 1.0, database status: 2023-06-04}},
+     title = {{GlobaLID web application V. 1.0, database status: 2023-06-18}},
      url = {https://globalid.dmt-lb.de/}
     }
 
@@ -127,6 +127,7 @@ Interested? Write us!
     Missouri, Columbia, MO, USA)
   - [Virginie
     Renson](https://archaeometry.missouri.edu/profile(Virginie).html)
+    [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-5701-0985)
     (Archaeometry Laboratory, Research Reactor Center, University of
     Missouri, Columbia, MO, USA)
   - [David
