@@ -1085,7 +1085,7 @@ server <- function(input, output, session) {
       }) %>%
       filter(if(!is.null(input$filter_site)) `Mining site` %in% input$filter_site else TRUE) %>%
       select(year) %>%
-      summarise(across(year, list(min = min, max = max), na.rm = TRUE)) %>%
+      summarise(across(year, list(min = ~ min(.x, na.rm = TRUE), max = ~ max(.x, na.rm = TRUE)))) %>%
       pivot_longer(contains("year")) %>%
       pull(value)
     
