@@ -292,7 +292,7 @@ kable(escape = FALSE, col.names = NULL) %>%
 cat("<br>")
 
 data.frame(
-  Portrait = paste0('![](../www/logo.svg){height=96px}'), 
+  Portrait = paste0('![](../www/VRenson.png){height=96px}'), 
   Text = paste("<b>Virginie Renson</b> (North America)", 
                "Archaeometry Laboratory, Research Reactor Center, University of Missouri, Columbia, MO, USA", 
                paste(

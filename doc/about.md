@@ -425,7 +425,7 @@ France<br><a href="mailto:oliver.pryce@cnrs.fr?subject=GlobaLID" target="_blank"
 <tbody>
 <tr>
 <td style="text-align:left;min-width: 110px; ">
-<img src="../www/logo.svg" height="96" />
+<img src="../www/VRenson.png" height="96" />
 </td>
 <td style="text-align:left;color: black !important;">
 <b>Virginie Renson</b> (North America)<br>Archaeometry Laboratory,
