@@ -26,11 +26,12 @@ data according to specific criteria.
 2.  Whether the whole dataset or only reliable data should be used. The
     reliability of the data is based solely on the analytical method and
     excludes all analyses pre-1974 (no mass bias correction) and
-    analyses not measured with a
-    <a href="https://en.wikipedia.org/wiki/Isotope-ratio_mass_spectrometry#Thermal_ionization_mass_spectrometry" target="_blank">TIMS</a>
-    or
-    <a href="https://en.wikipedia.org/wiki/Isotope-ratio_mass_spectrometry#Multiple_collector_inductively_coupled_plasma_mass_spectrometry" target="_blank">MC-ICP-MS</a>
-    (too imprecise). By default, this option is active.
+    analyses not measured with a <a
+    href="https://en.wikipedia.org/wiki/Isotope-ratio_mass_spectrometry#Thermal_ionization_mass_spectrometry"
+    target="_blank">TIMS</a> or <a
+    href="https://en.wikipedia.org/wiki/Isotope-ratio_mass_spectrometry#Multiple_collector_inductively_coupled_plasma_mass_spectrometry"
+    target="_blank">MC-ICP-MS</a> (too imprecise). By default, this
+    option is active.
 3.  If only data with exact locations should be used or not. Sometimes,
     the location or site where the sample was taken cannot be
     reconstructed. In these cases, coordinates of the next smallest
@@ -130,7 +131,7 @@ to the subsetting variable are only applied to individual points.
 
 On this page you can explore the data more closely and customise the
 plots before downloading them for publication. It consists of two
-independent plots. Only two options are the same for both plot: the
+independent plots. Only two options are the same for both plots: the
 subsetting variable (1a) and the colour palette (1b).
 
 Depending on the number of the selected variables (2), certain kinds of
@@ -151,9 +152,9 @@ specific data can be selected via the “Box select” or the “Lasso” tool
 in the upper right corner of the respective plot (7). A table with the
 selected data will be displayed in the “data table tab” (8) for closer
 inspection. An explanation for most of the icons in this toolbar can be
-found
-<a href="https://plotly.com/chart-studio-help/getting-to-know-the-plotly-modebar/" target="_blank">here</a>
-and we encourage you do play around with them.
+found <a
+href="https://plotly.com/chart-studio-help/getting-to-know-the-plotly-modebar/"
+target="_blank">here</a> and we encourage you do play around with them.
 
 <img src="../www/Instructions_explore.png" width="100%" />
 
@@ -179,9 +180,9 @@ and we encourage you do play around with them.
             adjusted to the respective selection of the data for an
             optimal display of the data’S distribution.
     -   Boxplot:
-        -   Please read
-            <a href="https://towardsdatascience.com/understanding-boxplots-5e2df7bcbd51" target="_blank">here</a>
-            for how to interprete a boxplot.
+        -   Please read <a
+            href="https://towardsdatascience.com/understanding-boxplots-5e2df7bcbd51"
+            target="_blank">here</a> for how to interprete a boxplot.
 -   X & Y- axis (Z-axis is net to “none”):
     -   Point
         -   A scatter plot.
@@ -231,10 +232,11 @@ colour-blind persons. However, except for the ones in the section
 more groups are supplied to a palette than the palette contains colours,
 the groups will be displayed as white colour, i. e. are invisible in the
 plot and appear “without a signature” in the legend. You can see the
-palettes of the Viridis-section
-<a href="https://matplotlib.org/stable/_images/sphx_glr_colormaps_001.png" target="_blank">here</a>
-and the ones of the Colorbrewer-sections
-<a href="https://www.r-graph-gallery.com/38-rcolorbrewers-palettes_files/figure-html/thecode-1.png" target="_blank">here</a>.
+palettes of the Viridis-section <a
+href="https://matplotlib.org/stable/_images/sphx_glr_colormaps_001.png"
+target="_blank">here</a> and the ones of the Colorbrewer-sections <a
+href="https://www.r-graph-gallery.com/38-rcolorbrewers-palettes_files/figure-html/thecode-1.png"
+target="_blank">here</a>.
 
 ### Upload and display of your data
 
@@ -264,13 +266,16 @@ named as following:
 All missing isotope ratios will be automatically calculated after your
 file was successfully parsed. So are the parameters for the different
 age models. Currently, the following lead isotope age models are
-supported:
-<a href="https://dx.doi.org/10.1016/0012-821X%2875%2990088-6" target="_blank">Stacey &amp; Kramers 1975</a>,
-<a href="https://dx.doi.org/10.1016/0012-821X%2875%2990223-X" target="_blank">Cumming &amp; Richards 1975</a>,
-<a href="https://doi.org/10.1016/0016-7037%2884%2990364-8" target="_blank">Albarède &amp; Juteau 1984</a>,
-<a href="https://dx.doi.org/10.1111/j.1475-4754.2011.00653.x" target="_blank">Albarède et al. 2012</a>.
-The U238/U235 ratio is taken from
-<a href="https://dx.doi.org/10.1016/j.gca.2014.09.008" target="_blank">Goldmann et al. 2015</a>.
+supported: <a href="https://dx.doi.org/10.1016/0012-821X%2875%2990088-6"
+target="_blank">Stacey &amp; Kramers 1975</a>,
+<a href="https://dx.doi.org/10.1016/0012-821X%2875%2990223-X"
+target="_blank">Cumming &amp; Richards 1975</a>,
+<a href="https://doi.org/10.1016/0016-7037%2884%2990364-8"
+target="_blank">Albarède &amp; Juteau 1984</a>,
+<a href="https://dx.doi.org/10.1111/j.1475-4754.2011.00653.x"
+target="_blank">Albarède et al. 2012</a>. The U238/U235 ratio is taken
+from <a href="https://dx.doi.org/10.1016/j.gca.2014.09.008"
+target="_blank">Goldmann et al. 2015</a>.
 
 By hitting the “Match database” button (4), all data from GlobaLID with
 overlapping lead isotope ratios will be selected. With “Reset” (5) you

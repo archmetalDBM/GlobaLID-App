@@ -78,7 +78,7 @@ Clicking on points with a number in the map will centre the map on the area of t
 
 ### Explore
 
-On this page you can explore the data more closely and customise the plots before downloading them for publication. It consists of two independent plots. Only two options are the same for both plot: the subsetting variable (1a) and the colour palette (1b).  
+On this page you can explore the data more closely and customise the plots before downloading them for publication. It consists of two independent plots. Only two options are the same for both plots: the subsetting variable (1a) and the colour palette (1b).  
 
 Depending on the number of the selected variables (2), certain kinds of plots ("styles") can be chosen (3). Transparency and size (point size or line width in millimetres) can be set for all plots in the column "Design" (4). Specific options for each kind of plot are provided in the second column if available (5, see below).  
 
