@@ -114,17 +114,17 @@ Interested? Write us!
   (Centre National de la Recherche Scientifique, UMR 7065 Institut de
   Recherche sur les ArchéoMATériaux, Université Paris-Saclay & CEA/CNRS
   UMR 3685 NIMBE, 91191 Gif-sur-Yvette, France)
+- Africa: [Jay Stephens](https://archaeometry.missouri.edu/staff.html)
+  [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-1299-3946)
+  (School of Anthropology, University of Arizona, Tucson, AZ, USA;
+  Archaeometry Laboratory, Research Reactor Center, University of
+  Missouri, Columbia, MO, USA)
 - Iran: [Nima
   Nezafati](https://www.bergbaumuseum.de/en/museum/mitarbeitende/kontakt-detailseite/dr-nima-nezafati)
   [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-5806-343X)
   (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für
   Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)
 - North America:
-  - [Jay Stephens](https://archaeometry.missouri.edu/staff.html)
-    [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-1299-3946)
-    (School of Anthropology, University of Arizona, Tucson, AZ, USA;
-    Archaeometry Laboratory, Research Reactor Center, University of
-    Missouri, Columbia, MO, USA)
   - [Virginie
     Renson](https://archaeometry.missouri.edu/profile(Virginie).html)
     [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-5701-0985)
