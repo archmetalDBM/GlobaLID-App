@@ -125,7 +125,11 @@ ui <- dashboardPage(
                                selectizeInput("group", NULL, choices = c("Country" = "Country",
                                                                          "Province" = "Political province/region",
                                                                          "Mining area" = "Mining area",
-                                                                         "Mining site" = "Mining site"), 
+                                                                         "Mining site" = "Mining site", 
+                                                                         "Tect./geol. super unit" = "Tectonic/geolog. super unit",
+                                                                         "Tect./geol. unit" = "Tectonic/geolog. unit",
+                                                                         "Tect./geol. sub unit" = "Tectonic/geolog. subunit", 
+                                                                         "Deposit type" = "Deposit type"), 
                                               selected = "Mining area")
                              )
                            )
@@ -651,7 +655,7 @@ server <- function(input, output, session) {
   iv <- InputValidator$new()
   
   general_iv <- InputValidator$new()
-  general_iv$add_rule("group", sv_in_set(c("Country", "Political province/region", "Mining area", "Mining site")))
+  general_iv$add_rule("group", sv_in_set(c("Country", "Political province/region", "Mining area", "Mining site", "Tectonic/geolog. super unit", "Tectonic/geolog. unit", "Tectonic/geolog. subunit", "Deposit type")))
   general_iv$add_rule("sidebar", sv_in_set(c("map", "graphs", "upload", "download", "references", "instructions", "resources", "about", "contribute", "imprint")))
   
   database_iv <- InputValidator$new()
