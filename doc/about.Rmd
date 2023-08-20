@@ -256,7 +256,7 @@ cat("<br>")
 
 data.frame(
   Portrait = paste0('![](../www/NNezafati.png){height=96px}'), 
-  Text = paste("<b>Nima Nezafati</b>", 
+  Text = paste("<b>Nima Nezafati</b> (Iran)", 
                "Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany",  
                paste(
                  add_Link("mailto:nima.nezafati@bergbaumuseum.de?subject=GlobaLID", "envelope", "fa"),

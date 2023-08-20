@@ -363,7 +363,7 @@ USA<br><a href="mailto:killick@arizona.edu?subject=GlobaLID" target="_blank"><sv
 <img src="../www/NNezafati.png" height="96" />
 </td>
 <td style="text-align:left;color: black !important;">
-<b>Nima Nezafati</b><br>Forschungsbereich Archäometallurgie,
+<b>Nima Nezafati</b> (Iran)<br>Forschungsbereich Archäometallurgie,
 Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum
 Bochum, Bochum,
 Germany<br><a href="mailto:nima.nezafati@bergbaumuseum.de?subject=GlobaLID" target="_blank"><svg viewbox="0 0 512 512" style="height:1em;position:relative;display:inline-block;top:.1em;" xmlns="http://www.w3.org/2000/svg">
