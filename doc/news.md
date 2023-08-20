@@ -2,9 +2,9 @@
 
 2023-08-20 – Data can be subset now according to “Tectonic/geolog. super
 unit”, “Tectonic/geolog. unit”, “Tectonic/geolog. subunit”, “Deposit
-type”. Please check our [data description of the
-database](https://doi.org/10.5880/fidgeo.2021.031) for how they are
-defined.
+type”. Please check our
+<a href="https://doi.org/10.5880/fidgeo.2021.031" target="_blank">data
+description of the database</a> for how they are defined.
 
 2023-06-18 – Additional data from
 
