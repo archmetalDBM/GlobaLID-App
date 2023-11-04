@@ -163,7 +163,7 @@ cat("<br>")
 data.frame(
   Portrait = paste0('![](../www/TRose.png){height=96px}'), 
   Text = paste("<b>Thomas Rose</b> (Programming)", 
-               "Goethe-Universität Frankfurt, Institut für Geowissenschaften, Frankfurt, Germany  <br> Department of Archaeology, Ben-Gurion University of the Negev, Be’er Sheva, Israel <br> Department of Antiquity, Sapienza University of Rome, Rome, Italy <br> Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany", 
+               "Goethe-Universität Frankfurt, Institut für Geowissenschaften, Frankfurt, Germany <br> Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany", 
                paste(
                  add_Link("mailto:Thomas.Rose@bergbaumuseum.de?subject=GlobaLID", "envelope", "fa"),
                  add_Link("https://copper-smelting.com/", "globe", "fa"), 
@@ -225,7 +225,7 @@ cat("<br>")
 data.frame(
   Portrait = paste0('![](../www/logo.svg){height=96px}'), 
   Text = paste("<b>María Florencia Becerra</b> (South America)", 
-               "Facultad de Filosofía y Letras, Universidad de Buenos Aires, Instituto de Arqueología, CONICET, Buenos Aires, Argentina <br> Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany", 
+               "CONICET (Consejo Nacional de Investigaciones Científicas  y Técnicas) - División Arqueología, Museo de La Plata, Facultad de Ciencias Naturales y Museo, Universidad Nacional de La Plata, Argentina", 
                paste(
                  add_Link("https://www.conicet.gov.ar/new_scp/mail.php?id=29835&detalle=yes&esprimera=1", "envelope", "fa"),
                  add_Link("https://www.conicet.gov.ar/new_scp/detalle.php?id=29835", "globe", "fa"),

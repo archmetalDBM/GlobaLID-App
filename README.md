@@ -83,9 +83,7 @@ Interested? Write us!
 - Programming: [Thomas Rose](https://copper-smelting.com/)
   [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-8186-3566)
   (Goethe-Universität Frankfurt, Institut für Geowissenschaften,
-  Frankfurt, Germany; Department of Archaeology, Ben-Gurion University
-  of the Negev, Be’er Sheva, Israel; Department of Antiquity, Sapienza
-  University of Rome, Rome, Italy; Forschungsbereich Archäometallurgie,
+  Frankfurt, Germany; Forschungsbereich Archäometallurgie,
   Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum
   Bochum, Bochum, Germany)
 - Database: [Katrin J.
@@ -137,17 +135,13 @@ Interested? Write us!
 - South America: [María Florencia
   Becerra](https://www.conicet.gov.ar/new_scp/detalle.php?id=29835)
   [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-6302-7452)
-  (Facultad de Filosofía y Letras, Universidad de Buenos Aires,
-  Instituto de Arqueología, CONICET, Buenos Aires, Argentina;
-  Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für
-  Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)
+  (CONICET (Consejo Nacional de Investigaciones Científicas y
+  Técnicas) - División Arqueología, Museo de La Plata, Facultad de
+  Ciencias Naturales y Museo, Universidad Nacional de La Plata,
+  Argentina)
 
 ## Contributors (Data)
 
-- Markos Vaxevanopoulos
-  [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-3027-5622)
-  (École Normale Supérieure de Lyon, Laboratoire de Géologie de Lyon:
-  Terre, Planète, Environnement, Lyon, France)
 - Sabine Fischer-Lechner (Forschungsbereich Archäometallurgie,
   Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum
   Bochum, Bochum, Germany)
