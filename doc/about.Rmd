@@ -365,22 +365,6 @@ kable(escape = FALSE, col.names = NULL) %>%
   column_spec(2, color = "black")
 cat("<br>")
 
-data.frame(
-  Portrait = paste0('![](../www/MVaxevanopoulos.png){height=96px}'), 
-  Text = paste("<b>Markos Vaxevanopoulos</b>", 
-               "École Normale Supérieure de Lyon, Laboratoire de Géologie de Lyon: Terre, Planète, Environnement, Lyon, France",  
-               paste(
-                 add_Link("https://orcid.org/0000-0003-3027-5622", "orcid", "ai"),
-                 add_Link("https://auth.academia.edu/MarkosVaxevanopoulos", "academia", "ai"),
-                 add_Link("https://www.researchgate.net/profile/Markos-Vaxevanopoulos", "researchgate", "ai"),
-                 sep = " "), 
-               sep = "<br>")
-) %>%
-kable(escape = FALSE, col.names = NULL) %>% 
-  column_spec(1, width_min = "110px") %>%
-  column_spec(2, color = "black")
-cat("<br>")
-
 ```
 
 ## Partners and Supporting Institutions
