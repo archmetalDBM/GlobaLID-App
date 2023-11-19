@@ -16,6 +16,12 @@ library(kableExtra)
 
 ## News
 
+2023-11-19 -- Additional data from Argentina (contributor: M. F. Becerra). The database now includes 4147 entries. 
+
+Additional metadata are included for some publications (contributor: K. J. Westner). Some minor editing was done on a few entries to increase consistency of the database (esp. unification of British vs. American English and capialisation)
+
+The template for contributions was updated to the current metadata scheme. 
+
 2023-08-20 -- Data can be subset now according to "Tectonic/geolog. super unit", "Tectonic/geolog. unit", "Tectonic/geolog. subunit", "Deposit type". Please check our <a href="https://doi.org/10.5880/fidgeo.2021.031" target="_blank">data description of the database</a> for how they are defined. 
 
 2023-06-18 -- Additional data from 
@@ -37,7 +43,7 @@ The database now includes 3245 entries.
 
 2022-12-20 -- Additional data from Germany included (contributors: S. Fischer-Lechner, T. Rose). The database now includes 2699 entries. 
 
-2022-03-28 -- The original publications for some data published in OXALID was added
+2022-03-28 -- The original publications for some data published in OXALID was added.
 
 2022-03-23 -- Video tutorial for the GlobaLID web application is now available <a href="https://www.youtube.com/watch?v=qwKStMc-068" target="_blank">on YouTube</a>.
 

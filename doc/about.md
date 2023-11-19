@@ -307,7 +307,7 @@ Germany<br><a href="mailto:Yiu-Kang.Hsu@bergbaumuseum.de?subject=GlobaLID" targe
 <tbody>
 <tr>
 <td style="text-align:left;min-width: 110px; ">
-<img src="../www/logo.svg" height="96" />
+<img src="../www/MBecerra.png" height="96" />
 </td>
 <td style="text-align:left;color: black !important;">
 <b>María Florencia Becerra</b> (South America)<br>CONICET (Consejo

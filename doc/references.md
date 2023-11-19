@@ -109,6 +109,10 @@
     Technology of Materials (ed. A. Bishay), Vol. 3, 9–27, Plenum, New
     York.
 
+-   Brodtkorb, M. K., and Brodtkorb, A., 1982, Datos isotópicos de plomo
+    de la mineralización de la Mina La Helvecia, prov. de La Rioja,
+    Revista de la Asociación Geológica Argentina, 37(3), 358–61.
+
 -   Burnard, P. G., Sweeney, M. A., Vaughan, D. J., Spiro, B., and
     Thirlwall, M. F., 1993, Sulfur and lead isotope constraints on the
     genesis of a southern Zambian massive sulfide deposit, Economic
@@ -263,10 +267,6 @@
     Metallurgy, The Annual of the British School at Athens, 76, 169–224.
     DOI:<a href="https://doi.org/10.1017/S0068245400019523" target="_blank">10.1017/S0068245400019523</a>
 
--   Gale, N. H., and Stos-Gale, Z. A., 1981, Cycladic Lead and Silver
-    Metallurgy, The Annual of the British School at Athens, 76, 169–224.
-    DOI:<a href="https://doi.org/http://www.jstor.org/stable/30103034" target="_blank">http://www.jstor.org/stable/30103034</a>
-
 -   Gale, N. H., and Stos-Gale, Z. A., 1985, Cyprus and the Bronze Age
     Metals Trade, In Proceedings of the Second International Congress of
     Cypriot Studies, Nicosia 1982 (eds. T. Papadopoullos, and S. A.
@@ -289,6 +289,11 @@
     Conference of the British School of Archaeology at Athens,
     Manchester 1986 (eds. E. B. French, and K. A. Wardle), 355–85,
     Bristol Classical Press, Bristol.
+
+-   Gemmell, J. B., Zantop, H., and Meinert, L., 1992, Genesis of the
+    Aguilar Zinc-Lead-Silver Deposit, Argentina:Contact Metasomatic
+    vs. Sedimentary Exhalative, Economic Geology, 87, 2085–112.
+    DOI:<a href="https://doi.org/10.2113/gsecongeo.87.8.2085" target="_blank">10.2113/gsecongeo.87.8.2085</a>
 
 -   Haest, M., Schneider, J., Cloquet, C., Latruwe, K., Vanhaecke, F.,
     and Muchez, P., 2010, Pb isotopic constraints on the formation of
@@ -320,7 +325,7 @@
 
 -   Höhndorf, A., and Vetter, U., 1999, The Sanyati Ore deposits in
     Zimbabwe: Pb-isotopic investigation of sulfide and oxide ores,
-    Zeitschrift für Angewande Geologie, 45(1), 11–3.
+    Zeitschrift für Angewandte Geologie, 45(1), 11–3.
 
 -   IGME Xanthi cit. in: Frei, R., 1992, Isotope (Pb, Rb-Sr, S, O, C,
     U-Pb) geochemical investigations on Tertiary intrusives and related
@@ -408,6 +413,22 @@
     southern and central Sardinia, European Journal of Mineralogy, 1,
     657–66.
     DOI:<a href="https://doi.org/10.1127/ejm/1/5/0657" target="_blank">10.1127/ejm/1/5/0657</a>
+
+-   López, L., 2012, Geología y metalogénesis del distrito polimetálico
+    Purísima-Rumicruz, departamento de Cochinoca, provincia de Jujuy,
+    Doctor en Ciencias Naturales, Universidad Nacional de La Plata.
+    DOI:<a href="https://doi.org/10.35537/10915/25861" target="_blank">10.35537/10915/25861</a>
+
+-   Macfarlane, A. W., Marcet, P., LeHuray, A. P., and Petersen, U.,
+    1990, Lead isotope provinces of the Central Andes inferred from ores
+    and crustal rocks, Economic Geology, 85(8), 1857–80.
+    DOI:<a href="https://doi.org/10.2113/gsecongeo.85.8.1857" target="_blank">10.2113/gsecongeo.85.8.1857</a>
+
+-   Macfarlane, A. W., and Lechtman, H. N., 2016, Andean Ores, Bronze
+    Artifacts, and Lead Isotopes: Constraints on Metal Sources in Their
+    Geological Context, Journal of Archaeological Method and Theory,
+    23(1), 1–72.
+    DOI:<a href="https://doi.org/10.1007/s10816-014-9225-8" target="_blank">10.1007/s10816-014-9225-8</a>
 
 -   Marchev, P., and Moritz, R., 2006, Isotopic composition of Sr and Pb
     in the Central Rhodopean ore fields: Inferences for the genesis of
@@ -522,6 +543,11 @@
     ForschungsCluster 2, Innovation: technisch, sozial 11, Leidorf,
     Rahden, Westf.
 
+-   Puig, A., 1988, Geologic and metallogenic significance of the
+    isotopic composition of lead in galenas of the Chilean Andes,
+    Economic Geology, 83(4), 843–58.
+    DOI:<a href="https://doi.org/10.2113/gsecongeo.83.4.843" target="_blank">10.2113/gsecongeo.83.4.843</a>
+
 -   Richards, J. P., Cumming, G. L., Krstic, D., Wagner, P. A., and
     Spooner, E. T. C., 1988, Pb isotope constraints on the age of
     sulfide ore deposition and U-Pb age of late uraninite veining at the
@@ -534,6 +560,12 @@
     Archean cratons of Africa, Geochimica et Cosmochimica Acta, 37(9),
     2099–124.
     DOI:<a href="https://doi.org/10.1016/0016-7037(73)90010-0" target="_blank">10.1016/0016-7037(73)90010-0</a>
+
+-   Rubinstein, N. A., Carrasquero, S. I., Gómez, A. L. R.,
+    Ricchetti, A. P. O., and D’Annunzio, M. C., 2018, Metallogeny of the
+    Paramillos de Uspallata Pb–Zn–Ag vein deposit in the Cuyo Rift
+    Basin, Argentina, Comptes Rendus Geoscience, 350(4), 164–72.
+    DOI:<a href="https://doi.org/10.1016/j.crte.2018.01.002" target="_blank">10.1016/j.crte.2018.01.002</a>
 
 -   Saager, R., and Koppel, V., 1976, Lead isotopes and trace elements
     from sulfides of Archean greenstone belts in South Africa: a
@@ -566,6 +598,7 @@
 -   Siron, C. R., 2018, Magmatic, Structural, and Metallogenic Framework
     of the Kassandra Mining District, Chalkidiki Peninsula, Northern
     Greece, PhD thesis, Cornell University, Ithaca.
+    DOI:<a href="https://doi.org/10.7298/X4QZ2866" target="_blank">10.7298/X4QZ2866</a>
 
 -   Stephens, J., 2016, Assessing the suitability of southern Africa for
     archaeological provenance studies with lead isotopes, MA
@@ -637,6 +670,14 @@
 -   Swainbank, I. G., Shepherd, T. J., Caboi, R., and Massoli-Novelli,
     R., 1982, Lead isotopic composition of some galena ores from
     Sardinia, Periodico di Mineralogia, 51, 275–86.
+
+-   Tilton, G. R., Pollak, R. J., Clark, A. H., and Robertson, R. C. R.,
+    1981, Isotopic composition of Pb in Central Andean ore deposits, In
+    Nazca Plate: Crustal Formation and Andean Convergence (eds. L. V. D.
+    Kulm, J. Dymond, E. J. Dasch, D. M. Hussong, and R. Roderick),
+    791–816, Memoir (Geological Society of America) 154, Geological
+    Society of America.
+    DOI:<a href="https://doi.org/10.1130/MEM154-p791" target="_blank">10.1130/MEM154-p791</a>
 
 -   Tombros, S. F., Kokkalas, S., Seymour, K. St., Voudouris, P. C.,
     Williams-Jones, A. E., Zhai, D., Liu, J., and Fitros, M. G., 2021,
@@ -729,6 +770,12 @@
     Greece with implications for the underlying basement, Lithos,
     366–367, 105559.
     DOI:<a href="https://doi.org/10.1016/j.lithos.2020.105559" target="_blank">10.1016/j.lithos.2020.105559</a>
+
+-   Zentelli, M., Doe, B., Hedge, C., Alvarez, O., Tidy, E., and Daroca,
+    J., 1988, Isotopos de plomo en yacimientos de tipo pòrfido cuprífero
+    comparados con otros depósitos metalíferos en los Andes del norte de
+    Chile y Argentina, V Congreso Geológico Chileno, Departamento de
+    Geología y Geofísica, Universidad de Chile, 1, B331–69.
 
 -   Zwicker, U., Gale, N. H., and Gale, Z. A., 1991, Metallographische,
     analytische und technologische Untersuchungen sowie Messungen der

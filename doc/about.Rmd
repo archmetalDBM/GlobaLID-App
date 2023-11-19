@@ -223,7 +223,7 @@ cat("<br>")
 ```{r echo=FALSE, results='asis'}
 
 data.frame(
-  Portrait = paste0('![](../www/logo.svg){height=96px}'), 
+  Portrait = paste0('![](../www/MBecerra.png){height=96px}'), 
   Text = paste("<b>María Florencia Becerra</b> (South America)", 
                "CONICET (Consejo Nacional de Investigaciones Científicas  y Técnicas) - División Arqueología, Museo de La Plata, Facultad de Ciencias Naturales y Museo, Universidad Nacional de La Plata, Argentina", 
                paste(

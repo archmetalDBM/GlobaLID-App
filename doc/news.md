@@ -1,5 +1,16 @@
 ## News
 
+2023-11-19 – Additional data from Argentina (contributor: M. F.
+Becerra). The database now includes 4147 entries.
+
+Additional metadata are included for some publications (contributor: K.
+J. Westner). Some minor editing was done on a few entries to increase
+consistency of the database (esp. unification of British vs. American
+English and capialisation)
+
+The template for contributions was updated to the current metadata
+scheme.
+
 2023-08-20 – Data can be subset now according to “Tectonic/geolog. super
 unit”, “Tectonic/geolog. unit”, “Tectonic/geolog. subunit”, “Deposit
 type”. Please check our
@@ -29,7 +40,7 @@ Fischer-Lechner. T. Rose). The database now includes 2763 entries.
 Fischer-Lechner, T. Rose). The database now includes 2699 entries.
 
 2022-03-28 – The original publications for some data published in OXALID
-was added
+was added.
 
 2022-03-23 – Video tutorial for the GlobaLID web application is now
 available
