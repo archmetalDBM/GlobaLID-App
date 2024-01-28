@@ -22,7 +22,7 @@ source("../update.R")
 ```
 
 ## What is GlobaLID? 
-GlobaLID is a Global Lead Isotope Database and aims to facilitate the reconstruction of raw material provenances with lead isotopes, especially in archaeology. The app provides direct access to and convenient interaction with the [GlobaLID database](https://doi.org/10.5880/fidgeo.2021.031){target="_blank"}. You can filter the database according to your research question, upload own data to compare it with GlobaLID, and produce and download publication ready plots. Please watch our [video tutorial](https://www.youtube.com/watch?v=qwKStMc-068){target="_blank"} for a "life" demonstration. The "References" page lists all references from which data are currently included in GlobaLID. There are still data missing? Consider to become a contributor and help to let GlobaLID grow! Visit [our webpage](https://archmetaldbm.github.io/Globalid/) to learn more about the GlobaLID project and to get the latest news. 
+GlobaLID is a Global Lead Isotope Database and aims to facilitate the reconstruction of raw material provenances with lead isotopes, especially in archaeology. The app provides direct access to and convenient interaction with the [GlobaLID database](https://doi.org/10.5880/fidgeo.2023.043){target="_blank"}. You can filter the database according to your research question, upload own data to compare it with GlobaLID, and produce and download publication ready plots. Please watch our [video tutorial](https://www.youtube.com/watch?v=qwKStMc-068){target="_blank"} for a "life" demonstration. The "References" page lists all references from which data are currently included in GlobaLID. There are still data missing? Consider to become a contributor and help to let GlobaLID grow! Visit [our webpage](https://archmetaldbm.github.io/Globalid/) to learn more about the GlobaLID project and to get the latest news. 
 
 ## Copyright
 
@@ -50,7 +50,7 @@ provided you attribute the GlobaLID Core Team as the source of the copyright mat
 
 Please attribute to GlobaLID by citing: 
 
-* Westner, Katrin J.; Rose, Thomas; Klein, Sabine; Hsu, Yiu-Kang (2021): GlobaLID – Global Lead Isotope Database. V. 1.0. GFZ Data Services. <a href="https://doi.org/10.5880/fidgeo.2021.031" target="_blank">https://doi.org/10.5880/fidgeo.2021.031</a>
+* Westner, Katrin J.; Rose, Thomas; Klein, Sabine; Hsu, Yiu-Kang (2023): GlobaLID – Global Lead Isotope Database. V. 1.1. GFZ Data Services. <a href="https://doi.org/10.5880/fidgeo.2023.043" target="_blank">https://doi.org/10.5880/fidgeo.2023.043</a>
 * GlobaLID Core Team (2021): GlobaLID web application V. `r app_version`, database status: `r format.Date(update_database, "%F")`. <a href="https://globalid.dmt-lb.de/" target="_blank">https://globalid.dmt-lb.de/</a>
 * Klein, S., Rose, T., Westner, K. J., & Hsu, Y.-K. (2022). From OXALID to GlobaLID: Introducing a modern and FAIR lead isotope database with an interactive application. Archaeometry 64(4), 935--950. <a href="https://doi.org/10.1111/arcm.12762" target="_blank">https://doi.org/10.1111/arcm.12762</a>
 
@@ -58,13 +58,13 @@ For direct import into your reference manager copy the citations as
 <details>
   <summary>bibtex</summary>
 ```
-@misc{Westner.2021,
+@misc{Westner.2023,
  author = {Westner, Katrin J. and Rose, Thomas and Klein, Sabine and Hsu, Yiu-Kang},
- year = {2021},
- title = {{GlobaLID -- Global Lead Isotope Database V. 1.0}},
+ year = {2023},
+ title = {{GlobaLID -- Global Lead Isotope Database V. 1.1}},
  publisher = {{GFZ Data Services}},
- doi = {10.5880/fidgeo.2021.031}, 
- url = {https://doi.org/10.5880/fidgeo.2021.031}
+ doi = {10.5880/fidgeo.2023.043}, 
+ url = {https://doi.org/10.5880/fidgeo.2023.043}
 }
 
 @misc{GlobaLIDCoreTeam.2022,
@@ -95,12 +95,12 @@ AU  - Rose, Thomas
 AU  - Klein, Sabine
 AU  - Hsu, Yiu-Kang
 TI  - GlobaLID -- Global Lead Isotope Database
-ET  - V. 1.0
-PY  - 2021
-DA  - 2021
+ET  - V. 1.1
+PY  - 2023
+DA  - 2023
 PB  - GFZ Data Services
-DO  - 10.5880/fidgeo.2021.031
-UR  - https://doi.org/10.5880/fidgeo.2021.031
+DO  - 10.5880/fidgeo.2023.043
+UR  - https://doi.org/10.5880/fidgeo.2023.043
 ER  - 
 
 TY  - COMP

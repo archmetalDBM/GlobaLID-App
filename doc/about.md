@@ -4,7 +4,7 @@ GlobaLID is a Global Lead Isotope Database and aims to facilitate the
 reconstruction of raw material provenances with lead isotopes,
 especially in archaeology. The app provides direct access to and
 convenient interaction with the
-<a href="https://doi.org/10.5880/fidgeo.2021.031"
+<a href="https://doi.org/10.5880/fidgeo.2023.043"
 target="_blank">GlobaLID database</a>. You can filter the database
 according to your research question, upload own data to compare it with
 GlobaLID, and produce and download publication ready plots. Please watch
@@ -18,7 +18,7 @@ the GlobaLID project and to get the latest news.
 
 ## Copyright
 
-© The GlobaLID Core Team 2023 (unless indicated otherwise)
+© The GlobaLID Core Team 2024 (unless indicated otherwise)
 
 The copyright material published on this website is subject to the
 German Copyright law, and is owned by the GlobaLID Core Team or, where
@@ -50,7 +50,7 @@ This licence allows you to:
 provided you attribute the GlobaLID Core Team as the source of the
 copyright material. The GlobaLID Core Team requests attribution as:  
 “GlobaLID Core Team (2021): GlobaLID web application V. 1.0, database
-status: 18 Juni 2023.
+status: 19 November 2023.
 <a href="https://globalid.dmt-lb.de/" target="_blank">https://globalid.dmt-lb.de/</a>.
 
 </details>
@@ -60,11 +60,11 @@ status: 18 Juni 2023.
 Please attribute to GlobaLID by citing:
 
 -   Westner, Katrin J.; Rose, Thomas; Klein, Sabine; Hsu, Yiu-Kang
-    (2021): GlobaLID – Global Lead Isotope Database. V. 1.0. GFZ Data
+    (2023): GlobaLID – Global Lead Isotope Database. V. 1.1. GFZ Data
     Services.
-    <a href="https://doi.org/10.5880/fidgeo.2021.031" target="_blank">https://doi.org/10.5880/fidgeo.2021.031</a>
+    <a href="https://doi.org/10.5880/fidgeo.2023.043" target="_blank">https://doi.org/10.5880/fidgeo.2023.043</a>
 -   GlobaLID Core Team (2021): GlobaLID web application V. 1.0, database
-    status: 2023-06-18.
+    status: 2023-11-19.
     <a href="https://globalid.dmt-lb.de/" target="_blank">https://globalid.dmt-lb.de/</a>
 -   Klein, S., Rose, T., Westner, K. J., & Hsu, Y.-K. (2022). From
     OXALID to GlobaLID: Introducing a modern and FAIR lead isotope
@@ -78,19 +78,19 @@ For direct import into your reference manager copy the citations as
 bibtex
 </summary>
 
-    @misc{Westner.2021,
+    @misc{Westner.2023,
      author = {Westner, Katrin J. and Rose, Thomas and Klein, Sabine and Hsu, Yiu-Kang},
-     year = {2021},
-     title = {{GlobaLID -- Global Lead Isotope Database V. 1.0}},
+     year = {2023},
+     title = {{GlobaLID -- Global Lead Isotope Database V. 1.1}},
      publisher = {{GFZ Data Services}},
-     doi = {10.5880/fidgeo.2021.031}, 
-     url = {https://doi.org/10.5880/fidgeo.2021.031}
+     doi = {10.5880/fidgeo.2023.043}, 
+     url = {https://doi.org/10.5880/fidgeo.2023.043}
     }
 
     @misc{GlobaLIDCoreTeam.2022,
      author = {{GlobaLID Core Team}},
      year = {2022},
-     title = {{GlobaLID web application V. 1.0, database status: 2023-06-18}},
+     title = {{GlobaLID web application V. 1.0, database status: 2023-11-19}},
      url = {https://globalid.dmt-lb.de/}
     }
 
@@ -116,18 +116,18 @@ ris
     AU  - Klein, Sabine
     AU  - Hsu, Yiu-Kang
     TI  - GlobaLID -- Global Lead Isotope Database
-    ET  - V. 1.0
-    PY  - 2021
-    DA  - 2021
+    ET  - V. 1.1
+    PY  - 2023
+    DA  - 2023
     PB  - GFZ Data Services
-    DO  - 10.5880/fidgeo.2021.031
-    UR  - https://doi.org/10.5880/fidgeo.2021.031
+    DO  - 10.5880/fidgeo.2023.043
+    UR  - https://doi.org/10.5880/fidgeo.2023.043
     ER  - 
 
     TY  - COMP
     AU  - GlobaLID Core Team
     TI  - GlobaLID web application
-    ET  - V. 1.0, database status: 2023-06-18
+    ET  - V. 1.0, database status: 2023-11-19
     PY  - 2022
     DA  - 2022
     UR  - https://globalid.dmt-lb.de/
