@@ -59,9 +59,10 @@ status: 19 November 2023.
 
 Please attribute to GlobaLID by citing:
 
--   Westner, Katrin J.; Rose, Thomas; Klein, Sabine; Hsu, Yiu-Kang
-    (2023): GlobaLID – Global Lead Isotope Database. V. 1.1. GFZ Data
-    Services.
+-   Westner, Katrin J.; Rose, Thomas; Klein, Sabine; Hsu, Yiu-Kang;
+    Becerra, María Florencia; Nezafati, Nima; Renson, Virginie &
+    Stephens, Jay (2023): GlobaLID – Global Lead Isotope Database. V.
+    1.1. GFZ Data Services.
     <a href="https://doi.org/10.5880/fidgeo.2023.043" target="_blank">https://doi.org/10.5880/fidgeo.2023.043</a>
 -   GlobaLID Core Team (2021): GlobaLID web application V. 1.0, database
     status: 2023-11-19.
@@ -79,11 +80,11 @@ bibtex
 </summary>
 
     @misc{Westner.2023,
-     author = {Westner, Katrin J. and Rose, Thomas and Klein, Sabine and Hsu, Yiu-Kang},
+     author = {Westner, Katrin J. and Rose, Thomas and Klein, Sabine and Hsu, Yiu-Kang and Becerra, María Florencia and Nezafati, Nima and Renson, Virginie and Stephens, Jay},
      year = {2023},
      title = {{GlobaLID -- Global Lead Isotope Database V. 1.1}},
      publisher = {{GFZ Data Services}},
-     doi = {10.5880/fidgeo.2023.043}, 
+     doi = {10.5880/fidgeo.2021.031}, 
      url = {https://doi.org/10.5880/fidgeo.2023.043}
     }
 
@@ -115,6 +116,10 @@ ris
     AU  - Rose, Thomas
     AU  - Klein, Sabine
     AU  - Hsu, Yiu-Kang
+    AU  - Becerra, María Florencia
+    AU  - Nezafati, Nima
+    AU  - Renson, Virginie
+    AU  - Stephens, Jay
     TI  - GlobaLID -- Global Lead Isotope Database
     ET  - V. 1.1
     PY  - 2023
