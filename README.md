@@ -36,7 +36,7 @@ If you use the GlobaLID app, please cite it as:
   status: 2023-11-19. <https://globalid.dmt-lb.de/>
 - Klein, S., Rose, T., Westner, K. J., & Hsu, Y.-K. (2022). From OXALID
   to GlobaLID: Introducing a modern and FAIR lead isotope database with
-  an interactive application. Archaeometry, 1– 16.
+  an interactive application. Archaeometry 64(4), 935–950.
   <https://doi.org/10.1111/arcm.12762>
 
 <!-- -->
@@ -52,9 +52,9 @@ If you use the GlobaLID app, please cite it as:
     author = {Klein, Sabine and Rose, Thomas and Westner, Katrin J. and Hsu, Yiu-Kang},
     title = {From OXALID to GlobaLID: Introducing a modern and FAIR lead isotope database with an interactive application},
     journal = {Archaeometry},
-    volume = {n/a},
-    number = {n/a},
-    pages = {},
+    volume = {64},
+    number = {4},
+    pages = {935-950},
     doi = {https://doi.org/10.1111/arcm.12762},
     }
 
@@ -145,6 +145,23 @@ Interested? Write us!
 - Sabine Fischer-Lechner (Forschungsbereich Archäometallurgie,
   Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum
   Bochum, Bochum, Germany)
+
+# Funding
+
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td>
+<img src="man/dfg_logo.gif">
+</td>
+<td halign="left">
+This work has received funding from the German Research Foundation (DFG)
+through the grants KL 1259/17-1 and WI 5923/2-1 (project number:
+524790825).
+</td>
+</tr>
+</tbody>
+</table>
 
 # Acknowledgements
 

@@ -84,7 +84,7 @@ bibtex
      year = {2023},
      title = {{GlobaLID -- Global Lead Isotope Database V. 1.1}},
      publisher = {{GFZ Data Services}},
-     doi = {10.5880/fidgeo.2021.031}, 
+     doi = {10.5880/fidgeo.2023.043}, 
      url = {https://doi.org/10.5880/fidgeo.2023.043}
     }
 
