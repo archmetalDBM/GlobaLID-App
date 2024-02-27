@@ -129,7 +129,7 @@ A wide range of colour palettes is available and all are optimised for colour-bl
 
 ### Upload and display of your data
 
-In the Upload page you can upload your own dataset (1). These data will be deleted from the server the moment you close GlobaLID. Choose the correct parameters to parse your file (2). If it was parsed successfully, it will appear in the "Data Viewer" (3) for inspection (otherwise a message will indicate the problem). You dataset must not contain columns other than the following ones and the columns must be named as following: 
+In the Upload page you can upload your own dataset (1). These data will be deleted from the server the moment you close GlobaLID. Choose the correct parameters to parse your file (2). If it was parsed successfully, it will appear in the "Data Viewer" (3) for inspection (otherwise a message will indicate the problem). Your dataset must not contain columns other than the following ones and the columns must be named as following: 
 
 * "group". This column will be used to differentiate your data in the plots (see below). If not included, it will be automatically created with "This study" as its content. 
 * A column for the latitude and longitude value; They must be named "lat" and "long", or similar (e.g. latitude, longitude) and both (or none of them) must be provided.

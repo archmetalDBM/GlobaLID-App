@@ -244,7 +244,7 @@ In the Upload page you can upload your own dataset (1). These data will
 be deleted from the server the moment you close GlobaLID. Choose the
 correct parameters to parse your file (2). If it was parsed
 successfully, it will appear in the “Data Viewer” (3) for inspection
-(otherwise a message will indicate the problem). You dataset must not
+(otherwise a message will indicate the problem). Your dataset must not
 contain columns other than the following ones and the columns must be
 named as following:
 

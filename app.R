@@ -393,11 +393,19 @@ ui <- dashboardPage(
               )
             )
           ),
-          bs4Card(
-            title = "Data Viewer",
+          tabBox(
+            id = "upload_check",
             width = 9,
+            side = "left",
             maximizable = TRUE, 
-            DT::dataTableOutput("upload_preview")
+            tabPanel(
+              title = "Data Viewer", 
+              DT::dataTableOutput("upload_preview")
+            ), 
+            tabPanel(
+              title = "Instructions", 
+              includeMarkdown("doc/upload.md")
+            ) 
           )
         )
       ),
@@ -746,10 +754,11 @@ server <- function(input, output, session) {
     modalDialog(
       title = "Welcome to GlobaLID!",
       h6("Welcome to the prototype of the GlobaLID web application."),
-      div("Please help us to extent it and to design it closer to your expectations by participating in", 
-          a(href = "https://forms.gle/6YCdj7ywh8bRPDW47", "our survey"), 
-          "and", 
-          a(href = "mailto:globalid@bergbaumuseum.de?subject=Feedback to GlobaLID Web App", "providing feedback"),
+      div("We are currently developing the full version of GlobaLID. Visit ", 
+          a(href = "https://archmetaldbm.github.io/Globalid/", target="_blank", "our webpage"), 
+          "to learn more about GlobaLID and the current state of the work."),
+      div("In the meanwhile, we appreciate if you send us any feedback or suggestions you might have",
+          a(href = "mailto:globalid@bergbaumuseum.de?subject=Feedback to GlobaLID Web App", "by mail"),
           "."), 
       div(tags$b("Thank you!")),
       footer = modalButton("Close"), 
@@ -1290,7 +1299,7 @@ server <- function(input, output, session) {
 
     removeModal()
   })
-  
+
     # "upload" output -------------------------------------------------------
   
   output$file_upload <- renderUI({
