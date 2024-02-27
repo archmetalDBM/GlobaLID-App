@@ -202,7 +202,7 @@ Germany<br><a href="mailto:Sabine.Klein@bergbaumuseum.de?subject=GlobaLID" targe
 <tbody>
 <tr>
 <td style="text-align:left;min-width: 110px; ">
-<img src="(../www/logo.svg)" height="96" />
+<img src="../www/logo.svg" height="96" />
 </td>
 <td style="text-align:left;color: black !important;">
 <b>Helge Wiethoff</b><br>Rechenzentrum, Technische Hochschule Georg
@@ -265,7 +265,7 @@ Germany<br><a href="mailto:Thomas.Rose@bergbaumuseum.de?subject=GlobaLID" target
 <tbody>
 <tr>
 <td style="text-align:left;min-width: 110px; ">
-<img src="(../www/logo.svg)" height="96" />
+<img src="../www/logo.svg" height="96" />
 </td>
 <td style="text-align:left;color: black !important;">
 <b>Tim Greifelt</b><br>Forschungsbereich Archäometallurgie,
@@ -344,7 +344,7 @@ Germany<br><a href="mailto:Yiu-Kang.Hsu@bergbaumuseum.de?subject=GlobaLID" targe
 <tbody>
 <tr>
 <td style="text-align:left;min-width: 110px; ">
-<img src="(../www/logo.svg)" height="96" />
+<img src="../www/logo.svg" height="96" />
 </td>
 <td style="text-align:left;color: black !important;">
 <b>Annette Hornschuch</b><br>Forschungsbereich Montanarchäologie,
@@ -621,21 +621,6 @@ WI 5923/2-1 (project number: 524790825).
 </table>
 
 <br>
-
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
-<tbody>
-<tr>
-<td>
-<img src="/dfg_logo.gif">
-</td>
-<td halign="left">
-This work has received funding from the German Research Foundation (DFG)
-through the grants KL 1259/17-1 and WI 5923/2-1 (project number:
-524790825).
-</td>
-</tr>
-</tbody>
-</table>
 
 ## Acknowledgements
 
