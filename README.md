@@ -70,9 +70,9 @@ Interested? Write us!
 
 # Team
 
-## Core team
+## Project team
 
-- Coordination: [Sabine
+- [Sabine
   Klein](https://www.bergbaumuseum.de/en/museum/mitarbeitende/kontakt-detailseite/prof-dr-sabine-klein)
   [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-3939-4428)
   (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für
@@ -80,29 +80,30 @@ Interested? Write us!
   Institut für Archäologische Wissenschaften, Ruhr-Universität Bochum,
   Bochum, Germany; FIERCE, Frankfurt Isotope & Element Research Centre,
   Goethe Universität, Frankfurt am Main, Germany)
-- Programming: [Thomas Rose](https://copper-smelting.com/)
+- Helge Wiethoff (Rechenzentrum, Technische Hochschule Georg Agricola,
+  Bochum, Germany)
+- [Thomas Rose](https://copper-smelting.com/)
   [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-8186-3566)
-  (Goethe-Universität Frankfurt, Institut für Geowissenschaften,
-  Frankfurt, Germany; Forschungsbereich Archäometallurgie,
-  Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum
-  Bochum, Bochum, Germany)
-- Database: [Katrin J.
-  Westner](http://lgltpe.ens-lyon.fr/annuaire/westner-katrin)
+  (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für
+  Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)
+- [Tim
+  Greifelt](https://www.bergbaumuseum.de/museum/mitarbeitende/kontakt-detailseite/tim-greifelt)
+  (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für
+  Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)
+- [Katrin J.
+  Westner](https://www.bergbaumuseum.de/museum/mitarbeitende/kontakt-detailseite/dr-katrin-julia-westner)
   [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-5529-1165)
   (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für
   Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)
-- Metadata: [Yiu-Kang
+- [Yiu-Kang
   Hsu](https://www.bergbaumuseum.de/en/museum/mitarbeitende/kontakt-detailseite/yiu-kang-hsu)
   [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-2439-4863)
   (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für
   Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)
-
-## Contributors (Programming)
-
-- Daniel Finn
-  [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0000-0953-0006)
-  (Institute of Archaeology, The Hebrew University of Jerusalem,
-  Jerusalem, Israel)
+- [Annette
+  Hornschuch](https://www.bergbaumuseum.de/museum/mitarbeitende/kontakt-detailseite/annette-hornschuch)
+  (Forschungsbereich Montanarchäologie, Leibniz-Forschungsmuseum für
+  Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)
 
 ## Regional editors
 
