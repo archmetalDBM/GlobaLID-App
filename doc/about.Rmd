@@ -165,7 +165,7 @@ kable(escape = FALSE, col.names = NULL) %>%
 cat("<br>")
 
 data.frame(
-  Portrait = paste0('![]((../www/logo.svg)){height=96px}'), 
+  Portrait = paste0('![](../www/logo.svg){height=96px}'), 
   Text = paste("<b>Helge Wiethoff</b>", 
                "Rechenzentrum, Technische Hochschule Georg Agricola, Bochum, Germany", 
                paste(
@@ -201,7 +201,7 @@ kable(escape = FALSE, col.names = NULL) %>%
 cat("<br>")
 
 data.frame(
-  Portrait = paste0('![]((../www/logo.svg)){height=96px}'), 
+  Portrait = paste0('![](../www/logo.svg){height=96px}'), 
   Text = paste("<b>Tim Greifelt</b>", 
                "Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany", 
                paste(
@@ -250,7 +250,7 @@ kable(escape = FALSE, col.names = NULL) %>%
 cat("<br>")
 
 data.frame(
-  Portrait = paste0('![]((../www/logo.svg)){height=96px}'), 
+  Portrait = paste0('![](../www/logo.svg){height=96px}'), 
   Text = paste("<b>Annette Hornschuch</b>", 
                "Forschungsbereich Montanarchäologie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany", 
                paste(
@@ -437,16 +437,6 @@ kable(escape = FALSE, col.names = NULL) %>%
 cat("<br>")
 
 ```
-
-
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
-      <tbody>
-        <tr>
-          <td><img src="/dfg_logo.gif"></td>
-          <td halign="left">This work has received funding from the German Research Foundation (DFG) through the grants KL 1259/17-1 and WI 5923/2-1 (project number: 524790825).</td>
-        </tr>
-      </tbody>
-    </table>
 
 ## Acknowledgements
 
