@@ -174,12 +174,11 @@ looking forward to your message!
 <img src="../www/SKlein.png" height="96" />
 </td>
 <td style="text-align:left;color: black !important;">
-<b>Sabine Klein</b> (Coordination)<br>Forschungsbereich
-Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches
-Bergbau-Museum Bochum, Bochum, Germany <br> Institut für Archäologische
-Wissenschaften, Ruhr-Universität Bochum, Bochum, Germany <br> FIERCE,
-Frankfurt Isotope & Element Research Centre, Goethe Universität,
-Frankfurt am Main,
+<b>Sabine Klein</b><br>Forschungsbereich Archäometallurgie,
+Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum
+Bochum, Bochum, Germany <br> Institut für Archäologische Wissenschaften,
+Ruhr-Universität Bochum, Bochum, Germany <br> FIERCE, Frankfurt Isotope
+& Element Research Centre, Goethe Universität, Frankfurt am Main,
 Germany<br><a href="mailto:Sabine.Klein@bergbaumuseum.de?subject=GlobaLID" target="_blank"><svg viewbox="0 0 512 512" style="height:1em;position:relative;display:inline-block;top:.1em;" xmlns="http://www.w3.org/2000/svg">
 <path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"></path>
 </svg></a>
@@ -203,13 +202,29 @@ Germany<br><a href="mailto:Sabine.Klein@bergbaumuseum.de?subject=GlobaLID" targe
 <tbody>
 <tr>
 <td style="text-align:left;min-width: 110px; ">
+<img src="(../www/logo.svg)" height="96" />
+</td>
+<td style="text-align:left;color: black !important;">
+<b>Helge Wiethoff</b><br>Rechenzentrum, Technische Hochschule Georg
+Agricola, Bochum,
+Germany<br><a href="mailto:helge.wiethoff@thga.de?subject=GlobaLID" target="_blank"><svg viewbox="0 0 512 512" style="height:1em;position:relative;display:inline-block;top:.1em;" xmlns="http://www.w3.org/2000/svg">
+<path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"></path>
+</svg></a>
+</td>
+</tr>
+</tbody>
+</table>
+<br>
+<table>
+<tbody>
+<tr>
+<td style="text-align:left;min-width: 110px; ">
 <img src="../www/TRose.png" height="96" />
 </td>
 <td style="text-align:left;color: black !important;">
-<b>Thomas Rose</b> (Programming)<br>Goethe-Universität Frankfurt,
-Institut für Geowissenschaften, Frankfurt, Germany <br>
-Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für
-Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum,
+<b>Thomas Rose</b><br>Forschungsbereich Archäometallurgie,
+Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum
+Bochum, Bochum,
 Germany<br><a href="mailto:Thomas.Rose@bergbaumuseum.de?subject=GlobaLID" target="_blank"><svg viewbox="0 0 512 512" style="height:1em;position:relative;display:inline-block;top:.1em;" xmlns="http://www.w3.org/2000/svg">
 <path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"></path>
 </svg></a>
@@ -220,7 +235,7 @@ Germany<br><a href="mailto:Thomas.Rose@bergbaumuseum.de?subject=GlobaLID" target
 <g label="icon" id="layer6" groupmode="layer">
 <path id="path2" d="m 336.6206,194.53756 c -7.12991,-3.32734 -13.8671,-5.55949 -20.25334,-6.61343 -6.36534,-1.09517 -16.57451,-1.61223 -30.71059,-1.61223 h -36.70409 v 152.74712 h 37.63425 c 14.6735,0 26.08126,-1.01267 34.22385,-3.01709 8.14259,-2.00442 14.92159,-4.52592 20.35674,-7.62608 5.43519,-3.07925 10.416,-6.8615 14.94192,-11.38742 14.4876,-14.71475 21.74129,-33.27334 21.74129,-55.7176 0,-22.05151 -7.44016,-40.05177 -22.34085,-53.98159 -5.49732,-5.16674 -11.82143,-9.44459 -18.88918,-12.79281 z M 255.99999,8.0000031 C 119.02153,8.0000031 8.0000034,119.04185 8.0000034,255.99998 8.0000034,392.95812 119.02153,504 255.99999,504 392.97849,504 504,392.95812 504,255.99998 504,119.04185 392.97849,8.0000031 255.99999,8.0000031 Z M 173.66372,365.51268 H 144.27546 V 160.1481 h 29.38826 z M 158.94954,138.69619 c -11.13935,0 -20.21208,-9.01056 -20.21208,-20.21208 0,-11.11841 9.05183,-20.191181 20.21208,-20.191181 11.18058,0 20.23244,9.051831 20.23244,20.191181 -0.0219,11.22184 -9.05186,20.21208 -20.23244,20.21208 z m 241.3866,163.59715 c -5.29051,12.54475 -12.83407,23.58066 -22.65053,33.08742 -9.98203,9.83734 -21.59659,17.19443 -34.84378,22.19616 -7.74983,3.01709 -14.83852,5.06335 -21.30725,6.11726 -6.4891,1.01267 -18.82759,1.50883 -37.07593,1.50883 H 219.5033 V 160.1481 h 69.23318 c 27.96195,0 50.03378,4.1541 66.31951,12.54476 16.26485,8.36977 29.18144,20.72859 38.79164,36.97254 9.61013,16.26483 14.4254,34.01757 14.4254,53.19607 0.0227,13.76426 -2.66619,26.90802 -7.93576,39.43187 z" style="stroke-width:0.07717"></path>
 </g> </svg></a>
-<a href="https://bgu.academia.edu/ThomasRose" target="_blank"><svg viewbox="0 0 448 512" style="height:1em;position:relative;display:inline-block;top:.1em;" xmlns="http://www.w3.org/2000/svg">
+<a href="https://bergbaumuseum.academia.edu/ThomasRose" target="_blank"><svg viewbox="0 0 448 512" style="height:1em;position:relative;display:inline-block;top:.1em;" xmlns="http://www.w3.org/2000/svg">
 <g groupmode="layer" id="layer6" label="icon">
 <path id="path2" d="m 244.37672,427.34892 c 0,6.85088 -0.0434,13.70309 -0.0434,20.59736 60.02632,0.0888 120.05267,0 180.07713,0.0454 0,-6.85224 -0.0438,-13.70312 -0.0438,-20.55359 -12.06644,-2.43171 -26.96382,-5.83525 -31.60485,-18.96208 C 346.66088,293.77258 299.89339,179.2894 254.41048,64.36557 c -33.23972,-0.574514 -66.47946,-0.353915 -99.71919,-0.131943 6.18782,13.880334 11.36,28.199521 17.76975,41.991263 -38.94164,101.17732 -78.50253,202.17745 -118.020033,303.13465 -4.464358,12.8629 -19.095914,15.73716 -30.807997,18.16705 0,6.76369 -0.04346,13.57115 -0.04346,20.37823 38.278575,0.17726 76.55669,0.0438 114.83526,0.0884 -0.0434,-6.93902 -0.0434,-13.83511 -0.0867,-20.73078 -12.02307,-1.85545 -25.81435,-1.63484 -35.58287,-9.94522 -7.69069,-7.42534 -4.28717,-19.00735 -1.10559,-27.71497 7.64732,-19.75723 14.89733,-39.69289 23.25109,-59.1861 46.36839,0.26544 92.68975,-0.0435 139.05815,0.13195 6.36638,15.82391 12.73088,31.69164 19.0959,47.5608 4.24377,10.69508 8.08982,22.67478 4.64108,34.16673 -8.93007,14.81057 -28.28949,13.92695 -43.31878,15.07404 z M 138.73505,293.64014 c 17.76974,-47.20819 36.59849,-94.06111 54.01387,-141.40129 18.78674,47.16345 37.70409,94.28169 56.53422,141.40129 a 11615.148,11615.148 0 0 1 -110.54809,0 z" style="stroke-width:0.264583"></path>
 </g> </svg></a>
@@ -250,23 +265,44 @@ Germany<br><a href="mailto:Thomas.Rose@bergbaumuseum.de?subject=GlobaLID" target
 <tbody>
 <tr>
 <td style="text-align:left;min-width: 110px; ">
+<img src="(../www/logo.svg)" height="96" />
+</td>
+<td style="text-align:left;color: black !important;">
+<b>Tim Greifelt</b><br>Forschungsbereich Archäometallurgie,
+Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum
+Bochum, Bochum,
+Germany<br><a href="mailto:Tim.Greifelt@bergbaumuseum.de?subject=GlobaLID" target="_blank"><svg viewbox="0 0 512 512" style="height:1em;position:relative;display:inline-block;top:.1em;" xmlns="http://www.w3.org/2000/svg">
+<path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"></path>
+</svg></a>
+<a href="https://www.bergbaumuseum.de/museum/mitarbeitende/kontakt-detailseite/tim-greifelt" target="_blank"><svg viewbox="0 0 496 512" style="height:1em;position:relative;display:inline-block;top:.1em;" xmlns="http://www.w3.org/2000/svg">
+<path d="M336.5 160C322 70.7 287.8 8 248 8s-74 62.7-88.5 152h177zM152 256c0 22.2 1.2 43.5 3.3 64h185.3c2.1-20.5 3.3-41.8 3.3-64s-1.2-43.5-3.3-64H155.3c-2.1 20.5-3.3 41.8-3.3 64zm324.7-96c-28.6-67.9-86.5-120.4-158-141.6 24.4 33.8 41.2 84.7 50 141.6h108zM177.2 18.4C105.8 39.6 47.8 92.1 19.3 160h108c8.7-56.9 25.5-107.8 49.9-141.6zM487.4 192H372.7c2.1 21 3.3 42.5 3.3 64s-1.2 43-3.3 64h114.6c5.5-20.5 8.6-41.8 8.6-64s-3.1-43.5-8.5-64zM120 256c0-21.5 1.2-43 3.3-64H8.6C3.2 212.5 0 233.8 0 256s3.2 43.5 8.6 64h114.6c-2-21-3.2-42.5-3.2-64zm39.5 96c14.5 89.3 48.7 152 88.5 152s74-62.7 88.5-152h-177zm159.3 141.6c71.4-21.2 129.4-73.7 158-141.6h-108c-8.8 56.9-25.6 107.8-50 141.6zM19.3 352c28.6 67.9 86.5 120.4 158 141.6-24.4-33.8-41.2-84.7-50-141.6h-108z"></path>
+</svg></a>
+</td>
+</tr>
+</tbody>
+</table>
+<br>
+<table>
+<tbody>
+<tr>
+<td style="text-align:left;min-width: 110px; ">
 <img src="../www/KWestner.png" height="96" />
 </td>
 <td style="text-align:left;color: black !important;">
-<b>Katrin J. Westner</b> (Database)<br>Forschungsbereich
-Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches
-Bergbau-Museum Bochum, Bochum,
+<b>Katrin J. Westner</b><br>Forschungsbereich Archäometallurgie,
+Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum
+Bochum, Bochum,
 Germany<br><a href="mailto:katrin.westner@bergbaumuseum.de?subject=GlobaLID" target="_blank"><svg viewbox="0 0 512 512" style="height:1em;position:relative;display:inline-block;top:.1em;" xmlns="http://www.w3.org/2000/svg">
 <path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"></path>
 </svg></a>
-<a href="http://lgltpe.ens-lyon.fr/annuaire/westner-katrin" target="_blank"><svg viewbox="0 0 496 512" style="height:1em;position:relative;display:inline-block;top:.1em;" xmlns="http://www.w3.org/2000/svg">
+<a href="https://www.bergbaumuseum.de/museum/mitarbeitende/kontakt-detailseite/dr-katrin-julia-westner" target="_blank"><svg viewbox="0 0 496 512" style="height:1em;position:relative;display:inline-block;top:.1em;" xmlns="http://www.w3.org/2000/svg">
 <path d="M336.5 160C322 70.7 287.8 8 248 8s-74 62.7-88.5 152h177zM152 256c0 22.2 1.2 43.5 3.3 64h185.3c2.1-20.5 3.3-41.8 3.3-64s-1.2-43.5-3.3-64H155.3c-2.1 20.5-3.3 41.8-3.3 64zm324.7-96c-28.6-67.9-86.5-120.4-158-141.6 24.4 33.8 41.2 84.7 50 141.6h108zM177.2 18.4C105.8 39.6 47.8 92.1 19.3 160h108c8.7-56.9 25.5-107.8 49.9-141.6zM487.4 192H372.7c2.1 21 3.3 42.5 3.3 64s-1.2 43-3.3 64h114.6c5.5-20.5 8.6-41.8 8.6-64s-3.1-43.5-8.5-64zM120 256c0-21.5 1.2-43 3.3-64H8.6C3.2 212.5 0 233.8 0 256s3.2 43.5 8.6 64h114.6c-2-21-3.2-42.5-3.2-64zm39.5 96c14.5 89.3 48.7 152 88.5 152s74-62.7 88.5-152h-177zm159.3 141.6c71.4-21.2 129.4-73.7 158-141.6h-108c-8.8 56.9-25.6 107.8-50 141.6zM19.3 352c28.6 67.9 86.5 120.4 158 141.6-24.4-33.8-41.2-84.7-50-141.6h-108z"></path>
 </svg></a>
 <a href="https://orcid.org/0000-0001-5529-1165" target="_blank"><svg viewbox="0 0 512 512" style="height:1em;position:relative;display:inline-block;top:.1em;" xmlns="http://www.w3.org/2000/svg">
 <g label="icon" id="layer6" groupmode="layer">
 <path id="path2" d="m 336.6206,194.53756 c -7.12991,-3.32734 -13.8671,-5.55949 -20.25334,-6.61343 -6.36534,-1.09517 -16.57451,-1.61223 -30.71059,-1.61223 h -36.70409 v 152.74712 h 37.63425 c 14.6735,0 26.08126,-1.01267 34.22385,-3.01709 8.14259,-2.00442 14.92159,-4.52592 20.35674,-7.62608 5.43519,-3.07925 10.416,-6.8615 14.94192,-11.38742 14.4876,-14.71475 21.74129,-33.27334 21.74129,-55.7176 0,-22.05151 -7.44016,-40.05177 -22.34085,-53.98159 -5.49732,-5.16674 -11.82143,-9.44459 -18.88918,-12.79281 z M 255.99999,8.0000031 C 119.02153,8.0000031 8.0000034,119.04185 8.0000034,255.99998 8.0000034,392.95812 119.02153,504 255.99999,504 392.97849,504 504,392.95812 504,255.99998 504,119.04185 392.97849,8.0000031 255.99999,8.0000031 Z M 173.66372,365.51268 H 144.27546 V 160.1481 h 29.38826 z M 158.94954,138.69619 c -11.13935,0 -20.21208,-9.01056 -20.21208,-20.21208 0,-11.11841 9.05183,-20.191181 20.21208,-20.191181 11.18058,0 20.23244,9.051831 20.23244,20.191181 -0.0219,11.22184 -9.05186,20.21208 -20.23244,20.21208 z m 241.3866,163.59715 c -5.29051,12.54475 -12.83407,23.58066 -22.65053,33.08742 -9.98203,9.83734 -21.59659,17.19443 -34.84378,22.19616 -7.74983,3.01709 -14.83852,5.06335 -21.30725,6.11726 -6.4891,1.01267 -18.82759,1.50883 -37.07593,1.50883 H 219.5033 V 160.1481 h 69.23318 c 27.96195,0 50.03378,4.1541 66.31951,12.54476 16.26485,8.36977 29.18144,20.72859 38.79164,36.97254 9.61013,16.26483 14.4254,34.01757 14.4254,53.19607 0.0227,13.76426 -2.66619,26.90802 -7.93576,39.43187 z" style="stroke-width:0.07717"></path>
 </g> </svg></a>
-<a href="https://bibliotheque-diderot.academia.edu/KatrinWestner" target="_blank"><svg viewbox="0 0 448 512" style="height:1em;position:relative;display:inline-block;top:.1em;" xmlns="http://www.w3.org/2000/svg">
+<a href="https://bergbaumuseum.academia.edu/KatrinWestner" target="_blank"><svg viewbox="0 0 448 512" style="height:1em;position:relative;display:inline-block;top:.1em;" xmlns="http://www.w3.org/2000/svg">
 <g groupmode="layer" id="layer6" label="icon">
 <path id="path2" d="m 244.37672,427.34892 c 0,6.85088 -0.0434,13.70309 -0.0434,20.59736 60.02632,0.0888 120.05267,0 180.07713,0.0454 0,-6.85224 -0.0438,-13.70312 -0.0438,-20.55359 -12.06644,-2.43171 -26.96382,-5.83525 -31.60485,-18.96208 C 346.66088,293.77258 299.89339,179.2894 254.41048,64.36557 c -33.23972,-0.574514 -66.47946,-0.353915 -99.71919,-0.131943 6.18782,13.880334 11.36,28.199521 17.76975,41.991263 -38.94164,101.17732 -78.50253,202.17745 -118.020033,303.13465 -4.464358,12.8629 -19.095914,15.73716 -30.807997,18.16705 0,6.76369 -0.04346,13.57115 -0.04346,20.37823 38.278575,0.17726 76.55669,0.0438 114.83526,0.0884 -0.0434,-6.93902 -0.0434,-13.83511 -0.0867,-20.73078 -12.02307,-1.85545 -25.81435,-1.63484 -35.58287,-9.94522 -7.69069,-7.42534 -4.28717,-19.00735 -1.10559,-27.71497 7.64732,-19.75723 14.89733,-39.69289 23.25109,-59.1861 46.36839,0.26544 92.68975,-0.0435 139.05815,0.13195 6.36638,15.82391 12.73088,31.69164 19.0959,47.5608 4.24377,10.69508 8.08982,22.67478 4.64108,34.16673 -8.93007,14.81057 -28.28949,13.92695 -43.31878,15.07404 z M 138.73505,293.64014 c 17.76974,-47.20819 36.59849,-94.06111 54.01387,-141.40129 18.78674,47.16345 37.70409,94.28169 56.53422,141.40129 a 11615.148,11615.148 0 0 1 -110.54809,0 z" style="stroke-width:0.264583"></path>
 </g> </svg></a>
@@ -286,7 +322,7 @@ Germany<br><a href="mailto:katrin.westner@bergbaumuseum.de?subject=GlobaLID" tar
 <img src="../www/Y-KHsu.png" height="96" />
 </td>
 <td style="text-align:left;color: black !important;">
-<b>Yiu-Kang Hsu</b> (Metadata)<br>Forschungsbereich Archäometallurgie,
+<b>Yiu-Kang Hsu</b><br>Forschungsbereich Archäometallurgie,
 Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum
 Bochum, Bochum,
 Germany<br><a href="mailto:Yiu-Kang.Hsu@bergbaumuseum.de?subject=GlobaLID" target="_blank"><svg viewbox="0 0 512 512" style="height:1em;position:relative;display:inline-block;top:.1em;" xmlns="http://www.w3.org/2000/svg">
@@ -299,6 +335,27 @@ Germany<br><a href="mailto:Yiu-Kang.Hsu@bergbaumuseum.de?subject=GlobaLID" targe
 <g label="icon" id="layer6" groupmode="layer">
 <path id="path2" d="m 336.6206,194.53756 c -7.12991,-3.32734 -13.8671,-5.55949 -20.25334,-6.61343 -6.36534,-1.09517 -16.57451,-1.61223 -30.71059,-1.61223 h -36.70409 v 152.74712 h 37.63425 c 14.6735,0 26.08126,-1.01267 34.22385,-3.01709 8.14259,-2.00442 14.92159,-4.52592 20.35674,-7.62608 5.43519,-3.07925 10.416,-6.8615 14.94192,-11.38742 14.4876,-14.71475 21.74129,-33.27334 21.74129,-55.7176 0,-22.05151 -7.44016,-40.05177 -22.34085,-53.98159 -5.49732,-5.16674 -11.82143,-9.44459 -18.88918,-12.79281 z M 255.99999,8.0000031 C 119.02153,8.0000031 8.0000034,119.04185 8.0000034,255.99998 8.0000034,392.95812 119.02153,504 255.99999,504 392.97849,504 504,392.95812 504,255.99998 504,119.04185 392.97849,8.0000031 255.99999,8.0000031 Z M 173.66372,365.51268 H 144.27546 V 160.1481 h 29.38826 z M 158.94954,138.69619 c -11.13935,0 -20.21208,-9.01056 -20.21208,-20.21208 0,-11.11841 9.05183,-20.191181 20.21208,-20.191181 11.18058,0 20.23244,9.051831 20.23244,20.191181 -0.0219,11.22184 -9.05186,20.21208 -20.23244,20.21208 z m 241.3866,163.59715 c -5.29051,12.54475 -12.83407,23.58066 -22.65053,33.08742 -9.98203,9.83734 -21.59659,17.19443 -34.84378,22.19616 -7.74983,3.01709 -14.83852,5.06335 -21.30725,6.11726 -6.4891,1.01267 -18.82759,1.50883 -37.07593,1.50883 H 219.5033 V 160.1481 h 69.23318 c 27.96195,0 50.03378,4.1541 66.31951,12.54476 16.26485,8.36977 29.18144,20.72859 38.79164,36.97254 9.61013,16.26483 14.4254,34.01757 14.4254,53.19607 0.0227,13.76426 -2.66619,26.90802 -7.93576,39.43187 z" style="stroke-width:0.07717"></path>
 </g> </svg></a>
+</td>
+</tr>
+</tbody>
+</table>
+<br>
+<table>
+<tbody>
+<tr>
+<td style="text-align:left;min-width: 110px; ">
+<img src="(../www/logo.svg)" height="96" />
+</td>
+<td style="text-align:left;color: black !important;">
+<b>Annette Hornschuch</b><br>Forschungsbereich Montanarchäologie,
+Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum
+Bochum, Bochum,
+Germany<br><a href="mailto:Annette.Hornschuch@bergbaumuseum.de?subject=GlobaLID" target="_blank"><svg viewbox="0 0 512 512" style="height:1em;position:relative;display:inline-block;top:.1em;" xmlns="http://www.w3.org/2000/svg">
+<path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"></path>
+</svg></a>
+<a href="https://www.bergbaumuseum.de/museum/mitarbeitende/kontakt-detailseite/annette-hornschuch" target="_blank"><svg viewbox="0 0 496 512" style="height:1em;position:relative;display:inline-block;top:.1em;" xmlns="http://www.w3.org/2000/svg">
+<path d="M336.5 160C322 70.7 287.8 8 248 8s-74 62.7-88.5 152h177zM152 256c0 22.2 1.2 43.5 3.3 64h185.3c2.1-20.5 3.3-41.8 3.3-64s-1.2-43.5-3.3-64H155.3c-2.1 20.5-3.3 41.8-3.3 64zm324.7-96c-28.6-67.9-86.5-120.4-158-141.6 24.4 33.8 41.2 84.7 50 141.6h108zM177.2 18.4C105.8 39.6 47.8 92.1 19.3 160h108c8.7-56.9 25.5-107.8 49.9-141.6zM487.4 192H372.7c2.1 21 3.3 42.5 3.3 64s-1.2 43-3.3 64h114.6c5.5-20.5 8.6-41.8 8.6-64s-3.1-43.5-8.5-64zM120 256c0-21.5 1.2-43 3.3-64H8.6C3.2 212.5 0 233.8 0 256s3.2 43.5 8.6 64h114.6c-2-21-3.2-42.5-3.2-64zm39.5 96c14.5 89.3 48.7 152 88.5 152s74-62.7 88.5-152h-177zm159.3 141.6c71.4-21.2 129.4-73.7 158-141.6h-108c-8.8 56.9-25.6 107.8-50 141.6zM19.3 352c28.6 67.9 86.5 120.4 158 141.6-24.4-33.8-41.2-84.7-50-141.6h-108z"></path>
+</svg></a>
 </td>
 </tr>
 </tbody>
@@ -478,37 +535,6 @@ USA<br><a href="mailto:jasvxq@missouri.edu?subject=GlobaLID" target="_blank"><sv
 
 <br>
 
-### Contributors (Programming)
-
-<table>
-<tbody>
-<tr>
-<td style="text-align:left;min-width: 110px; ">
-<img src="../www/DFinn.png" height="96" />
-</td>
-<td style="text-align:left;color: black !important;">
-<b>Danny M. Finn</b><br>The Hebrew University of Jerusalem,
-Israel<br><a href="mailto:Danny.m.finn@gmail.com?subject=GlobaLID" target="_blank"><svg viewbox="0 0 512 512" style="height:1em;position:relative;display:inline-block;top:.1em;" xmlns="http://www.w3.org/2000/svg">
-<path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"></path>
-</svg></a>
-<a href="https://orcid.org/0009-0000-0953-0006" target="_blank"><svg viewbox="0 0 512 512" style="height:1em;position:relative;display:inline-block;top:.1em;" xmlns="http://www.w3.org/2000/svg">
-<g label="icon" id="layer6" groupmode="layer">
-<path id="path2" d="m 336.6206,194.53756 c -7.12991,-3.32734 -13.8671,-5.55949 -20.25334,-6.61343 -6.36534,-1.09517 -16.57451,-1.61223 -30.71059,-1.61223 h -36.70409 v 152.74712 h 37.63425 c 14.6735,0 26.08126,-1.01267 34.22385,-3.01709 8.14259,-2.00442 14.92159,-4.52592 20.35674,-7.62608 5.43519,-3.07925 10.416,-6.8615 14.94192,-11.38742 14.4876,-14.71475 21.74129,-33.27334 21.74129,-55.7176 0,-22.05151 -7.44016,-40.05177 -22.34085,-53.98159 -5.49732,-5.16674 -11.82143,-9.44459 -18.88918,-12.79281 z M 255.99999,8.0000031 C 119.02153,8.0000031 8.0000034,119.04185 8.0000034,255.99998 8.0000034,392.95812 119.02153,504 255.99999,504 392.97849,504 504,392.95812 504,255.99998 504,119.04185 392.97849,8.0000031 255.99999,8.0000031 Z M 173.66372,365.51268 H 144.27546 V 160.1481 h 29.38826 z M 158.94954,138.69619 c -11.13935,0 -20.21208,-9.01056 -20.21208,-20.21208 0,-11.11841 9.05183,-20.191181 20.21208,-20.191181 11.18058,0 20.23244,9.051831 20.23244,20.191181 -0.0219,11.22184 -9.05186,20.21208 -20.23244,20.21208 z m 241.3866,163.59715 c -5.29051,12.54475 -12.83407,23.58066 -22.65053,33.08742 -9.98203,9.83734 -21.59659,17.19443 -34.84378,22.19616 -7.74983,3.01709 -14.83852,5.06335 -21.30725,6.11726 -6.4891,1.01267 -18.82759,1.50883 -37.07593,1.50883 H 219.5033 V 160.1481 h 69.23318 c 27.96195,0 50.03378,4.1541 66.31951,12.54476 16.26485,8.36977 29.18144,20.72859 38.79164,36.97254 9.61013,16.26483 14.4254,34.01757 14.4254,53.19607 0.0227,13.76426 -2.66619,26.90802 -7.93576,39.43187 z" style="stroke-width:0.07717"></path>
-</g> </svg></a>
-<a href="https://independent.academia.edu/DanielFinn16" target="_blank"><svg viewbox="0 0 448 512" style="height:1em;position:relative;display:inline-block;top:.1em;" xmlns="http://www.w3.org/2000/svg">
-<g groupmode="layer" id="layer6" label="icon">
-<path id="path2" d="m 244.37672,427.34892 c 0,6.85088 -0.0434,13.70309 -0.0434,20.59736 60.02632,0.0888 120.05267,0 180.07713,0.0454 0,-6.85224 -0.0438,-13.70312 -0.0438,-20.55359 -12.06644,-2.43171 -26.96382,-5.83525 -31.60485,-18.96208 C 346.66088,293.77258 299.89339,179.2894 254.41048,64.36557 c -33.23972,-0.574514 -66.47946,-0.353915 -99.71919,-0.131943 6.18782,13.880334 11.36,28.199521 17.76975,41.991263 -38.94164,101.17732 -78.50253,202.17745 -118.020033,303.13465 -4.464358,12.8629 -19.095914,15.73716 -30.807997,18.16705 0,6.76369 -0.04346,13.57115 -0.04346,20.37823 38.278575,0.17726 76.55669,0.0438 114.83526,0.0884 -0.0434,-6.93902 -0.0434,-13.83511 -0.0867,-20.73078 -12.02307,-1.85545 -25.81435,-1.63484 -35.58287,-9.94522 -7.69069,-7.42534 -4.28717,-19.00735 -1.10559,-27.71497 7.64732,-19.75723 14.89733,-39.69289 23.25109,-59.1861 46.36839,0.26544 92.68975,-0.0435 139.05815,0.13195 6.36638,15.82391 12.73088,31.69164 19.0959,47.5608 4.24377,10.69508 8.08982,22.67478 4.64108,34.16673 -8.93007,14.81057 -28.28949,13.92695 -43.31878,15.07404 z M 138.73505,293.64014 c 17.76974,-47.20819 36.59849,-94.06111 54.01387,-141.40129 18.78674,47.16345 37.70409,94.28169 56.53422,141.40129 a 11615.148,11615.148 0 0 1 -110.54809,0 z" style="stroke-width:0.264583"></path>
-</g> </svg></a>
-<a href="https://www.linkedin.com/in/daniel-m-finn/" target="_blank"><svg viewbox="0 0 448 512" style="height:1em;position:relative;display:inline-block;top:.1em;" xmlns="http://www.w3.org/2000/svg">
-<path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"></path>
-</svg></a>
-</td>
-</tr>
-</tbody>
-</table>
-
-<br>
-
 ### Contributors (Data)
 
 <table>
@@ -575,6 +601,41 @@ auspices of DeutscheMontanTechnologie e.V. (DMT) in 1990.
 </table>
 
 <br>
+
+## Funding
+
+<table>
+<tbody>
+<tr>
+<td style="text-align:left;min-width: 110px; ">
+<a href="https://www.dfg.de/en" target="_blank"><img alt="DFG Logo" src="/dfg_logo.gif" width="96"></a>
+</td>
+<td style="text-align:left;color: black !important;">
+<b><a href="https://www.dfg.de/en" target="_blank">Deutsche
+Forschungsgemeinschaft</a></b><br>This work has received funding from
+the German Research Foundation (DFG) through the grants KL 1259/17-1 and
+WI 5923/2-1 (project number: 524790825).
+</td>
+</tr>
+</tbody>
+</table>
+
+<br>
+
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td>
+<img src="/dfg_logo.gif">
+</td>
+<td halign="left">
+This work has received funding from the German Research Foundation (DFG)
+through the grants KL 1259/17-1 and WI 5923/2-1 (project number:
+524790825).
+</td>
+</tr>
+</tbody>
+</table>
 
 ## Acknowledgements
 

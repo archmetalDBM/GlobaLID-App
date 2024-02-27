@@ -149,7 +149,7 @@ You want to contribute to GlobaLID? Please get in touch with us, we are looking 
 
 data.frame(
   Portrait = paste0('![](../www/SKlein.png){height=96px}'), 
-  Text = paste("<b>Sabine Klein</b> (Coordination)", 
+  Text = paste("<b>Sabine Klein</b>", 
                "Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany <br> Institut für Archäologische Wissenschaften, Ruhr-Universität Bochum, Bochum, Germany <br> FIERCE, Frankfurt Isotope & Element Research Centre, Goethe Universität, Frankfurt am Main, Germany", 
                paste(
                  add_Link("mailto:Sabine.Klein@bergbaumuseum.de?subject=GlobaLID", "envelope", "fa"),
@@ -165,14 +165,28 @@ kable(escape = FALSE, col.names = NULL) %>%
 cat("<br>")
 
 data.frame(
+  Portrait = paste0('![]((../www/logo.svg)){height=96px}'), 
+  Text = paste("<b>Helge Wiethoff</b>", 
+               "Rechenzentrum, Technische Hochschule Georg Agricola, Bochum, Germany", 
+               paste(
+                 add_Link("mailto:helge.wiethoff@thga.de?subject=GlobaLID", "envelope", "fa"),
+                 sep = " "), 
+               sep = "<br>")
+) %>%
+kable(escape = FALSE, col.names = NULL) %>% 
+  column_spec(1, width_min = "110px") %>%
+  column_spec(2, color = "black")
+cat("<br>")
+
+data.frame(
   Portrait = paste0('![](../www/TRose.png){height=96px}'), 
-  Text = paste("<b>Thomas Rose</b> (Programming)", 
-               "Goethe-Universität Frankfurt, Institut für Geowissenschaften, Frankfurt, Germany <br> Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany", 
+  Text = paste("<b>Thomas Rose</b>", 
+               "Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany", 
                paste(
                  add_Link("mailto:Thomas.Rose@bergbaumuseum.de?subject=GlobaLID", "envelope", "fa"),
                  add_Link("https://copper-smelting.com/", "globe", "fa"), 
                  add_Link("https://orcid.org/0000-0002-8186-3566", "orcid", "ai"),
-                 add_Link("https://bgu.academia.edu/ThomasRose", "academia", "ai"),
+                 add_Link("https://bergbaumuseum.academia.edu/ThomasRose", "academia", "ai"),
                  add_Link("https://www.researchgate.net/profile/Thomas-Rose-2", "researchgate", "ai"),
                  add_Link("https://www.linkedin.com/in/thomas-rose-4200ba175", "linkedin", "fa"),
                  add_Link("https://github.com/archaeothommy/", "github", "fa"),
@@ -187,14 +201,29 @@ kable(escape = FALSE, col.names = NULL) %>%
 cat("<br>")
 
 data.frame(
+  Portrait = paste0('![]((../www/logo.svg)){height=96px}'), 
+  Text = paste("<b>Tim Greifelt</b>", 
+               "Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany", 
+               paste(
+                 add_Link("mailto:Tim.Greifelt@bergbaumuseum.de?subject=GlobaLID", "envelope", "fa"),
+                 add_Link("https://www.bergbaumuseum.de/museum/mitarbeitende/kontakt-detailseite/tim-greifelt", "globe", "fa"), 
+                 sep = " "), 
+               sep = "<br>")
+) %>%
+kable(escape = FALSE, col.names = NULL) %>% 
+  column_spec(1, width_min = "110px") %>%
+  column_spec(2, color = "black")
+cat("<br>")
+
+data.frame(
   Portrait = paste0('![](../www/KWestner.png){height=96px}'), 
-  Text = paste("<b>Katrin J. Westner</b> (Database)", 
+  Text = paste("<b>Katrin J. Westner</b>", 
                "Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany", 
                paste(
                  add_Link("mailto:katrin.westner@bergbaumuseum.de?subject=GlobaLID", "envelope", "fa"),
-                 add_Link("http://lgltpe.ens-lyon.fr/annuaire/westner-katrin", "globe", "fa"),
+                 add_Link("https://www.bergbaumuseum.de/museum/mitarbeitende/kontakt-detailseite/dr-katrin-julia-westner", "globe", "fa"),
                  add_Link("https://orcid.org/0000-0001-5529-1165", "orcid", "ai"),
-                 add_Link("https://bibliotheque-diderot.academia.edu/KatrinWestner", "academia", "ai"),
+                 add_Link("https://bergbaumuseum.academia.edu/KatrinWestner", "academia", "ai"),
                  add_Link("https://www.researchgate.net/profile/Katrin-Westner", "researchgate", "ai"),
                  sep = " "), 
                sep = "<br>")
@@ -206,12 +235,27 @@ cat("<br>")
 
 data.frame(
   Portrait = paste0('![](../www/Y-KHsu.png){height=96px}'), 
-  Text = paste("<b>Yiu-Kang Hsu</b> (Metadata)", 
+  Text = paste("<b>Yiu-Kang Hsu</b>", 
                "Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany", 
                paste(
                  add_Link("mailto:Yiu-Kang.Hsu@bergbaumuseum.de?subject=GlobaLID", "envelope", "fa"),
                  add_Link("https://www.bergbaumuseum.de/en/museum/mitarbeitende/kontakt-detailseite/yiu-kang-hsu", "globe", "fa"), 
                  add_Link("https://orcid.org/0000-0002-2439-4863", "orcid", "ai"),
+                 sep = " "), 
+               sep = "<br>")
+) %>%
+kable(escape = FALSE, col.names = NULL) %>% 
+  column_spec(1, width_min = "110px") %>%
+  column_spec(2, color = "black")
+cat("<br>")
+
+data.frame(
+  Portrait = paste0('![]((../www/logo.svg)){height=96px}'), 
+  Text = paste("<b>Annette Hornschuch</b>", 
+               "Forschungsbereich Montanarchäologie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany", 
+               paste(
+                 add_Link("mailto:Annette.Hornschuch@bergbaumuseum.de?subject=GlobaLID", "envelope", "fa"),
+                 add_Link("https://www.bergbaumuseum.de/museum/mitarbeitende/kontakt-detailseite/annette-hornschuch", "globe", "fa"), 
                  sep = " "), 
                sep = "<br>")
 ) %>%
@@ -330,30 +374,6 @@ cat("<br>")
 
 ```
 
-
-### Contributors (Programming)
-
-```{r echo=FALSE, results='asis'}
-
-data.frame(
-  Portrait = paste0('![](../www/DFinn.png){height=96px}'), 
-  Text = paste("<b>Danny M. Finn</b>", 
-               "The Hebrew University of Jerusalem, Israel", 
-               paste(
-                 add_Link("mailto:Danny.m.finn@gmail.com?subject=GlobaLID", "envelope", "fa"),
-                 add_Link("https://orcid.org/0009-0000-0953-0006", "orcid", "ai"),
-                 add_Link("https://independent.academia.edu/DanielFinn16", "academia", "ai"),
-                 add_Link("https://www.linkedin.com/in/daniel-m-finn/", "linkedin", "fa"),
-                 sep = " "),
-               sep = "<br>")
-) %>%
-kable(escape = FALSE, col.names = NULL) %>% 
-  column_spec(1, width_min = "110px") %>%
-  column_spec(2, color = "black")
-cat("<br>")
-
-```
-
 ### Contributors (Data)
 
 ```{r echo=FALSE, results='asis'}
@@ -401,6 +421,32 @@ kable(escape = FALSE, col.names = NULL) %>%
 cat("<br>")
 ```
 
+## Funding
+```{r echo=FALSE, results='asis'}
+
+data.frame(
+  Logo = paste0('<a href="https://www.dfg.de/en" target="_blank"><img alt="DFG Logo" src="/dfg_logo.gif"
+         width="96"></a>'), 
+  Text = paste('<b><a href="https://www.dfg.de/en" target="_blank">Deutsche Forschungsgemeinschaft</a></b>', 
+               "This work has received funding from the German Research Foundation (DFG) through the grants KL 1259/17-1 and WI 5923/2-1 (project number: 524790825).", 
+               sep = "<br>")
+) %>%
+kable(escape = FALSE, col.names = NULL) %>% 
+  column_spec(1, width_min = "110px") %>%
+  column_spec(2, color = "black")
+cat("<br>")
+
+```
+
+
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+      <tbody>
+        <tr>
+          <td><img src="/dfg_logo.gif"></td>
+          <td halign="left">This work has received funding from the German Research Foundation (DFG) through the grants KL 1259/17-1 and WI 5923/2-1 (project number: 524790825).</td>
+        </tr>
+      </tbody>
+    </table>
 
 ## Acknowledgements
 

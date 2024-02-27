@@ -153,7 +153,7 @@ Interested? Write us!
 <tbody>
 <tr>
 <td>
-<img src="man/dfg_logo.gif">
+<img src="www/dfg_logo.gif">
 </td>
 <td halign="left">
 This work has received funding from the German Research Foundation (DFG)
