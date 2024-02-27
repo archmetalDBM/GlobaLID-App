@@ -607,8 +607,8 @@ auspices of DeutscheMontanTechnologie e.V. (DMT) in 1990.
 <table>
 <tbody>
 <tr>
-<td style="text-align:left;min-width: 110px; ">
-<a href="https://www.dfg.de/en" target="_blank"><img alt="DFG Logo" src="/dfg_logo.gif" width="96"></a>
+<td style="text-align:left;min-width: 170px; ">
+<a href="https://www.dfg.de/en" target="_blank"><img alt="DFG Logo" src="/dfg_logo.gif" width="150"></a>
 </td>
 <td style="text-align:left;color: black !important;">
 <b><a href="https://www.dfg.de/en" target="_blank">Deutsche
