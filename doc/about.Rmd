@@ -170,6 +170,7 @@ data.frame(
                "Rechenzentrum, Technische Hochschule Georg Agricola, Bochum, Germany", 
                paste(
                  add_Link("mailto:helge.wiethoff@thga.de?subject=GlobaLID", "envelope", "fa"),
+                 add_Link("https://github.com/derhelge/", "github", "fa"),
                  sep = " "), 
                sep = "<br>")
 ) %>%
