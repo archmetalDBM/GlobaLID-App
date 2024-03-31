@@ -408,6 +408,18 @@
     Sauerland, Germany, Mineralium Deposita, 18, 235–43.
     DOI:<a href="https://doi.org/10.1007/BF00206211" target="_blank">10.1007/BF00206211</a>
 
+-   Leveque, J., and Haack, U., 1993, Pb isotopes of hydrothermal ores
+    in the Harz, In Formation of hydrothermal vein deposits: A case
+    study of the Pb-Zn, barite and flourite deposits of the Harz
+    Mountains (eds. P. Möller, and V. Lüders), 197–210, Monograph Series
+    on Mineral Deposits 30, Gebrüder Borntraeger, Stuttgart.
+
+-   Lippolt, H. J., Schorn, U., and Pidgeon, R. T., 1983, Genetic
+    implications of new lead isotope measurements on Schwarzwald vein
+    and Upper Triassic sediment galenas, Geologische Rundschau, 72(1),
+    77–104.
+    DOI:<a href="https://doi.org/10.1007/BF01765901" target="_blank">10.1007/BF01765901</a>
+
 -   Ludwig, K. R., Vollmer, R., Turi, B., Simmons, K. R., and Perna, G.,
     1989, Isotopic constraints on the genesis of base-metal ores in
     southern and central Sardinia, European Journal of Mineralogy, 1,
@@ -573,6 +585,12 @@
     Economic Geology, 71(1), 44–57.
     DOI:<a href="https://doi.org/10.2113/gsecongeo.71.1.44" target="_blank">10.2113/gsecongeo.71.1.44</a>
 
+-   Schneider, J., 1998, Die Herkunft des Siegerländer Münzsilbers, In
+    Der Altenberg. Bergwerk und Siedlung aus dem 13. Jahrhundert im
+    Siegerland (eds. C. Dahm, U. Lobbedey, and G. Weisgerber), Vol. 2:
+    Die Funde, 2 vols., 202–21, Denkmalpflege und Forschung in Westfalen
+    34, Habelt, Bonn.
+
 -   Schneider, J., Melcher, F., and Brauns, M., 2007, Concordant ages
     for the giant Kipushi base metal deposit (DR Congo) from direct
     Rb–Sr and Re–Os dating of sulfides, Mineralium Deposita, 42(7),
@@ -687,6 +705,16 @@
     665–84.
     DOI:<a href="https://doi.org/10.1007/s00126-020-00989-3" target="_blank">10.1007/s00126-020-00989-3</a>
 
+-   Tosdal, R. M., and Munizaga, F., 2003, Lead sources in Mesozoic and
+    Cenozoic Andean ore deposits, north-central Chile (30–34°S),
+    Mineralium Deposita, 38(2), 234–50.
+    DOI:<a href="https://doi.org/10.1007/s00126-002-0307-2" target="_blank">10.1007/s00126-002-0307-2</a>
+
+-   Townley, B. K., and Godwin, C. I., 2001, Isotope characterization of
+    lead in galena from ore deposits of the Aysén Region, southern
+    Chile, Mineralium Deposita, 36(1), 45–57.
+    DOI:<a href="https://doi.org/10.1007/s001260050285" target="_blank">10.1007/s001260050285</a>
+
 -   Triantafyllidis, S., Tombros, S. F., Zhai, D., and Kokkalas, S.,
     2021, The upper Cretaceous Ermioni VMS deposit, Argolis Peninsula,
     Peloponnese, Greece: Type, genesis, and geotectonic setting, Ore
@@ -753,6 +781,13 @@
     base-metal mineralisation at Kipushi (Southeastern Zaïre), Journal
     of African Earth Sciences, 18(1), 73–82.
     DOI:<a href="https://doi.org/10.1016/0899-5362(94)90055-8" target="_blank">10.1016/0899-5362(94)90055-8</a>
+
+-   Wedepohl, K. H., Delevaux, M. H., and Doe, B. R., 1978, The
+    potential source of lead in the Permian Kupferschiefer bed of Europe
+    and some selected Paleozoic mineral deposits in the Federal Republic
+    of Germany, Contributions to Mineralogy and Petrology, 65(3),
+    273–81.
+    DOI:<a href="https://doi.org/10.1007/BF00375513" target="_blank">10.1007/BF00375513</a>
 
 -   Westner, K. J., 2017, Roman mining and metal production near the
     antique city of ULPIANA (Kosovo), PhD thesis, Johann Wolfgang
