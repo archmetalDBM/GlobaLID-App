@@ -1,5 +1,13 @@
 ## News
 
+2024-03-31 – Additional data from Chile (contributor: M. F. Becerra) and
+Germany (contributors: S. Fischer-Lechner, T. Rose). The database now
+includes 4563 entries.
+
+2024-01-03 – The database version 1.1. is now published at GFZ Data
+Services, archiving its current state:
+<https://doi.org/10.5880/fidgeo.2023.043>
+
 2023-11-19 – Additional data from Argentina (contributor: M. F.
 Becerra). The database now includes 4147 entries.
 

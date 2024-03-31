@@ -208,6 +208,7 @@ data.frame(
                paste(
                  add_Link("mailto:Tim.Greifelt@bergbaumuseum.de?subject=GlobaLID", "envelope", "fa"),
                  add_Link("https://www.bergbaumuseum.de/museum/mitarbeitende/kontakt-detailseite/tim-greifelt", "globe", "fa"), 
+                 add_Link("https://orcid.org/0009-0007-9701-8547", "orcid", "ai"),
                  sep = " "), 
                sep = "<br>")
 ) %>%
