@@ -2,7 +2,7 @@
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 <!-- badges: start -->
 
-[![Release](https://img.shields.io/github/v/release/archmetalDBM/GlobaLID-database.svg)](https://github.com/archmetalDBM/GlobaLID-App)
+[![Release](https://img.shields.io/github/v/release/archmetalDBM/GlobaLID-app.svg)](https://github.com/archmetalDBM/GlobaLID-App)
 [![License: GPL
 v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 <!-- badges: end -->
@@ -33,7 +33,7 @@ locations: <img src="man/figures/README-map-1.png" width="100%" />
 If you use the GlobaLID app, please cite it as:
 
 - GlobaLID Core Team. (2021). GlobaLID web application V. 1.0, database
-  status: 2023-11-19. <https://globalid.dmt-lb.de/>
+  status: 2024-03-31. <https://globalid.dmt-lb.de/>
 - Klein, S., Rose, T., Westner, K. J., & Hsu, Y.-K. (2022). From OXALID
   to GlobaLID: Introducing a modern and FAIR lead isotope database with
   an interactive application. Archaeometry 64(4), 935–950.
@@ -44,7 +44,7 @@ If you use the GlobaLID app, please cite it as:
     @misc{GlobaLIDCoreTeam.2022,
      author = {{GlobaLID Core Team}},
      year = {2022},
-     title = {{GlobaLID web application V. 1.0, database status: 2023-11-19}},
+     title = {{GlobaLID web application V. 1.0, database status: 2024-03-31}},
      url = {https://globalid.dmt-lb.de/}
     }
 
@@ -88,6 +88,7 @@ Interested? Write us!
   Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)
 - [Tim
   Greifelt](https://www.bergbaumuseum.de/museum/mitarbeitende/kontakt-detailseite/tim-greifelt)
+  [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0007-9701-8547)
   (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für
   Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)
 - [Katrin J.
