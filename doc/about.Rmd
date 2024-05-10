@@ -159,7 +159,7 @@ data.frame(
                  sep = " "),
                sep = "<br>")
 ) %>%
-kable(escape = FALSE, col.names = NULL) %>% 
+kable(escape = FALSE, col.names = NULL, format = "html") %>% 
   column_spec(1, width_min = "110px") %>%
   column_spec(2, color = "black")
 cat("<br>")
@@ -174,7 +174,7 @@ data.frame(
                  sep = " "), 
                sep = "<br>")
 ) %>%
-kable(escape = FALSE, col.names = NULL) %>% 
+kable(escape = FALSE, col.names = NULL, format = "html") %>% 
   column_spec(1, width_min = "110px") %>%
   column_spec(2, color = "black")
 cat("<br>")
@@ -196,13 +196,13 @@ data.frame(
                  sep = " "), 
                sep = "<br>")
 ) %>%
-kable(escape = FALSE, col.names = NULL) %>% 
+kable(escape = FALSE, col.names = NULL, format = "html") %>% 
   column_spec(1, width_min = "110px") %>%
   column_spec(2, color = "black")
 cat("<br>")
 
 data.frame(
-  Portrait = paste0('![](../www/logo.svg){height=96px}'), 
+  Portrait = paste0('![](../www/TGreifelt.png){height=96px}'), 
   Text = paste("<b>Tim Greifelt</b>", 
                "Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany", 
                paste(
@@ -212,7 +212,7 @@ data.frame(
                  sep = " "), 
                sep = "<br>")
 ) %>%
-kable(escape = FALSE, col.names = NULL) %>% 
+kable(escape = FALSE, col.names = NULL, format = "html") %>% 
   column_spec(1, width_min = "110px") %>%
   column_spec(2, color = "black")
 cat("<br>")
@@ -230,7 +230,7 @@ data.frame(
                  sep = " "), 
                sep = "<br>")
 ) %>% 
-  kable(escape = FALSE, col.names = NULL) %>% 
+  kable(escape = FALSE, col.names = NULL, format = "html") %>% 
   column_spec(1, width_min = "110px") %>%
   column_spec(2, color = "black")
 cat("<br>")
@@ -246,7 +246,7 @@ data.frame(
                  sep = " "), 
                sep = "<br>")
 ) %>%
-kable(escape = FALSE, col.names = NULL) %>% 
+kable(escape = FALSE, col.names = NULL, format = "html") %>% 
   column_spec(1, width_min = "110px") %>%
   column_spec(2, color = "black")
 cat("<br>")
@@ -261,7 +261,7 @@ data.frame(
                  sep = " "), 
                sep = "<br>")
 ) %>%
-kable(escape = FALSE, col.names = NULL) %>% 
+kable(escape = FALSE, col.names = NULL, format = "html") %>% 
   column_spec(1, width_min = "110px") %>%
   column_spec(2, color = "black")
 cat("<br>")
@@ -283,23 +283,43 @@ data.frame(
                  sep = " "), 
                sep = "<br>")
 ) %>% 
-  kable(escape = FALSE, col.names = NULL) %>% 
+  kable(escape = FALSE, col.names = NULL, format = "html") %>% 
   column_spec(1, width_min = "110px") %>%
   column_spec(2, color = "black")
 cat("<br>")
 
 data.frame(
-  Portrait = paste0('![](../www/logo.svg){height=96px}'), 
-  Text = paste("<b>David Killick</b> (Africa, North America)", 
-               "School of Anthropology, University of Arizona, Tucson, AZ, USA", 
+  Portrait = paste0('![](../www/TFenn.png){height=96px}'), 
+  Text = paste("<b>Thomas R. Fenn</b> (South Asia, North Africa)", 
+               "Department of Anthropology, University of Oklahoma, Norman, OK, USA", 
                paste(
-                 add_Link("mailto:killick@arizona.edu?subject=GlobaLID", "envelope", "fa"),
-                 add_Link("https://anthropology.arizona.edu/people/dave-killick", "globe", "fa"),
-                 add_Link("https://orcid.org/0000-0002-8964-750X", "orcid", "ai"),
+                 add_Link("mailto:Thomas.Fenn@ou.edu?subject=GlobaLID", "envelope", "fa"),
+                 add_Link("https://www.ou.edu/cas/anthropology/faculty-staff/thomas-fenn", "globe", "fa"),
+                 add_Link("https://orcid.org/0000-0001-8560-6797", "orcid", "ai"),
+                 add_Link("https://ou.academia.edu/ThomasFenn", "academia", "ai"),
+                 add_Link("https://www.researchgate.net/profile/Thomas-Fenn", "researchgate", "ai"),
+                 add_Link("https://scholar.google.com/citations?user=biK7yyYAAAAJ", "google-scholar", "ai"),
                  sep = " "), 
                sep = "<br>")
 ) %>% 
-  kable(escape = FALSE, col.names = NULL) %>% 
+  kable(escape = FALSE, col.names = NULL, format = "html") %>% 
+  column_spec(1, width_min = "110px") %>%
+  column_spec(2, color = "black")
+cat("<br>")
+
+data.frame(
+  Portrait = paste0('![](../www/SLiu.png){height=96px}'), 
+  Text = paste("<b>Siran Liu</b> (China)", 
+               "Institute for Cultural Heritage and History of Science & Technology, University of Science and Technology Beijing, China", 
+               paste(
+                 add_Link("mailto:siran.liu@ustb.edu.cn?subject=GlobaLID", "envelope", "fa"),
+                 add_Link("https://enihmm.ustb.edu.cn/Staff/Academic_Senior_Research_Staff/bde24d0cde654407b9c56f78a81490a9.htm", "globe", "fa"),
+                 add_Link("https://orcid.org/0000-0001-9250-4561", "orcid", "ai"),
+                 add_Link("https://www.researchgate.net/profile/Siran-Liu-4", "researchgate", "ai"),
+                 sep = " "), 
+               sep = "<br>")
+) %>% 
+  kable(escape = FALSE, col.names = NULL, format = "html") %>% 
   column_spec(1, width_min = "110px") %>%
   column_spec(2, color = "black")
 cat("<br>")
@@ -318,7 +338,7 @@ data.frame(
                  sep = " "), 
                sep = "<br>")
 ) %>%
-kable(escape = FALSE, col.names = NULL) %>% 
+kable(escape = FALSE, col.names = NULL, format = "html") %>% 
   column_spec(1, width_min = "110px") %>%
   column_spec(2, color = "black")
 cat("<br>")
@@ -336,7 +356,7 @@ data.frame(
                  sep = " "),
                sep = "<br>")
 ) %>%
-kable(escape = FALSE, col.names = NULL) %>% 
+kable(escape = FALSE, col.names = NULL, format = "html") %>% 
   column_spec(1, width_min = "110px") %>%
   column_spec(2, color = "black")
 cat("<br>")
@@ -351,7 +371,7 @@ data.frame(
                  sep = " "), 
                sep = "<br>")
 ) %>% 
-  kable(escape = FALSE, col.names = NULL) %>% 
+  kable(escape = FALSE, col.names = NULL, format = "html") %>% 
   column_spec(1, width_min = "110px") %>%
   column_spec(2, color = "black")
 cat("<br>")
@@ -369,7 +389,105 @@ data.frame(
                  sep = " "), 
                sep = "<br>")
 ) %>%
-kable(escape = FALSE, col.names = NULL) %>% 
+kable(escape = FALSE, col.names = NULL, format = "html") %>% 
+  column_spec(1, width_min = "110px") %>%
+  column_spec(2, color = "black")
+cat("<br>")
+
+```
+
+### Material editors
+
+```{r echo=FALSE, results='asis'}
+
+data.frame(
+  Portrait = paste0('![](../www/LDussubieux.png){height=96px}'), 
+  Text = paste("<b>Laure Dussubieux</b> (Glass)", 
+               "Field Museum, Chicago, IL, USA", 
+               paste(
+                 add_Link("mailto:ldussubieux@fieldmuseum.org?subject=GlobaLID", "envelope", "fa"),
+                 add_Link("https://www.fieldmuseum.org/about/staff/profile/laure-dussubieux", "globe", "fa"),
+                 add_Link("https://orcid.org/0000-0002-9334-8131", "orcid", "ai"),
+                 add_Link("https://scholar.google.com/citations?user=i8wpGuEAAAAJ", "google-scholar", "ai"),
+                 sep = " "), 
+               sep = "<br>")
+) %>% 
+  kable(escape = FALSE, col.names = NULL, format = "html") %>% 
+  column_spec(1, width_min = "110px") %>%
+  column_spec(2, color = "black")
+cat("<br>")
+
+data.frame(
+  Portrait = paste0('![](../www/TFenn.png){height=96px}'), 
+  Text = paste("<b>Thomas R. Fenn</b> (Glass)", 
+               "Department of Anthropology, University of Oklahoma, Norman, OK, USA", 
+               paste(
+                 add_Link("mailto:Thomas.Fenn@ou.edu?subject=GlobaLID", "envelope", "fa"),
+                 add_Link("https://www.ou.edu/cas/anthropology/faculty-staff/thomas-fenn", "globe", "fa"),
+                 add_Link("https://orcid.org/0000-0001-8560-6797", "orcid", "ai"),
+                 add_Link("https://ou.academia.edu/ThomasFenn", "academia", "ai"),
+                 add_Link("https://www.researchgate.net/profile/Thomas-Fenn", "researchgate", "ai"),
+                 add_Link("https://scholar.google.com/citations?user=biK7yyYAAAAJ", "google-scholar", "ai"),
+                 sep = " "), 
+               sep = "<br>")
+) %>% 
+  kable(escape = FALSE, col.names = NULL, format = "html") %>% 
+  column_spec(1, width_min = "110px") %>%
+  column_spec(2, color = "black")
+cat("<br>")
+
+data.frame(
+  Portrait = paste0('![](../www/logo.svg){height=96px}'), 
+  Text = paste("<b>Alicia Van Ham-Meert</b> (Glass)", 
+               "FNRS researcher CReA-patrimoine and 4MAT, Université Libre de Bruxelles, Belgium", 
+               paste(
+                 add_Link("mailto:alicia.van.hammeert@ulb.be?subject=GlobaLID", "envelope", "fa"),
+                 add_Link("https://www.ulb.be/fr/alicia-van-ham-meert", "globe", "fa"),
+                 add_Link("https://orcid.org/0000-0001-6796-3141", "orcid", "ai"),
+                 add_Link("https://www.researchgate.net/profile/Alicia-Van-Ham-Meert", "researchgate", "ai"),
+                 add_Link("https://scholar.google.com/citations?user=jglaXPIAAAAJ", "google-scholar", "ai"),
+                 sep = " "), 
+               sep = "<br>")
+) %>% 
+  kable(escape = FALSE, col.names = NULL, format = "html") %>% 
+  column_spec(1, width_min = "110px") %>%
+  column_spec(2, color = "black")
+cat("<br>")
+
+data.frame(
+  Portrait = paste0('![](../www/logo.svg){height=96px}'), 
+  Text = paste("<b>Alexandra Rodler-Rørbo</b> (Pigments)", 
+               "Austrian Archaeological Institute, Austrian Academy of Sciences, Vienna, Austria", 
+               paste(
+                 add_Link("mailto:lexandra.Rodler-Roerbo@oeaw.ac.at?subject=GlobaLID", "envelope", "fa"),
+                 add_Link("https://www.oeaw.ac.at/en/oeai/institute/team/person/alexandra-rodler", "globe", "fa"),
+                 add_Link("https://orcid.org/0000-0002-4087-7160", "orcid", "ai"),
+                 add_Link("https://www.researchgate.net/profile/Alexandra-Rodler-Rorbo", "researchgate", "ai"),
+                 add_Link("https://scholar.google.dk/citations?user=XHRm-HQAAAAJ", "google-scholar", "ai"),
+                 add_Link("https://www.oeaw.ac.at/en/oeai/research/archaeological-sciences/geochemistry-lab", "globe", "fa"),
+                 sep = " "), 
+               sep = "<br>")
+) %>% 
+  kable(escape = FALSE, col.names = NULL, format = "html") %>% 
+  column_spec(1, width_min = "110px") %>%
+  column_spec(2, color = "black")
+cat("<br>")
+
+data.frame(
+  Portrait = paste0('![](../www/GZabinski.png){height=96px}'), 
+  Text = paste("<b>Grzegorz Żabiński</b> (Glass)", 
+               "FNRS researcher CReA-patrimoine and 4MAT, Université Libre de Bruxelles, Belgium", 
+               paste(
+                 add_Link("mailto:g.zabinski@ujd.edu.pl?subject=GlobaLID", "envelope", "fa"),
+                 add_Link("https://usosweb.ujd.edu.pl/kontroler.php?_action=katalog2/osoby/pokazOsobe&os_id=12306", "globe", "fa"),
+                 add_Link("https://orcid.org/0000-0003-3091-1035", "orcid", "ai"),
+                 add_Link("https://independent.academia.edu/GrzegorzZabinski", "academia", "ai"),
+                 add_Link("https://www.researchgate.net/profile/Grzegorz-Zabinski", "researchgate", "ai"),
+                 add_Link("https://scholar.google.com/citations?user=fdK4tLoAAAAJ", "google-scholar", "ai"),
+                 sep = " "), 
+               sep = "<br>")
+) %>% 
+  kable(escape = FALSE, col.names = NULL, format = "html") %>% 
   column_spec(1, width_min = "110px") %>%
   column_spec(2, color = "black")
 cat("<br>")
@@ -382,11 +500,22 @@ cat("<br>")
 
 data.frame(
   Portrait = paste0('![](../www/logo.svg){height=96px}'), 
+  Text = paste("<b>Rebekka Elsasser</b>", 
+               "Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany", 
+               sep = "<br>")
+) %>%
+kable(escape = FALSE, col.names = NULL, format = "html") %>% 
+  column_spec(1, width_min = "110px") %>%
+  column_spec(2, color = "black")
+cat("<br>")
+
+data.frame(
+  Portrait = paste0('![](../www/logo.svg){height=96px}'), 
   Text = paste("<b>Sabine Fischer-Lechner</b>", 
                "Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany", 
                sep = "<br>")
 ) %>%
-kable(escape = FALSE, col.names = NULL) %>% 
+kable(escape = FALSE, col.names = NULL, format = "html") %>% 
   column_spec(1, width_min = "110px") %>%
   column_spec(2, color = "black")
 cat("<br>")
@@ -404,7 +533,7 @@ data.frame(
                "The Deutsches Bergbau-Museum Bochum – founded in 1930 – is one of eight research museums belonging to the Leibniz Association. It researches, teaches and preserves the history of the mining, processing and use of geo-resources across all of the relevant time periods. Its research areas include: archaeometallurgy, mining history, materials science, and mining archaeology, together with the research laboratory, and the Montanhistorische Dokumentationszentrum.", 
                sep = "<br>")
 ) %>%
-kable(escape = FALSE, col.names = NULL) %>% 
+kable(escape = FALSE, col.names = NULL, format = "html") %>% 
   column_spec(1, width_min = "110px") %>%
   column_spec(2, color = "black")
 cat("<br>")
@@ -417,7 +546,7 @@ data.frame(
                "DMT-Gesellschaft für Lehre und Bildung mbH (DMT-LB), based in Bochum, is a collective association of the German coal mining industry and acts as the funding organisation of Deutsches Bergbau-Museum Bochum (German Mining Museum) and Technische Hochschule Georg Agricola. It was established as the Westfälische Berggewerkschaftskasse (WBK) in 1864 and merged with the Steinkohlen-Bergbau-Verein (Stbv) and Bergbau Forschung GmbH under the auspices of DeutscheMontanTechnologie e.V. (DMT) in 1990.", 
                sep = "<br>")
 ) %>%
-kable(escape = FALSE, col.names = NULL) %>% 
+kable(escape = FALSE, col.names = NULL, format = "html") %>% 
   column_spec(1, width_min = "110px") %>%
   column_spec(2, color = "black")
 cat("<br>")
@@ -433,7 +562,7 @@ data.frame(
                "This work has received funding from the German Research Foundation (DFG) through the grants KL 1259/17-1 and WI 5923/2-1 (project number: 524790825).", 
                sep = "<br>")
 ) %>%
-kable(escape = FALSE, col.names = NULL) %>% 
+kable(escape = FALSE, col.names = NULL, format = "html") %>% 
   column_spec(1, width_min = "170px") %>%
   column_spec(2, color = "black")
 cat("<br>")

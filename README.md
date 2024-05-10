@@ -108,32 +108,41 @@ Interested? Write us!
 
 ## Regional editors
 
-- Southeast Asia: [T. O.
-  Pryce](https://iramat.cnrs.fr/user/oliver.pryce/)
+- China: [Siran
+  Liu](https://enihmm.ustb.edu.cn/Staff/Academic_Senior_Research_Staff/bde24d0cde654407b9c56f78a81490a9.htm)
+  [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-9250-4561)
+  (Institute for Cultural Heritage and History of Science & Technology,
+  University of Science and Technology Beijing, China)
+- Southeast Asia: T. O.
+  Pryce\](<https://iramat.cnrs.fr/user/oliver.pryce/>)
   [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-7290-141X)
   (Centre National de la Recherche Scientifique, UMR 7065 Institut de
   Recherche sur les ArchéoMATériaux, Université Paris-Saclay & CEA/CNRS
   UMR 3685 NIMBE, 91191 Gif-sur-Yvette, France)
-- Africa: [Jay Stephens](https://archaeometry.missouri.edu/staff.html)
-  [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-1299-3946)
-  (School of Anthropology, University of Arizona, Tucson, AZ, USA;
-  Archaeometry Laboratory, Research Reactor Center, University of
-  Missouri, Columbia, MO, USA)
+- South Asia: [Thomas R.
+  Fenn](https://www.ou.edu/cas/anthropology/faculty-staff/thomas-fenn)
+  [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-8560-6797)
+  (Department of Anthropology, University of Oklahoma, Norman, OK, USA)
 - Iran: [Nima
   Nezafati](https://www.bergbaumuseum.de/en/museum/mitarbeitende/kontakt-detailseite/dr-nima-nezafati)
   [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-5806-343X)
   (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für
   Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)
-- North America:
-  - [Virginie
-    Renson](https://archaeometry.missouri.edu/profile(Virginie).html)
-    [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-5701-0985)
-    (Archaeometry Laboratory, Research Reactor Center, University of
-    Missouri, Columbia, MO, USA)
-  - [David
-    Killick](https://anthropology.arizona.edu/people/dave-killick)
-    [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-8964-750X)
-    (School of Anthropology, University of Arizona, Tucson, AZ, USA)
+- North Africa: [Thomas R.
+  Fenn](https://www.ou.edu/cas/anthropology/faculty-staff/thomas-fenn)
+  [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-8560-6797)
+  (Department of Anthropology, University of Oklahoma, Norman, OK, USA)
+- South Africa: [Jay
+  Stephens](https://archaeometry.missouri.edu/staff.html)
+  [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-1299-3946)
+  (School of Anthropology, University of Arizona, Tucson, AZ, USA;
+  Archaeometry Laboratory, Research Reactor Center, University of
+  Missouri, Columbia, MO, USA)
+- North America: [Virginie
+  Renson](https://archaeometry.missouri.edu/profile(Virginie).html)
+  [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-5701-0985)
+  (Archaeometry Laboratory, Research Reactor Center, University of
+  Missouri, Columbia, MO, USA)
 - South America: [María Florencia
   Becerra](https://www.conicet.gov.ar/new_scp/detalle.php?id=29835)
   [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-6302-7452)
@@ -142,8 +151,38 @@ Interested? Write us!
   Ciencias Naturales y Museo, Universidad Nacional de La Plata,
   Argentina)
 
+## Material editors
+
+- Glass:
+  - [Laure
+    Dussubieux](https://www.fieldmuseum.org/about/staff/profile/laure-dussubieux)
+    [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-9334-8131)
+    (Field Museum, Chicago, IL, USA)
+  - [Alicia Van Ham-Meert](https://www.ulb.be/fr/alicia-van-ham-meert)
+    [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-6796-3141)
+    (FNRS researcher CReA-patrimoine and 4MAT, Université Libre de
+    Bruxelles, Belgium)
+  - [Thomas R.
+    Fenn](https://www.ou.edu/cas/anthropology/faculty-staff/thomas-fenn)
+    [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-8560-6797)
+    (Department of Anthropology, University of Oklahoma, Norman, OK,
+    USA)
+- Pigments: [Alexandra
+  Rodler-Rørbo](https://www.oeaw.ac.at/en/oeai/institute/team/person/alexandra-rodler)
+  [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-4087-7160)
+  (Austrian Archaeological Institute, Austrian Academy of Sciences,
+  Vienna, Austria)
+- Archaeological materials: [Grzegorz
+  Żabiński](https://usosweb.ujd.edu.pl/kontroler.php?_action=katalog2/osoby/pokazOsobe&os_id=12306)
+  [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-3091-1035)
+  (Institute of History, Jan Długosz University in Częstochowa,
+  Częstochowa, Poland)
+
 ## Contributors (Data)
 
+- Rebekka Elsasser (Forschungsbereich Archäometallurgie,
+  Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum
+  Bochum, Bochum, Germany)
 - Sabine Fischer-Lechner (Forschungsbereich Archäometallurgie,
   Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum
   Bochum, Bochum, Germany)
