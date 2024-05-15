@@ -442,7 +442,7 @@ data.frame(
                "FNRS researcher CReA-patrimoine and 4MAT, Université Libre de Bruxelles, Belgium", 
                paste(
                  add_Link("mailto:alicia.van.hammeert@ulb.be?subject=GlobaLID", "envelope", "fa"),
-                 add_Link("https://www.ulb.be/fr/alicia-van-ham-meert", "globe", "fa"),
+                 add_Link("https://crea.phisoc.ulb.be/fr/corps-scientifique/van-ham-meert-alicia-1", "globe", "fa"),
                  add_Link("https://orcid.org/0000-0001-6796-3141", "orcid", "ai"),
                  add_Link("https://www.researchgate.net/profile/Alicia-Van-Ham-Meert", "researchgate", "ai"),
                  add_Link("https://scholar.google.com/citations?user=jglaXPIAAAAJ", "google-scholar", "ai"),
