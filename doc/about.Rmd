@@ -437,7 +437,7 @@ data.frame(
 cat("<br>")
 
 data.frame(
-  Portrait = paste0('![](../www/logo.svg){height=96px}'), 
+  Portrait = paste0('![](../www/AvanHamMeert.png){height=96px}'), 
   Text = paste("<b>Alicia Van Ham-Meert</b> (Glass)", 
                "FNRS researcher CReA-patrimoine and 4MAT, Université Libre de Bruxelles, Belgium", 
                paste(
