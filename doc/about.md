@@ -885,7 +885,7 @@ Bochum, Bochum, Germany
 <tbody>
 <tr>
 <td style="text-align:left;min-width: 110px; ">
-<a href="https://www.bergbaumuseum.de/en/" target="_blank"><img alt="DBM Logo" src="../www/Logo_DBM.png" width="96"></a>
+<img src="../www/Logo_DBM.png" width="96" />
 </td>
 <td style="text-align:left;color: black !important;">
 Web Hosting:
@@ -907,7 +907,7 @@ Dokumentationszentrum.
 <tbody>
 <tr>
 <td style="text-align:left;min-width: 110px; ">
-<a href="https://www.dmt-lb.de/" target="_blank"><img alt="DMT Logo" src="../www/Logo_DMT.svg" width="96"></a>
+<img src="../www/Logo_DMT.svg" width="96" />
 </td>
 <td style="text-align:left;color: black !important;">
 Web Hosting:
@@ -933,7 +933,7 @@ auspices of DeutscheMontanTechnologie e.V. (DMT) in 1990.
 <tbody>
 <tr>
 <td style="text-align:left;min-width: 170px; ">
-<a href="https://www.dfg.de/en" target="_blank"><img alt="DFG Logo" src="../www/dfg_logo.gif" width="150"></a>
+<img src="../www/dfg_logo.gif" width="150" />
 </td>
 <td style="text-align:left;color: black !important;">
 <b><a href="https://www.dfg.de/en" target="_blank">Deutsche

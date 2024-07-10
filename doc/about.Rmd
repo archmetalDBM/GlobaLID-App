@@ -579,8 +579,7 @@ cat("<br>")
 ```{r echo=FALSE, results='asis'}
 
 data.frame(
-  Logo = paste0('<a href="https://www.bergbaumuseum.de/en/" target="_blank"><img alt="DBM Logo" src="../www/Logo_DBM.png"
-         width="96"></a>'), 
+  Logo = paste0('![](../www/Logo_DBM.png){width=96px}'), 
   Text = paste("Web Hosting: ", 
                '<b><a href="https://www.bergbaumuseum.de/en/" target="_blank">Deutsches Bergbau-Museum Bochum</a></b>', 
                "The Deutsches Bergbau-Museum Bochum – founded in 1930 – is one of eight research museums belonging to the Leibniz Association. It researches, teaches and preserves the history of the mining, processing and use of geo-resources across all of the relevant time periods. Its research areas include: archaeometallurgy, mining history, materials science, and mining archaeology, together with the research laboratory, and the Montanhistorische Dokumentationszentrum.", 
@@ -592,8 +591,7 @@ kable(escape = FALSE, col.names = NULL, format = "html") %>%
 cat("<br>")
 
 data.frame(
-  Logo = paste0('<a href="https://www.dmt-lb.de/" target="_blank"><img alt="DMT Logo" src="../www/Logo_DMT.svg"
-         width="96"></a>'), 
+  Logo = paste0('![](../www/Logo_DMT.svg){width=96px}'), 
   Text = paste("Web Hosting: ", 
                '<b><a href="https://www.dmt-lb.de/" target="_blank">DMT-Gesellschaft für Lehre und Bildung mbH</a></b>', 
                "DMT-Gesellschaft für Lehre und Bildung mbH (DMT-LB), based in Bochum, is a collective association of the German coal mining industry and acts as the funding organisation of Deutsches Bergbau-Museum Bochum (German Mining Museum) and Technische Hochschule Georg Agricola. It was established as the Westfälische Berggewerkschaftskasse (WBK) in 1864 and merged with the Steinkohlen-Bergbau-Verein (Stbv) and Bergbau Forschung GmbH under the auspices of DeutscheMontanTechnologie e.V. (DMT) in 1990.", 
@@ -609,8 +607,7 @@ cat("<br>")
 ```{r echo=FALSE, results='asis'}
 
 data.frame(
-  Logo = paste0('<a href="https://www.dfg.de/en" target="_blank"><img alt="DFG Logo" src="../www/dfg_logo.gif"
-         width="150"></a>'), 
+  Logo = paste0('![](../www/dfg_logo.gif){width=150px}'),
   Text = paste('<b><a href="https://www.dfg.de/en" target="_blank">Deutsche Forschungsgemeinschaft</a></b>', 
                "This work has received funding from the German Research Foundation (DFG) through the grants KL 1259/17-1 and WI 5923/2-1 (project number: 524790825).", 
                sep = "<br>")
