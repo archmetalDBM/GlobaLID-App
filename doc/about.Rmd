@@ -495,7 +495,7 @@ data.frame(
                paste(
                  add_Link("mailto:FRademakers@britishmuseum.org?subject=GlobaLID", "envelope", "fa"),
                  add_Link("https://www.oeaw.ac.at/en/oeai/institute/team/person/alexandra-rodler", "globe", "fa"),
-                 add_Link("https://orcid.org/0000-0002-4087-7160", "orcid", "ai"),
+                 add_Link("https://orcid.org/0000-0002-6036-1612", "orcid", "ai"),
                  add_Link("https://www.researchgate.net/profile/Frederik-Rademakers", "researchgate", "ai"),
                  add_Link("https://britishmuseum.academia.edu/FrederikRademakers", "academia", "ai"),
                  add_Link("https://scholar.google.dk/citations?user=Hvugz7oAAAAJ", "google-scholar", "ai"),
