@@ -308,6 +308,23 @@ data.frame(
 cat("<br>")
 
 data.frame(
+  Portrait = paste0('![](../www/SdMadinabeitia.png){height=96px}'), 
+  Text = paste("<b>Sonia García de Madinabeitia</b> (Iberian Peninsula)", 
+               "Department of Anthropology, University of Oklahoma, Norman, OK, USA", 
+               paste(
+                 add_Link("mailto:sonia.gdm@ehu.eus?subject=GlobaLID", "envelope", "fa"),
+                 add_Link("https://www.ehu.eus/bilatu/buscar/seekuser.php?lang=es&u=bnBiZ2FtYXM=", "globe", "fa"),
+                 add_Link("https://orcid.org/0000-0002-3648-6490", "orcid", "ai"),
+                 add_Link("https://www.researchgate.net/profile/Sonia-Garcia-De-Madinabeitia", "researchgate", "ai"),
+                 sep = " "), 
+               sep = "<br>")
+) %>% 
+  kable(escape = FALSE, col.names = NULL, format = "html") %>% 
+  column_spec(1, width_min = "110px") %>%
+  column_spec(2, color = "black")
+cat("<br>")
+
+data.frame(
   Portrait = paste0('![](../www/SLiu.png){height=96px}'), 
   Text = paste("<b>Siran Liu</b> (China)", 
                "Institute for Cultural Heritage and History of Science & Technology, University of Science and Technology Beijing, China", 
@@ -455,11 +472,47 @@ data.frame(
 cat("<br>")
 
 data.frame(
+  Portrait = paste0('![](../www/TOPryce.png){height=96px}'), 
+  Text = paste("<b>T. O. Pryce</b> (Copper items)", 
+               "Centre National de la Recherche Scientifique, UMR 7065 Institut de Recherche sur les ArchéoMATériaux, Université Paris-Saclay & CEA/CNRS UMR 3685 NIMBE, 91191 Gif-sur-Yvette, France", 
+               paste(
+                 add_Link("mailto:oliver.pryce@cnrs.fr?subject=GlobaLID", "envelope", "fa"),
+                 add_Link("https://iramat.cnrs.fr/user/oliver.pryce/", "globe", "fa"), 
+                 add_Link("https://orcid.org/0000-0002-7290-141X", "orcid", "ai"),
+                 add_Link("https://www.researchgate.net/profile/Oliver-Pryce-2", "researchgate", "ai"),
+                 sep = " "),
+               sep = "<br>")
+) %>%
+kable(escape = FALSE, col.names = NULL, format = "html") %>% 
+  column_spec(1, width_min = "110px") %>%
+  column_spec(2, color = "black")
+cat("<br>")
+
+data.frame(
+  Portrait = paste0('![](../www/logo.svg){height=96px}'), 
+  Text = paste("<b>Frederik Rademakers</b> (Copper items)", 
+               "Department of Scientific Research, British Museum, London, United Kingdom", 
+               paste(
+                 add_Link("mailto:FRademakers@britishmuseum.org?subject=GlobaLID", "envelope", "fa"),
+                 add_Link("https://www.oeaw.ac.at/en/oeai/institute/team/person/alexandra-rodler", "globe", "fa"),
+                 add_Link("https://orcid.org/0000-0002-4087-7160", "orcid", "ai"),
+                 add_Link("https://www.researchgate.net/profile/Frederik-Rademakers", "researchgate", "ai"),
+                 add_Link("https://britishmuseum.academia.edu/FrederikRademakers", "academia", "ai"),
+                 add_Link("https://scholar.google.dk/citations?user=Hvugz7oAAAAJ", "google-scholar", "ai"),
+                 sep = " "), 
+               sep = "<br>")
+) %>% 
+  kable(escape = FALSE, col.names = NULL, format = "html") %>% 
+  column_spec(1, width_min = "110px") %>%
+  column_spec(2, color = "black")
+cat("<br>")
+
+data.frame(
   Portrait = paste0('![](../www/logo.svg){height=96px}'), 
   Text = paste("<b>Alexandra Rodler-Rørbo</b> (Pigments)", 
                "Austrian Archaeological Institute, Austrian Academy of Sciences, Vienna, Austria", 
                paste(
-                 add_Link("mailto:lexandra.Rodler-Roerbo@oeaw.ac.at?subject=GlobaLID", "envelope", "fa"),
+                 add_Link("mailto:Alexandra.Rodler-Roerbo@oeaw.ac.at?subject=GlobaLID", "envelope", "fa"),
                  add_Link("https://www.oeaw.ac.at/en/oeai/institute/team/person/alexandra-rodler", "globe", "fa"),
                  add_Link("https://orcid.org/0000-0002-4087-7160", "orcid", "ai"),
                  add_Link("https://www.researchgate.net/profile/Alexandra-Rodler-Rorbo", "researchgate", "ai"),

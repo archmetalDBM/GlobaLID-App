@@ -113,8 +113,8 @@ Interested? Write us!
   [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-9250-4561)
   (Institute for Cultural Heritage and History of Science & Technology,
   University of Science and Technology Beijing, China)
-- Southeast Asia: T. O.
-  Pryce\](<https://iramat.cnrs.fr/user/oliver.pryce/>)
+- Southeast Asia: [T. O.
+  Pryce](https://iramat.cnrs.fr/user/oliver.pryce/)
   [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-7290-141X)
   (Centre National de la Recherche Scientifique, UMR 7065 Institut de
   Recherche sur les ArchéoMATériaux, Université Paris-Saclay & CEA/CNRS
@@ -128,6 +128,11 @@ Interested? Write us!
   [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-5806-343X)
   (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für
   Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)
+- Iberian Peninsula: [Sonia García de
+  Madinabeitia](https://www.ehu.eus/bilatu/buscar/seekuser.php?lang=es&u=bnBiZ2FtYXM=)
+  [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-3648-6490)
+  (Departamento de Geología, Universidad del País Vasco (UPV/EHU),
+  Bilbao, Spain)
 - North Africa: [Thomas R.
   Fenn](https://www.ou.edu/cas/anthropology/faculty-staff/thomas-fenn)
   [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-8560-6797)
@@ -158,7 +163,8 @@ Interested? Write us!
     Dussubieux](https://www.fieldmuseum.org/about/staff/profile/laure-dussubieux)
     [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-9334-8131)
     (Field Museum, Chicago, IL, USA)
-  - [Alicia Van Ham-Meert](https://www.ulb.be/fr/alicia-van-ham-meert)
+  - [Alicia Van
+    Ham-Meert](https://crea.phisoc.ulb.be/fr/corps-scientifique/van-ham-meert-alicia-1)
     [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-6796-3141)
     (FNRS researcher CReA-patrimoine and 4MAT, Université Libre de
     Bruxelles, Belgium)
@@ -167,6 +173,16 @@ Interested? Write us!
     [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-8560-6797)
     (Department of Anthropology, University of Oklahoma, Norman, OK,
     USA)
+- Copper items:
+  - Frederik Rademakers
+    [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-6036-1612)
+    (Department of Scientific Research, British Museum, London, United
+    Kingdom)
+  - [T. O. Pryce](https://iramat.cnrs.fr/user/oliver.pryce/)
+    [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-7290-141X)
+    (Centre National de la Recherche Scientifique, UMR 7065 Institut de
+    Recherche sur les ArchéoMATériaux, Université Paris-Saclay &
+    CEA/CNRS UMR 3685 NIMBE, 91191 Gif-sur-Yvette, France)
 - Pigments: [Alexandra
   Rodler-Rørbo](https://www.oeaw.ac.at/en/oeai/institute/team/person/alexandra-rodler)
   [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-4087-7160)
