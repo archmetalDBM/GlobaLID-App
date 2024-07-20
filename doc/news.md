@@ -1,5 +1,12 @@
 ## News
 
+2024-07-20 – Additional data from many Central American Countries and
+several Southern European Countries (contributor: K. J. Westner). The
+database now includes 4623 entries.
+
+Coordinates and mining regions for some data from Chilean and German
+deposits were cleaned up.
+
 2024-03-31 – Additional data from Chile (contributor: M. F. Becerra) and
 Germany (contributors: S. Fischer-Lechner, T. Rose). The database now
 includes 4563 entries.
