@@ -527,6 +527,24 @@ data.frame(
 cat("<br>")
 
 data.frame(
+  Portrait = paste0('![](../www/DWigg-Wolf.png){height=96px}'), 
+  Text = paste("<b>David Wigg-Wolf</b> (Coins)", 
+               "Römisch-Germanische Kommission des Deutschen Archäologischen Instituts, Frankfurt, Germany", 
+               paste(
+                 add_Link("mailto:david.wigg-wolf@dainst.de?subject=GlobaLID", "envelope", "fa"),
+                 add_Link("https://www.dainst.org/wer-wir-sind/mitarbeitende/noslug/574", "globe", "fa"),
+                 add_Link("https://orcid.org/0000-0002-8604-544X", "orcid", "ai"),
+                 add_Link("https://www.researchgate.net/profile/David-Wigg-Wolf ", "researchgate", "ai"),
+                 add_Link("https://scholar.google.com/citations?hl=en&user=DAcfipMAAAAJ", "google-scholar", "ai"),
+                 sep = " "), 
+               sep = "<br>")
+) %>% 
+  kable(escape = FALSE, col.names = NULL, format = "html") %>% 
+  column_spec(1, width_min = "110px") %>%
+  column_spec(2, color = "black")
+cat("<br>")
+
+data.frame(
   Portrait = paste0('![](../www/GZabinski.png){height=96px}'), 
   Text = paste("<b>Grzegorz Żabiński</b> (Glass)", 
                "FNRS researcher CReA-patrimoine and 4MAT, Université Libre de Bruxelles, Belgium", 

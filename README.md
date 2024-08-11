@@ -183,6 +183,11 @@ Interested? Write us!
     (Centre National de la Recherche Scientifique, UMR 7065 Institut de
     Recherche sur les ArchéoMATériaux, Université Paris-Saclay &
     CEA/CNRS UMR 3685 NIMBE, 91191 Gif-sur-Yvette, France)
+- Coins: [David
+  Wigg-Wolf](https://www.dainst.org/wer-wir-sind/mitarbeitende/noslug/574)
+  [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-8604-544X)
+  (Römisch-Germanische Kommission des Deutschen Archäologischen
+  Instituts, Frankfurt, Germany)
 - Pigments: [Alexandra
   Rodler-Rørbo](https://www.oeaw.ac.at/en/oeai/institute/team/person/alexandra-rodler)
   [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-4087-7160)
