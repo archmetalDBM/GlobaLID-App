@@ -161,6 +161,11 @@
     2699–708.
     DOI:<a href="https://doi.org/10.1029/JB086iB04p02699" target="_blank">10.1029/JB086iB04p02699</a>
 
+-   Chernyshev, I. V., Kovalenker, V. A., Chugaev, A., Damian, G.,
+    Damian, F., Iatan, L. E., and Seghedi, I., 2014, New high-precision
+    lead isotope analyses of galena from Romanian ore districts and a
+    review, Romanian Journal of Mineral Deposits, 87(1), 83–6.
+
 -   Cook, N. J., and Chiaradia, M., 1997, Sources of base metal
     mineralization in the Baia Borsa orefield, NW Romania: constraints
     from lead isotopes, In Mineral deposits (ed. H. Papunen), 813–6,
@@ -171,6 +176,16 @@
     Matsitama Schist belt of Northern Botswana, Precambrian Research,
     5(1), 23–41.
     DOI:<a href="https://doi.org/10.1016/0301-9268(77)90021-3" target="_blank">10.1016/0301-9268(77)90021-3</a>
+
+-   Cumming, G. L., Kesler, S. E., and Krstic, D., 1981, Source of lead
+    in Central American and Caribbean mineralization, II. Lead isotope
+    provinces, Earth and Planetary Science Letters, 56, 199–209.
+    DOI:<a href="https://doi.org/10.1016/0012-821X(81)90127-8" target="_blank">10.1016/0012-821X(81)90127-8</a>
+
+-   Cumming, G. L., and Kesler, S. E., 1976, Source of lead in Central
+    American and Caribbean mineralization, Earth and Planetary Science
+    Letters, 31(2), 262–8.
+    DOI:<a href="https://doi.org/10.1016/0012-821X(76)90218-1" target="_blank">10.1016/0012-821X(76)90218-1</a>
 
 -   Dayton, J. E., and Dayton, A. M., 1986, Uses and limitations of lead
     isotopes in archaeology, In Proceedings of the 24th International
@@ -559,6 +574,13 @@
     isotopic composition of lead in galenas of the Chilean Andes,
     Economic Geology, 83(4), 843–58.
     DOI:<a href="https://doi.org/10.2113/gsecongeo.83.4.843" target="_blank">10.2113/gsecongeo.83.4.843</a>
+
+-   Recław, J., Sierpień, P., Karasiński, J., Kamenov, G., Powell, W.,
+    Marciniak-Maliszewska, B., and Kałaska, M., 2024, The origin of lead
+    artifacts from Novae: applications of Pb isotopes in identifying the
+    provenance of Roman artifacts from N. Bulgaria, Heritage Science,
+    12(1), 40.
+    DOI:<a href="https://doi.org/10.1186/s40494-024-01151-2" target="_blank">10.1186/s40494-024-01151-2</a>
 
 -   Richards, J. P., Cumming, G. L., Krstic, D., Wagner, P. A., and
     Spooner, E. T. C., 1988, Pb isotope constraints on the age of
