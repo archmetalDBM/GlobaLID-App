@@ -289,6 +289,21 @@ data.frame(
 cat("<br>")
 
 data.frame(
+  Portrait = paste0('![](../www/MDesai.png){height=96px}'), 
+  Text = paste("<b>Meghna Desai</b> (India)", 
+               "Science and Technology in Archaeology and Culture Research Center (STARC), The Cyprus Institute, Nicosia, Cyprus", 
+               paste(
+                 add_Link("mailto:m.desai@cyi.ac.cy", "envelope", "fa"),
+                 add_Link("https://www.cyi.ac.cy/index.php/starc/about-the-center/starc-our-people/author/1059-meghna-desai.html", "globe", "fa"),
+                 sep = " "), 
+               sep = "<br>")
+) %>% 
+  kable(escape = FALSE, col.names = NULL, format = "html") %>% 
+  column_spec(1, width_min = "110px") %>%
+  column_spec(2, color = "black")
+cat("<br>")
+
+data.frame(
   Portrait = paste0('![](../www/TFenn.png){height=96px}'), 
   Text = paste("<b>Thomas R. Fenn</b> (South Asia, North Africa)", 
                "Department of Anthropology, University of Oklahoma, Norman, OK, USA", 

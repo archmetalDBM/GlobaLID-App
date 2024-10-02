@@ -33,7 +33,7 @@ locations: <img src="man/figures/README-map-1.png" width="100%" />
 If you use the GlobaLID app, please cite it as:
 
 - GlobaLID Core Team. (2021). GlobaLID web application V. 1.0, database
-  status: 2024-03-31. <https://globalid.dmt-lb.de/>
+  status: 2024-07-20. <https://globalid.dmt-lb.de/>
 - Klein, S., Rose, T., Westner, K. J., & Hsu, Y.-K. (2022). From OXALID
   to GlobaLID: Introducing a modern and FAIR lead isotope database with
   an interactive application. Archaeometry 64(4), 935–950.
@@ -44,7 +44,7 @@ If you use the GlobaLID app, please cite it as:
     @misc{GlobaLIDCoreTeam.2022,
      author = {{GlobaLID Core Team}},
      year = {2022},
-     title = {{GlobaLID web application V. 1.0, database status: 2024-03-31}},
+     title = {{GlobaLID web application V. 1.0, database status: 2024-07-20}},
      url = {https://globalid.dmt-lb.de/}
     }
 
@@ -123,6 +123,10 @@ Interested? Write us!
   Fenn](https://www.ou.edu/cas/anthropology/faculty-staff/thomas-fenn)
   [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-8560-6797)
   (Department of Anthropology, University of Oklahoma, Norman, OK, USA)
+- India: [Meghna
+  Desai](https://www.cyi.ac.cy/index.php/starc/about-the-center/starc-our-people/author/1059-meghna-desai.html)
+  (Science and Technology in Archaeology and Culture Research Center
+  (STARC), The Cyprus Institute, Nicosia, Cyprus)
 - Iran: [Nima
   Nezafati](https://www.bergbaumuseum.de/en/museum/mitarbeitende/kontakt-detailseite/dr-nima-nezafati)
   [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-5806-343X)
