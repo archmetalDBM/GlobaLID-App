@@ -487,6 +487,22 @@ data.frame(
 cat("<br>")
 
 data.frame(
+  Portrait = paste0('![](../www/MLHeritier.png){height=96px}'), 
+  Text = paste("<b>Maxime L'Héritier</b> (India)", 
+               "University of Paris 8, Paris, France", 
+               paste(
+                 add_Link("mailto:maxime.l_heritier@univ-paris8.fr", "envelope", "fa"),
+                 add_Link("https://arscan.parisnanterre.fr/membre/maxime-lheritier/", "globe", "fa"),
+                 add_Link("https://orcid.org/0000-0003-3428-2977", "orcid", "ai"),
+                 sep = " "), 
+               sep = "<br>")
+) %>% 
+  kable(escape = FALSE, col.names = NULL, format = "html") %>% 
+  column_spec(1, width_min = "110px") %>%
+  column_spec(2, color = "black")
+cat("<br>")
+
+data.frame(
   Portrait = paste0('![](../www/TOPryce.png){height=96px}'), 
   Text = paste("<b>T. O. Pryce</b> (Copper items)", 
                "Centre National de la Recherche Scientifique, UMR 7065 Institut de Recherche sur les ArchéoMATériaux, Université Paris-Saclay & CEA/CNRS UMR 3685 NIMBE, 91191 Gif-sur-Yvette, France", 
