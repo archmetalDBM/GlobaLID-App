@@ -5,6 +5,13 @@
     Sinai Peninsula and the Eastern Desert of Egypt (2006, 2008),
     Metalla, 19(1/2), 3–59.
 
+-   Albarede, F., Boni, M., Blichert-Toft, J., Vaxevanopoulos, M.,
+    Westner, K., Milot, J., Pinto, M., and Télouk, P., 2024, Ag and Pb
+    isotope systematics in galena ores from southern Sardinia and
+    southern France flag potential silver sources in antiquity,
+    Archaeological and Anthropological Sciences, 16(8), 118.
+    DOI:<a href="https://doi.org/10.1007/s12520-024-02025-1" target="_blank">10.1007/s12520-024-02025-1</a>
+
 -   Aleksandrov, M., 1992, Metalogenetske karakteristike polimetaličnog
     rudnog polja Sase, Istočna Makedonija, PhD thesis, Goce Delčev
     University, Štip.
@@ -29,12 +36,18 @@
     въз основа на изотопния състав на оловото в галенит  \[Genesis and
     age of hydrothermal ore mineralization in the Rhodope metallogenic
     zone on the basis of the isotopic composition of lead in galena\],
-    Annuaire de l’Université de Sofia “St. Kliment Ohridski” Faculté de
+    Annuaire de lUniversité de Sofia “St. Kliment Ohridski” Faculté de
     Géologie et Géographie, 85, 73–98.
 
 -   Andráš, P., Chovan, M., Dirner, V., and Krá, J., 2010, Pb-Isotope
     Study in Sb-Mineralisation from Western Carpathian (Slovakia),
     Carpathian Journal of Earth and Environmental Sciences, 5(2), 71–80.
+
+-   Artioli, G., Angelini, I., Nimis, P., and Villa, I. M., 2016, A
+    lead-isotope database of copper ores from the Southeastern Alps: A
+    tool for the investigation of prehistoric copper metallurgy, Journal
+    of Archaeological Science, 75, 27–39.
+    DOI:<a href="https://doi.org/10.1016/j.jas.2016.09.005" target="_blank">10.1016/j.jas.2016.09.005</a>
 
 -   Asael, D., Matthews, A., Bar-Matthews, M., Harlavan, Y., and Segal,
     I., 2012, Tracking redox controls and sources of sedimentary
@@ -192,7 +205,7 @@
     Archaeometry Symposium (eds. J. S. Olin, and M. J. Blackman), 13–41,
     Smithsonian Institution Press, Washington D.C.
 
--   De Launay, M. L., 1894, Les Minerais d’Argent de Milo, Annales des
+-   De Launay, M. L., 1894, Les Minerais dArgent de Milo, Annales des
     Mines, 9ième Série(VI), 345–53.
 
 -   Deleon, G., 1968, Primena metoda nuklearne geologije u odredivanju
@@ -310,6 +323,13 @@
     vs. Sedimentary Exhalative, Economic Geology, 87, 2085–112.
     DOI:<a href="https://doi.org/10.2113/gsecongeo.87.8.2085" target="_blank">10.2113/gsecongeo.87.8.2085</a>
 
+-   Grafenauer, S., 1965, The genetic classification of the lead and
+    zinc deposits in Slovenia, Rudarsko-metalurski zbornik, 165–71.
+
+-   Guénette-Beck, B., 2006, Minerais, métaux, isotopes: recherches
+    archéométriques sur les mines de plomb et d’argent en Valais,
+    Suisse, PhD thesis, Université de Fribourg, Fribourg.
+
 -   Haest, M., Schneider, J., Cloquet, C., Latruwe, K., Vanhaecke, F.,
     and Muchez, P., 2010, Pb isotopic constraints on the formation of
     the Dikulushi Cu–Pb–Zn–Ag mineralisation, Kundelungu Plateau
@@ -337,6 +357,19 @@
     Objects from Arad: Their Composition and Provenance, Bulletin of the
     American Schools of Oriental Research, 314, 1–17.
     DOI:<a href="https://doi.org/10.2307/1357449" target="_blank">10.2307/1357449</a>
+
+-   Hoeppner, B., Bartelheim, M., Huijsmans, M., Krauss, R.,
+    Martinek, K. ‐P., Pernicka, E., and Schwab, R., 2005, Prehistoric
+    Copper Production in the Inn Valley (Austria), And the Earliest
+    Copper in Central Europe, Archaeometry, 47(2), 293–315.
+    DOI:<a href="https://doi.org/10.1111/j.1475-4754.2005.00203.x" target="_blank">10.1111/j.1475-4754.2005.00203.x</a>
+
+-   Horner, J., Neubauer, F., Paar, W. H., Hansmann, W., Koeppel, V.,
+    and Robl, K., 1997, Structure, mineralogy, and Pb isotopic
+    composition of the As-Au-Ag deposit Rotgülden, Eastern Alps
+    (Austria): significance for formation  of epigenetic ore deposits
+    within metamorphic domes, Mineralium Deposita, 32(6), 555–68.
+    DOI:<a href="https://doi.org/10.1007/s001260050122" target="_blank">10.1007/s001260050122</a>
 
 -   Höhndorf, A., and Vetter, U., 1999, The Sanyati Ore deposits in
     Zimbabwe: Pb-isotopic investigation of sulfide and oxide ores,
@@ -412,6 +445,17 @@
     implications on the age of the Bushmanland Sequence, In Proceedings
     of the fifth quadrennial IAGOD symposium, 195–207, Schweizerbart,
     Stuttgart.
+
+-   Köppel, V., and Schroll, E., 1983, Bleiisotope und Remobilisation in
+    Erzlagerstätten, In Schriftenreihe der erdwissenschaftlichen
+    Kommission, Vol. 6, 39–52.
+
+-   Köppel, V., and Schroll, E., 1983, Lead isotopes of palaeozoic,
+    strata-bound to stratiform Galena bearing sulfide deposits of the
+    Eastern Alps (Austria) : implications for their geotectonic setting,
+    Schweizerische mineralogische und petrographische Mitteilungen,
+    63(2/3), 347–60.
+    DOI:<a href="https://doi.org/10.5169/SEALS-48741" target="_blank">10.5169/SEALS-48741</a>
 
 -   Köppel, V., and Schroll, E., 1985, Herkunft des Pb der triassischen
     Pb-Zn-Vererzungen in den Ost-und Südalpen: Resultate
@@ -596,7 +640,7 @@
     DOI:<a href="https://doi.org/10.1016/0016-7037(73)90010-0" target="_blank">10.1016/0016-7037(73)90010-0</a>
 
 -   Rubinstein, N. A., Carrasquero, S. I., Gómez, A. L. R.,
-    Ricchetti, A. P. O., and D’Annunzio, M. C., 2018, Metallogeny of the
+    Ricchetti, A. P. O., and DAnnunzio, M. C., 2018, Metallogeny of the
     Paramillos de Uspallata Pb–Zn–Ag vein deposit in the Cuyo Rift
     Basin, Argentina, Comptes Rendus Geoscience, 350(4), 164–72.
     DOI:<a href="https://doi.org/10.1016/j.crte.2018.01.002" target="_blank">10.1016/j.crte.2018.01.002</a>
@@ -618,6 +662,12 @@
     Rb–Sr and Re–Os dating of sulfides, Mineralium Deposita, 42(7),
     791–7.
     DOI:<a href="https://doi.org/10.1007/s00126-007-0158-y" target="_blank">10.1007/s00126-007-0158-y</a>
+
+-   Schroll, E., Köppel, V., and Cerny, I., 2006, Pb and Sr isotope and
+    geochemical data from the Pb–Zn deposit Bleiberg (Austria):
+    constraints on the age of mineralization, Mineralogy and Petrology,
+    86(1–2), 129–56.
+    DOI:<a href="https://doi.org/10.1007/s00710-005-0107-3" target="_blank">10.1007/s00710-005-0107-3</a>
 
 -   Schwarz-Schampera, U., Terblanche, H., and Oberthür, T., 2010,
     Volcanic-hosted massive sulfide deposits in the Murchison greenstone
@@ -691,8 +741,8 @@
     DOI:<a href="https://doi.org/10.1111/j.1475-4754.1997.tb00792.x" target="_blank">10.1111/j.1475-4754.1997.tb00792.x</a>
 
 -   Stos-Gale, Z. A., and Gale, N. H., 1981, Sources of galena, lead and
-    silver in predynastic Egypt, Revue d’Archéometrie, Supplement (Actes
-    du XXe symposium international d’archéométrie Paris 26-29 mars 1980
+    silver in predynastic Egypt, Revue dArchéometrie, Supplement (Actes
+    du XXe symposium international darchéométrie Paris 26-29 mars 1980
     Volume III), 285–96.
     DOI:<a href="https://doi.org/10.3406/arsci.1981.1158" target="_blank">10.3406/arsci.1981.1158</a>
 
@@ -706,6 +756,11 @@
     Mediterranean: A footprint in the sea (eds. R. H. Tykot, T. K.
     Andrews, and M. Balmuth), Vol. 3, 317–45, Monographs in
     Mediterranean archaeology, Sheffield Academic Press, Sheffield.
+
+-   Subías, I., Fanlo, I., Mateo, E., Billström, K., and Recio, C.,
+    2010, Isotopic studies of Pb–Zn–(Ag) and barite Alpine vein deposits
+    in the Iberian Range (NE Spain), Geochemistry, 70(2), 149–58.
+    DOI:<a href="https://doi.org/10.1016/j.chemer.2009.12.004" target="_blank">10.1016/j.chemer.2009.12.004</a>
 
 -   Swainbank, I. G., Shepherd, T. J., Caboi, R., and Massoli-Novelli,
     R., 1982, Lead isotopic composition of some galena ores from
@@ -742,6 +797,11 @@
     Peloponnese, Greece: Type, genesis, and geotectonic setting, Ore
     Geology Reviews, 138, 104403.
     DOI:<a href="https://doi.org/10.1016/j.oregeorev.2021.104403" target="_blank">10.1016/j.oregeorev.2021.104403</a>
+
+-   Tămaș, C. G., Veres, D., and Chauvel, C., 2024, Lead isotopic
+    compositions of Paleozoic to Miocene ore deposits in the Western
+    Tethyan Belt, Ore Geology Reviews, 175, 106346.
+    DOI:<a href="https://doi.org/10.1016/j.oregeorev.2024.106346" target="_blank">10.1016/j.oregeorev.2024.106346</a>
 
 -   Ulrych, T. J., Burger, A., and Nicolaysen, L. O., 1967, Least
     radiogenic terrestrial leads, Earth and Planetary Science Letters,

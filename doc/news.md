@@ -1,5 +1,9 @@
 ## News
 
+2025-01-31 – Additional data from the Alps (contributor: R. Elsasser)
+and Romania (contributor: K. J. Westner). The database now includes 5413
+entries.
+
 2024-07-20 – Additional data from many Central American Countries and
 several Southern European Countries (contributor: K. J. Westner). The
 database now includes 4623 entries.
