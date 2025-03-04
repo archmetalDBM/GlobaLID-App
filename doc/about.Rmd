@@ -622,6 +622,23 @@ kable(escape = FALSE, col.names = NULL, format = "html") %>%
   column_spec(2, color = "black")
 cat("<br>")
 
+data.frame(
+  Portrait = paste0('![](../www/DFinn.png){height=96px}'), 
+  Text = paste("<b>Daniel M. Finn</b>", 
+               "The Hebrew University of Jerusalem, Israel", 
+               paste(
+                 add_Link("mailto:Danny.m.finn@gmail.com?subject=GlobaLID", "envelope", "fa"),
+                 add_Link("https://orcid.org/0009-0000-0953-0006", "orcid", "ai"),
+                 add_Link("https://independent.academia.edu/DanielFinn16", "academia", "ai"),
+                 add_Link("https://www.linkedin.com/in/daniel-m-finn/", "linkedin", "fa"),
+                 sep = " "),
+               sep = "<br>")
+) %>%
+kable(escape = FALSE, col.names = NULL) %>% 
+  column_spec(1, width_min = "110px") %>%
+  column_spec(2, color = "black")
+cat("<br>")
+
 ```
 
 ## Partners and Supporting Institutions

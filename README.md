@@ -215,6 +215,10 @@ Interested? Write us!
 - Sabine Fischer-Lechner (Forschungsbereich Archäometallurgie,
   Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum
   Bochum, Bochum, Germany)
+- Daniel M. Finn
+  [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0000-0953-0006)
+  (Institute of Archaeology, The Hebrew University of Jerusalem,
+  Jerusalem, Israel)
 
 # Funding
 
