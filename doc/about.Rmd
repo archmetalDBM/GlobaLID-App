@@ -634,7 +634,7 @@ data.frame(
                  sep = " "),
                sep = "<br>")
 ) %>%
-kable(escape = FALSE, col.names = NULL) %>% 
+kable(escape = FALSE, col.names = NULL, format = "html") %>% 
   column_spec(1, width_min = "110px") %>%
   column_spec(2, color = "black")
 cat("<br>")
