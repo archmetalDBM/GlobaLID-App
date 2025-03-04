@@ -100,6 +100,13 @@
     Blei-/Silbergewinnung im Germanien der frühen Römischen Kaiserzeit,
     PhD thesis, Westfälische Wilhelms-Universität Münster, Münster.
 
+-   Bode, M., Kiderlen, M., Mastrotheodoros, G., Jansen, M., Ben-Yosef,
+    E., Yagel, O., Renzi, M., Filippaki, E., Bassiakos, Y., Hein, A.,
+    and Hauptmann, A., 2024, New Archaeometallurgical Fingerprints of
+    Copper and Slag from Early Iron Age Smelting Sites in Faynan and
+    Timna, METALLA, 27(2), 167–219.
+    DOI:<a href="https://doi.org/10.46586/metalla.v27.2023.i2.167-219" target="_blank">10.46586/metalla.v27.2023.i2.167-219</a>
+
 -   Bolhar, R., Whitehouse, M. J., Milani, L., Magalhães, N.,
     Golding, S. D., Bybee, G., LeBras, L., and Bekker, A., 2020,
     Atmospheric S and lithospheric Pb in sulphides from the 2.06 Ga
@@ -279,6 +286,14 @@
     Thasos (eds. G. A. Wagner, and G. Weisgerber), Vol. 6, 212–23, Der
     Anschnitt Beiheft, Deutsches Bergbau-Museum Bochum, Bochum.
 
+-   Gale, N. H., Stos-Gale, Z. A., Bachmann, H. G., Rothenberg, B., and
+    Tylecote, R. F., 1990, The Adventitious Production of Iron in the
+    Smelting of Copper, In Researches in the Arabah, 1959-1984. Vol. 2,
+    The ancient metallurgy of copper: archaeology-experiment-theory
+    (eds. B. Rothenberg, and H. G. Bachmann), Vol. 3, 182–91, Metal in
+    history, Institute for Archaeo-Metallurgical Studies \[and\]
+    Institute of Archaeology, University College, London, London.
+
 -   Gale, N. H., Stos-Gale, Z. A., Lilov, P., Dimitrov, M., and Todorov,
     T., 1991, Recent Studies of Eneolithic Copper Ores and Artefacts in
     Bulgaria, In Decouverte du Metal (eds. J. Mohen, and C. Eluere),
@@ -348,6 +363,9 @@
     Gesellschaft für Geowissenschaften, 163(1), 69–89.
     DOI:<a href="https://doi.org/10.1127/1860-1804/2012/0163-0069" target="_blank">10.1127/1860-1804/2012/0163-0069</a>
 
+-   Hauptmann, A., 2007, The archaeometallurgy of copper: evidence from
+    Faynan, Jordan, Springer, Berlin.
+
 -   Hauptmann, A., Begemann, F., Heitkemper, E., Pernicka, E., and
     Schmitt-Strecker, S., 1992, Early Copper Produced at Feinan, Wadi
     Arabah, Jordan: The Composition of Ores and Copper, Archeomaterials,
@@ -409,6 +427,11 @@
     Damaran-Lufilian Fold Belt of Central Africa, Mineralium Deposita,
     34(3), 273–83.
     DOI:<a href="https://doi.org/10.1007/s001260050203" target="_blank">10.1007/s001260050203</a>
+
+-   Ketelaer, A., and Hauptmann, A., 2017, In the Shadow of Timna? The
+    Mining Region of Wadi Amram New Analytical and Archaeological
+    Aspects, METALLA, 22(2), 169–83.
+    DOI:<a href="https://doi.org/10.46586/metalla.v22.2016.i2.169-183" target="_blank">10.46586/metalla.v22.2016.i2.169-183</a>
 
 -   Kirnbauer, T., Wagner, T., Taubald, H., and Bode, M., 2012,
     Post-Variscan hydrothermal vein mineralization, Taunus, Rhenish

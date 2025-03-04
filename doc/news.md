@@ -1,5 +1,8 @@
 ## News
 
+2025-03-04 – Additional data from the Southern Levant (contributors: D.
+Finn, R. Elsasser). The database now includes 5589 entries.
+
 2025-01-31 – Additional data from the Alps (contributor: R. Elsasser)
 and Romania (contributor: K. J. Westner). The database now includes 5413
 entries.
