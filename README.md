@@ -196,11 +196,17 @@ Interested? Write us!
   L’Héritier](https://arscan.parisnanterre.fr/membre/maxime-lheritier/)
   [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-3428-2977)
   (University of Paris 8, Paris, France)
-- Pigments: [Alexandra
-  Rodler-Rørbo](https://www.oeaw.ac.at/en/oeai/institute/team/person/alexandra-rodler)
-  [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-4087-7160)
-  (Austrian Archaeological Institute, Austrian Academy of Sciences,
-  Vienna, Austria)
+- Pigments:
+  - [Alexandra
+    Rodler-Rørbo](https://www.oeaw.ac.at/en/oeai/institute/team/person/alexandra-rodler)
+    [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-4087-7160)
+    (Austrian Archaeological Institute, Austrian Academy of Sciences,
+    Vienna, Austria)
+  - [Andrea Acevedo
+    Mejía](https://www.oeaw.ac.at/en/oeai/institute/team/person/andrea-acevedo-mejia)
+    [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0002-7441-1737)
+    (Austrian Archaeological Institute, Austrian Academy of Sciences,
+    Vienna, Austria)
 - Archaeological materials: [Grzegorz
   Żabiński](https://usosweb.ujd.edu.pl/kontroler.php?_action=katalog2/osoby/pokazOsobe&os_id=12306)
   [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-3091-1035)

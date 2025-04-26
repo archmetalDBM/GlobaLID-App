@@ -433,6 +433,24 @@ cat("<br>")
 ```{r echo=FALSE, results='asis'}
 
 data.frame(
+  Portrait = paste0('![](../www/AAcevedo.png){height=96px}'), 
+  Text = paste("<b>Andrea Acevedo Mejía</b> (Pigments)", 
+               "Austrian Archaeological Institute, Austrian Academy of Sciences, Vienna, Austria", 
+               paste(
+                 add_Link("mailto:Andrea.AcevedoMejia@oeaw.ac.at?subject=GlobaLID", "envelope", "fa"),
+                 add_Link("https://www.oeaw.ac.at/en/oeai/institute/team/person/andrea-acevedo-mejia", "globe", "fa"),
+                 add_Link("https://orcid.org/0009-0002-7441-1737", "orcid", "ai"),
+                 add_Link("https://www.researchgate.net/profile/Andrea_Acevedo_Mejia", "researchgate", "ai"),
+                 add_Link("https://www.linkedin.com/in/andrea-acevedo-ru/", "linkedin", "fa"),
+                 sep = " "), 
+               sep = "<br>")
+) %>% 
+  kable(escape = FALSE, col.names = NULL, format = "html") %>% 
+  column_spec(1, width_min = "110px") %>%
+  column_spec(2, color = "black")
+cat("<br>")
+
+data.frame(
   Portrait = paste0('![](../www/LDussubieux.png){height=96px}'), 
   Text = paste("<b>Laure Dussubieux</b> (Glass)", 
                "Field Museum, Chicago, IL, USA", 
