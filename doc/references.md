@@ -55,6 +55,12 @@
     310–311, 23–35
     DOI:<a href="https://doi.org/10.1016/j.chemgeo.2012.03.021" target="_blank">10.1016/j.chemgeo.2012.03.021</a>
 
+-   Asael, D., Matthews, A., Bar-Matthews, M., Harlavan, Y., and Segal,
+    I., 2012, Tracking redox controls and sources of sedimentary
+    mineralization using copper and lead isotopes, Chemical Geology,
+    310–311, 23–35.
+    DOI:<a href="https://doi.org/10.1016/j.chemgeo.2012.03.021" target="_blank">10.1016/j.chemgeo.2012.03.021</a>
+
 -   Barnes, I. L., Shields, W. R., Murphy, T. J., and Brill, R. H.,
     1974, Isotopic analyses of Laurion lead ores, In Archaeological
     Chemistry (ed. C. W. Beck), 1–10, Advances in Chemistry Series 138,
@@ -185,6 +191,13 @@
     Damian, F., Iatan, L. E., and Seghedi, I., 2014, New high-precision
     lead isotope analyses of galena from Romanian ore districts and a
     review, Romanian Journal of Mineral Deposits, 87(1), 83–6.
+
+-   Chernyshev, I. V., Vikent’ev, I. V., Chugaev, A. V., Shatagin, K.
+    N., and Moloshag, V. P., 2008, Sources of material for massive
+    sulfide deposits in the Urals: Evidence from the high-precision
+    MC-ICP-MS isotope analysis of Pb in galena, Doklady Earth Sciences,
+    418(1), 178–83.
+    DOI:<a href="https://doi.org/10.1134/S1028334X0801039X" target="_blank">10.1134/S1028334X0801039X</a>
 
 -   Cook, N. J., and Chiaradia, M., 1997, Sources of base metal
     mineralization in the Baia Borsa orefield, NW Romania: constraints
@@ -636,6 +649,8 @@
     “Kupfermetallurgie,” Menschen - Kulturen - Traditionen
     ForschungsCluster 2, Innovation: technisch, sozial 11, Leidorf,
     Rahden, Westf.
+
+-   Prange, M., 2001, 5000 Jahre Kupfer im Oman, Metalla, 8/1-2, 1–126.
 
 -   Puig, A., 1988, Geologic and metallogenic significance of the
     isotopic composition of lead in galenas of the Chilean Andes,

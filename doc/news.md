@@ -1,5 +1,9 @@
 ## News
 
+2025-03-04 – Additional data from the Ural Mountains, some data from the
+Southern Levant corrected (R. Elsasser). The database now includes 5662
+entries.
+
 2025-03-04 – Additional data from the Southern Levant (contributors: D.
 Finn, R. Elsasser). The database now includes 5589 entries.
 
