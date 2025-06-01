@@ -506,7 +506,7 @@ cat("<br>")
 
 data.frame(
   Portrait = paste0('![](../www/MLHeritier.png){height=96px}'), 
-  Text = paste("<b>Maxime L'Héritier</b> (India)", 
+  Text = paste("<b>Maxime L'Héritier</b> (Lead items)", 
                "University of Paris 8, Paris, France", 
                paste(
                  add_Link("mailto:maxime.l_heritier@univ-paris8.fr", "envelope", "fa"),
