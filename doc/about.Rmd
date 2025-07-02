@@ -323,23 +323,6 @@ data.frame(
 cat("<br>")
 
 data.frame(
-  Portrait = paste0('![](../www/SdMadinabeitia.png){height=96px}'), 
-  Text = paste("<b>Sonia García de Madinabeitia</b> (Iberian Peninsula)", 
-               "Department of Anthropology, University of Oklahoma, Norman, OK, USA", 
-               paste(
-                 add_Link("mailto:sonia.gdm@ehu.eus?subject=GlobaLID", "envelope", "fa"),
-                 add_Link("https://www.ehu.eus/bilatu/buscar/seekuser.php?lang=es&u=bnBiZ2FtYXM=", "globe", "fa"),
-                 add_Link("https://orcid.org/0000-0002-3648-6490", "orcid", "ai"),
-                 add_Link("https://www.researchgate.net/profile/Sonia-Garcia-De-Madinabeitia", "researchgate", "ai"),
-                 sep = " "), 
-               sep = "<br>")
-) %>% 
-  kable(escape = FALSE, col.names = NULL, format = "html") %>% 
-  column_spec(1, width_min = "110px") %>%
-  column_spec(2, color = "black")
-cat("<br>")
-
-data.frame(
   Portrait = paste0('![](../www/SLiu.png){height=96px}'), 
   Text = paste("<b>Siran Liu</b> (China)", 
                "Institute for Cultural Heritage and History of Science & Technology, University of Science and Technology Beijing, China", 
@@ -400,6 +383,7 @@ data.frame(
                paste(
                  add_Link("mailto:RensonV@missouri.edu?subject=GlobaLID", "envelope", "fa"),
                  add_Link("https://archaeometry.missouri.edu/profile(Virginie).html", "globe", "fa"),
+                 add_Link("https://orcid.org/0000-0002-5701-0985", "orcid", "ai"),
                  sep = " "), 
                sep = "<br>")
 ) %>% 
@@ -596,7 +580,7 @@ cat("<br>")
 data.frame(
   Portrait = paste0('![](../www/GZabinski.png){height=96px}'), 
   Text = paste("<b>Grzegorz Żabiński</b> (Glass)", 
-               "FNRS researcher CReA-patrimoine and 4MAT, Université Libre de Bruxelles, Belgium", 
+               "Institute of History, Jan Długosz University in Częstochowa, Częstochowa, Poland", 
                paste(
                  add_Link("mailto:g.zabinski@ujd.edu.pl?subject=GlobaLID", "envelope", "fa"),
                  add_Link("https://usosweb.ujd.edu.pl/kontroler.php?_action=katalog2/osoby/pokazOsobe&os_id=12306", "globe", "fa"),
