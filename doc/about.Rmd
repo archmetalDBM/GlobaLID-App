@@ -579,7 +579,7 @@ cat("<br>")
 
 data.frame(
   Portrait = paste0('![](../www/GZabinski.png){height=96px}'), 
-  Text = paste("<b>Grzegorz Żabiński</b> (Glass)", 
+  Text = paste("<b>Grzegorz Żabiński</b> (Archaeological materials)", 
                "Institute of History, Jan Długosz University in Częstochowa, Częstochowa, Poland", 
                paste(
                  add_Link("mailto:g.zabinski@ujd.edu.pl?subject=GlobaLID", "envelope", "fa"),
