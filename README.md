@@ -33,7 +33,7 @@ locations: <img src="man/figures/README-map-1.png" width="100%" />
 
 If you use the GlobaLID app, please cite it as:
 
-- GlobaLID Core Team. (2021). GlobaLID web application V. 1.0, database
+- GlobaLID Core Team. (2021). GlobaLID web application V. 1.1, database
   status: 2025-07-28. <https://globalid.dmt-lb.de/>
 - Klein, S., Rose, T., Westner, K. J., & Hsu, Y.-K. (2022). From OXALID
   to GlobaLID: Introducing a modern and FAIR lead isotope database with
@@ -42,10 +42,10 @@ If you use the GlobaLID app, please cite it as:
 
 <!-- -->
 
-    @misc{GlobaLIDCoreTeam.2022,
+    @misc{GlobaLIDCoreTeam.2025,
      author = {{GlobaLID Core Team}},
-     year = {2022},
-     title = {{GlobaLID web application V. 1.0, database status: 2025-07-28}},
+     year = {2025},
+     title = {{GlobaLID web application V. 1.1, database status: 2025-07-28}},
      url = {https://globalid.dmt-lb.de/}
     }
 
