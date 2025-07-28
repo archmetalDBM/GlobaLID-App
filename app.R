@@ -265,7 +265,7 @@ ui <- dashboardPage(
   ),
   footer = dashboardFooter(
     left = a(
-      href = "mailto:globalid@bergbaumuseum.de?subject=GlobaLID Web App",
+      href = "mailto:terralid@bergbaumuseum.de?subject=GlobaLID Web App",
       target = "_blank", "Contact the GlobaLID Core team"  
     ),
     right = paste("Database status:", format(update_database,"%d %B %Y"))
@@ -754,12 +754,12 @@ server <- function(input, output, session) {
   showModal(
     modalDialog(
       title = "Welcome to GlobaLID!",
-      h6("Welcome to the prototype of the GlobaLID web application."),
-      div("We are currently developing the full version of GlobaLID. Visit ", 
-          a(href = "https://archmetaldbm.github.io/Globalid/", target="_blank", "our webpage"), 
-          "to learn more about GlobaLID and the current state of the work."),
+      h6("Welcome to the prototype of TerraLID, the research data infrastructure for lead isotope data."),
+      div("TerraLID is currently under development. Visit ", 
+          a(href = "https://www.terralid.org", target="_blank", "our webpage"), 
+          "to learn more about GlobaLID, TerraLID, and the current state of the work."),
       div("In the meanwhile, we appreciate if you send us any feedback or suggestions you might have",
-          a(href = "mailto:globalid@bergbaumuseum.de?subject=Feedback to GlobaLID Web App", "by mail"),
+          a(href = "mailto:terralid@bergbaumuseum.de?subject=Feedback to GlobaLID Web App", "by mail"),
           "."), 
       div(tags$b("Thank you!")),
       footer = modalButton("Close"), 
@@ -1340,7 +1340,7 @@ server <- function(input, output, session) {
       if (any(input$download_plot1, input$download_plot2, input$download_combineh, input$download_combinev)) {
         
         plot_explore1 <- plot_explore1() + 
-          labs(subtitle = paste("Made with GlobaLID 1.0, database status: ", format(update_database,"%Y-%m-%d"), sep = " ")) + 
+          labs(subtitle = paste("Made with GlobaLID 1.1, database status: ", format(update_database,"%Y-%m-%d"), sep = " ")) + 
           theme(plot.subtitle = element_text(colour = "grey50", size = 8))
         
         plot_explore2 <- plot_explore2() + 
@@ -1358,7 +1358,7 @@ server <- function(input, output, session) {
           filename_plot2 <- paste("Plot2", input$download_plot_filetype, sep = ".")
           
           plot_explore2 +
-            labs(subtitle = paste("Made with GlobaLID 1.0, database status: ", format(update_database,"%Y-%m-%d"), sep = " "))
+            labs(subtitle = paste("Made with GlobaLID 1.1, database status: ", format(update_database,"%Y-%m-%d"), sep = " "))
           
             ggsave(filename_plot2, path = tmpdir, device = input$download_plot_filetype,
                    width = input$download_plot2_width, height = input$download_plot2_height, unit = input$download_unit,
@@ -1632,7 +1632,7 @@ server <- function(input, output, session) {
         
         sendmail(
           from = "no-reply@globalid.dmt-lb.de",
-          to = "globalid@bergbaumuseum.de",
+          to = "terralid@bergbaumuseum.de",
           subject = "GlobaLID: New submission",
           msg = msg,
           control = list(smtpServer="localhost")
