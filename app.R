@@ -363,6 +363,7 @@ ui <- dashboardPage(
             title = "Upload Form", 
             width = 3,
             maximizable = TRUE, 
+            tags$b(a(href = "../template_upload.csv", "Click to download template (.csv)")),
             uiOutput("file_upload"),
             hr(style = "border-top: 1px solid #adb5bd;"), 
             h5("Parameters:"),
