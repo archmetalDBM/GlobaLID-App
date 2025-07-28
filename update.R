@@ -1,2 +1,2 @@
-update_database <- as.Date("2025-04-26")
+update_database <- as.Date("2025-07-28")
 app_version <- "1.0"

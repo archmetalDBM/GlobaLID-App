@@ -79,47 +79,7 @@ GlobaLID needs your help to grow and to provide high quality datasets! The core 
 
 # Team 
 
-## Project team
-
-* [Sabine Klein](https://www.bergbaumuseum.de/en/museum/mitarbeitende/kontakt-detailseite/prof-dr-sabine-klein) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-3939-4428) (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany; Institut für Archäologische Wissenschaften, Ruhr-Universität Bochum, Bochum, Germany; FIERCE, Frankfurt Isotope & Element Research Centre, Goethe Universität, Frankfurt am Main, Germany)
-* Helge Wiethoff (Rechenzentrum, Technische Hochschule Georg Agricola, Bochum, Germany)
-* [Thomas Rose](https://copper-smelting.com/) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-8186-3566) (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)
-* [Tim Greifelt](https://www.bergbaumuseum.de/museum/mitarbeitende/kontakt-detailseite/tim-greifelt) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0007-9701-8547) (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)
-* [Katrin J. Westner](https://www.bergbaumuseum.de/museum/mitarbeitende/kontakt-detailseite/dr-katrin-julia-westner) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-5529-1165) (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)
-* [Yiu-Kang Hsu](https://www.bergbaumuseum.de/en/museum/mitarbeitende/kontakt-detailseite/yiu-kang-hsu) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-2439-4863) (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)
-* [Annette Hornschuch](https://www.bergbaumuseum.de/museum/mitarbeitende/kontakt-detailseite/annette-hornschuch) (Forschungsbereich Montanarchäologie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)
-
-## Regional editors
-* China: [Siran Liu](https://enihmm.ustb.edu.cn/Staff/Academic_Senior_Research_Staff/bde24d0cde654407b9c56f78a81490a9.htm) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-9250-4561) (Institute for Cultural Heritage and History of Science & Technology, University of Science and Technology Beijing, China)
-* Southeast Asia: [T. O. Pryce](https://iramat.cnrs.fr/user/oliver.pryce/) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-7290-141X) (Centre National de la Recherche Scientifique, UMR 7065 Institut de Recherche sur les ArchéoMATériaux, Université Paris-Saclay & CEA/CNRS UMR 3685 NIMBE, 91191 Gif-sur-Yvette, France)
-* South Asia: [Thomas R. Fenn](https://www.ou.edu/cas/anthropology/faculty-staff/thomas-fenn) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-8560-6797) (Department of Anthropology, University of Oklahoma, Norman, OK, USA)
-* India: [Meghna Desai](https://www.cyi.ac.cy/index.php/starc/about-the-center/starc-our-people/author/1059-meghna-desai.html) (Science and Technology in Archaeology and Culture Research Center (STARC), The Cyprus Institute, Nicosia, Cyprus) 
-* Iran: [Nima Nezafati](https://www.bergbaumuseum.de/en/museum/mitarbeitende/kontakt-detailseite/dr-nima-nezafati) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-5806-343X) (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für  Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)
-* Iberian Peninsula: [Sonia García de Madinabeitia](https://www.ehu.eus/bilatu/buscar/seekuser.php?lang=es&u=bnBiZ2FtYXM=) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-3648-6490) (Departamento de Geología, Universidad del País Vasco (UPV/EHU), Bilbao, Spain)
-* North Africa: [Thomas R. Fenn](https://www.ou.edu/cas/anthropology/faculty-staff/thomas-fenn) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-8560-6797) (Department of Anthropology, University of Oklahoma, Norman, OK, USA)
-* South Africa: [Jay Stephens](https://archaeometry.missouri.edu/staff.html) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-1299-3946) (School of Anthropology, University of Arizona, Tucson, AZ, USA; Archaeometry Laboratory, Research Reactor Center, University of Missouri, Columbia, MO, USA)
-* North America: [Virginie Renson](https://archaeometry.missouri.edu/profile(Virginie).html) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-5701-0985) (Archaeometry Laboratory, Research Reactor Center, University of Missouri, Columbia, MO, USA)
-* South America: [María Florencia Becerra](https://www.conicet.gov.ar/new_scp/detalle.php?id=29835) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-6302-7452) (CONICET (Consejo Nacional de Investigaciones Científicas y Técnicas) - División Arqueología, Museo de La Plata, Facultad de Ciencias Naturales y Museo, Universidad Nacional de La Plata, Argentina)
-
-## Material editors
-* Glass: 
-  * [Laure Dussubieux](https://www.fieldmuseum.org/about/staff/profile/laure-dussubieux) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-9334-8131) (Field Museum, Chicago, IL, USA)
-  * [Alicia Van Ham-Meert](https://crea.phisoc.ulb.be/fr/corps-scientifique/van-ham-meert-alicia-1) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-6796-3141) (FNRS researcher CReA-patrimoine and 4MAT, Université Libre de Bruxelles, Belgium)
-  * [Thomas R. Fenn](https://www.ou.edu/cas/anthropology/faculty-staff/thomas-fenn) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-8560-6797) (Department of Anthropology, University of Oklahoma, Norman, OK, USA)
-* Copper items: 
-  * Frederik Rademakers [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-6036-1612) (Department of Scientific Research, British Museum, London, United Kingdom)
-  * [T. O. Pryce](https://iramat.cnrs.fr/user/oliver.pryce/) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-7290-141X) (Centre National de la Recherche Scientifique, UMR 7065 Institut de Recherche sur les ArchéoMATériaux, Université Paris-Saclay & CEA/CNRS UMR 3685 NIMBE, 91191 Gif-sur-Yvette, France)
-* Coins: [David Wigg-Wolf](https://www.dainst.org/wer-wir-sind/mitarbeitende/noslug/574) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-8604-544X) (Römisch-Germanische Kommission des Deutschen Archäologischen Instituts, Frankfurt, Germany)
-* Lead items: [Maxime L'Héritier](https://arscan.parisnanterre.fr/membre/maxime-lheritier/) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-3428-2977) (University of Paris 8, Paris, France)
-* Pigments: 
-  * [Alexandra Rodler-Rørbo](https://www.oeaw.ac.at/en/oeai/institute/team/person/alexandra-rodler) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-4087-7160) (Austrian Archaeological Institute, Austrian Academy of Sciences, Vienna, Austria)
-  * [Andrea Acevedo Mejía](https://www.oeaw.ac.at/en/oeai/institute/team/person/andrea-acevedo-mejia) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0002-7441-1737) (Austrian Archaeological Institute, Austrian Academy of Sciences, Vienna, Austria)
-* Archaeological materials: [Grzegorz Żabiński](https://usosweb.ujd.edu.pl/kontroler.php?_action=katalog2/osoby/pokazOsobe&os_id=12306) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-3091-1035) (Institute of History, Jan Długosz University in Częstochowa, Częstochowa, Poland)
-
-## Contributors (Data)
-* Rebekka Elsasser (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)
-* Sabine Fischer-Lechner (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)
-* Daniel M. Finn [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0000-0953-0006) (Institute of Archaeology, The Hebrew University of Jerusalem, Jerusalem, Israel)
+Please find the up-to-date list of team members on the [TerraLID webpage](https://terralid.org/team.html), where development of GlobaLID continues. 
 
 # Funding
 <table width="100%" cellspacing="0" cellpadding="0" border="0">

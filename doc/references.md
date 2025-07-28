@@ -43,6 +43,11 @@
     Study in Sb-Mineralisation from Western Carpathian (Slovakia),
     Carpathian Journal of Earth and Environmental Sciences, 5(2), 71–80.
 
+-   Arribas, A., and Tosdal, R. M., 1994, Isotopic composition of Pb in
+    ore deposits of the Betic Cordillera, Spain: Origin and Relationship
+    to other European deposits, Economic Geology, 89, 1074–93.
+    DOI:<a href="https://doi.org/10.2113/gsecongeo.89.5.1074" target="_blank">10.2113/gsecongeo.89.5.1074</a>
+
 -   Artioli, G., Angelini, I., Nimis, P., and Villa, I. M., 2016, A
     lead-isotope database of copper ores from the Southeastern Alps: A
     tool for the investigation of prehistoric copper metallurgy, Journal
@@ -351,6 +356,10 @@
     vs. Sedimentary Exhalative, Economic Geology, 87, 2085–112.
     DOI:<a href="https://doi.org/10.2113/gsecongeo.87.8.2085" target="_blank">10.2113/gsecongeo.87.8.2085</a>
 
+-   Giunti I. 2011. Geochemical and isotopic tracers in copper deposits
+    and ancient artifacts: a database for provenance. Padova: Università
+    degli Studi di Padova, 161 p. 
+
 -   Grafenauer, S., 1965, The genetic classification of the lead and
     zinc deposits in Slovenia, Rudarsko-metalurski zbornik, 165–71.
 
@@ -611,6 +620,12 @@
     possible relation with ore deposits of the Erzgebirge, Archaeometry,
     45(1), 61–100.
     DOI:<a href="https://doi.org/10.1111/1475-4754.00097" target="_blank">10.1111/1475-4754.00097</a>
+
+-   Nimis, P., Omenetto, P., Giunti, I., Artioli, G., and Angelini, I.,
+    2012, Lead isotope systematics in hydrothermal sulphide deposits
+    from the central-eastern Southalpine (northern Italy), European
+    Journal of Mineralogy, 24(1), 23–37.
+    DOI:<a href="https://doi.org/10.1127/0935-1221/2012/0024-2163" target="_blank">10.1127/0935-1221/2012/0024-2163</a>
 
 -   OXALID: Oxford Archaeological Lead Isotope Database from the
     Isotrace Laboratory (<https://oxalid.arch.ox.ac.uk/default.html>)
