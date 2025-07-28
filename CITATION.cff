@@ -6,12 +6,12 @@ type: software
 authors:
   - name: GlobaLID Core Team
     email: globalid@bergbaumuseum.de
-version: "1.0"
+version: "1.1"
 license: GPL-3.0-only
-year: '2022'
+year: '2025'
 url: https://globalid.dmt-lb.de/
 repository-code: https://github.com/archmetalDBM/GlobaLID-App
-date-released: '2022-03-28'
+date-released: '2025-07-28'
 contact:
 - name: GlobaLID Core Team
   email: globalid@bergbaumuseum.de

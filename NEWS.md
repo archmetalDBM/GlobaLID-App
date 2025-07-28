@@ -1,4 +1,8 @@
-# Version 1.1 (in progress)
+# Version 1.2 (in progress)
+
+* 
+
+# Version 1.1
 
 ## Enhancements
 

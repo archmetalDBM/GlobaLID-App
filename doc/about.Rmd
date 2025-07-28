@@ -46,7 +46,7 @@ provided you attribute the GlobaLID Core Team as the source of the copyright mat
 Please attribute to GlobaLID by citing: 
 
 * Westner, Katrin J.; Rose, Thomas; Klein, Sabine; Hsu, Yiu-Kang; Becerra, María Florencia; Nezafati, Nima; Renson, Virginie & Stephens, Jay (2023): GlobaLID – Global Lead Isotope Database. V. 1.1. GFZ Data Services. <a href="https://doi.org/10.5880/fidgeo.2023.043" target="_blank">https://doi.org/10.5880/fidgeo.2023.043</a>
-* GlobaLID Core Team (2021): GlobaLID web application V. `r app_version`, database status: `r format.Date(update_database, "%F")`. <a href="https://globalid.dmt-lb.de/" target="_blank">https://globalid.dmt-lb.de/</a>
+* GlobaLID Core Team (2025): GlobaLID web application V. `r app_version`, database status: `r format.Date(update_database, "%F")`. <a href="https://globalid.dmt-lb.de/" target="_blank">https://globalid.dmt-lb.de/</a>
 * Klein, S., Rose, T., Westner, K. J., & Hsu, Y.-K. (2022). From OXALID to GlobaLID: Introducing a modern and FAIR lead isotope database with an interactive application. Archaeometry 64(4), 935--950. <a href="https://doi.org/10.1111/arcm.12762" target="_blank">https://doi.org/10.1111/arcm.12762</a>
 
 For direct import into your reference manager copy the citations as 
@@ -62,9 +62,9 @@ For direct import into your reference manager copy the citations as
  url = {https://doi.org/10.5880/fidgeo.2023.043}
 }
 
-@misc{GlobaLIDCoreTeam.2022,
+@misc{GlobaLIDCoreTeam.2025,
  author = {{GlobaLID Core Team}},
- year = {2022},
+ year = {2025},
  title = {{GlobaLID web application V. `r app_version`, database status: `r format.Date(update_database, "%F")`}},
  url = {https://globalid.dmt-lb.de/}
 }
@@ -106,8 +106,8 @@ TY  - COMP
 AU  - GlobaLID Core Team
 TI  - GlobaLID web application
 ET  - V. `r app_version`, database status: `r format.Date(update_database, "%F")`
-PY  - 2022
-DA  - 2022
+PY  - 2025
+DA  - 2025
 UR  - https://globalid.dmt-lb.de/
 ER  - 
 

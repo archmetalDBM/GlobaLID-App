@@ -56,9 +56,9 @@ If you use the GlobaLID app, please cite it as:
 * Klein, S., Rose, T., Westner, K. J., & Hsu, Y.-K. (2022). From OXALID to GlobaLID: Introducing a modern and FAIR lead isotope database with an interactive application. Archaeometry 64(4), 935–950. [https://doi.org/10.1111/arcm.12762](https://doi.org/10.1111/arcm.12762)
 
 ```
-@misc{GlobaLIDCoreTeam.2022,
+@misc{GlobaLIDCoreTeam.2025,
  author = {{GlobaLID Core Team}},
- year = {2022},
+ year = {2025},
  title = {{GlobaLID web application V. `r app_version`, database status: `r format.Date(update_database, "%F")`}},
  url = {https://globalid.dmt-lb.de/}
 }
