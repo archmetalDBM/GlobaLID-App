@@ -5,6 +5,7 @@
 * Links open now in a new tabs/windows. Exception: Links that are displayed as their URL. In these cases automatic link detection overwrites it to the default behaviour (open in same tab).  (#4)
 * Data can be subset based on tectonic/geological information via Tectonic/geol. super unit/unit/sub unit and deposit type (#8). 
 * The upload page contains now a tab "Instructions" with detailed information about the file structure of files suitable for upload and hints for troubleshooting (#6)
+* A template for data upload is now available through a link above the file input. 
 
 ## Bugfixes
 

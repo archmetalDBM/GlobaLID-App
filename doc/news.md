@@ -1,7 +1,8 @@
 ## News
 
 2025-07-28 – Additional data from Italy (R. Elsasser). The database now
-includes 5670 entries.
+includes 5670 entries. A template for uploading data is now available
+through a link above the file upload.
 
 2025-04-26 – Additional data from the Ural Mountains, some data from the
 Southern Levant corrected (R. Elsasser). The database now includes 5662
