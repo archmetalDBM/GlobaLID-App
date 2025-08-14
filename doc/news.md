@@ -1,5 +1,9 @@
 ## News
 
+2025-08-14 – Additional data from Argentina and updated metadata for
+data from Argentina (contributor: M. F. Becerra). The database now
+includes 5703 entries.
+
 2025-07-28 – Additional data from Italy (R. Elsasser). The database now
 includes 5670 entries. A template for uploading data is now available
 through a link above the file upload. Version 1.1 of the web application

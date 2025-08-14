@@ -33,7 +33,7 @@
 
 -   Amov, B., Kolkovski, B., and Dimitrov, R., 1993, Генезис и възраст
     на хидротермални рудни минерализации в родопската металогенна зона
-    въз основа на изотопния състав на оловото в галенит  \[Genesis and
+    въз основа на изотопния състав на оловото в галенит \[Genesis and
     age of hydrothermal ore mineralization in the Rhodope metallogenic
     zone on the basis of the isotopic composition of lead in galena\],
     Annuaire de lUniversité de Sofia “St. Kliment Ohridski” Faculté de
@@ -53,12 +53,6 @@
     tool for the investigation of prehistoric copper metallurgy, Journal
     of Archaeological Science, 75, 27–39.
     DOI:<a href="https://doi.org/10.1016/j.jas.2016.09.005" target="_blank">10.1016/j.jas.2016.09.005</a>
-
--   Asael, D., Matthews, A., Bar-Matthews, M., Harlavan, Y., and Segal,
-    I., 2012, Tracking redox controls and sources of sedimentary
-    mineralization using copper and lead isotopes, Chemical Geology,
-    310–311, 23–35
-    DOI:<a href="https://doi.org/10.1016/j.chemgeo.2012.03.021" target="_blank">10.1016/j.chemgeo.2012.03.021</a>
 
 -   Asael, D., Matthews, A., Bar-Matthews, M., Harlavan, Y., and Segal,
     I., 2012, Tracking redox controls and sources of sedimentary
@@ -129,6 +123,19 @@
     Iglesiente-Sulcis Area (SW Sardinia) and the problem of
     remobilization of metals, Mineralium Deposita, 20(3), 185–93.
     DOI:<a href="https://doi.org/10.1007/BF00204563" target="_blank">10.1007/BF00204563</a>
+
+-   Borba, M. L., Chemale, F., Kawashita, K., Takehara, L., Babinski,
+    M., and Bruckman, M., 2016, The Bajo de la Alumbrera and Agua Rica
+    Cu–Au (Mo) porphyry deposits of Argentina: Genetic constraints on
+    ore formation and sources based on isotope signatures, Ore Geology
+    Reviews, 75, 116–24.
+    DOI:<a href="https://doi.org/10.1016/j.oregeorev.2015.12.010" target="_blank">10.1016/j.oregeorev.2015.12.010</a>
+
+-   Borba, M. L., Tassinari, C. C. G., Kirk, J., and Ruiz, J., 2020,
+    Ages and isotope evolution of the Agua Rica Cu-Au
+    porphyry-epithermal deposit, NW Argentina, Ore Geology Reviews,
+    119, 103395.
+    DOI:<a href="https://doi.org/10.1016/j.oregeorev.2020.103395" target="_blank">10.1016/j.oregeorev.2020.103395</a>
 
 -   Brill, R. H., 1970, Lead and Oxygen Isotopes in Ancient Objects,
     Philosophical Transactions of the Royal Society of London. Series A,
