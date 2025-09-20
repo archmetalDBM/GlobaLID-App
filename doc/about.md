@@ -4,7 +4,7 @@ GlobaLID is a Global Lead Isotope Database and aims to facilitate the
 reconstruction of raw material provenances with lead isotopes,
 especially in archaeology. The app provides direct access to and
 convenient interaction with the
-<a href="https://doi.org/10.5880/fidgeo.2023.043"
+<a href="https://doi.org/10.5880/fidgeo.2025.080"
 target="_blank">GlobaLID database</a>. You can filter the database
 according to your research question, upload own data to compare it with
 GlobaLID, and produce and download publication ready plots. Please watch
@@ -61,9 +61,9 @@ Please attribute to GlobaLID by citing:
 
 -   Westner, Katrin J.; Rose, Thomas; Klein, Sabine; Hsu, Yiu-Kang;
     Becerra, María Florencia; Nezafati, Nima; Renson, Virginie &
-    Stephens, Jay (2023): GlobaLID – Global Lead Isotope Database. V.
-    1.1. GFZ Data Services.
-    <a href="https://doi.org/10.5880/fidgeo.2023.043" target="_blank">https://doi.org/10.5880/fidgeo.2023.043</a>
+    Stephens, Jay (2023): GlobaLID – Global Lead Isotope Database
+    (Version 08/2025). GFZ Data Services.
+    <a href="https://doi.org/10.5880/fidgeo.2025.080" target="_blank">https://doi.org/10.5880/fidgeo.2025.080</a>
 -   GlobaLID Core Team (2025): GlobaLID web application V. 1.1, database
     status: 2025-08-14.
     <a href="https://globalid.dmt-lb.de/" target="_blank">https://globalid.dmt-lb.de/</a>
@@ -82,10 +82,10 @@ bibtex
     @misc{Westner.2023,
      author = {Westner, Katrin J. and Rose, Thomas and Klein, Sabine and Hsu, Yiu-Kang and Becerra, María Florencia and Nezafati, Nima and Renson, Virginie and Stephens, Jay},
      year = {2023},
-     title = {{GlobaLID -- Global Lead Isotope Database V. 1.1}},
+     title = {{GlobaLID – Global Lead Isotope Database (Version 08/2025)}},
      publisher = {{GFZ Data Services}},
      doi = {10.5880/fidgeo.2023.043}, 
-     url = {https://doi.org/10.5880/fidgeo.2023.043}
+     url = {https://doi.org/10.5880/fidgeo.2025.080}
     }
 
     @misc{GlobaLIDCoreTeam.2025,

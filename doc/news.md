@@ -1,5 +1,9 @@
 ## News
 
+2025-09-18 – The database version 08/2025 is now published at GFZ Data
+Services, archiving its current state:
+<https://doi.org/10.5880/fidgeo.2025.080>
+
 2025-08-14 – Additional data from Argentina and updated metadata for
 data from Argentina (contributor: M. F. Becerra). The database now
 includes 5703 entries.
@@ -31,7 +35,7 @@ deposits were cleaned up.
 Germany (contributors: S. Fischer-Lechner, T. Rose). The database now
 includes 4563 entries.
 
-2024-01-03 – The database version 1.1. is now published at GFZ Data
+2024-01-03 – The database version 12/2023 is now published at GFZ Data
 Services, archiving its current state:
 <https://doi.org/10.5880/fidgeo.2023.043>
 
