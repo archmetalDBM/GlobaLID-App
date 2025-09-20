@@ -64,11 +64,11 @@ references:
       - family-names: Stephens
         given-names: Jay
         orcid: https://orcid.org/0000-0003-1299-3946
-    title: "GlobaLID – Global Lead Isotope Database. V. 1.1"
+    title: "GlobaLID – Global Lead Isotope Database (Version 08/2025)"
     type: dataset
     database-provider: 
       name: "GFZ Data Services"
-    doi: "10.5880/fidgeo.2023.043"
+    doi: "10.5880/fidgeo.2025.080"
     scope: "Cite this dataset for the GlobaLID database."
     year: 2023
-    version: "1.1"
+    version: "1.2"
