@@ -658,6 +658,11 @@
     Zeitschrift, 68, 1–54.
     DOI:<a href="https://doi.org/10.1515/prhz.1993.68.1.1" target="_blank">10.1515/prhz.1993.68.1.1</a>
 
+-   Pernicka, E., Lutz, J., and Stöllner, T., 2016, Bronze Age Copper
+    Produced at Mitterberg, Austria, and its Distribution, Archaeologia
+    Austriaca, 1, 19–56.
+    DOI:<a href="https://doi.org/10.1553/archaeologia100s19" target="_blank">10.1553/archaeologia100s19</a>
+
 -   Pernicka, E., Momenzadeh, M., Vatandoust, A., Adam, K., Böhme, M.,
     Hezarkhani, Z., Nezafati, N., Schreiner, M., and Winterholler, B.,
     2011, Archaeometallurgical research on the Western Central Iranian

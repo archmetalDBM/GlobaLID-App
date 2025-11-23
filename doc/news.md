@@ -1,5 +1,8 @@
 ## News
 
+2025-11-23 – Additional data from Mitterberg (Austria) (contributor: R.
+Geismar). The database now includes 5787 entries.
+
 2025-09-18 – The database version 08/2025 is now published at GFZ Data
 Services, archiving its current state:
 <https://doi.org/10.5880/fidgeo.2025.080>
