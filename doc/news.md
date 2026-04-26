@@ -1,5 +1,8 @@
 ## News
 
+2026-04-26 – Correct coordinates for some entries (contributor: J.
+Becker).
+
 2025-11-23 – Additional data from Mitterberg (Austria) (contributor: R.
 Geismar). The database now includes 5787 entries.
 

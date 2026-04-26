@@ -27,14 +27,15 @@ webpage](https://archmetaldbm.github.io/Globalid/) to learn more about
 the GlobaLID project and to get the latest news.
 
 The current version of the GlobaLID database includes data from these
-locations: <img src="man/figures/README-map-1.png" width="100%" />
+locations:
+<img src="man/figures/README-map-1.png" alt="" width="100%" />
 
 # How to cite
 
 If you use the GlobaLID app, please cite it as:
 
 - GlobaLID Core Team. (2025). GlobaLID web application V. 1.1, database
-  status: 2025-11-23. <https://globalid.dmt-lb.de/>
+  status: 2026-04-26. <https://globalid.dmt-lb.de/>
 - Klein, S., Rose, T., Westner, K. J., & Hsu, Y.-K. (2022). From OXALID
   to GlobaLID: Introducing a modern and FAIR lead isotope database with
   an interactive application. Archaeometry 64(4), 935–950.
@@ -45,7 +46,7 @@ If you use the GlobaLID app, please cite it as:
     @misc{GlobaLIDCoreTeam.2025,
      author = {{GlobaLID Core Team}},
      year = {2025},
-     title = {{GlobaLID web application V. 1.1, database status: 2025-11-23}},
+     title = {{GlobaLID web application V. 1.1, database status: 2026-04-26}},
      url = {https://globalid.dmt-lb.de/}
     }
 
