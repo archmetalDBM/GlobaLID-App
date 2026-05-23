@@ -1,5 +1,8 @@
 ## News
 
+2026-05-22 – Additional data from Turkey and Cyprus (contributor: B.
+Cordivari). The database now includes 6255 entries.
+
 2026-04-26 – Correct coordinates for some entries (contributor: J.
 Becker).
 

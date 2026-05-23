@@ -90,6 +90,12 @@
     from Nuragic Sardinia, European Journal of Archaeology, 4, 43–85.
     DOI:<a href="https://doi.org/10.1179/eja.2001.4.1.43" target="_blank">10.1179/eja.2001.4.1.43</a>
 
+-   Begemann, F., Schmitt-Strecker, S., and Pernicka, E., 2003, On the
+    composition and provenance of metal finds from Besiktepe (Troia), In
+    Troia and the Troad: Scientific Approaches (eds. G. A. Wagner, E.
+    Pernicka, and H. P. Uerpmann), 173–201, Natural Science in
+    Archaeology, Springer, Berlin.
+
 -   Begemann, F., and Schmitt-Strecker, S., 2009, Über das frühe Kupfer
     Mesopotamiens, Iranica Antiqua, 44, 1–45.
     DOI:<a href="https://doi.org/10.2143/IA.44.0.2034374" target="_blank">10.2143/IA.44.0.2034374</a>
@@ -124,6 +130,12 @@
     remobilization of metals, Mineralium Deposita, 20(3), 185–93.
     DOI:<a href="https://doi.org/10.1007/BF00204563" target="_blank">10.1007/BF00204563</a>
 
+-   Booij, E., Bettison-Varga, L., Farthing, D., and Staudigel, H.,
+    2000, Pb-isotope systematics of a fossil hydrothermal system from
+    the Troodos ophiolite, Cyprus: Evidence for a polyphased alteration
+    history, Geochimica et Cosmochimica Acta, 64(20), 3559–69.
+    DOI:<a href="https://doi.org/10.1016/S0016-7037(00)00449-X" target="_blank">10.1016/S0016-7037(00)00449-X</a>
+
 -   Borba, M. L., Chemale, F., Kawashita, K., Takehara, L., Babinski,
     M., and Bruckman, M., 2016, The Bajo de la Alumbrera and Agua Rica
     Cu–Au (Mo) porphyry deposits of Argentina: Genetic constraints on
@@ -137,6 +149,11 @@
     119, 103395.
     DOI:<a href="https://doi.org/10.1016/j.oregeorev.2020.103395" target="_blank">10.1016/j.oregeorev.2020.103395</a>
 
+-   Bozkaya, G., and Gökçe, A., 2009, Lead and Sulfur Isotope Studies of
+    the Koru (Çanakkale, Turkey) Lead-Zinc Deposits, Turkish Journal of
+    Earth Sciences.
+    DOI:<a href="https://doi.org/10.3906/yer-0806-5" target="_blank">10.3906/yer-0806-5</a>
+
 -   Brill, R. H., 1970, Lead and Oxygen Isotopes in Ancient Objects,
     Philosophical Transactions of the Royal Society of London. Series A,
     Mathematical and Physical Sciences, 269(1193), 143–64.
@@ -146,6 +163,12 @@
     Some Ancient Egyptian Objects, In Recent Advances in Science and
     Technology of Materials (ed. A. Bishay), Vol. 3, 9–27, Plenum, New
     York.
+
+-   Brill, R. H., and Wampler, J., 1967, Isotope ratios in
+    archaeological objects of lead, In Application of science in
+    examination of works of art: Proceedings of the seminar 7.-16.9.1965
+    (ed. Museum of Fine Arts (Boston, Mass.). Research Laboratory),
+    155–66, Boston Museum of Fine Arts, Boston.
 
 -   Brodtkorb, M. K., and Brodtkorb, A., 1982, Datos isotópicos de plomo
     de la mineralización de la Mina La Helvecia, prov. de La Rioja,
@@ -169,6 +192,9 @@
     Sardinia (Iglesiente): lead isotope evidence, European Journal of
     Mineralogy, 9(5), 1005–16.
     DOI:<a href="https://doi.org/10.1127/ejm/9/5/1005" target="_blank">10.1127/ejm/9/5/1005</a>
+
+-   Ceyhan, N., 2003, Lead isotope geochemistry of Pb-Zn deposits from
+    Eastern Taurides, Turkey, , Middle East Technical University.
 
 -   Chalkias, S., Vavelidis, M., Schmitt-Strecker, S., and Begemann, F.,
     1988, Geologische Interpretation der Blei-Isotopenverhältnisse von
@@ -240,12 +266,24 @@
 -   De Launay, M. L., 1894, Les Minerais dArgent de Milo, Annales des
     Mines, 9ième Série(VI), 345–53.
 
+-   Degryse, P., Schneider, J., Lauwers, V., Waelkens, M., and Muchez,
+    P., 2009, Radiogenic isotopes in the provenance determination of raw
+    materials. A case of lead and glass recycling at Sagalassos (SW
+    Turkey), Journal of Nordic Archaeological Science – JONAS, 16,
+    15–24.
+    DOI:<a href="https://doi.org/10.65612/jonas.v16i.64360" target="_blank">10.65612/jonas.v16i.64360</a>
+
 -   Deleon, G., 1968, Primena metoda nuklearne geologije u odredivanju
     apsolutne starosti stena na teritoriji SR Makedonije, PhD thesis,
     University of Belgrade, Belgrade.
 
 -   Doe, B. R., and Rohrbough, R., 1977, Lead isotope data bank: 3,459
-    samples and analyses cited, Open-File Report.
+    samples and analyses cited, Open-File Report 79-661, U.S. Geological
+    Survey.
+
+-   Doe, B. R., and Rohrbough, R., 1977, Lead isotope data bank: 3,459
+    samples and analyses cited, Open-File Report 79-661, U.S. Geological
+    Survey.
     DOI:<a href="https://doi.org/10.3133/ofr79661" target="_blank">10.3133/ofr79661</a>
 
 -   Duane, M. J., Kruger, F. J., Roberts, P. J., and Smith, C. B., 1991,
@@ -311,6 +349,13 @@
     Thasos (eds. G. A. Wagner, and G. Weisgerber), Vol. 6, 212–23, Der
     Anschnitt Beiheft, Deutsches Bergbau-Museum Bochum, Bochum.
 
+-   Gale, N. H., Spooner, E. T. C., and Potts, P. J., 1981, The lead and
+    strontium isotope geochemistry of metalliferous sediments associated
+    with the Upper Cretaceous ophiolitic rocks in Cyprus, Syria and the
+    Sultanate of Oman, Canadian Journal of Earth Sciences, 18(8),
+    1290–302.
+    DOI:<a href="https://doi.org/10.1139/e81-119" target="_blank">10.1139/e81-119</a>
+
 -   Gale, N. H., Stos-Gale, Z. A., Bachmann, H. G., Rothenberg, B., and
     Tylecote, R. F., 1990, The Adventitious Production of Iron in the
     Smelting of Copper, In Researches in the Arabah, 1959-1984. Vol. 2,
@@ -324,6 +369,10 @@
     Bulgaria, In Decouverte du Metal (eds. J. Mohen, and C. Eluere),
     Vol. 2, 49–75, Millénaires, Picard, Paris.
 
+-   Gale, N. H., Stos-Gale, Z. A., Maliotis, G., and Annetts, N., 1997,
+    Lead isotope data from the Isotrace Laboratory, Oxford: Archaeomtry
+    Data Base 4, Ores from Cyprus, Archaeometry, 39,1, 237–46.
+
 -   Gale, N. H., Stos-Gale, Z. A., Papastamataki, A., and Leonis, K.,
     1985, Copper Sources and Copper Metallurgy in the Aegean Bronze Age,
     In Furnaces and smelting technology in antiquity. Proceedings of the
@@ -334,6 +383,16 @@
 -   Gale, N. H., and Stos-Gale, Z. A., 1981, Cycladic Lead and Silver
     Metallurgy, The Annual of the British School at Athens, 76, 169–224.
     DOI:<a href="https://doi.org/10.1017/S0068245400019523" target="_blank">10.1017/S0068245400019523</a>
+
+-   Gale, N. H., and Stos-Gale, Z. A., 1981, Lead and Silver in the
+    Ancient Aegean, Scientific American, 244(6), 176–93.
+
+-   Gale, N. H., and Stos-Gale, Z. A., 1982, Bronze Age Copper Sources
+    in the Mediterranean: A New Approach, Science, 216(4541), 11–9.
+
+-   Gale, N. H., and Stos-Gale, Z. A., 1982, Bronze Age Copper Sources
+    in the Mediterranean: A New Approach, Science, 216(4541), 11–9.
+    DOI:<a href="https://doi.org/10.1126/science.216.4541.11" target="_blank">10.1126/science.216.4541.11</a>
 
 -   Gale, N. H., and Stos-Gale, Z. A., 1985, Cyprus and the Bronze Age
     Metals Trade, In Proceedings of the Second International Congress of
@@ -380,6 +439,12 @@
     (Democratic Republic of Congo), Mineralium Deposita, 45(4), 393–410.
     DOI:<a href="https://doi.org/10.1007/s00126-010-0279-6" target="_blank">10.1007/s00126-010-0279-6</a>
 
+-   Hamelin, B., Dupré, B., Brevart, O., and Allegre, C. J., 1988,
+    Metallogenesis at paleo-spreading centers: Lead isotopes in
+    sulfides, rocks and sediments from the Troodos ophiolite (Cyprus),
+    Chemical Geology, 68(3–4), 229–38.
+    DOI:<a href="https://doi.org/10.1016/0009-2541(88)90023-X" target="_blank">10.1016/0009-2541(88)90023-X</a>
+
 -   Harlavan, Y., Bar-Matthews, M., Matthews, A., Asael, D., and Segal,
     I., 2017, Tracing the sources of sedimentary Cu and Mn ores in the
     Cambrian Timna Formation, Israel using Pb and Sr isotopes, Journal
@@ -404,6 +469,19 @@
     Objects from Arad: Their Composition and Provenance, Bulletin of the
     American Schools of Oriental Research, 314, 1–17.
     DOI:<a href="https://doi.org/10.2307/1357449" target="_blank">10.2307/1357449</a>
+
+-   Hauptmann, A., Schmitt-Strecker, S., Begemann, F., and Palmieri, A.,
+    2002, Chemical Composition and Lead Isotopy of Metal Objects from
+    the “Royal” Tomb and Other Related Finds at Arslantepe, Eastern
+    Anatolia, Paléorient, 28(2), 43–69.
+    DOI:<a href="https://doi.org/10.3406/paleo.2002.4745" target="_blank">10.3406/paleo.2002.4745</a>
+
+-   Hirao, Y., Enemoto, J., and Tachikawa, H., 1995, Lead Isotope Ratios
+    of Copper, Zinc and Lead Minerals in Turkey – in Relation to the
+    Provenance Study of Artefacts, In Essays on Ancient Anatolia and its
+    Surrounding Civilizations (eds. T. Mikasa, and H. I. H. Prince),
+    Vol. 8, 89–114, Bulletin of the Middle Eastern Culture Center in
+    Japan, Otto Harrassowitz, Wiesbaden.
 
 -   Hoeppner, B., Bartelheim, M., Huijsmans, M., Krauss, R.,
     Martinek, K. ‐P., Pernicka, E., and Schwab, R., 2005, Prehistoric
@@ -444,6 +522,13 @@
     istraživanjima Pb-Zn u rudnom polju Blagodat, FSD Republičkog
     društvenog fond za geol. istr., Belgrade.
 
+-   Kahya, A., Kuşcu, E., Cengiz, O., and Yıldız, M., 2019, S and Pb
+    Isotope Geochemistry of the carbonate-hosted Au-Ag-Zndeposits in the
+    Maden Village (Ulukışla-Niğde), Central Taurides, South Turkey,
+    Neuses Jahrbuch für Mineralogie Abhandlungen (Journal of Mineralogy
+    and Geochemistry), 196, 67–88.
+    DOI:<a href="https://doi.org/10.1127/njma/2019/0166" target="_blank">10.1127/njma/2019/0166</a>
+
 -   Kalogeropoulos, S. I., Kilias, S. P., Bitzios, D. C., Nicolaou, M.,
     and Both, R. A., 1989, Genesis of the Olympias carbonate-hosted
     Pb-Zn (Au, Ag) sulfide ore deposit, eastern Chalkidiki Peninsula,
@@ -474,6 +559,11 @@
     318–31.
     DOI:<a href="https://doi.org/10.2113/gsecongeo.69.3.318" target="_blank">10.2113/gsecongeo.69.3.318</a>
 
+-   Koptagel, O., Ulusoy, U., and Fallick, A. E., 2007, Sulfur and Lead
+    Isotope Investigations of the CarbonateHosted Pb-Zn Deposits in the
+    Yahyal› Region, Kayseri, Southern Turkey, Turkish Journal of Earth
+    Sciences, 16, 57–76.
+
 -   Kouzmanov, K., Moritz, R., Von Quadt, A., Chiaradia, M., Peytcheva,
     I., Fontignie, D., Ramboz, C., and Bogdanov, K., 2009, Late
     Cretaceous porphyry Cu and epithermal Cu-Au association in the
@@ -491,6 +581,9 @@
     1979, The results of the investigation of S, O, C and Pb isotopic
     composition in some ore deposits and occurrences in Bosnia and
     Herzegovina, Geološki Glasnik, 24/25, 61–84.
+
+-   Kuovo, O., 1976, Data reported in: Lead Isotope Data Book, United
+    States Geological Survey Open-File Report: 77-78.
 
 -   Köppel, V., 1980, Lead-isotope studies of stratiform ore deposits of
     the Namaqualand, NW Cape Province, South Africa, and their
@@ -691,6 +784,12 @@
     12(1), 40.
     DOI:<a href="https://doi.org/10.1186/s40494-024-01151-2" target="_blank">10.1186/s40494-024-01151-2</a>
 
+-   Renzi, M., Georgakopoulou, M., Peege, C., Fasnacht, W., and Rehren,
+    T., 2018, 6. Technology of Copper Smelting at Agia Varvara-Almyras,
+    In Agia Varvara-Almyras. An Iron Age copper smelting site in Cyprus
+    (eds. C. Peege, P. Della Casa, and W. Fasnacht), 269–94,
+    Archaeopress, Oxford.
+
 -   Richards, J. P., Cumming, G. L., Krstic, D., Wagner, P. A., and
     Spooner, E. T. C., 1988, Pb isotope constraints on the age of
     sulfide ore deposition and U-Pb age of late uraninite veining at the
@@ -716,6 +815,26 @@
     Economic Geology, 71(1), 44–57.
     DOI:<a href="https://doi.org/10.2113/gsecongeo.71.1.44" target="_blank">10.2113/gsecongeo.71.1.44</a>
 
+-   Sayre, E. V., Joel, E. C., Blackman, M. J., Yener, K. A., and Özbal,
+    H., 2001, Stable Lead Isotope Studies of Black Sea Anatolian Ore
+    Sources and Related Bronze Age and Phrygian Artefacts from Nearby
+    Archaeological Sites. Appendix: New Central Taurus Ore Data,
+    Archaeometry, 43(1), 77–115.
+    <https://doi.org/10.1111/1475-4754.00006>
+
+-   Sayre, E. V., Joel, E. C., Blackman, M. J., Yener, K. A., and Özbal,
+    H., 2001, Stable Lead Isotope Studies of Black Sea Anatolian Ore
+    Sources and Related Bronze Age and Phrygian Artefacts from Nearby
+    Archaeological Sites. Appendix: New Central Taurus Ore Data,
+    Archaeometry, 43(1), 77–115.
+    <https://doi.org/10.1111/1475-4754.00006>
+    DOI:<a href="https://doi.org/10.1111/1475-4754.00006" target="_blank">10.1111/1475-4754.00006</a>
+
+-   Sayre, E., Yener, K., Joel, E., and Barnes, I., 1992, Statistical
+    Evaluation of the Presently Accumulated Lead Isotope Data from
+    Anatolia and Surrounding Regions, Archaeometry, 34(1), 73–105.
+    DOI:<a href="https://doi.org/10.1111/j.1475-4754.1992.tb00479.x" target="_blank">10.1111/j.1475-4754.1992.tb00479.x</a>
+
 -   Schneider, J., 1998, Die Herkunft des Siegerländer Münzsilbers, In
     Der Altenberg. Bergwerk und Siedlung aus dem 13. Jahrhundert im
     Siegerland (eds. C. Dahm, U. Lobbedey, and G. Weisgerber), Vol. 2:
@@ -738,6 +857,12 @@
     Volcanic-hosted massive sulfide deposits in the Murchison greenstone
     belt, South Africa, Mineralium Deposita, 45(2), 113–45.
     DOI:<a href="https://doi.org/10.1007/s00126-009-0266-y" target="_blank">10.1007/s00126-009-0266-y</a>
+
+-   Seeliger, T. C., Pernicka, E., Wagner, G. A., Begemann, F.,
+    Schmitt-Strecker, S., Eibner, C., Wagner, G., Oztunali, O., and
+    Baranyi, I., 1985, Archäometallurgische Untersuchungen in Nord- und
+    Ostanatolien, Jahrbuch des Römisch-Germanischen Zentralmuseums
+    Mainz, 32, 597–659.
 
 -   Shafiei, B., 2010, Lead isotope signatures of the igneous rocks and
     porphyry copper deposits from the Kerman Cenozoic magmatic arc (SE
@@ -804,6 +929,12 @@
     applied to provenance studies of copper oxhide ingots, Archaeometry,
     39(1), 83–123.
     DOI:<a href="https://doi.org/10.1111/j.1475-4754.1997.tb00792.x" target="_blank">10.1111/j.1475-4754.1997.tb00792.x</a>
+
+-   Stos-Gale, Z. A., Maliotis, G., and Gale, N. H., 1998, A preliminary
+    survey of the Cypriot slag heaps and their contribution to the
+    reconstruction of copper production on Cyprus, In Metallurgica
+    Antiqua (eds. T. Rehren, A. Hauptmann, and J. D. Muhly), Vol. 8,
+    235–62, Der Anschnitt, Beiheft, Deutsches Bergbau-Museum, Bochum.
 
 -   Stos-Gale, Z. A., and Gale, N. H., 1981, Sources of galena, lead and
     silver in predynastic Egypt, Revue dArchéometrie, Supplement (Actes
@@ -909,6 +1040,23 @@
     Zimbabwe, Canadian Journal of Earth Sciences, 33(7), 981–92.
     DOI:<a href="https://doi.org/10.1139/e96-074" target="_blank">10.1139/e96-074</a>
 
+-   Wagner, G. A., Begemann, F., Eibner, C., Lutz, J., Öztunali, Ö.,
+    Baranyi, I., Begemann, F., and Schmitt-Strecker, S., 1989,
+    Archäometallurgische Untersuchungen an Rohstoffquellen des frühen
+    Kupfers Ostanatoliens, Jahrbuch des Römisch-Germanischen
+    Zentralmuseums Mainz, 36, 637–86.
+
+-   Wagner, G. A., Pernicka, E., Seeliger, T. C., Lorenz, F., Begemann,
+    F., Schmitt-Strecker, S., Eibner, C., and Öztunali, Ö., 1986,
+    Geochemische und isotopische Charakteristika früher Rohstoffquellen
+    für Kupfer, Blei, Silber und Gold in der Türkei, Jahrbuch des
+    Römisch-Germanischen Zentralmuseums Mainz, 33, 723–52.
+
+-   Wagner, G. A., Pernicka, E., Seeliger, T. C., Oztunali, O., Baranyi,
+    I., Begemann, F., and Schmitt-Strecker, S., 1985, Geologische
+    Untersuchungen zur frühen Metallurgie in NW-Anatolien, Bulletin of
+    the Mineral Research and Exploration, 101/102, 45–81.
+
 -   Wagner, G. A., Pernicka, E., Seeliger, T. C., Ötzunali, Ö., Baranyi,
     I., Begemann, F., and Schmitt-Strecker, S., 1985, Geologische
     Untersuchungen zur frühen Metallurgie in NW- Anatolien., Bull. of
@@ -917,6 +1065,12 @@
 -   Wagner, G. A., Pernicka, E., Vavelidis, M., Baranyi, I., and
     Bassiakos, I., 1986, Archäometallurgische Untersuchungen auf
     Chalkidiki, Der Anschnitt, 38(5–6), 166–86.
+
+-   Wagner, G. A., Wagner, I., Öztunali, Ö., Schmitt-Strecker, S., and
+    Begemann, F., 2003, Archäometallurgischer Bericht über Feldforschung
+    in Anatolien und bleiisotopische Studien an Erzen und Schlacken, In
+    Man and Mining – Mensch und Bergbau, Vol. 16, 475–94, Der Anschnitt,
+    Beiheft, Deutsches Bergbau-Museum Bochum, Bochum.
 
 -   Wagner, T., and Schneider, J., 2002, Lead isotope systematics of
     vein-type antimony mineralization, Rheinisches Schiefergebirge,
@@ -953,6 +1107,24 @@
     366–367, 105559.
     DOI:<a href="https://doi.org/10.1016/j.lithos.2020.105559" target="_blank">10.1016/j.lithos.2020.105559</a>
 
+-   Yalçin, Ü., and Maass, A., 2013, Prähistorische Kupfergewinnung in
+    Derekutugun, Anatolien, In Anatolian Metal VI (ed. Ü. Yalçın),
+    153–94, Der Anschnitt Beiheft 25, Deutsches Bergbau-Museum Bochum,
+    Bochum.
+
+-   Yener, K. A., Sayre, E. V., Joel, E. C., Özbal, H., Barnes, I. L.,
+    and Brill, R. H., 1991, Stable lead isotope studies of central
+    taurus ore sources and related artifacts from eastern mediterranean
+    chalcolithic and bronze age sites, Journal of Archaeological
+    Science, 18(5), 541–77.
+
+-   Yener, K. A., Sayre, E. V., Joel, E. C., Özbal, H., Barnes, I. L.,
+    and Brill, R. H., 1991, Stable lead isotope studies of central
+    taurus ore sources and related artifacts from eastern mediterranean
+    chalcolithic and bronze age sites, Journal of Archaeological
+    Science, 18(5), 541–77.
+    DOI:<a href="https://doi.org/10.1016/0305-4403(91)90053-R" target="_blank">10.1016/0305-4403(91)90053-R</a>
+
 -   Zentelli, M., Doe, B., Hedge, C., Alvarez, O., Tidy, E., and Daroca,
     J., 1988, Isotopos de plomo en yacimientos de tipo pòrfido cuprífero
     comparados con otros depósitos metalíferos en los Andes del norte de
@@ -968,3 +1140,21 @@
     Zwicker, N. Gale, and Z. Gale), Vol. 7, 59–146, Commentationes de
     Nummis Saeculorum IX-XI in Suecia Repertis Nova Series, The Royal
     Swedish Academy of Letters, History and Antiquities, Stockholm.
+
+-   Çevrim, M., 1984, Die Zink-Blei-Vererzungen des Aladağ-Gebietes /
+    Türkei mit Betrachtungen zur Paläokarstentwicklung, PhD thesis,
+    Rheinisch-Westfälisch Technische Hochschule, Aachen, Aachen.
+
+-   Özen, Y., and Arık, F., 2015, S, O and Pb isotopic evidence on the
+    origin of the İnkaya (Simav-Kütahya) Cu–Pb–Zn–(Ag) Prospect, NW
+    Turkey, Ore Geology Reviews, 70, 262–80.
+    DOI:<a href="https://doi.org/10.1016/j.oregeorev.2015.04.001" target="_blank">10.1016/j.oregeorev.2015.04.001</a>
+
+-   Ünal-Çakir, E., and Gökce, A., 2018, Sulfur and Lead Isotopic
+    Compositions of the Akgüney (Ordu) Cu-Pb-Zn Deposit in the Black Sea
+    Region, Turkey, Yerbilimleri, 39(2), 131–40.
+
+-   Ünal-Çakır, E., 2020, Sulphur and lead isotope geochemistry of the
+    Dursunbey (Balıkesir) lead–zinc deposit, Journal of African Earth
+    Sciences, 172, 104003.
+    DOI:<a href="https://doi.org/10.1016/j.jafrearsci.2020.104003" target="_blank">10.1016/j.jafrearsci.2020.104003</a>

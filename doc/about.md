@@ -50,7 +50,7 @@ This licence allows you to:
 provided you attribute the GlobaLID Core Team as the source of the
 copyright material. The GlobaLID Core Team requests attribution as:  
 “GlobaLID Core Team (2021): GlobaLID web application V. 1.1, database
-status: 26 April 2026.
+status: 22 May 2026.
 <a href="https://globalid.dmt-lb.de/" target="_blank">https://globalid.dmt-lb.de/</a>.
 
 </details>
@@ -65,7 +65,7 @@ Please attribute to GlobaLID by citing:
     (Version 08/2025). GFZ Data Services.
     <a href="https://doi.org/10.5880/fidgeo.2025.080" target="_blank">https://doi.org/10.5880/fidgeo.2025.080</a>
 -   GlobaLID Core Team (2025): GlobaLID web application V. 1.1, database
-    status: 2026-04-26.
+    status: 2026-05-22.
     <a href="https://globalid.dmt-lb.de/" target="_blank">https://globalid.dmt-lb.de/</a>
 -   Klein, S., Rose, T., Westner, K. J., & Hsu, Y.-K. (2022). From
     OXALID to GlobaLID: Introducing a modern and FAIR lead isotope
@@ -91,7 +91,7 @@ bibtex
     @misc{GlobaLIDCoreTeam.2025,
      author = {{GlobaLID Core Team}},
      year = {2025},
-     title = {{GlobaLID web application V. 1.1, database status: 2026-04-26}},
+     title = {{GlobaLID web application V. 1.1, database status: 2026-05-22}},
      url = {https://globalid.dmt-lb.de/}
     }
 
@@ -132,7 +132,7 @@ ris
     TY  - COMP
     AU  - GlobaLID Core Team
     TI  - GlobaLID web application
-    ET  - V. 1.1, database status: 2026-04-26
+    ET  - V. 1.1, database status: 2026-05-22
     PY  - 2025
     DA  - 2025
     UR  - https://globalid.dmt-lb.de/
