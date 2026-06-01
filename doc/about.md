@@ -42,15 +42,14 @@ Show details
 
 This licence allows you to:
 
--   **Share** — copy and redistribute the material in any medium or
-    format
--   **Adapt** — remix, transform, and build upon the material
--   for any purpose, even commercially
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material
+- for any purpose, even commercially
 
 provided you attribute the GlobaLID Core Team as the source of the
 copyright material. The GlobaLID Core Team requests attribution as:  
 “GlobaLID Core Team (2021): GlobaLID web application V. 1.1, database
-status: 22 May 2026.
+status: 31 May 2026.
 <a href="https://globalid.dmt-lb.de/" target="_blank">https://globalid.dmt-lb.de/</a>.
 
 </details>
@@ -59,19 +58,18 @@ status: 22 May 2026.
 
 Please attribute to GlobaLID by citing:
 
--   Westner, Katrin J.; Rose, Thomas; Klein, Sabine; Hsu, Yiu-Kang;
-    Becerra, María Florencia; Nezafati, Nima; Renson, Virginie &
-    Stephens, Jay (2023): GlobaLID – Global Lead Isotope Database
-    (Version 08/2025). GFZ Data Services.
-    <a href="https://doi.org/10.5880/fidgeo.2025.080" target="_blank">https://doi.org/10.5880/fidgeo.2025.080</a>
--   GlobaLID Core Team (2025): GlobaLID web application V. 1.1, database
-    status: 2026-05-22.
-    <a href="https://globalid.dmt-lb.de/" target="_blank">https://globalid.dmt-lb.de/</a>
--   Klein, S., Rose, T., Westner, K. J., & Hsu, Y.-K. (2022). From
-    OXALID to GlobaLID: Introducing a modern and FAIR lead isotope
-    database with an interactive application. Archaeometry 64(4),
-    935–950.
-    <a href="https://doi.org/10.1111/arcm.12762" target="_blank">https://doi.org/10.1111/arcm.12762</a>
+- Westner, Katrin J.; Rose, Thomas; Klein, Sabine; Hsu, Yiu-Kang;
+  Becerra, María Florencia; Nezafati, Nima; Renson, Virginie & Stephens,
+  Jay (2023): GlobaLID – Global Lead Isotope Database (Version 08/2025).
+  GFZ Data Services.
+  <a href="https://doi.org/10.5880/fidgeo.2025.080" target="_blank">https://doi.org/10.5880/fidgeo.2025.080</a>
+- GlobaLID Core Team (2025): GlobaLID web application V. 1.1, database
+  status: 2026-05-31.
+  <a href="https://globalid.dmt-lb.de/" target="_blank">https://globalid.dmt-lb.de/</a>
+- Klein, S., Rose, T., Westner, K. J., & Hsu, Y.-K. (2022). From OXALID
+  to GlobaLID: Introducing a modern and FAIR lead isotope database with
+  an interactive application. Archaeometry 64(4), 935–950.
+  <a href="https://doi.org/10.1111/arcm.12762" target="_blank">https://doi.org/10.1111/arcm.12762</a>
 
 For direct import into your reference manager copy the citations as
 <details>
@@ -91,7 +89,7 @@ bibtex
     @misc{GlobaLIDCoreTeam.2025,
      author = {{GlobaLID Core Team}},
      year = {2025},
-     title = {{GlobaLID web application V. 1.1, database status: 2026-05-22}},
+     title = {{GlobaLID web application V. 1.1, database status: 2026-05-31}},
      url = {https://globalid.dmt-lb.de/}
     }
 
@@ -132,7 +130,7 @@ ris
     TY  - COMP
     AU  - GlobaLID Core Team
     TI  - GlobaLID web application
-    ET  - V. 1.1, database status: 2026-05-22
+    ET  - V. 1.1, database status: 2026-05-31
     PY  - 2025
     DA  - 2025
     UR  - https://globalid.dmt-lb.de/
@@ -220,43 +218,43 @@ enormous help during the development of the app.
 The following packages are used in the app and/or for work on the
 database:
 
--   <a href="https://rinterface.github.io/bs4Dash/"
-    target="_blank">bs4Dash</a>
--   <a href="https://dplyr.tidyverse.org/" target="_blank">dplyr</a>
--   <a href="https://rstudio.github.io/DT/" target="_blank">DT</a>
--   <a href="https://ggplot2.tidyverse.org/" target="_blank">ggplot2</a>
--   <a href="https://haozhu233.github.io/kableExtra/"
-    target="_blank">kableExtra</a>
--   <a href="https://yihui.org/knitr/" target="_blank">knitr</a>
--   <a href="https://cran.r-project.org/web/packages/ks/"
-    target="_blank">ks</a>
--   <a href="https://rstudio.github.io/leaflet/" target="_blank">leaflet</a>
--   <a href="https://github.com/rstudio/leaflet.providers"
-    target="_blank">leaflet.providers</a>
--   <a href="https://github.com/stefanedwards/lemon"
-    target="_blank">lemon</a>
--   <a href="https://plotly-r.com/" target="_blank">plotly</a>
--   <a href="https://cran.r-project.org/web/packages/RColorBrewer/"
-    target="_blank">RColorBrewer</a>
--   <a href="https://readr.tidyverse.org/" target="_blank">readr</a>
--   <a href="https://rmarkdown.rstudio.com/" target="_blank">rmarkdown</a>
--   <a href="https://cran.r-project.org/web/packages/rootSolve"
-    target="_blank">rootSolve</a>
--   <a href="https://cran.r-project.org/web/packages/sendmailR/"
-    target="_blank">sendmailR</a>
--   <a href="https://shiny.rstudio.com/" target="_blank">shiny</a>
--   <a href="https://rstudio.github.io/shinyvalidate/"
-    target="_blank">shinyvalidate</a>
--   <a href="https://stringr.tidyverse.org/" target="_blank">stringr</a>
--   <a href="https://github.com/jessecambon/tidygeocoder"
-    target="_blank">tidygeocoder</a>
--   <a href="https://tidyr.tidyverse.org/" target="_blank">tidyr</a>
--   <a href="https://sjmgarnier.github.io/viridisLite/"
-    target="_blank">viridisLite</a>
--   <a href="https://shiny.john-coene.com/waiter/"
-    target="_blank">waiter</a>
--   <a href="https://cran.r-project.org/web/packages/zip"
-    target="_blank">zip</a>
+- <a href="https://rinterface.github.io/bs4Dash/"
+  target="_blank">bs4Dash</a>
+- <a href="https://dplyr.tidyverse.org/" target="_blank">dplyr</a>
+- <a href="https://rstudio.github.io/DT/" target="_blank">DT</a>
+- <a href="https://ggplot2.tidyverse.org/" target="_blank">ggplot2</a>
+- <a href="https://haozhu233.github.io/kableExtra/"
+  target="_blank">kableExtra</a>
+- <a href="https://yihui.org/knitr/" target="_blank">knitr</a>
+- <a href="https://cran.r-project.org/web/packages/ks/"
+  target="_blank">ks</a>
+- <a href="https://rstudio.github.io/leaflet/" target="_blank">leaflet</a>
+- <a href="https://github.com/rstudio/leaflet.providers"
+  target="_blank">leaflet.providers</a>
+- <a href="https://github.com/stefanedwards/lemon"
+  target="_blank">lemon</a>
+- <a href="https://plotly-r.com/" target="_blank">plotly</a>
+- <a href="https://cran.r-project.org/web/packages/RColorBrewer/"
+  target="_blank">RColorBrewer</a>
+- <a href="https://readr.tidyverse.org/" target="_blank">readr</a>
+- <a href="https://rmarkdown.rstudio.com/" target="_blank">rmarkdown</a>
+- <a href="https://cran.r-project.org/web/packages/rootSolve"
+  target="_blank">rootSolve</a>
+- <a href="https://cran.r-project.org/web/packages/sendmailR/"
+  target="_blank">sendmailR</a>
+- <a href="https://shiny.rstudio.com/" target="_blank">shiny</a>
+- <a href="https://rstudio.github.io/shinyvalidate/"
+  target="_blank">shinyvalidate</a>
+- <a href="https://stringr.tidyverse.org/" target="_blank">stringr</a>
+- <a href="https://github.com/jessecambon/tidygeocoder"
+  target="_blank">tidygeocoder</a>
+- <a href="https://tidyr.tidyverse.org/" target="_blank">tidyr</a>
+- <a href="https://sjmgarnier.github.io/viridisLite/"
+  target="_blank">viridisLite</a>
+- <a href="https://shiny.john-coene.com/waiter/"
+  target="_blank">waiter</a>
+- <a href="https://cran.r-project.org/web/packages/zip"
+  target="_blank">zip</a>
 
 The implementation of the hCaptcha is a modified version of
 <a href="https://github.com/carlganz/shinyCAPTCHA"

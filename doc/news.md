@@ -1,5 +1,8 @@
 ## News
 
+2026-05-31 – Additional data from Turkey (contributor: B. Cordivari).
+The database now includes 6265 entries.
+
 2026-05-22 – Additional data from Turkey and Cyprus (contributor: B.
 Cordivari). The database now includes 6255 entries.
 
@@ -67,17 +70,17 @@ description of the database</a> for how they are defined.
 
 2023-06-18 – Additional data from
 
--   Germany (contributor: S. Fischer-Lechner, T. Rose)
--   Sub-Sahara Africa (contributor: J. Stephens)
+- Germany (contributor: S. Fischer-Lechner, T. Rose)
+- Sub-Sahara Africa (contributor: J. Stephens)
 
 The database now includes 4046 entries.
 
 2023-06-04 – Additional data from
 
--   Germany, Czechia (contributor: S. Fischer-Lechner, T. Rose)
--   Greece (contributor: K. J. Westner, M. Vaxevanopoulos)
--   Bosnia and Herzegovina, Bulgaria, Kosovo, Montenegro, North
-    Macedonia, Serbia (contributor: K. J. Westner).
+- Germany, Czechia (contributor: S. Fischer-Lechner, T. Rose)
+- Greece (contributor: K. J. Westner, M. Vaxevanopoulos)
+- Bosnia and Herzegovina, Bulgaria, Kosovo, Montenegro, North Macedonia,
+  Serbia (contributor: K. J. Westner).
 
 The database now includes 3245 entries.
 
