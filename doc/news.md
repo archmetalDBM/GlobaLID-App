@@ -1,5 +1,8 @@
 ## News
 
+2026-05-31 – Corrections on data from Mitterberg (Austria) (contributor:
+K. J. Westner).
+
 2026-05-31 – Additional data from Turkey (contributor: B. Cordivari).
 The database now includes 6265 entries.
 
