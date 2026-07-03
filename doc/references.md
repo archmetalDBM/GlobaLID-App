@@ -105,6 +105,13 @@
   Mesopotamiens, Iranica Antiqua, 44, 1–45.
   DOI:<a href="https://doi.org/10.2143/IA.44.0.2034374" target="_blank">10.2143/IA.44.0.2034374</a>
 
+- Berger, D., Brügmann, G., Friedrich, R., Lutz, J., Meyer, H.-P., and
+  Pernicka, E., 2022, Shiny bronze in glassy matter: an inconspicuous
+  piece of slag from the Bronze Age mining site of Mušiston (Tajikistan)
+  and its significance for the development of tin metallurgy in Central
+  Asia, Archaeological and Anthropological Sciences, 14(8), 150.
+  DOI:<a href="https://doi.org/10.1007/s12520-022-01606-2" target="_blank">10.1007/s12520-022-01606-2</a>
+
 - Bird, G., Brewer, P. A., Macklin, M. G., Nikolova, M., Kotsev, T.,
   Mollov, M., and Swain, C., 2010, Pb isotope evidence for
   contaminant-metal dispersal in an international river system: The
@@ -523,6 +530,11 @@
   within the Serbo-Macedonian metallogenic province (Yugoslavia)\],
   Geoloski Anali Balkanskog Poluostrva, 42, 507–25.
 
+- Jansen, M., 2019, Geochemie und Archäometallurgie des Goldes der
+  Bronzezeit in Vorderasien, Doctoral thesis, Ruhr-Universität Bochum,
+  Universitätsbibliothek.
+  DOI:<a href="https://doi.org/10.13154/294-6686" target="_blank">10.13154/294-6686</a>
+
 - Jović, B., 1983, Godišnji izveštaji o izvršenim geološkim
   istraživanjima Pb-Zn u rudnom polju Blagodat, FSD Republičkog
   društvenog fond za geol. istr., Belgrade.
@@ -533,6 +545,12 @@
   Jahrbuch für Mineralogie Abhandlungen (Journal of Mineralogy and
   Geochemistry), 196, 67–88.
   DOI:<a href="https://doi.org/10.1127/njma/2019/0166" target="_blank">10.1127/njma/2019/0166</a>
+
+- Kaigorodova, E. N., Chugaev, A. V., Lebedev, V. A., Sadasyuk, A. S.,
+  Gareev, B. I., and Batalin, G. A., 2022, The Raduzhnoe Au–Sulfide
+  Deposit (Northern Caucasus): Geological Settings, Mineralogy, and
+  Sources of Metals, Geology of Ore Deposits, 64(5), 257–80.
+  DOI:<a href="https://doi.org/10.1134/S1075701522040031" target="_blank">10.1134/S1075701522040031</a>
 
 - Kalogeropoulos, S. I., Kilias, S. P., Bitzios, D. C., Nicolaou, M.,
   and Both, R. A., 1989, Genesis of the Olympias carbonate-hosted Pb-Zn
@@ -616,6 +634,18 @@
   Sauerland, Germany, Mineralium Deposita, 18, 235–43.
   DOI:<a href="https://doi.org/10.1007/BF00206211" target="_blank">10.1007/BF00206211</a>
 
+- Lebedev, V. A., Chugaev, A. V., Vashakidze, G. T., and Parfenov, A.
+  V., 2016, Formation stages and ore matter sources of the Devdoraki
+  copper deposit, Kazbek volcanic center, the Greater Caucasus, Geology
+  of Ore Deposits, 58(6), 465–84.
+  DOI:<a href="https://doi.org/10.1134/S1075701516060040" target="_blank">10.1134/S1075701516060040</a>
+
+- Lebedev, V. A., Chugaev, A. V., and Parfenov, A. V., 2018, Age and Ore
+  Matter Sources of Au-Sulfide Mineralization of the Tanadon Deposit,
+  Republic of North Ossetia–Alania, Greater Caucasus, Geology of Ore
+  Deposits, 60(4), 328–46.
+  DOI:<a href="https://doi.org/10.1134/S1075701518030042" target="_blank">10.1134/S1075701518030042</a>
+
 - Leveque, J., and Haack, U., 1993, Pb isotopes of hydrothermal ores in
   the Harz, In Formation of hydrothermal vein deposits: A case study of
   the Pb-Zn, barite and flourite deposits of the Harz Mountains (eds. P.
@@ -670,6 +700,21 @@
   chemical evolution of large layered intrusions, Geochimica et
   Cosmochimica Acta, 67(10), 1875–88.
   DOI:<a href="https://doi.org/10.1016/S0016-7037(02)01294-2" target="_blank">10.1016/S0016-7037(02)01294-2</a>
+
+- Mederer, J., Moritza, R., Chiaradiaa, M., Spikings, R., Selby, D., and
+  Spangenberg, J. E., 2019, Ore formation during Jurassic subduction of
+  the Tethys along the Eurasian margin: Constraints from the Kapan
+  district, Lesser Caucasus, southern Armenia, Economic Geology and the
+  Bulletin of the Society of Economic Geologists, 114(7).
+  DOI:<a href="https://doi.org/10.5382/econgeo.4640" target="_blank">10.5382/econgeo.4640</a>
+
+- Meliksetyan, C., and Pernicka, E., 2010, Geochemical characterisation
+  of Armenian Early Bronze Age metal artefacts and their relation to
+  copper ores, In Von Majkop bis Trialeti: Gewinnung und Verbreitung von
+  Metallen und Obsidian in Kaukasien im 4. - 2. Jt. v. Chr. Beiträge des
+  Internationalen Symposiums in Berlin vom 1.-3. Juni 2006 (eds. S.
+  Hansen, A. Hauptmann, I. Motzenbäcker, and E. Pernicka), 41–58,
+  Habelt, Bonn.
 
 - Mirnejad, H., Simonetti, A., and Molasalehi, F., 2011, Pb isotopic
   compositions of some Zn–Pb deposits and occurrences from

@@ -1,5 +1,8 @@
 ## News
 
+2026-07-03 – Additional data from Caucasus region and Mushiston
+(contributor: B. Cordivari). The database now includes 6401 entries.
+
 2026-05-31 – Corrections on data from Mitterberg (Austria) (contributor:
 K. J. Westner).
 
